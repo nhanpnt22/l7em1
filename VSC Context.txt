@@ -1,0 +1,75 @@
+VSC Company
+Executive Summary
+As General Director of Vietnam Subsidiary Company (VSC), I am pleased to present this comprehensive proposal for enhancing our human resource practices, leadership approach, and management systems. This proposal addresses critical challenges facing our organization while leveraging contemporary HR theories and evidence-based practices to position VSC for sustainable growth and success in the competitive AI technology sector.
+Our primary objectives are to create a unified team culture that eliminates operational silos, implement flexible work arrangements to address commuting challenges, develop clear career progression pathways, establish robust performance management systems, and enhance cross-cultural communication between our Japanese headquarters and Vietnamese operations. These initiatives will not only improve employee satisfaction and retention but also strengthen our competitive position in both the Japanese and Vietnamese markets.
+1. Overview of the Subsidiary Company (VSC)
+1.1 Company Profile
+The Vietnam Subsidiary Company (VSC) is headquartered in Tokyo, Japan, with a significant presence in Ho Chi Minh City, Vietnam. VSC specializes in cutting-edge AI research and engineering, focusing on AI-enabled solutions for mobility, pose detection, behavior analysis, driving safety, semiconductor AI, robotics, and security applications.
+1.2 Team Composition
+VSC operates with a diverse team comprising over 20 professionals:
+* AI engineers
+* Project coordinators
+* Human resources personnel
+* General Director
+* AI test engineers
+* AI Researchers
+1.3 Core Technologies
+The company develops and implements advanced AI technologies, including:
+* Computer Vision: Utilizing deep learning to interpret and process visual data
+* Visual Simultaneous Localization and Mapping (SLAM): Enabling real-time mapping and localization for autonomous systems
+* 2D/3D Lane Detection: Employing sensor fusion techniques to accurately detect and interpret lane markings
+* Occupancy Grid Mapping: Creating real-time environmental maps for navigation and obstacle avoidance
+* Path Planning: Developing algorithms for efficient and safe navigation
+1.4 Market Focus and Solutions
+VSC actively supports the Japanese market with optimized AI solutions for:
+* Autonomous Mobility: Implementing advanced driver-assistance systems (ADAS) and autonomous driving technologies. For instance, Mobileye's EyeQ system-on-chip (SoC) utilizes a single camera sensor to provide features such as automatic emergency braking (AEB), adaptive cruise control (ACC), lane keeping assist (LKA), traffic jam assist (TJA), and forward collision warning (FCW). The fifth-generation EyeQ supports fully autonomous vehicles, with more than 27 automobile manufacturers utilizing EyeQ for their assisted-driving technologies.
+* AI-Powered Picking Systems: Leveraging pose detection and behavior analysis to enhance automation in logistics and manufacturing.
+* Driving Safety Enhancements: Developing in-cabin monitoring systems to detect driver distraction and drowsiness, thereby improving road safety.
+* Semiconductor Applications: Advancing AI integration within semiconductor manufacturing processes. The application of artificial intelligence in the semiconductor industry enhances efficiency and performance by optimizing chip production processes. For example, AI-driven predictive maintenance can reduce equipment downtime, and machine learning algorithms can improve yield rates by identifying defect patterns during manufacturing.
+1.5 Vietnamese Market (New entry)
+VSC develops AI cameras and security applications tailored for mid-sized households in Vietnam to prevent thefts and burglaries, thereby protecting residents and their properties. The Vietnamese security market is experiencing significant growth, driven by a rapid shift towards AI-powered security solutions. Customers are increasingly seeking advanced features like facial recognition and behavior analysis to enhance safety measures in residential settings.
+And then we will expand to SEA markets
+1.6 Strategic Role
+The company serves as a key technical bridge between Japan and Vietnam, fostering seamless collaboration between stakeholders and driving continuous innovation in AI research.
+1.7 Cross-Cultural Collaboration Challenges
+VSC faces several challenges in collaborating effectively with its headquarters and the Japanese market, primarily due to cultural and language differences:
+1.8 Cultural Differences:
+* Workplace Hierarchies: Japanese businesses often emphasize strict hierarchical structures, valuing seniority and formal decision-making processes. In contrast, Vietnamese companies may adopt more flexible hierarchies, potentially leading to misunderstandings regarding authority and decision-making protocols.
+* Communication Styles: Japanese culture typically favors indirect communication to maintain harmony and avoid confrontation, whereas Vietnamese professionals might employ more direct communication methods. This disparity can result in misinterpretations or perceived disrespect.
+* Approach to Punctuality: Punctuality is deeply ingrained in Japanese business culture, with expectations to arrive early for meetings. In Vietnam, while punctuality is important, there may be more leniency regarding strict adherence to schedules, potentially causing friction.
+1.9 Language Barriers:
+* Proficiency Levels: Differences in English proficiency or limited knowledge of each other's native languages can hinder clear communication, leading to misunderstandings and reduced collaboration efficiency.
+1.10 Management Practices:
+* Decision-Making Processes: Japanese companies often engage in a consensus-driven approach, requiring extensive consultation before reaching decisions. Vietnamese counterparts might prefer more expedited decision-making, leading to potential conflicts in project timelines and expectations.
+* Work-Life Balance: Japanese professionals are known for long working hours and a strong dedication to their companies, whereas Vietnamese employees may place higher importance on work-life balance, potentially causing differing expectations regarding availability and commitment.
+2. Current Background Issues
+2.1 Team Structure and Collaboration Challenges
+* Operations are fragmented with two teams working in silos rather than as an integrated unit
+* Critical workflow bottlenecks due to over-reliance on a "superstar" employee who has become central to most operations, or causes human conflicts, or mental health issues
+* Lack of unified team environment that would promote motivation, productivity, and engagement
+2.2 Work Environment and Commuting Challenges
+* Employees face severe commuting challenges in Ho Chi Minh City, often spending more than an hour each way in transit
+* Daily exposure to congested traffic, heat, and pollution negatively impacts mental health and depletes energy
+* Technical employees arrive mentally exhausted after difficult commutes, compromising their ability to focus on complex AI development tasks
+* Commuting costs create an additional financial burden on employees
+2.3 Market Competition and Retention Challenges
+* Rising popularity of remote and hybrid work models at competing companies increases attrition risk
+* Local tech startups actively recruiting with higher salary offers than VSC's current compensation structure
+* Company salary levels are only slightly above market average, making it difficult to compete purely on compensation
+* Lack of strategic approach to retain talent beyond monetary incentives
+2.4 Career Development and Performance Management Gaps
+* Undefined or unclear career advancement pathways for both technical and management tracks
+* Insufficient professional development opportunities that align with individual career aspirations
+* Limited English language proficiency creating barriers to advancement and global collaboration
+* Inadequate performance management systems with:
+o Lack of structured evaluation processes
+o Absence of regular feedback mechanisms
+o Performance metrics not aligned with career progression
+3. Strategic HR Priorities
+* Need for a comprehensive human resources strategy that addresses:
+o Employee well-being and work-life balance
+o Emotional engagement and company loyalty beyond compensation
+o Talent development aligned with both company needs and individual aspirations
+o Team cohesion and collaborative work environment
+These issues require strategic interventions to transform VSC into a more cohesive, motivated, and high-performing organization that can fully leverage its technical capabilities while supporting employee growth and satisfaction.
+

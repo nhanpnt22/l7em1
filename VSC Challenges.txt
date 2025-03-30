@@ -1,0 +1,27 @@
+Current Critical Challenges
+1. Talent management
+Current 2025 for talents for JP market (B2B), and then expand to Vietnam market need to balance and resource alllocation
+Vietnam Subsidiary Company (VSC) with 20+ headcount that its headquarters in Tokyo and faces urgent people management challenges threatening our AI technology competitiveness: 50% turnover rate (2024), siloed teams, interpersonal conflicts, cross-cultural collaboration barriers, lack of career progression and intense competition for AI talent in Ho Chi Minh City.
+
+Evidence-Based Approach
+itviec.com?s IT Market Report (2024), Research reveals organizations with similar challenges experience significantly higher AI engineer turnover (260%). Engineers leave due to micro-management (33%), lack of challenges (27%), siloed environments (27%), and limited growth opportunities (22%). They prioritize clear career paths, competitive compensation, and collaborative work cultures.
+
+CIPD reports, Industry solutions with proven effectiveness include implementing structured knowledge-sharing systems (42% improved retention), integrated talent strategies (33% higher retention rates), and matrix/agile organizational models (45% better cross-functional collaboration). Psychologically safe environments generate 37% more innovation while reducing turnover by 41%.
+
+
+Expected Outcomes
+Implementation will reduce turnover by 35%, increase innovation by 28%, and improve collaboration by 42%, generating 153% first-year ROI.
+References
+* Contemporary HRM, Leadership and Management Theories and Practices
+* itviec.com?s IT Market Report (2024)
+* CIPD Good Word Index Report 2024
+* CIPD Resource and Talent planning report 2024
+* CIPD Making Work Work report 2024
+
+2. New B2C Product for a new market (2025 - 2028)
+Challengages
+- Talent for Vietnam market both engineering, sales, support, customer service management almost new teams, new managers, new AI techs
+- Propose MVP (MVS), Gather early adaptors, top 10 first potential customers, PoC development, Go to Marketing strategy, to test market and funding raise
+- Data privacy
+- Potential competitors like FPT Camera AI, others
+
