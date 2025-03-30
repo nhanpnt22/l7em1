@@ -1,0 +1,1083 @@
+RESEARCH REPORT
+
+Moving Up the Digital
+Experience Maturity Curve
+
+Sponsored by
+
+SPONSOR PERSPECTIVE
+
+Jenna Elliot
+Vice President, Global Customer Success
+Amplitude
+
+Nearly every company today is in the digital experience
+business. Whether you’re selling software, savings
+accounts, or media content, your customers expect (or
+rather, demand) effortless, personalized interactions
+with your brand. Crafting unforgettable digital
+experiences is no longer a nice to have. Though
+businesses could get away with delivering disjointed
+experiences in decades past, most can’t afford to do so
+today—because customers will walk away.
+Organizations are eager for a clear path forward,
+especially when grappling with massive data volumes,
+fragmented data sources, fluctuating consumer
+demands, inconsistent metrics, and poor crossfunctional alignment. The problem is that delivering
+the right experience to the right person on the right
+channel at the right time at scale isn’t easy—and it takes
+more than good technology to design seamless and
+memorable experiences.
+If it were as easy as flipping the switch on a new shiny
+tool, more companies would be crushing the digital
+experience game. But the reality is that while some
+companies do digital experiences well, others struggle
+to keep pace.
+We believe the true path to building memorable digital
+experiences involves a proactive combination of:
+1) Strategy
+2) Organizational culture
+3) Operational processes
+4) Technology
+Together, these components create the foundation for
+digital experience maturity.
+
+This report uses survey data and interviews with
+subject-matter experts to explore businesses’
+opportunities to increase their maturity across these
+four key areas and create better, loyalty-building
+experiences. Through this report, you’ll discover:
+• What major companies are doing differently regarding
+strategy, culture, operations, and technology that sets
+them apart from the crowd
+• What’s holding organizations back
+• How these findings can help more companies mature
+their digital experiences
+Getting answers to these questions is more pressing
+than ever. Digitally mature companies consistently
+grow revenue more quickly than their less advanced
+counterparts. They create value for their customers by
+building first-class experiences across channels, and
+they empower their employees to analyze, experiment,
+and act on insights. These organizations prove that
+creating a self-serve, data-driven culture is not a pipe
+dream but a practical reality within your grasp.
+We hope this report’s insights set you on a journey of
+introspection, inspiration, and, most importantly, action.
+It’s time to stop guessing and start building digital
+experiences that matter.
+
+Moving Up the Digital Experience
+Maturity Curve
+
+In today’s fiercely competitive, digital-first world,
+delivering highly engaging and personalized digital
+experiences is more than strategy; it’s core to a
+company’s survival. By personalizing interactions
+and predicting customer needs, organizations
+can attract new prospects and retain high-value
+customer relationships.
+Just ask Nikhil Agrawal, an engineering manager at Quillbot, a provider of
+artificial intelligence (AI)-powered writing software in Chicago. A relatively
+new player in today’s $1.81 trillion global AI market, Quillbot has had success
+in building engaging digital experiences that keep customer needs in mind,
+and that has been “a competitive advantage” in a crowded landscape, he says.
+The pressure to attract and retain customers shows no signs of waning as
+technological advances heighten customer demands and global competition
+intensifies. In July 2024, Harvard Business Review Analytic Services surveyed
+503 members of the Harvard Business Review audience who are involved in
+decision making about digital experiences at their organization. Seventyeight percent of these respondents say evolving consumer expectations are
+driving their organization to create more engaging digital experiences, and 61%
+cite increased competition as an impetus for action. For the purposes of this
+survey, digital experiences are defined as the ways in which customers interact
+electronically with products and services, driven by data and actionable
+insights that help organizations improve engagement and satisfaction and
+achieve their business goals.
+But those interactions are hardly static. “A product feature that’s a surprise
+or a delight today becomes normal and expected by consumers over time,”
+says Dave Cherry, principal of Cherry Advisory LLC, a strategy consultancy in
+New Albany, Ohio. “We have this consumer population whose expectations are
+always increasing. What wowed them yesterday no longer wows them today.”
+To thrive in this changing landscape, organizations must achieve digital
+experience maturity, which involves four key areas: technological, operational,
+
+HIGHLIGHTS
+
+83% of respondents cite
+building engaging digital
+experiences as “very
+important.”
+
+78% of respondents
+say evolving consumer
+expectations are driving their
+organization to create more
+engaging digital experiences.
+
+32% of respondents say
+their organization is “very
+effective” at creating
+engaging digital experiences.
+
+Due to rounding, some figures in this report may not
+add up to 100%.
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+1
+
+Harvard Business Review Analytic Services
+
+gaining a clear picture of customer needs, organizations can
+better understand what draws customers and what makes
+them stick around. Fueled by these insights, they can make
+confident product decisions that sustain growth and drive
+profitability.
+Although 83% of respondents cite building engaging digital
+experiences as “very important,” many struggle to achieve this
+goal. In fact, only 32% of respondents say their organization is
+“very effective” at creating engaging digital experiences. For
+the purposes of this paper, these organizations are defined
+as leaders. Comparatively, 42% of respondents say their
+organization is “somewhat effective,” defined here as followers,
+and 26% say their organization is “not very effective,” defined
+here as laggards. FIGURE 1
+Failure to effectively create impactful digital experiences
+is a missed opportunity to gain a competitive edge. Case in
+point: 75% of leaders and 71% of followers cite enhanced
+customer engagement as a benefit they’ve realized to date
+from delivering engaging digital experiences, compared to 55%
+of laggards. Similarly, 70% of leaders cite improved customer
+satisfaction as a positive byproduct of delivering excellent
+digital experiences, whereas only 60% of followers and 61%
+of laggards report achieving the same result. Another benefit
+gained by leaders is sustainable business growth, cited by 54%
+of leaders, 37% of followers, and 24% of laggards.
+However, achieving these benefits requires insight into how
+to create compelling digital experiences that drive efficiency
+and sales. Fortunately, 71% of leaders have a clear vision of
+what is needed to create powerful digital experiences. Yet
+
+“A product feature that’s a surprise
+or a delight today becomes normal
+and expected by consumers over
+time. What wowed them yesterday
+no longer wows them today,” says
+Dave Cherry, principal of Cherry
+Advisory LLC.
+
+and organizational readiness, plus strategic alignment.
+Evolving in these areas is necessary for organizations to
+intimately know their customers—who they are, what features
+and services they like, where they encounter obstacles along
+their journey, and why they come back. Digital analytics can
+help organizations achieve digital experience maturity by
+delivering instantaneous customer insights that empower
+organizations to meet customers in the moment with the
+right experiences every single time, fostering greater loyalty
+and wallet share.
+But acquiring the maturity to deliver exceptional
+digital experiences requires overcoming technological,
+organizational, and operational obstacles. For starters,
+businesses today are drowning in disconnected data.
+Customer data often sits across multiple repositories, making
+it difficult to verify, access, or trust.
+Complicating matters, many teams are constrained by
+internal roadblocks as they look to leverage customer insights.
+Customer-related KPIs don’t always align across teams, and
+information and insight sharing can be extremely limited
+because of siloed data. Additionally, processes that support a
+customer-first approach are typically nascent or nonexistent,
+making it difficult to plan for and measure success.
+This report examines organizations’ readiness to create
+engaging digital experiences; uncovers the technological,
+organizational, and operational factors preventing
+organizations from achieving this goal; and highlights the
+best practices that can further organizations on their journey
+to greater digital experience maturity.
+
+FIGURE 1
+
+Is Your Organization a Digital Experience Leader,
+Follower, or Laggard?
+How effective is your organization at creating engaging digital experiences?
+On a scale of 0–10, where 0=not at all effective and 10=extremely effective.
+
+32%
+
+Leaders: “Very effective” (8–10)
+
+42%
+
+Followers: “Somewhat effective” (5–7)
+
+26%
+
+Laggards: “Not very effective” (0–4)
+
+Creating Digital Engagement
+The race is on to create impactful digital experiences that
+can convert audiences into lifetime customers. By analyzing
+behavioral data, identifying opportunities for conversion, and
+
+Base: 503 respondents
+Source: Harvard Business Review Analytic Services survey, July 2024
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+2
+
+Harvard Business Review Analytic Services
+
+More than half of respondents (55%) cite
+not using artificial intelligence and machine
+learning to understand or predict customer
+behavior as a barrier to achieving technology
+maturity for creating digital experiences.
+
+Driving Technological Readiness
+
+only 54% of followers and 21% of laggards make the same
+claim. More than half—51%—of overall respondents know
+what’s required to create impactful digital experiences. But
+it’s unlikely they all have a solid plan of execution.
+Four key pillars stand out for businesses as they build
+and sustain impactful digital experiences and accelerate
+growth. The first is technological readiness, defined by a solid
+data foundation and principles that drive data integration,
+accessibility, governance, trustworthiness, and security
+while leveraging tools that illuminate customer behavior
+and preferences and enable experimentation, personalization,
+and customer activation.
+The second pillar is organizational readiness, in which
+cross-functional teams are organized for success and
+seamlessly work together, sharing their learnings and insights
+across the entire customer life cycle to achieve continuous
+improvement, all while under the guidance of strong and
+dedicated leadership.
+The third pillar is operational readiness, where employees
+embrace fully integrated systems, automated workflows,
+processes, and tools to democratize insights, accelerate
+learning, and improve decision making.
+The fourth pillar is strategic alignment, in which a shared
+vision of success, cross-functional key performance indicators,
+and performance tracking strategies help deliver better digital
+experiences.
+Together, these pillars are powerful markers of an
+organization’s digital experience maturity and can help
+identify strengths and opportunities for improvement.
+
+There is no shortage of digital analytics tools promising to
+provide organizations with a complete understanding of a
+customer’s journey from brand discovery to repeat purchases.
+Although all insights gleaned from these tools have the
+potential to improve digital experiences, respondents say
+their organization is most interested in insights from digital
+analytics tools that relate to customer satisfaction (56%),
+customer journey (53%), and user behavior (48%).
+But tracking how customers navigate products and websites,
+and discovering the features they engage with most, requires
+the use of emerging technologies. For instance, more than half
+of respondents (55%) cite not using artificial intelligence and
+machine learning to understand or predict customer behavior
+as a barrier to achieving technology maturity for creating
+digital experiences. That’s a big missed opportunity when
+AI-powered tools can personalize product experiences in real
+time to drive customer retention and loyalty. For example, AI
+can determine the most likely content, features, and messages
+to increase the likelihood of customer conversion.
+Data challenges, including siloed, unavailable, and
+inaccessible data, are also preventing organizations from
+creating engaging digital experiences. Sixty-nine percent
+of laggards and followers say fragmented data that is siloed
+across multiple systems is preventing their organization
+from creating engaging digital experiences, compared to
+48% of leaders.
+According to John Lovett, vice president of analytics for
+Seer Interactive LLC, a certified B Corp digital consultancy in
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+3
+
+Harvard Business Review Analytic Services
+
+Philadelphia, part of the problem is that data silos typically
+provide only a partial view of customer interactions, which
+can lead to “digital experiences that put off consumers. If
+you only know me through your web analytics data silo, you
+may not know that I spoke to a call center agent and resolved
+my problem or accomplished my task. Similarly, if you don’t
+connect your sales data to advertising, you have the potential
+to bombard me with ads for a product that I’ve already
+purchased. These are surefire ways to alienate customers.”
+Fortunately, closely examining leaders’ actions reveals a
+set of technological best practices that followers and laggards
+would be wise to adopt. Chief among these practices is leaders’
+reliance on high-quality, usable, and governed data to make
+
+smart decisions. For example, 54% of leaders agree that their
+entire organization has access to high-quality customer data,
+compared to only 34% of followers and a mere 20% of laggards.
+FIGURE 2 Enterprise-wide accessibility to meaningful data is
+also critical for aligning product, marketing, and sales teams’
+goals while enabling the sharing of customer-centric insights
+across an enterprise.
+Having a data governance strategy is also a defining
+characteristic of leaders (cited by 63% of respondents)
+when it comes to technological maturity for creating
+engaging digital experiences. Comparatively, only 50% of
+followers, and 40% of laggards, say it’s a component of their
+technological maturity. Its absence is cause for concern, as
+
+FIGURE 2
+
+Signs of Technological Readiness
+Leaders are more likely to have access to high-quality, trustworthy customer data and integrated systems than followers
+and laggards
+When it comes to creating engaging digital experiences, which of the following does your organization have in terms of technological maturity?
+Select all that apply.
+
+■ All respondents ■ Leaders ■ Followers ■ Laggards
+62%
+65%
+62%
+60%
+A data security and privacy framework
+
+37
+54
+34
+20
+High-quality data
+
+52
+63
+50
+40
+A data governance strategy
+
+34
+49
+32
+20
+The proper tools for analyzing customer behavior and preferences
+
+50
+63
+49
+37
+Ability to track metrics related to product and marketing outputs
+(e.g., new features, products/services, and campaigns)
+
+34
+48
+30
+23
+Principles that drive data trustworthiness
+
+44
+57
+45
+25
+Data that is integrated across various systems
+
+30
+49
+27
+12
+Personalized digital experiences
+
+42
+49
+41
+36
+Guidelines for data accessibility
+
+3
+0
+2
+9
+None
+
+Base: 503 respondents. Not shown: 0–1% other, 1–3% don’t know, varies by segment.
+Source: Harvard Business Review Analytic Services survey, July 2024
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+4
+
+54%
+
+of leaders agree that
+their entire organization
+has access to highquality customer data,
+compared to only 34%
+of followers and a mere
+20% of laggards.
+
+Harvard Business Review Analytic Services
+
+“You have to make sure that you’re compliant
+in how you’re tracking user behavior. There are
+privacy implications, so you don’t want to track
+when a user does not want to be tracked.”
+Sriram Sirisinahal, senior director and head of
+corporate data, Unity Software Inc.
+
+proper data governance, data security, and privacy standards
+are increasingly important to ensure customer insights are
+accurate and carefully protected.
+To safeguard its data, Unity Software Inc. has integrated
+third-party compliance tools with its analytics solutions,
+ensuring the San Francisco-based software development
+company upholds key data privacy and security standards.
+“You have to make sure that you’re compliant in how you’re
+tracking user behavior,” says Sriram Sirisinahal, senior director
+and head of corporate data at Unity. “There are privacy
+implications, so you don’t want to track when a user does
+not want to be tracked.”
+Indeed, the right data governance strategies can make
+data more accessible, accurate, and actionable across an
+organization, but not if data exists in silos. “If you are an
+entity that wants to collect data from lots of different sources,
+then you have to carefully figure out how to munge them all
+together,” says Jim Sterne, speaker, author, and president
+of Target Marketing of Santa Barbara, an analytics and AI
+consultancy based in Santa Barbara, Calif.
+Simon Trudeau understands the importance of data
+integration. Trudeau is head of analytics and optimization for
+Wahi Realty Inc., a Toronto-based company whose digital real
+estate platform enables users to buy and sell homes based on
+market data for the latest property listings. Trudeau provides
+an example of a customer whose online behavior indicates
+interest in a townhouse but who has recently contacted
+
+Wahi Realty over the phone to let them know that their
+interest has shifted to detached homes. Without proper data
+integration, he says, a brand would continue to create digital
+experiences based on outdated customer preferences. For this
+reason, Wahi ensures systems such as customer relationship
+management and product analytics are fully integrated across
+the organization. As a result, Trudeau says, “Even if the user
+didn’t change his behavior or data on the website, we know
+that his preferences have changed. My responsibility is to
+make sure that we leverage all the data points that we have
+across the company as much as possible.”
+Leaders are more likely to have integrated data across
+various systems than are laggards (57% vs. 25%). Only 45%
+of followers claim to possess integrated data. Whether
+fragmented by a series of mergers and acquisitions or poor
+data management practices, data silos are the enemy of a
+holistic and accurate view of the customer journey.
+
+Achieving Organizational Readiness
+It takes more than technology to capture a clear picture
+of customers. Collaborative, cross-functional teams and
+strong leadership are also critical to continuously creating
+meaningful customer interactions. Yet initiatives to build
+engaging digital experiences can become fragmented over
+time. Sixty-six percent of laggards report a lack of collective
+ownership as an organizational barrier that prevents their
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+6
+
+Harvard Business Review Analytic Services
+
+organization from creating engaging digital experiences.
+Followers and leaders also struggle in this capacity, as noted
+by 58% and 44% of respondents, respectively.
+However, reluctance to work collaboratively may stem
+from gaps in understanding rather than intentional
+shirking of responsibility, says Morgan Templar, founder
+and chief executive officer of First CDO Partners, a data
+management consultancy in Pittsburgh. “Business teams
+own an organization’s outcomes, its growth strategy, and a
+company’s strategic direction,” she says. “Yet most business
+leaders don’t really understand data or how it impacts an
+organization.” To bridge this divide, she recommends that
+organizations develop a common language that empowers
+business and technology teams alike to better understand
+how data can be leveraged to create digital experiences and
+how these initiatives align with a company’s business goals.
+Another barrier preventing organizations from creating
+engaging digital experiences is inadequate training of
+employees on customer-centric technologies, cited by
+52% of laggards and somewhat fewer followers (48%) and
+leaders (33%).
+Leaders prioritize working collaboratively to get the insights
+they need to enhance customer acquisition and retention. For
+instance, Trudeau says Wahi tends to release new product
+features at a rapid clip. “One of the key organizational
+challenges we face is synchronizing product delivery with
+the adoption of new features by sales and operations teams,”
+he says. “Ensuring these teams are properly trained on the
+latest features is critical, but it requires a coordinated effort.”
+In response, Wahi not only trains employees on new product
+features but records these sessions and shares them across
+the organization.
+Communication is also key to achieving organizational
+maturity, especially when a workforce spans geographic
+boundaries. For example, Quillbot relies on a wide array of
+communication, project management, task management,
+and document management tools to disseminate information
+about recent changes in product design among its employees,
+many of whom are located in separate time zones across the
+United States, Europe, and India.
+“At an organizational level, it’s necessary that all teams work
+together toward a shared goal,” says Quillbot’s Agrawal. “The
+product or experience we want to build will not be of high
+quality if we don’t work in a collaborative way.”
+Not surprisingly, 75% of leaders achieve organizational
+maturity by supporting cross-functional collaboration
+across teams and departments. A smaller proportion (49%)
+of followers are doing the same. But only 39% of laggards have
+cross-functional collaboration for the purpose of creating
+engaging digital experiences. FIGURE 3
+An organization’s evaluation of digital customer experiences
+should not be static. Rather, because customer behavior exists
+
+across many channels and platforms, organizations must grow
+and innovate by testing new approaches to creating digital
+experiences. In fact, 64% of leaders say they are focused on
+achieving continuous improvement throughout the customer
+life cycle. Fifty-four percent of followers and 30% of laggards
+say the same.
+Wahi, for example, continuously tests new ideas and product
+features “to try to understand user behavior and see where
+we can find opportunities for improvement,” says Trudeau.
+In the case of Unity, tracking and experimenting with
+new feature rollouts, and fine-tuning products based on
+
+FIGURE 3
+
+Steps to Organizational Maturity
+Cross-functional collaboration and continuous
+improvement can lead to greater organizational readiness
+When it comes to creating engaging digital experiences, which of the
+following does your organization have in terms of organizational maturity?
+Select all that apply.
+
+■ All respondents ■ Leaders ■ Followers ■ Laggards
+55%
+75%
+49%
+39%
+Cross-functional collaboration is supported across teams and departments
+51
+64
+54
+30
+A focus on achieving continuous improvement throughout the entire
+customer life cycle
+46
+52
+51
+30
+A culture that encourages employees to share insights across the organization
+39
+49
+39
+29
+An executive sponsor dedicated to championing digital experiences
+10
+1
+9
+22
+None
+Base: 503 respondents. Not shown: 0–2% other, 1–2% don’t know,
+varies by segment.
+Source: Harvard Business Review Analytic Services survey, July 2024
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+7
+
+Harvard Business Review Analytic Services
+
+real-time and connected data, are critical to making product
+enhancements that convert visitors into repeat customers.
+“We want to focus on the features that are most impactful
+and provide the biggest value,” says Unity’s Sirisinahal.
+Conversely, he adds, “There are certain products that we’ve
+released or features that we decided are not as useful anymore
+and we’ve had to turn them off and pivot.”
+In addition to cross-functional collaboration and datadriven improvements, leadership is a key component of
+organizational maturity. Thirty-four percent of respondents
+say that a C-level IT executive or the equivalent is primarily
+responsible for creating digital experiences at their
+organization. However, many are achieving success by
+distributing responsibility for building digital experiences
+across the organization. At Quillbot, for instance, each
+department, from engineering to marketing, has its own
+vice president responsible for making decisions around
+how to build the most impactful digital experiences—an
+approach that Agrawal says imbues employees with “a sense
+of ownership.”
+
+FIGURE 4
+
+Artificial Intelligence as a Technology of Choice
+Leaders are leveraging AI for customer feedback analysis,
+personalization, and product recommendations
+In what ways, if any, is your organization currently using artificial intelligence
+to improve digital experiences? Select all that apply.
+
+■ All respondents ■ Leaders ■ Followers ■ Laggards
+43%
+25%
+45%
+64%
+My organization is not currently using AI to improve digital experiences
+27
+41
+24
+16
+Analyze customer feedback, reviews, and other data
+26
+39
+24
+13
+Personalize feature and content recommendations
+
+Designing for Operational Readiness
+Today’s organizations are collecting richer, more meaningful
+data than ever. But leveraging this data to accelerate
+learning and improve decision making requires operational
+preparedness. Forty-seven percent of respondents agree
+that their organization has the proper tools required to
+create engaging digital experiences. And 59% expect their
+organization to increase its investment in these tools over
+the next year—a sign that organizations are heading in the
+right operational direction.
+Top among the technologies most impacting organizations’
+operational readiness is AI. Fifty-three percent of respondents
+say their organization uses AI to improve digital experiences.
+AI can improve experiences in various ways. First, it can
+provide teams with recommendations on what actions to take
+based on customer behavior patterns. One example would be
+reducing the number of links on a website after finding that
+customers are more likely to click through these links than
+click a primary call-to-action button. Second, by processing
+large amounts of data, AI can enable more effective targeting
+and personalization of digital experiences.
+“The ability to create content faster, to be able to understand
+trends, and conduct analyses is becoming easier and faster
+with artificial intelligence,” says Lovett of Seer Interactive.
+In fact, 71% of leaders currently use AI to improve digital
+experiences, compared to 52% of followers and 33% of laggards.
+Some of the top ways leaders are leveraging AI are to analyze
+customer feedback (41%), personalize feature and content
+recommendations (39%), and provide recommendations on
+product and service features (36%). FIGURE 4
+
+22
+36
+20
+8
+Provide recommendations on product/service features
+20
+31
+18
+8
+Suggest actions to enhance customer engagement
+18
+30
+14
+8
+Predict customer engagement patterns
+17
+24
+17
+9
+Enhance the analysis of A/B tests and other experiments
+15
+23
+14
+8
+Detect anomalies in customer behavior data
+Base: 503 respondents, excluding don’t know. Not shown: 0–5% other, varies
+by segment.
+Source: Harvard Business Review Analytic Services survey, July 2024
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+8
+
+71%
+
+of leaders currently use
+AI to improve digital
+experiences, compared
+to 52% of followers and
+33% of laggards.
+
+Harvard Business Review Analytic Services
+
+One such AI-leveraging company is Wahi. In addition
+to allowing website visitors and app users to conduct realtime conversations with real estate agents via chat, the
+company leverages AI capabilities to analyze a wide range
+of interactions with customers, gaining valuable insights and
+enhancing service quality.
+Despite the many advantages of tools such as AI, Unity’s
+Sirisinahal says an overabundance of disparate solutions,
+especially if poorly integrated, can hinder efforts to create
+digital experiences. In the past, he says, “our tools had
+different capabilities and there was no way to marry them
+together or understand a full picture of a customer’s journey.
+Sometimes there would be too much information that we had
+to parse through, which took a lot of manpower and time.
+It just wasn’t sustainable.” Today, Sirisinahal says, Unity
+relies on a key product analytics tool—a decision that has
+significantly improved the company’s ability to glean insights
+from customer behavior data.
+Determining how to effectively use technology to create
+digital experiences can also advance organizations along the
+operational maturity curve. For instance, Eric Siegel, CEO of
+Gooder AI, a provider of machine learning software in San
+Francisco, and author of The AI Playbook: Mastering the Rare
+Art of Machine Learning Development, says, “It’s important
+to look at technologies such as AI in a concrete and specific
+way in terms of what are its actual capabilities and what is
+its exact value proposition.”
+But achieving operational maturity takes more than
+thoughtful use of innovative technologies. People also play
+a critical role in shaping digital experiences. For this reason,
+Cherry Advisory's Cherry says, organizations must invest in
+employees so that they have the skills necessary to derive
+value from analytics tools.
+“There is an obligation to support employees,” he says. “If
+you’re an organization that’s not investing in employees, then
+you’re not really building relationships with them.”
+In fact, when it comes to creating engaging digital
+experiences, 51% of leaders use tools that enable employees
+to access and gather data-driven insights, compared to 42% of
+followers and 29% of laggards. FIGURE 5 Similarly, 49% of leaders
+provide ongoing training to develop employees’ knowledge
+and skills regarding data. Only 32% of followers and 27% of
+laggards have this same approach to operational maturity.
+
+FIGURE 5
+
+Operational Excellence
+Accessibility tools and ongoing employee training mark the
+operational efforts of leaders
+When it comes to creating engaging digital experiences, which of the
+following does your organization have in terms of operational maturity?
+Select all that apply.
+
+■ All respondents ■ Leaders ■ Followers ■ Laggards
+41%
+51%
+42%
+29%
+Tools that enable employees to access and gather data-driven insights
+41
+50
+39
+33
+An environment that encourages employees to improve decision making with data
+39
+51
+41
+23
+An environment that encourages employees to take action on data-driven insights
+36
+49
+32
+27
+Ongoing training to develop employees’ knowledge and skills regarding data
+33
+43
+33
+20
+Automated workflows and processes for creating digital experiences
+22
+33
+19
+14
+Widespread employee adoption of integrated systems
+13
+4
+11
+27
+None
+
+Ensuring Strategic Alignment
+
+Base: 503 respondents. Not shown: 0–1% other, 2–5% don’t know, varies by
+segment.
+
+Implementing strategies for creating digital experiences
+requires the buy-in of multiple stakeholders—a particularly
+difficult feat for many organizations. “It can be a challenge
+to maintain alignment across a fast-paced environment,
+especially when it comes to releasing new features,” says
+Trudeau. “We must consider the constantly evolving needs
+
+Source: Harvard Business Review Analytic Services survey, July 2024
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+10
+
+Harvard Business Review Analytic Services
+
+of our users while ensuring that employees remain informed
+and in sync.”
+Less than half (47%) of respondents agree that their
+functional teams are strategically aligned on how to use
+data-driven insights to build impactful digital experiences.
+Leaders, nonetheless, are achieving greater strategic
+alignment by deploying strategies for attributing business
+success (56%), relying on cross-functional KPIs (55%), and
+having a shared vision of success (54%). FIGURE 6
+To drive collective efforts around creating digital
+experiences, Trudeau says, Wahi holds monthly meetings to
+“make sure that everyone is aligned on new learnings.” Cloudbased productivity tools also serve as a valuable platform
+for employees to communicate and unify perspectives on
+how best to understand and retain customers.
+Building consensus around higher-value customer
+experiences requires cross-functional KPIs and performancetracking strategies. At Quillbot, employees rely on objectives
+and key results (OKRs), a goal-setting framework, which
+ensures all goals are not just visionary but also accompanied
+by a clear plan of execution. Each department, from product
+design to engineering, has its own set of OKRs, and projects
+are mapped to meet these metrics. However, if a department
+discovers that it’s dependent on another department to
+accomplish a particular objective, Agrawal says, the two
+parties must work together to understand the dependencies
+between them and recalibrate accordingly.
+“Departments must create their own OKRs toward the
+goal and achieve alignment on their feasibility,” he says.
+In the case of Wahi, Trudeau explains that “a companywide scorecard associated with teams ensures that they
+are aligned with our overarching strategic visions and
+KPIs.” Although metrics tend to vary, Trudeau says one
+of the company’s most critical KPIs is customer retention.
+Recently, the company discovered that when a customer
+reviews six listings within seven days of becoming a new user,
+“retention goes through the roof.” In response to this datadriven discovery, Wahi has established KPIs around tasks
+that will ultimately drive visitors to engage in this behavior.
+But how customers interact with a website is always
+changing. The behaviors that result in high conversion
+rates one month may change drastically the next. As a result,
+Trudeau says, Wahi “holds quarterly strategic planning
+sessions to review progress, adjust strategies as needed, and
+ensure ongoing alignment across the organization.”
+When it comes to metrics for measuring how effectively
+initiatives improve digital experiences, 64% of leaders cite
+customer service satisfaction, followed by financial metrics
+(54%), customer engagement metrics (53%), and number
+of active users on a monthly, weekly, or daily basis (51%).
+Despite these valuable measurements, less than half (47%)
+of respondents say that their organization relies on a defined
+
+FIGURE 6
+
+Achieving Alignment
+Cross-functional KPIs and a shared vision of success are
+among the markers of strategic alignment
+When it comes to creating engaging digital experiences, which of the
+following does your organization have in terms of strategic alignment?
+Select all that apply.
+
+■ All respondents ■ Leaders ■ Followers ■ Laggards
+47%
+55%
+45%
+38%
+Cross-functional key performance indicators (KPIs)
+43
+54
+46
+23
+A shared vision of success
+40
+50
+39
+29
+Performance tracking strategies
+40
+56
+42
+18
+A strategy for attributing business success (i.e., increased revenue, profitability)
+to digital experience initiatives
+14
+4
+10
+31
+None
+Base: 503 respondents. Not shown: 0–1% other, 2–5% don’t know, varies by
+segment.
+Source: Harvard Business Review Analytic Services survey, July 2024
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+11
+
+Harvard Business Review Analytic Services
+
+“Being customer-first is our number one priority. It’s about knowing
+who our customers are, what they do, what they’re looking for, what
+makes their life easy, and how we can be valuable in that sense. We’re
+doing an excellent job, but there’s always room for improvement,”
+says Unity’s Sirisinahal.
+
+set of metrics to evaluate digital experience initiatives,
+which may suggest a lack of consensus around how best to
+understand efforts around delivering better products and
+experiences.
+
+alignment. Mature organizations exhibit an ability to easily
+glean critical insights from clean and accurate data, a
+commitment to cross-functional collaboration, a focus on
+fully integrated systems, and a shared vision of success.
+For those further behind on the maturity curve, these best
+practices serve as valuable lessons. But they also underscore
+the need for continuous exploration of what it takes to
+attract and retain customers as well as boost revenue. Data
+sources change, customer expectations evolve, and corporate
+goals shift. In response, organizations must continuously
+reexamine and reevaluate their efforts to improve the
+connection between digital experiences and customer loyalty.
+“Being customer-first is our number one priority,” says
+Sirisinahal. “It’s about knowing who our customers are,
+what they do, what they’re looking for, what makes their life
+easy, and how we can be valuable in that sense. We’re doing
+an excellent job, but there’s always room for improvement.”
+
+Maturity in Motion
+Organizations can’t afford to deliver generic experiences
+that fall short of meeting customers’ rising expectations.
+Conveying the right message on the right platform at the
+right time requires a deep understanding of what drives
+customers to engage with a product or website—and the
+digital experiences that will ultimately convert them into
+loyal customers.
+Delivering engaging digital experiences, however,
+takes a certain level of maturity in terms of technological,
+organizational, and operational readiness, as well as strategic
+
+Research Report | Moving Up the Digital Experience Maturity Curve
+12
+
+M E T H O D O LO GY A N D PA R T I C I PA N T P R O F I L E
+
+Harvard Business Review Analytic Services surveyed 503 members of the Harvard Business Review
+audience via an online survey fielded in July 2024. Respondents qualified to complete the survey if they
+were involved in decision making about digital experiences at their organization.
+
+Size of Organization
+
+Seniority
+
+Industry Sectors
+
+Job Functions
+
+Regions
+
+39%
+
+29%
+
+16%
+
+13%
+
+39%
+
+10,000 or more
+employees
+
+28%
+
+1,000–9,999
+employees
+
+32%
+
+100–999
+employees
+
+Executive
+management/
+board members
+
+37%
+
+Senior
+management
+
+20%
+
+Middle
+management
+
+15%
+
+Other grades
+
+Figures may not add up to 100% due to rounding.
+
+Technology
+
+11%
+
+Financial services
+
+9%
+
+Education
+
+9%
+
+Health care
+All other sectors
+less than 9% each
+
+Operations/
+product
+management
+
+11%
+IT
+
+10%
+
+General
+management
+All other functions
+less than 9% each
+
+North America
+
+22%
+
+Europe
+
+23%
+
+Asia Pacific
+
+11%
+
+Middle East/Africa
+
+5%
+
+Latin America
+
+ABOUT US
+
+Harvard Business Review Analytic Services is an independent commercial research
+unit within Harvard Business Review Group, conducting research and comparative
+analysis on important management challenges and emerging business opportunities.
+Seeking to provide business intelligence and peer-group insight, each report is
+published based on the findings of original quantitative and/or qualitative research
+and analysis. Quantitative surveys are conducted with the HBR Advisory Council,
+HBR’s global research panel, and qualitative research is conducted with senior
+business executives and subject-matter experts from within and beyond the Harvard
+Business Review author community. Email us at hbranalyticservices@hbr.org.
+
+hbr.org/hbr-analytic-services
+
+Copyright © 2024 Harvard Business School Publishing.
+
+MCCRE57051124
+
+

@@ -1,0 +1,4154 @@
+Annual academic and skills report
+to Council 2023-24
+Contents
+1. Purpose and introduction
+2. Report on assurance of quality and standards
+2.1
+
+2.2
+
+2.3
+
+Regulatory overview
+• The Office for Students
+• Ofsted and ESFA
+• Professional, Statutory and Regulatory Bodies
+Reports from committees responsible for academic quality and standards
+• Senate
+• Education Committee
+• Research Committee
+• Apprenticeship Steering Committee
+Other University initiatives
+• Marking consistency project
+• Exceptional circumstances review
+• Major student incidents response
+• Education systems improvements
+
+3. Report on student experience and outcomes
+3.1
+
+3.2
+
+Overall student experience
+• Student survey results
+• Student support
+• Apprenticeship student provision
+• Complaints, appeals and academic misconduct
+Student demographics and outcomes
+
+4. Academic risks
+5. Action plans
+5.1
+5.2
+
+2023-24 Action Plan update
+2024-25 Action Plan
+
+Appendix A
+List of accrediting Professional and Statutory Regulatory Bodies (PSRBs)
+
+1
+
+1. Purpose and introduction
+Purpose of report
+This report brings together material on Senate’s oversight of academic quality and standards, the integrity of academic
+qualifications, and the management of specific academic risks, for example on academic partnerships. It supports the
+assurance process for Council, providing evidence of the robustness and effectiveness of the University’s academic
+governance processes and procedures.
+This report presents a view of: the current regulatory landscape; key themes and highlights from the University’s
+academic provision; student demographics and achievement data; and, our students’ experience for the academic year
+1st August 2023- 31st July 2024. The information presented reflects the University’s organisational structure in place
+during that year. The University change programme will be reported on and reflected in next year’s report.
+In addition to providing assurance on its management of its delegated powers, Senate has identified major academic
+risks currently facing the University, prepared with reference to the University’s Major Risk Register. These academic risks
+are presented as part of this report along with proposed risk mitigation measures.
+This report also presents an Action Plan showing the key focuses for the University in developing its academic provision
+over the next academic year, which has been developed with reference to the Corporate Plan and the strategies for
+Education and for Research and Innovation. The Action Plan is developed with due consideration for the need to mitigate
+the academic risks identified.
+
+2
+
+2. Report on assurance of quality and standards
+2.1
+
+Regulatory overview
+
+The Office for Students (OfS) is the Regulator for Higher Education in England, and the University is required to comply
+with its regulations and conditions of registration. In addition, the OfS currently has oversight of the External Quality
+Assurance (EQA) of Apprenticeship End Point Assessments.
+As part of our apprenticeship provision, the University is required to meet the requirements of the Office for Standards in
+Education, Children’s Services and Skills (Ofsted), which are responsible for the inspection of all apprenticeship provision
+in England, and the Education and Skills Funding Agency (ESFA), which, through the Apprenticeship Levy, manages the
+funding of apprenticeship students.
+The University also works with a range of Professional, Statutory and Regulatory Bodies (PSRBs) to accredit our taught
+courses, who may have institution- or course-level recommendations to be considered prior to any accreditation being
+agreed.
+
+The Office for Students (OfS)
+Since 2018, the OfS has been the regulator for Higher Education in England, with the University a registered provider on the
+OfS Register. As part of the University’s registration, it agrees to comply with the OfS’s standard ongoing conditions of
+registration.
+As part of their monitoring of higher education institutions, the OfS uses summary student outcomes indicators as part of
+a risk-based approach to the regulation of condition B. These indicators include data on continuation, completion and
+progression. The University exceeds the threshold standards for all the headline indicators and the majority of the lower
+level split indicators. The University’s performance against the summary indicators was presented to Senate during the
+year.
+During 2023-24 the University conducted a wide self-assessment of its compliance with all of the OfS’s ongoing
+conditions of registration. This self-assessment found the University to be meeting these conditions, with a small number
+of actions identified to more clearly demonstrate compliance in a few areas. This work also updated the University’s
+scheme of responsibilities in relation to reportable events. Further to this self-assessment, the Internal Audit Office
+conducted an audit of registration conditions, with recommendations for regular updates to the self-assessment and
+scheme of reportable events, continued monitoring of the B3 condition thresholds and a future Audit of the University’s
+compliance with consumer protection law.
+During 2023-24 the OfS consulted on a number of regulatory changes concerning Freedom of Speech in Higher Education,
+following receipt of royal assent for the Higher Education (Freedom of Speech) Act 2023. New conditions of registration
+and new duties for Higher Education institutions were due to come into force from August 2024, however following the
+change in UK Government these conditions and proposed associated schemes (including increased duties placed on
+students’ unions and a new freedom of speech complaints scheme) have been halted.
+A new condition of registration concerning harassment and sexual misconduct is to be introduced from August 2025.
+This condition (E6) covers subject matter relating to incidents of harassment and/or sexual misconduct which affect one
+or more students (including the conduct of both staff and students towards other students). A Task and Finish group led
+by the Head of Student Support and Wellbeing and People and Culture colleagues has been convened to work through the
+requirements of the condition and ensure Cranfield will meet these requirements by 1st August 2025.
+
+Ofsted and ESFA
+The University’s apprenticeship provision is monitored (in full or in part) by the Office for Standards in Education,
+Children’s Services and Skills (Ofsted), the Education and Skills Funding Agency (ESFA) and the OfS (external quality
+assurance of End Point Assessments).
+Ofsted is responsible for the inspection of standards for all apprenticeship provision in England. These inspections are
+undertaken according to the guidance set out in the Education Inspection Framework and the Further Education and Skills
+Inspection Handbook. The University received a full inspection visit from Ofsted in January 2024, which is covered in detail in
+the Apprenticeship Steering Committee report in section 2.2.
+3
+
+ESFA is accountable for funding for the education and training sector, and monitors and administers payments that the
+University receives for apprentice students through the UK Government’s Apprenticeship Levy. The University is required
+to adhere to ESFA rules and regulations for the management of apprentices. As noted in last year’s report, Cranfield was
+subject to an ESFA audit in September 2023. Further details of this outcome are given in the Apprenticeship Steering
+Committee report in section 2.2.
+
+Professional, Statutory and Regulatory Bodies (PSRBs)
+Of the University’s 93 postgraduate taught courses which are eligible for accreditation 75 (81%) are accredited by one or
+more PSRB. Courses may be ineligible for accreditation for a number of reasons, including due to the length of time they
+have been running and there being no suitable accrediting body due to the specialist nature of a course. 34 different PSRBs
+accredit one or more of Cranfield’s courses: the full list of these is included as Appendix A of this Report.
+There were no accreditation visits during 2023-24. The next significant cross school visit will take place in 2024-25 and will
+involve seven professional engineering institutions and 39 courses based at the Cranfield Campus across the Faculty of
+Engineering and Applied Science. Courses involved in the visit will seek accreditation or re-accreditation from one or more
+of the following institutions:
+Energy Institute (EI)
+Institution of Engineering and Technology (IET)
+Institute of Materials, Minerals and Mining (IOM3)
+Institution of Mechanical Engineers (IMechE)
+Royal Aeronautical Society (RAeS)
+The Welding Institute (TWI)
+Accreditation of taught courses by Professional, Statutory and Regulatory Bodies forms one of the sub-KPIs of the
+University’s Education Strategy, and the University is committed to such accreditation, which provides external scrutiny of
+our courses and enhances courses’ reputations and desirability to applicants. The University is on course to achieve the
+sub-KPI of 84% of taught courses being accredited by one or more PSRB by 2027.
+
+2.2 Report on assurance of quality and standards
+Senate
+The Senate Effectiveness Review took place in 2023. A panel, which included Senate members and an external, met twice to
+discuss a range of matters, including the roles and responsibilities of Senate and its members, the composition of its
+committees and the methods by which Senate conducts its business. The review included engagement sessions with
+Senate members.
+As part of the Senate Effectiveness Review, a list of recommendations were endorsed by Senate and an action plan was
+formed. This included redrafting Senate’s terms of reference to ensure key academic governance responsibilities are clearly
+in line with Charter and OfS expectations, organising Senate business to seek better engagement from members and
+rearranging business to make space for more substantive discussion.
+Senate is now set to meet three times in an academic year, supplemented by focused discussion at newly formed panels –
+Quality and Standards, Nominations and General Purposes, and Visiting Professor Appointments. In addition to the new
+style of meetings, which included a member-led agenda meeting, a networking event was held between Senate and Council
+members.
+
+Education Committee
+Education Committee oversees the quality and standards of Cranfield’s regulated education and skills provision (taught
+degrees and apprenticeships) with authority to do so delegated by Senate. It has three sub-committees / standing
+groups: the Student Experience Committee, the Undergraduate Standing Group and the Education Technology Standing
+Group. Education Committee has working groups on degree classification & credit frameworks and on assessment &
+feedback that meet regularly and ad hoc groups on EvaSys (a student feedback system) and on the oversight of
+recognised teachers that meet as needed. A cross-Senate committee coordination group on generative AI was
+established in 2023 to develop guidance for staff and students. Education Committee receives the minutes of the
+Apprenticeships Steering Group for information and takes decisions on matters of policy and practice affecting regulated
+apprenticeship provision.
+4
+
+Key issues arising in 2023-24 are summarised below.
+1.
+Terms of reference and membership
+The terms of reference of Education Committee were reviewed in July 2024 to take into account: the re-organisation of
+the University around faculties, ongoing discussions with the Cranfield Student Association around representation, and to
+respond to a recommendation from an Internal Audit report on academic partnerships. During the 2023-24 academic year
+Professor Catarina Figueira joined the committee as Director of Education for the School of Management (an
+appointment flagged in last year’s report). Dr Laura Lacey took over as Director of Education for Cranfield Defence and
+Security succeeding Professor Jackie Akhavan. Dr Robert Mayer became Director of Education in the School of
+Aerospace, Transport and Manufacturing following the retirement of Dr Charles Wainwright. The long and distinguished
+service to Education Committee of Professor Akhavan and Dr Wainwright is warmly acknowledged. Professor Ruth
+Massie became the Director of Education for MK:U and as such an ex-officio member of Education Committee (formerly a
+co-opted member as the Education Lead for MK:U).
+2.
+Education Strategy and portfolio review
+Our vision is that those who have studied or trained at Cranfield are renowned and valued for their distinctive skills and
+capabilities. The strategy focuses on the life-changing outcomes of Cranfield education from the perspective of the
+learner and recognises the value of Cranfield education for the organisations our learners work for. In 2023-24, portfolio
+review was a focal point for Education Committee in pursuit of the Education Strategy vision both in terms of new product
+innovation and portfolio streamlining. Notable examples included the completion of a major review of the PGT portfolio
+of the School of Water, Environment & Agrifood, and new product development to meet the needs of new commercial
+clients / substantive streamlining of programmes of apprenticeship and non-apprenticeship provision in the School of
+Management. As part of the University change programme, the Vice Chancellor announced plans to refocus our
+educational products through a university-wide portfolio review which would result in the closing of low margin/low
+student courses and innovation, product differentiation and growth in new educational products. This is a staged process
+with decision points around courses we will recruit to in 2024-25, 2025-26, and 2026-27 requiring timely action in the
+coming months.
+3.
+Annual Reflective Review
+The Annual Reflective Review (ARR) is the principal vehicle for routine monitoring and evaluation of taught courses. Each
+course is expected to undertake an ARR and to reflect on a range of information including the experience of running the
+course and feedback from students, external examiners, and external advisors and partners. The process of reflection
+identifies the strengths and weakness of courses and provides the evidence and justification for changes, small and
+large. Course-specific issues are progressed locally by Course Directors together with their course teams with the
+approval of Directors of Education. This is the engine room of continuous improvement and the basis for our quality
+culture. Directors of Education produce an annual report for Education Committee which enables implications for
+university-level educational practices and policy to be identified and progressed as part of that committee’s work. A
+report is presented for the information of University Executive and for consideration of action, where needed, of issues
+relating to resourcing, infrastructure or portfolio management. The ARR for academic year 2022-23, the most recent,
+complete academic year, was undertaken by course teams during late 2023 and early 2024. Notable highlights from the
+exercise included the wealth of evidence of our collective commitment to the creation of a culture of educational
+excellence and distinctiveness of provision through enhancing guest speakers, external webinar series, company
+networking events, alumni interactions, the development of internships, group design projects, and new international
+partnerships. The way our academic and professional service teams work together to create an excellent student
+experience was praised. Notable successes included our students winning national and international prizes,
+improvements in important rankings for our courses, and significant successes with professional accreditation of
+courses. Areas for concern included the challenges in achieving the 20-day target for assessment feedback due to high
+workload; challenges for course directors in handling difficult student mental health cases; staffing issues; dealing with
+peak demand for IT labs; requests for further streamlining, simplification and automation of academic processes; and
+perceptions of low external visibility of some courses.
+4.
+Degree classification & credit frameworks
+A working group was established in 2021 to review the case for two proposed changes – the introduction of a degree
+classification mechanism for our postgraduate taught courses and the alignment of our credit framework with the sector
+standard of 180 credits for MSc and MDes courses. The working group reports regularly to Education Committee.
+Following a recommendation by Education Committee, University Executive endorsed a plan to implement these changes
+from the beginning of the 2025-26 academic year. Although full implementation will not happen until the 2025-26
+academic year, there is a significant programme of preparations needed and enabling changes are being made in a timely
+fashion. Senate has approved a regulation change to permit postgraduate masters awards to be made for courses of 180
+credits. This has allowed new courses to be designed and approved according to the new credit framework. Education
+Committee has recently endorsed plans for how to deal with students whose registration period straddles the full
+implementation date of September 2025. The working group is currently reviewing modelled data on classification
+patterns as applied to historical marks with a view to identifying potential areas of concern around marking consistency
+and award gaps. It should be noted that significant non-academic issues around communications and IT development
+needs are also being overseen by the working group.
+5
+
+5. Assessment & Feedback Working Group
+As reported in the 2022-23 Academic & Skills report, the Assessment & Feedback Working Group has a new leadership
+team focussed around the themes of Assessment Design, Quality and timeliness of feedback, and Academic Integrity. In
+2023-24, this active working group brought papers to Education Committee and prompted communications to and
+discussion with the wider academic and educational support professional community on marking timeliness, marking
+consistency in the context of postgraduate degree classification, distinctive assessment design, generative AI, training
+for the prevention of academic misconduct, and the development of a community-driven assessment & feedback action
+plan.
+
+Research Committee
+On behalf of Senate, Research Committee’s aims are to oversee research strategy, governance, policy and associated
+performance monitoring. It has six working groups on Research Academic Processes and Support (RAPS), Public
+Engagement, HR Excellence in Research, CRIS Working Group, TALENT Board, Excellence in Scholarship Board.
+The work of Research Committee has focused this year on driving forward the Research and Innovation Strategy as well as
+compliance, assurance and continuing improvements. This report outlines some of the key areas of progress.
+1. R&I Strategic Priority – Scholarship with Purpose
+Research Culture and Quality
+• Research income won has increased from £41M in 2021-2022 to £59M in 2022-2023 and to a record £75M in 2023-2024
+
+representing a 45% increase in awarded contracts in the three years. A further £90M in large capital grants has been
+awarded through Research England in 2024. Research award highlights include maintaining the University's status as a tier
+2 EPSRC provider for another 3 years, securing four EPSRC Collaborative Doctoral Training (CDT) grants (£40M; ca. 5% of
+EPSRC's national allocations, two as lead with 50% success rate compared to 18% nationally), and the £69M CH2i RPIF.
+The Excellence in Scholarship (EiS) programme includes an annual assessment of outputs, impact and environmental
+indicators, providing formative 1-2-1 feedback to staff, in parallel with a programme of training and development. Round 3,
+which completed this year, achieved engagement from 91% of independent researchers, with high engagement noted
+across all Themes. The Research Super KPI sets a target that by 2027, 45% of our publications are world-leading (4*),
+increasing from a baseline of 20% (precise value was 18.6% in REF2021). The current estimate of 17.4% is derived from the
+outcomes of three review rounds where a total of 707 outputs published in 2021, 2022 or 2023 have been reviewed, with
+57% scored as 3* or 4* quality. The three units of assessment reviewed were; Agrifood (UoA6) - 22.1% 4*outputs,
+Engineering (UoA12) - 14.5% 4* outputs, and Management (UoA17) - 27.5% 4* outputs. A more robust estimate of
+performance against the KPI will be derived from a full mock-REF exercise to be complete in mid-2025.
+Academic Publishing Awards were introduced, to recognise and reward excellence. This new annual scheme has prizes for
+early, mid, and senior career researchers and 2023 awards were presented at the ECR Network Symposium in March.
+The University Executive and Research Committee have agreed to introduce a new scheme to develop Interdisciplinary
+Research Powerhouse Institutes (iRPIs) that will help generate and sustain interdisciplinary research communities across
+the University. These virtual institutes will connect expertise from the University to explore fundamental research questions
+across disciplines and sectors. They will be established in areas where we have, or aspire to have, world leading research
+excellence. The aim is for these Institutes to grow a critical mass of academic engagement across at least two Themes.
+They will extend the research priorities and strategies of individual schools by addressing interdisciplinary research
+challenges and creating a shared cross-Theme vision in key research areas. A call for expressions of interest will be opened
+later this year.
+Research Impact activities have focussed on training, development and mapping the Cranfield impact landscape, identifying
+both potential REF impact case studies and wider impact stories.
+All centres have been invited to update and add to the University website case studies to ensure they represent their current
+centre activities. An impact module in the new CRIS has been configured to support the capture of research impact. The
+EPSRC Impact Acceleration Account (IAA) funding continues to be a valuable resource, providing both proof-of-concept and
+early-stage support for exploring commercial opportunities for our EPSRC-remit research. The current funding tranche
+(value £887,661, runs from April 2022-March 2026) has funded 15 translational projects, with £312k leveraged funding from
+external partners, as well as 13 projects for ECR impact-building activities.
+
+6
+
+Security, compliance and ethics
+Good Research Practice Week delivered in autumn 2023 provided sessions on: responsible research and innovation, What
+is Trusted Research, Security in Research, Collaboration in Research, AI in Research, Open Access Research, Research
+Ethics, Data and reproducibility, Diversity and Inclusion in Research.
+During 2023-24 the University launched the Trusted Research and Collaboration (TRaCA) review tool and associated
+guidance to enable security compliant international research collaboration. 230 reviews have been undertaken to-date with
+61 requiring more in-depth assessment around matters of export control licensing, suspected dual use, end user checks
+and additional information requirements.
+A new Current Research Information System (CRIS) has been launched. The new Symplectic system helps ensure our
+research outputs are managed, stored and publicly shared in a timely and organised way. The new system offers a more
+user friendly way to store and manage research outputs and for staff to display their publications in their web profile. It also
+underpins EiS and will support the REF 2029 project.
+The Pre-Award Research Management (PARMS) project was launched during 2023-24. Implementation of the WorkTribe
+pre-award and research contract modules will provide a single web-based platform with multi-user access for developing
+projects through the pre-award phase. Through live links to other corporate systems and consolidated reference data, it will
+support real-time, accurate project costing and pricing, automated and transparent workflow and sophisticated
+management information. It is compatible with the new Current Research Information System (CRIS) and PowerBI for
+corporate reporting.
+Research Committee has renewed and updated a number of policies throughout 2023-24, including: Authorship of Research
+Outputs, Equipment Sharing, Intellectual Property, New Procedure for Laboratory Notebooks, Management of Research
+Data, New Institutional Rights Retention Policy, Open Research, Overseas Research Organisations Due Diligence, Public
+Engagement and Outreach, Research Ethics Policy, Research Integrity Policy, Responsible Research Evaluation, Students
+Working Off-site, UKRI International Fees Policy, Use of Turnitin, Maternity, Paternity and Adoption Leave for Research
+Students. Priorities for review over the next academic year are: Research Ethics Policy, Research Integrity Policy, Process
+for Implementing the Research Integrity Policy and developing new policies relating to Trusted Research.
+Project Saturn – Research and Innovation Strategy Projects
+Titan: Research Laboratory Review. A working group was established to clarify how laboratories in SATM, SWEE and CFI on
+the Cranfield campus support the delivery of the University’s R&I strategy and explore options to improve this. The following
+topics were investigated: (i) Consolidated lab list; (ii) R&I strategy implementation/ integrating research priorities into lab
+management; (iii) Space ownership and use, flexibility, sharing, consolidation, storage, mothballing; (iv) Procurement,
+budgeting and income generation; (v) Promoting/ supporting diversity in labs; (vi) Health & Safety in labs and (vii) Concordat
+for the Environmental Sustainability of Research and Innovation Practice. The next steps will be to implement
+recommendations.
+Hyperion: Research Data Integrity. Under oversight of the University’s Research Ethics and Integrity Committee (CUREIC), a
+working group has completed identifying gaps in our systems, processes and practices in terms of ensuring and enabling
+research data integrity. An action plan has been developed that will deliver improvements for 2024-25 in: training, policies;
+data integrity and quality assurance processes and procedures (building on the previous Joint Codes of Practice);
+governance; communications.
+Janus: New Model PhDs. Looking to develop new PhD programmes to facilitate a growth of PhD student recruitment,
+exploratory meetings have been held with the Open University and the National Physics Laboratory (NPL) to discuss
+potential collaboration on new models. Janus II will commence in 2024-25 to deliver a step change in our research student
+provision including a proposed business plan for a new Doctoral College to be considered by University Executive.
+Pandora: New QR allocation model. An initial review and modelling has been undertaken to consider options on how to
+allocate REF generated Quality Research (QR) to reward existing research areas (as demonstrated through REF 2021), and
+to invest in new research excellence that will deliver research and associated income growth. However, this project has
+stalled due to delays in obtaining information on the current mechanisms used to allocate QR income in support of research
+excellence and activity.
+Hermes: international research. The Cranfield Global Challenges Fund has been launched and delivered supporting
+academic collaborations with overseas universities and researchers with complementary strengths and ambitions, to build
+lasting networks and strengthen emerging collaborations in support of delivering new, high-quality research. 19
+collaborations were supported with outcome reports and next steps due autumn 2024.
+
+7
+
+2. R&I Strategic Priority - Championing the Research Student
+Empowering the research student
+A new Research Student Charter was published in March 2024 creating a bilateral agreement between the University and
+the Student to support an effective supervisory relationship from day one. The Charter outlines how the University can help
+to shape a student’s experience, and how students can engage and contribute to make the most of their research at
+Cranfield www.cranfield.ac.uk/research/rio/research-student-charter. A Mutual Expectations Framework is now under
+development to help facilitate productive and constructive research student and supervisor interactions to underpin the
+Charter.
+A review into the PGR Progress Review Process is underway, with a working group established in January 2024. In response
+to feedback from students and Research Committee, the process (which was introduced in January 2017) has been
+identified as requiring significant improvement. The Working Group will make recommendations for changes to Research
+Committee later in 2024, and this work will support the business case and development of a new PhD management system
+to make our research student process more effective and efficient, exploiting digital platforms.
+Support has been provided to enable research students to convene their own initiatives, such as the now regular ‘Pizza and
+PhD’ CSA led sessions and a newly launched TEDX event ‘Where great ideas take flight’ (27 July).
+Research student numbers have remained stable with 197 new PhD registrants in 2023-24 compared to 198 the previous
+year. A new simplified research student fee structure was approved by Research Committee and the Executive and we are
+working towards implementation from 2025-26.
+Enhancing research student support, training and development opportunities
+Work has been undertaken on the development of a newly enhanced Core Doctoral Training Programme which will be
+launched September 2024. This will deliver core skills aligning with QAA and UKRI recommendations as well as being
+underpinned by the VITAE Research Development Framework. Students will benefit from a cohort based approach by
+participating in four 1-week units which align with the stage of their research journey. Units will focus on: getting started;
+research development; research output; successful completion. The curriculum has been expanded with a wide range of
+new topics, including constructive criticism, responsible research, applied research, authorship policy, crafting high-quality
+research papers and presentations, intellectual property, and more. This programme will become mandatory once the
+necessary management systems have been put in place. There has also been an expansion of entrepreneurship training for
+research students, delivered through the Bettany Centre and provision of additional statistical training for research
+students.
+The CDN Annual Conference/3MT® was delivered during 2023-24, which covered different career journeys with a keynote
+from a Cranfield alumnus, Dr John Loizou, Director of Jaylambda Ltd as well as presentations by an Early Career Researcher
+and academic. Other sessions included: Creating Research Visions, Scholarship with Purpose and Personal Development
+Plans. There were 152 attendees in total which included research students, academic and research staff and professional
+services staff. The Three Minute Thesis competition enabled presentations from sixteen research students with 90
+attendees joining. Prior to the event, all participants were offered presentation skills training delivered by an external
+provider. Prizes for the 2023 Doctoral Publishing Awards were awarded at the CDN Annual Conference, complementing the
+new annual Academic Publishing Awards scheme.
+The Defence and Security Doctoral Symposium (DSDS) took place at the Shrivenham campus January 2024 with over 160
+people from 58 different organisations, with doctoral students presenting their work and engaging in the 3MT®
+competition.
+Research Committee reviewed the Annual Postgraduate Research Experience Survey (PRES) noting the 2024 response rate
+was 43.2% (355 responses from 822 potential respondents) compared to 41.8% in 2023 and a 2024 sector return rate of
+38.8% (median). Overall, the results from the national survey remain broadly positive. However, it was recognised that there
+continues to be areas for improvement that require proactive intervention, with key issues and challenges identified around
+research culture, supervisory practice and lack of consistency across the University. An action plan was presented to
+Executive and will be taken forward by Research Committee during the coming year. Further details are given in section 3.1
+of this report.
+Research Committee worked to enhance the Global Induction for Research Students based on feedback from research
+students. It also reviewed supervisor participation in refresher training, which Identified that 450 staff with Recognised
+Teacher Status required training or refresher training. 342 have now received training with 108 left to book. Building on this,
+we will now review, update and enhance supervisor training working with APEX and the Research Academic Process and
+Support group (RAPS).
+
+8
+
+3. R&I Strategic Priority - Diversity of People and Thought
+Discussions are underway to establish a mutually beneficial Technician Network in partnership with the Open University
+that provides support and networking for our technician communities as well as access to a wider range of research
+facilities. Activities planned include lab ‘twinning’, short exchanges, joint training, instrumentation sharing and access, guest
+visits, joint technician awards and joint instrumentation user groups.
+ECR Network Development included launch of annual two-day ECR Symposium with over 100 attendees each day. Following
+on from this, the Network has developed the bi-monthly seminar series and undertaken a post-doctoral researcher survey to
+identify how we can better support that community. The Inaugural Cranfield University Research Conference is to be held in
+May 2025 and the new University Seminar Series will be launched November 2024.
+
+Apprenticeship Steering Committee
+The Apprenticeships Steering Committee (ASC) is the focal point for the management of apprenticeships. The aim of the
+committee is to embed apprenticeships within the organisational structure, systems and processes of the University in order
+to deliver high quality training provision. ASC has one sub-committee, the Apprenticeship Quality Group (AQG), which focuses
+on the quality of apprenticeship provision.
+Key issues arising in 2023-24 are summarised below.
+1. Ofsted
+Ofsted became responsible for regulating the quality of apprenticeship provision at undergraduate and postgraduate levels
+(levels 4-7) in April 2021. Following a successful New Provider Monitoring Visit in October 2022, the leadership team
+implemented a range of actions to support the University’s preparations ahead of any Ofsted full inspection, principally the
+48-hour planning group against an anticipated inspection during 2024. Cranfield were notified on the 19th January that 6
+Ofsted inspectors would be undertaking a full inspection between the 23rd -26th January 2024. Our apprenticeships provision
+was graded as “Good” overall. Ofsted’s report detailed the strengths of our provision and identified areas for improvement. A
+review of Ofsted’s report and our experience of being inspected was undertaken by AQG. Six Task & Finish groups were
+established to make recommendations to AQG on the following priority areas: apprenticeships data and the way we use it to
+drive quality improvement; our approach to English & Maths development of apprentices; careers advice as an integral
+component of apprenticeships training; our approach to the safeguarding of apprentices who are under 19; feedback to
+apprentices; and our planning for and delivery of inspection. The groups made recommendations to AQG at the end of
+September 2024, which will inform the next iteration of our Self-Assessment Report and it is anticipated that the
+recommendations will be incorporated into a modified version of our Quality Improvement Plan. A copy of the full report can
+be found at: https://reports.ofsted.gov.uk/provider/43/133848.
+2. ESFA
+The provision of apprenticeships in England is regulated by ESFA who annually update and re-issue their funding rules for
+agreement by providers for the following funding period (1 st August – 31st July).
+In order to draw down apprenticeship levy funding in support of English Apprentices, providers are required to maintain
+registration on the Apprentice Provider and Assessment Register (APAR). This is achieved through the monitoring of
+provider compliance evidence and publication on the Apprenticeship Accountability Framework (AAF) each month plus
+through a cycle of provider monitoring audits.
+Cranfield University was subject to its first Education & Skills Funding Agency (ESFA) funding assurance review in September
+2023. The objective of the review was to assess whether Cranfield had complied with ESFA funding rules, including whether
+funds supplied had been used for the purposes intended. The review was undertaken by ESFA’s auditor RSM UK Risk
+Assurance Services LLP. The auditor concluded that Cranfield had substantially met contractual requirements in complying
+with the relevant funding documentation set out in ESFA’s funding rules and returned materially accurate data (i.e. a
+“satisfactory conclusion on the use of funds”). An action plan was agreed by the auditors and Cranfield University to address
+18 identified issues. The action plan is managed by the Head of Apprenticeships, is reviewed regularly with ESFA, and progress
+against the plan is reported regularly to AQG and ASC.
+3. OfS
+The OfS is responsible for the external quality assessment (EQA) of end point assessment (EPA) for integrated higher and
+degree apprenticeships. Cranfield’s and MK:U’s growing portfolio of integrated degree apprenticeships must use the Institute
+for Apprenticeships and Technical Education’s (IfATE) EQA framework and manual to ensure the quality assurance
+requirements for EPA (n.b. It was announced in the King’s Speech that IfATE is to be incorporated into Skills England). EQA
+assessment judges whether EPA is effective, valid and reliable and informs judgements about a compliance with the OfS’s
+condition of registration B4: Assessments and awards. When an end point assessment organisation (EPAO) starts delivering a
+new apprenticeship, this may be subject to an initial assessment carried out by the OfS to ensure the provider is ready to
+deliver the EPA (the EQA readiness check). Following the readiness check, the EPAO enters a monitoring cycle, known as the
+9
+
+EQA monitoring check. The OfS’s approach to EQA of EPA is risk-based and means that they may not undertake an
+assessment of every apprenticeship standard delivered by an EPAO, but will ensure that every EPAO will have an assessment
+of EPA for at least one of the apprenticeship standards it delivers.
+Cranfield established an EPAO Office in October 2023, which sits within Registry Services in the Education Services PSU, to
+oversee, manage and administer the requirements of the various assessment processes. It was anticipated that Cranfield,
+would be inspected during Autumn 2024. This assumption was based on OfS determining a number of standards as “High
+Risk” which includes the Digital Technologies apprenticeships at both level 6&7 requiring any EPAO/Provider to be
+assessed at the point of EPA for these, with Cranfield’s level 7 programme going to EPA later in 2024. In preparation the
+University established a EPAO Working group which is chaired by Dr Ruth Massie, Director of Education at MK:U and has
+representation from all integrated programmes, the Apprenticeship Office, the EPAO Office and other professional services.
+The OfS contacted the University in September 2024 regarding an external quality assurance readiness check for MK:U’s
+level 6 Digital and Technology Solutions provision. This Readiness Check is in train at the time of writing of this report and
+outcomes will be reported when available.
+4. Terms of reference review
+A review of the terms of reference of both the ASC and the AQG was initiated at the end of the 2023-24 academic year (to be
+completed at the beginning of the 2024-25 academic year with the outcome to be reported in next year’s Academic & Skills
+report). The reviews will consider the effectiveness of the committee and its subgroup, how the membership should change in
+response to the change in the university’s academic business unit structure, and the how learning arising from the ESFA audit
+in late 2023 and the Ofsted inspection in early 2024 should affect the scope and operation of the committee’s business.
+
+2.3 Other University Initiatives
+During the last academic year the University has commenced a number of projects to further enhance its educational
+offering. Some of these are set out below.
+
+Marking consistency project
+Cranfield University has never classified its postgraduate degrees (it previously classified its undergraduate degrees and
+will classify the undergraduate degree apprenticeships being delivered by MK:U). The pass-fail nature of Cranfield’s
+postgraduate degrees, our insulation from sectoral pressures and debates around so-called “grade-inflation” and awarding
+gaps, and a historical tendency towards decentralised oversight of awarding outcomes are some of the factors that credibly
+explain a lack of an academic discourse around the consistency and benchmarking of postgraduate student achievement.
+This is changing, prompted by the planning for the implementation of postgraduate degree classification in 2025-26 and the
+interest and scrutiny at Council arising from the presentation of award data in previous versions of this report. Education
+Committee’s Degree Classification and Credit Framework Working Group established a marking consistency subgroup in
+the 2023-24 academic year to guide our work in this area. In the past year the subgroup has focussed on the specification
+of reports on historical marking data which has been remodelled according to the proposed classification criteria and the
+communication of these reports to course teams as a starting point for dialogue around internal consistency and external
+benchmarking. This is a precursor to a new PowerBI report provide module marking statistics that will provide an
+accessible dashboard for course teams.
+The 2026-27 academic year Senate Academic & Skills report will set out our classified postgraduate degree outcomes for
+the first time. Until then we will continue to present data using arbitrary award classes (section 3 of this report). As
+requested by Council last year we present in this report 5 years’ of data according to quasi-classes and with data broken
+down by mode of study and demographic groups. These data highlight:
+• temporal phenomena (e.g. the 2023-24 overall high pass % is notably lower than the 5-year average);
+• differences in achievement associated with mode of study ( e.g. the part-time overall high pass % is consistently
+lower than its FT counterpart);
+• in 4 of the 5 years the male high pass % was higher than that of females (although overall performance is fairly
+similar);
+• that older students generally perform less well than their younger counterparts;
+• that in most years the % of those with a disclosed disability receiving a high pass is lower than those with no
+disclosed disability;
+• that there is a clear ethnicity / nationality award gap.
+This dataset has been considered by Education Committee and the data have been shared with course teams. It is plausible
+that this will be the first time that our colleagues have been asked to consider such data. This internal process of
+communicating, absorbing and understanding root causes will be accompanied by greater engagement with sectoral
+evidence bases and debates (e.g. the QAA’s mapping the award gap resources).
+
+10
+
+Exceptional circumstances process review
+Education Committee commissioned a working group to consider the current exceptional circumstances policy and
+processes, and whether these remain fit for purpose for all students of the University (Postgraduate Taught and Research,
+Undergraduate and Apprentices), and partly in response to the rise in the number of students disclosing mental health
+conditions and learning differences. The working group included 20 members of both academic and professional staff, who
+met as a wider group four times, with smaller task groups meeting to look at specific actions.
+The University’s current policy has been in place since 2014, and the group’s aim was to ensure that the policies and
+processes in place remained fit for purpose and provided sufficient support to students. Whilst it was felt that the current
+policy still remained appropriate a number of recommendations were made by the group, including simplifying the process
+for students by moving deferral of assessments from a separate process to being an outcome of a standard exceptional
+circumstances request, which has been implemented for the coming academic year. Further recommendations will be
+considered and implemented during 2024-25, including training for staff, clearer communication and process
+improvements.
+
+Education systems improvements
+There have been a number of educational system enhancements over the last academic year. They include:
+• The introduction of a new curriculum management system, Akari. Akari will act as the single source of truth for all
+curriculum data for taught and apprenticeship programmes and will feed downstream systems.
+• The launch of Maytas, the apprenticeship management system. Maytas manages all apprenticeship data, including
+tripartite review information and off the job training hours calculations.
+• A pilot of an attendance monitoring system via the student app. The pilot was successful and will be rolled out
+across all cohorts at MK:U. A project will be launched in the next academic year to roll this system out across
+Cranfield. This work will run alongside the student portal project. Both of which are set to be ready for
+implementation in spring 2025.
+• A project scoping out the possibility of developing electronic forms and workflows. Work with IT on finding
+solutions is ongoing.
+
+11
+
+3. Report on student experience and outcomes
+3.1 Experience
+Student experience surveys
+The Postgraduate Research Experience Survey (PRES) and Postgraduate Taught Experience Survey (PTES) are UK higher
+education sector-wide surveys designed to gain insight from postgraduate students about their experience. Organised
+annually by AdvanceHE, the surveys provide robust, benchmarked data from a large number of higher education providers
+across the UK, against which individual institutions can assess their own performance and drive enhancement of the
+student experience. Cranfield runs and responds to the research and taught surveys in a co-ordinated way, recognising the
+common factors affecting the student experience across the whole student body, whilst acknowledging the specific
+needs of different groups of learners.
+
+PRES
+The 2024 PRES survey ran from 2nd April – 16th May, and Cranfield had a response rate of 43.2% of all research students,
+which was higher than both the sector average for 2024 (38.8% median) and Cranfield’s 2023 response rate (41.8%).
+Figure 1 PRES results
+PRES Category
+2021
+
+2022
+
+2023
+
+2024
+
+Change
+(2023 to
+2024)
+
+Supervision
+
+4.35
+
+4.47
+
+4.46
+
+4.38
+
+-0.08
+
+Resources
+
+4.10
+
+4.31
+
+4.38
+
+4.29
+
+-0.09
+
+Research Culture
+
+3.33
+
+3.58
+
+3.66
+
+3.58
+
+-0.08
+
+Progress and Assessment
+
+4.22
+
+4.28
+
+4.30
+
+4.25
+
+-0.05
+
+Responsibilities
+
+4.08
+
+4.16
+
+4.24
+
+4.20
+
+-0.04
+
+Research Skills
+
+4.32
+
+4.40
+
+4.46
+
+4.31
+
+-0.15
+
+Professional Development
+
+3.96
+
+4.15
+
+4.20
+
+4.13
+
+-0.07
+
+Opportunities
+
+3.60
+
+4.00
+
+4.04
+
+3.86
+
+-0.18
+
+Overall Experience
+
+3.92
+
+4.02
+
+4.11
+
+4.06
+
+-0.05
+
+Motivations
+
+4.17
+
+4.22
+
+4.29
+
+4.23
+
+-0.06
+
+Support
+
+3.91
+
+4.05
+
+4.09
+
+4.06
+
+-0.03
+
+3.74
+
+3.70
+
+0.04
+
+4.20
+
+4.13
+
+-0.07
+
+Community
+Total
+
+New category
+4.04
+
+4.18
+
+The 2024 survey results showed a marginal decrease in the scores overall compared to 2023, with three categories scoring
+below four out of five. Cranfield’s overall score placed it 35th of the 53 institutions which took part in PRES, however the
+University was placed in the top ten for Resources, Progression and Support, and 11th for Community, which was one of
+Cranfield’s lowest scoring categories. It should be noted that there will still be some research students who completed the
+survey whose early experience of their degree programme was impacted by Covid.
+Figure 2 below shows the percentage of respondents who felt that their experience of each category was Good or Very
+Good. There was a small decrease in the scores for each section overall with the exception of Progress and Assessment
+which remained the same and Opportunities which increased nominally. Overall, Supervision and Research Skills continue
+to remain the most highly rated categories as was the case in 2022 and 2023. The percentage of students who were
+satisfied overall with the experience of their research degree programme was 79%. This compared to 81% of students at
+pre-92 institutions. In several areas Cranfield scored higher than the pre-92 benchmark, including the appropriateness of the
+programme induction and the institutional value of feedback.
+
+12
+
+Figure 2 PRES results - percent of students rating as good or very good
+PRES Category
+
+2021
+
+2022
+
+2023
+
+2024
+
+Supervision
+
+85%
+
+88%
+
+88%
+
+86%
+
+Resources
+
+78%
+
+85%
+
+86%
+
+85%
+
+Research Culture
+
+49%
+
+57%
+
+62%
+
+58%
+
+Progress and Assessment
+
+84%
+
+84%
+
+85%
+
+85%
+
+Responsibilities
+
+79%
+
+80%
+
+83%
+
+82%
+
+Research Skills
+
+85%
+
+88%
+
+91%
+
+87%
+
+Professional Development
+
+72%
+
+79%
+
+81%
+
+80%
+
+Opportunities
+
+63%
+
+73%
+
+73%
+
+74%
+
+Overall Experience
+
+74%
+
+77%
+
+80%
+
+79%
+
+Motivations
+
+81%
+
+825
+
+84%
+
+81%
+
+Support
+
+73%
+
+76%
+
+76%
+
+78%
+
+65%
+
+64%
+
+81%
+
+79%
+
+Community
+Total
+
+New category
+76%
+
+80%
+
+Overall, the results from the national survey remain broadly positive. However, it is recognised that there continues to be
+areas for improvement that require proactive intervention, with key issues associated with research culture, supervisory
+practice and lack of consistency across the University. The survey also allows respondents to give anonymised comments
+which provide considerable feedback to draw on to help us in identifying our strengths and weaknesses based on student
+feedback. Priority actions in response to this broader feedback have been identified and discussed and agreed by Senate’s
+Research Committee.
+
+PTES
+The PTES survey ran from 22nd April to 13th June 2024. More than 1000 taught students completed the survey. The overall
+response rate was 40% (56% for full time and 18% for part-time students). This was far higher than the sector average for
+2024 of 24.7% but lower than Cranfield’s response rate from 2023 (48% overall, 60% full-time and 19% part-time).
+Figure 3 PTES Scores
+PTES Category
+
+2021
+
+2022
+
+2023
+
+2024
+
+Change
+(2023 to
+2024)
+
+Teaching and Learning
+
+4.11
+
+4.19
+
+4.19
+
+4.23
+
++0.04
+
+Engagement
+
+4.07
+
+4.18
+
+4.21
+
+4.24
+
++0.03
+
+Assessment and Feedback
+
+3.84
+
+3.85
+
+3.87
+
+3.95
+
++0.08
+
+Dissertation or Major Project
+
+4.27
+
+4.20
+
+4.23
+
+4.28
+
++0.05
+
+Organisation & Management
+
+3.89
+
+3.92
+
+3.92
+
+4.06
+
++0.11
+
+Resources and Services
+
+3.99
+
+4.39
+
+4.50
+
+4.53
+
++0.03
+
+Skills Development
+
+4.16
+
+4.26
+
+4.28
+
+4.28
+
+-
+
+Support
+
+4.01
+
+4.16
+
+4.21
+
+4.23
+
++0.02
+
+3.89
+
+3.90
+
++0.01
+
+4.11
+
+4.22
+
++0.11
+
+Community
+Overall Experience of Course
+
+New category
+4.02
+
+4.14
+
+This year’s survey saw an increased score in the overall experience and in eight out of nine categories, with no change in the
+other category. 87% of respondents rated their overall experience as good or very good and 91% would recommend
+Cranfield to other students (both measures have improved since 2023).
+The area of highest satisfaction was Resources & Services with a category rating of 4.59 and 94% of respondents rating this
+good or very good. This covers library, IT, subject-specific facilities and wider support services. 2024 was the first year that
+the Organisation & Management category achieved a PTES score of ≥4. Assessment & Feedback continues its slow
+improvement (3.95 compared to 3.20 in 2011). Community, a relatively new PTES category, has the lowest rating (3.90).
+Community covers issues of belonging to a PGT community.
+
+13
+
+The part-time response rate was significantly lower than that for full-timers (18% compared to 56% for full-time students),
+with also notable differences in the response rate and some category ratings across Schools and Themes. Further analysis
+of between-course differences will be reported to Education Committee by Directors of Education.
+Student satisfaction at Cranfield was better than the national average in 7 out of the 9 categories and was better than the
+Russell Group average in all 9 categories. Cranfield was placed in the sector top quartile for only 4 of 9 categories, however,
+which does not align with our aspirations and expectations around postgraduate sector leadership. Education Committee
+will lead the establishment of a teaching excellence initiative in 2024-25 to address our position in the PTES.
+
+Student support
+Student Wellbeing and Disability Support (SWaDS)
+The service (SWaDS) is a central point of contact for all students and guidance for staff on student welfare matters.
+Advisors offer information and support to students on a wide range of academic, welfare and personal issues, alongside
+assessing risk, case escalation and management of internal and external support where a student presents as vulnerable,
+including Fitness to Study, loss of contact and safeguarding. Management and referral to University counselling services is
+also overseen by SWaDS. The SWaDS team have expanded over 2023-24, with the appointment of an additional Learning
+Support Officer and a Deputy Head.
+As part of the SWaDS provision the service centrally co-ordinates reasonable adjustments to support students with
+disabilities, physical and mobility impairments, specific learning differences and mental and physical health conditions.
+A proposal has been approved to change to a new online tool which screens for traits of neurodiverse conditions as
+opposed to dyslexia only. The tool provides evidence and recommendations to support reasonable adjustments where a
+condition has yet to be diagnosed alongside access to a digital platform with tailored guidance on learning styles and
+access to resources.
+Student Wellbeing and Disability Support service engagement
+While student registrations have reduced, in line with the sector, engagement with wellbeing support and the number of
+students presenting with mental health concerns and those considered at risk, remains significantly higher than 3 years
+ago. Reported incidents of harassment (all forms) and bullying has also seen an increase this year. The launch of ‘Report
+and Support’ (July 2023) enabling named and anonymous reporting, alongside the introduction of a ‘Bystander Intervention’
+online module for students, has helped raise awareness of all forms of harassment and routes for support and redress.
+Further training and activities are under consideration to address the new OfS condition of registration on harassment and
+sexual misconduct which comes into place in August 2025.
+Figure 4 shows the number students presenting to SWaDS with a mental health concern. Of the 1375 total engagements
+with the service, 19% were apprentice students, a 5% increase from 2022-23. This is separate to students who
+share/disclose a mental health condition, which is reflected later in the report in Figure 13. In 2024 Cranfield joined the
+University Mental Health Charter Programme to further enhance practice and cultural change.
+Figure 4 Concerns reported to SWaDS
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Bullying / harassment
+
+16
+
+37
+
+36
+
+47*
+
+Mental health
+
+155
+
+296
+
+288
+
+299
+
+Student of concern / suicidal ideation / safeguarding
+concern
+
+39
+
+89
+
+76
+
+77
+
+Total number of engagements with services
+
+933
+
+1340
+
+1147
+
+1375
+
+* 23 students via Report and Support, of which 9 were anonymous.
+Of note, the number of 19yr olds and under and the associated regulatory and pastoral expectations around welfare
+support, has significantly increased this year and was subject to scrutiny in the Ofsted inspection in January 2024. The
+regulatory expectations around younger students has led to the introduction of a University policy on students under the
+age of 18, and a review of the Ofsted expectations of support for students aged 19 and under and ‘care experienced’
+targeted support, with improved data reporting and guidance in development.
+Counselling service engagement
+The need for professional counselling services is recognised as an essential part of university student support provision.
+The model of in-house counsellors vs. external contracted counsellors varies across the sector and is in part based on
+student population on campus. Many universities offer 24/7 crisis support, contracted out to external suppliers,
+predominantly via phone with a trained mental health professional. This is alongside the national free 24/7 support services
+including NHS urgent mental health, Samaritans and Shout services.
+14
+
+In line with the sector, short-term (up to six sessions per academic year) 1-2-1 counselling is available to all students with a
+provision for additional sessions where appropriate. Referral to counselling services is managed by the SWaDS team where
+all sources of internal and external support are highlighted to the student.
+To date, Cranfield has relied on externally ‘preferred supplier’ contracted counsellors and the web platform Togetherall
+(online support) to provide these services. A review of service use, of external providers and more detailed monitoring has
+raised questions over the suitability of the current provision we use to meet a changing student demand, with a proposal for
+changes to our model currently under consideration.
+As shown in Figure 5 below, in 2023-24 145 students accessed the 1-2-1 counselling service, with 810 sessions offered in
+total. 32 of the 145 students who accessed the service required more than 6 sessions, which accounted for 336 of all the
+sessions offered.
+Figure 5 Student use of counselling services
+Student use of Counselling services
+
+Number of Number of
+students sessions
+
+2019-20
+
+132
+
+911
+
+2020-21
+
+161
+
+904
+
+2021-22
+
+153
+
+826
+
+2022-23
+
+121
+
+467
+
+2023-24
+
+145
+
+810
+
+Apprenticeship Student Provision
+Programme Development
+Currently the University delivers apprenticeships against 18 apprenticeship standards with 12 at level 7 and 6 at level 6, with
+7 being integrated where Cranfield are also the End Point Assessment Organisation (EPAO).
+Across the apprenticeship portfolio there are 23 individual programmes with the Senior Leader apprenticeship standard
+being used across 5 separate pathways, MBA, Marketing, Management, Supply Chain and the non-award bearing Executive
+programme. Additionally, the university is developing the level 7 Robotics specialist, having recently approved the level 6
+Robotics Engineer, plus the level 7 Soil Scientist apprenticeship.
+Further developments in discussion currently include at level 6 Project Manager and Supply Chain Professional and at level
+7 Digital Forensics.
+Apprentice Recruitment
+As of October 20th 477 apprentice applications had been received across 15 cohort start dates for Sept/Oct. Of these, 443
+have been registered as apprentices with 34 applications withdrawn for various reasons. There are a further 9 cohort starts
+scheduled between Nov 2024 - April 2025. At the corresponding point in 2023 there had been 226 applications across 13
+cohort starts. The final apprentices’ registrations for 2023-24 was 642, across all 23 cohorts.
+Figure 6 New apprentice registrations
+School
+
+2023-24
+(final)
+
+2024-25
+(at 20/10)
+
+SATM
+
+58
+
+91
+
+SOM
+
+309
+
+170
+
+SWEE
+
+7
+
+23
+
+CDS
+
+26
+
+31
+
+MK:U
+
+242
+
+128
+
+Annual Apprentice Portfolio Review (AAPR)
+Review of the Cranfield/MK: U apprenticeships portfolio will be incorporated into the wider university portfolio review
+announced as part of the University Change Programme.
+The AAPR will form part of the process to ensure all apprentice delivery is being delivered in accordance with the various
+regulators, providing ASC assurance that those involved at a programme level fully understand and recognise the
+15
+
+requirements of ESFA, Ofsted & OfS. Additionally at a Faculty level the commercial viability of each apprentice programme
+will be considered, and appropriate recommendations/actions implemented. The AAPR process was piloted by MK:U during
+2024 with a full roll out to the university expected in 2025.
+Communications and processes
+The Apprenticeship Office and Education Services work together to ensure compliance and alignment with University and
+apprenticeship rules and regulations. Clear and open lines of communication continue to be embedded. The teams have
+regular progress meetings to discuss all apprentices and their progression and attendance matters. This has helped ensure
+more accurate record keeping and onward external reporting.
+A new process has been implemented to ensure better alignment with apprenticeship related dates, such as start and end
+dates, exam board, gateway and EPA. This was an action required following the Ofsted visit.
+Attendance monitoring
+As mentioned above under Education Systems Improvements, MK:U piloted a new attendance monitoring system with CI
+Connect, via the MyMKU app. This pilot was successful and has started to provide more accurate data, improved reporting
+with less manual intervention. This system is being rolled out to all apprentices at MK:U and as mentioned a project is
+launching in academic year 2024-25 to launch at Cranfield.
+Maytas launch
+As discussed in the Education systems Improvements section, Maytas Hub was launched with September 2023
+apprentices being the first to engage with the system. Although the project team was closed in July 2023, with the
+Apprentice Office assuming responsibility, there remain several changes being actioned by SST and Tribal (software
+supplier). Those engaged with the system have commented on its functionality being complex and at present (October
+2024) there are still issues with enabling employer access.
+The areas around student management and portfolio building have been successfully launched and all apprentices are
+engaging with the processes and evidence is being generated. The first cohort to progress gateway using Maytas Hub will
+do so in late November 2024.
+
+Complaints, appeals and academic misconduct
+The University has in place formal processes which govern the management of student complaints, academic appeals and
+allegations of academic misconduct. These processes are set out in Senate Handbooks, which are regularly reviewed to
+take account of casework experience and external regulatory changes.
+Details of the student complaints, academic appeals and academic misconduct cases investigated during the year are
+set out below. The investigation procedures for student complaints, academic appeals and academic misconduct cases
+all follow a three-stage process, an informal, local investigation (Stage 1), a formal investigation undertaken by an
+independent member of staff (Stage 2) and a formal review of the Stage 2 investigation (Stage 3). Following the internal
+process students have the right to request that an independent body, the Office of the Independent Adjudicator (OIA)
+considers the University’s response to their case.
+Student Complaints
+Figure 7 Student Complaints
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Total Stage 2 cases
+
+21
+
+21
+
+18
+
+26
+
+18
+
+Stage 2 cases upheld
+or partially upheld
+
+15
+
+11
+
+<5
+
+14
+
+9
+
+Total Stage 3 cases
+
+8
+
+7
+
+<5
+
+8
+
+8
+
+Stage 3 cases upheld
+or partially upheld
+
+5
+
+<5
+
+0
+
+<5
+
+0
+
+Cases referred to the
+OIA by student
+
+<5
+
+8
+
+<5
+
+<5
+
+<5
+
+Found to be
+justified/partially
+justified by the OIA
+
+<5
+
+<5
+
+0
+
+0
+
+0
+
+Figure 7 above shows a drop in both the number of complaints received in 2023-24 compared to the previous year and in
+the number of complaints which were upheld or partially upheld. The table above covers Stage 2 (formal investigation)
+and Stage 3 (Review of Stage 2 decision) of the complaints process, with Stage 1 (informal investigation) being
+undertaken at a local level by relevant staff in the area of that student’s concern. Stage 1 complaints are not centrally
+16
+
+recorded, but address concerns directly and swiftly for students. Where students are dissatisfied with a formal outcome
+of a Stage 2 investigation they may request a review of the Stage 2 investigation (Stage 3). The above figures show that
+in 2023-24, no Stage 3 reviews were upheld (meaning that the Stage 3 investigator considered that the Stage 2
+investigation had been completed appropriately and in line with the University’s published complaints procedures).
+Academic Appeals
+Figure 8 Academic Appeals
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Total Stage 1 cases
+
+26
+
+32
+
+36
+
+62
+
+68
+
+Stage 1 cases
+upheld
+
+8
+
+10
+
+15
+
+23
+
+12
+
+Total Stage 2 cases
+
+<5
+
+<5
+
+<5
+
+<5
+
+<5
+
+Stage 2 cases
+upheld or partially
+upheld
+
+0
+
+<5
+
+<5
+
+0
+
+0
+
+Total Stage 3 cases
+
+0
+
+<5
+
+<5
+
+<5
+
+0
+
+Stage 3 cases
+upheld or partially
+upheld
+
+0
+
+<5
+
+<5
+
+0
+
+0
+
+Cases referred to
+the OIA by student
+
+0
+
+<5
+
+0
+
+<5
+
+0
+
+Found to be
+justified/partially
+justified by the OIA
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2023-24 saw a continued increase in the number of academic appeals received at Stage 1, where an informal
+investigation is carried out to determine if an error in the assessment or marking process or recording has occurred. In
+our view, this rise in appeals is due to our students being increasingly prepared to challenge academic decisions. Of
+these a small number were upheld, with the rest dismissed or withdrawn. The academic appeals received as Stage 2
+formal appeals were all dismissed as without appropriate grounds for appeal.
+Academic Misconduct
+Figure 9 Academic Misconduct cases
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Total Stage 1 cases
+
+70
+
+90
+
+305
+
+177
+
+102
+
+Stage 1 cases
+upheld
+
+60
+
+85
+
+290
+
+153
+
+83
+
+Total Stage 2 cases
+
+60
+
+85
+
+290
+
+153
+
+84
+
+Stage 2 cases
+upheld or partially
+upheld
+
+46
+
+70
+
+212
+
+113
+
+54
+
+Total Stage 3 cases
+
+0
+
+0
+
+9
+
+11
+
+5
+
+Stage 3 cases
+upheld or partially
+upheld
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Cases referred to
+the OIA by student
+
+0
+
+0
+
+<5
+
+<5
+
+0
+
+Found to be
+justified/partially
+justified by the OIA
+
+0
+
+0
+
+0
+
+0
+
+0
+
+There was a significant drop in the number of academic misconduct cases investigated and upheld at Stage 1, following
+work undertaken to address the rise in cases experienced in 2021-22, which was attributed to issues with time-compressed
+assessments introduced during the Covid crisis. There was a drop in the proportion of cases that were upheld at Stage 2
+(meaning that the student was found to have committed academic misconduct after a formal investigation), however it
+should be noted that 15 of the 84 cases considered at Stage 2 are pending an outcome.
+Students have the right to make a complaint about the University to an independent body, the Office of the Independent
+Adjudicator, who independently review whether the University has properly applied its regulations and followed its
+17
+
+procedures, whether the procedures were reasonable and whether the final decision was reasonable. During 2023-24 the
+OIA, following a review of a 2022-23 academic misconduct case, suggested that the University revisit its academic
+misconduct procedures for the consideration of exceptional circumstances, This is being fed into a wider review of the
+academic misconduct process taking place during 2024-25.
+
+3.2 Outcomes and demographics
+Student demographic data
+The tables below present demographic data on students registered with the University during 2023-24, and cover
+postgraduate and undergraduate provision. The data presented as part of this report was taken from the dataset used to
+inform the University’s HESA data return, taken in June 2024. This data includes all students who were involved in an
+academic activity in 2023-24 (including completion of theses), and as such includes students on full-time one-year
+courses who commenced their studies in 2022-23.
+Figure 10 Overall student demographic data 2023-24
+Research
+
+Taught
+
+Taught
+Total
+
+Grand
+Total
+
+FT
+
+PT
+
+Research
+Total
+
+Female
+
+70
+
+20
+
+90
+
+332
+
+63
+
+28
+
+423
+
+513
+
+Male
+
+328
+
+94
+
+422
+
+1375
+
+322
+
+87
+
+1784
+
+2206
+
+Other
+
+<5
+
+<5
+
+7
+
+19
+
+6
+
+<5
+
+28
+
+35
+
+Female
+
+35
+
+28
+
+63
+
+491
+
+117
+
+249
+
+857
+
+920
+
+Male
+
+27
+
+58
+
+85
+
+696
+
+268
+
+293
+
+1257
+
+1342
+
+Other
+
+-
+
+-
+
+-
+
+10
+
+<5
+
+<5
+
+17
+
+17
+
+Female
+
+112
+
+8
+
+120
+
+149
+
+18
+
+9
+
+176
+
+296
+
+Male
+
+140
+
+13
+
+153
+
+272
+
+50
+
+<5
+
+326
+
+479
+
+Other
+
+<5
+
+-
+
+<5
+
+9
+
+-
+
+<5
+
+10
+
+11
+
+Female
+
+20
+
+19
+
+39
+
+116
+
+143
+
+36
+
+295
+
+334
+
+Male
+
+41
+
+62
+
+103
+
+87
+
+752
+
+41
+
+880
+
+983
+
+Other
+
+<5
+
+-
+
+<5
+
+<5
+
+24
+
+<5
+
+29
+
+30
+
+MK:U
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Female
+
+-
+
+-
+
+-
+
+-
+
+-
+
+107
+
+107
+
+107
+
+Male
+
+-
+
+-
+
+-
+
+-
+
+-
+
+279
+
+279
+
+279
+
+Other
+
+-
+
+-
+
+-
+
+-
+
+-
+
+12
+
+12
+
+12
+
+FT
+
+PT
+
+PT
+Apprentice
+
+SATM
+
+SOM
+
+SWEE
+
+CDS
+
+Despite significant increases in the number of part-time non-apprentice students (+156) and students enrolled at MK:U
+(+212) there was an overall drop in student numbers of 389 students, continuing the downward trend in student numbers
+witnessed over the last four years as shown in the figure below. The figure below also shows a decrease in the number of
+apprentices enrolled with the University, which has contributed to the reduction in overall student numbers, and
+consequently has lowered the University’s proportion of (and reliance on) apprenticeship students, down from
+apprentices accounting for 21% of all taught students in 2020-21 to 15% in 2023-24. The reduction of the University’s
+apprenticeship students as a proportion of all taught students reduces our dependency on Apprenticeship Levy funding, and the
+risks associated with any changes in Government policy regarding apprenticeship funding.
+Figure 11 below provides details of the numbers of registered students who were included in HESA returns for the last
+four years, and shows a year-on-year drop in taught (and overall) student numbers since 2021-22. Figure 12 provides
+year-on-year data of new student registrations, which follow the declining trend of the overall data.
+
+18
+
+Figure 11 Overall student demographic data 2020-24
+Year
+
+Research
+FT
+
+PT
+
+Research
+Total
+
+Taught
+
+2020-21
+
+768
+
+297
+
+1065
+
+3359
+
+2136
+
+1490
+
+6985
+
+8050
+
+21%
+
+2021-22
+
+765
+
+302
+
+1067
+
+3694
+
+2127
+
+1439
+
+7260
+
+8327
+
+20%
+
+2022-23
+
+799
+
+306
+
+1105
+
+4015
+
+1610
+
+1223
+
+6848
+
+7953
+
+18%
+
+2023-24
+
+779
+
+305
+
+1084
+
+3560
+
+1766
+
+1154
+
+6480
+
+7564
+
+15%
+
+Taught
+Total
+
+Grand
+Total
+
+% Apprentices
+of Taught
+total
+
+FT
+
+PT
+
+PT
+Apprentice
+
+Taught
+Total
+
+Grand
+Total
+
+%
+Apprentices
+of Taught
+total
+
+Figure 12 New student registration data 2020-24
+Year
+
+Research
+FT
+
+PT
+
+Research
+Total
+
+Taught
+
+2020-21
+
+218
+
+44
+
+262
+
+1560
+
+451
+
+550
+
+2561
+
+2823
+
+21.5%
+
+2021-22
+
+162
+
+38
+
+200
+
+1972
+
+361
+
+308
+
+2641
+
+2841
+
+11.7%
+
+2022-23
+
+143
+
+40
+
+183
+
+2060
+
+321
+
+317
+
+2698
+
+2881
+
+11.7%
+
+2023-24
+
+130
+
+36
+
+166
+
+1561
+
+383
+
+327
+
+2271
+
+2437
+
+14.4%
+
+FT
+
+PT
+
+PT
+Apprentice
+
+Figures 13-16 below set out data on some of the protected characteristics of the student population as defined by the
+Equality Act 2010. The data is presented alongside historical comparisons. Consideration of this data allows the
+University to ensure that it has due regard to the demographics of the student population and that appropriate support
+is in place for these students.
+Figure 13 Student disability status
+Disabilities
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Multiple Disabilities
+
+17
+
+20
+
+29
+
+28
+
+Learning difference such as dyslexia, dyspraxia or AD(H)D
+
+251
+
+277
+
+276
+
+318
+
+Social/communication conditions such as a speech and language
+impairment or an autistic spectrum condition
+
+12
+
+11
+
+18
+
+30
+
+Physical impairment (a condition that substantially limits one or more
+basic physical activities such as walking, climbing stairs, lifting or
+carrying
+
+19*
+
+16
+
+19
+
+18
+
+Mental health condition, challenge or disorder, such as depression,
+schizophrenia or anxiety
+
+63
+
+81
+
+95
+
+110
+
+-
+
+-
+
+-
+
+<5
+
+57
+
+64
+
+69
+
+78
+
+-
+
+6
+
+8
+
+<5
+
+Deaf/deaf or have a hearing impairment
+
+20
+
+17
+
+14
+
+11
+
+An impairment, health condition or learning difference not listed above
+
+32
+
+33
+
+44
+
+41
+
+Temporary disability (e.g. accident, post viral)
+Long-term illness or health condition such as cancer, HIV, diabetes,
+chronic heart disease, or epilepsy
+Blind or have a visual impairment uncorrected by glasses
+
+*includes visual impairments
+The number of students disclosing a disability has risen year on year, despite the drop in student numbers. The proportion
+of students disclosing a disability has risen from 5.85% in 2020-21 to 8.45% in 2023-24, although this is below the 11%
+national average for postgraduate students who report a disability (2020-21). Learning differences such as dyslexia,
+dyspraxia or AD(H)D remain the primary category of disability at 49.6% (2023-24), however the University has seen a steady
+increase in students reporting a mental health condition (17% in 2023-24 vs. 15.4% in 2021-22). This is in line with the sector
+and in part driven by greater awareness of mental health conditions and symptoms leading to earlier diagnosis, and
+changing attitudes towards disclosing mental health conditions, but also reflects the increasing prevalence of mental health
+conditions in the wider adult population.
+Figures 14-16 below present data on student ethnicity, religious belief or non-belief and age on entry and show that the
+University continues to have a diverse student population. It is noted that the proportion of students over the age of 30 on
+entry has decreased each year since 2020-21, from 46% to just 39%, which may partly be attributed to the University
+offering undergraduate courses through MK:U but also reflects a decrease in the number of students joining in the 30-39
+age bracket, with the proportion of over 40’s remaining reasonably consistent.
+19
+
+Figure 14 Student ethnicity
+Ethnicity
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+6
+
+6
+
+11
+
+118
+
+Asian or Asian British
+
+2231
+
+2746
+
+3266
+
+2860
+
+Black or Black British
+
+518
+
+526
+
+589
+
+539
+
+Information refused/not available
+
+124
+
+109
+
+82
+
+111
+
+Mixed or multiple ethnic groups
+
+141
+
+257
+
+253
+
+215
+
+Other ethnic background
+
+334
+
+242
+
+216
+
+147
+
+White
+
+4696
+
+4441
+
+3955
+
+3574
+
+Religion
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Buddhist
+
+73
+
+61
+
+95
+
+74
+
+Christian
+
+2056
+
+2201
+
+2145
+
+1537
+
+Hindu
+
+492
+
+930
+
+1428
+
+1031
+
+Jewish
+
+12
+
+23
+
+25
+
+22
+
+Muslim
+
+439
+
+591
+
+680
+
+499
+
+No Religion
+
+2866
+
+2949
+
+2759
+
+2049
+
+Not available
+
+1909
+
+1393
+
+606
+
+2197
+
+Sikh
+
+42
+
+47
+
+54
+
+36
+
+Other
+
+161
+
+132
+
+161
+
+119
+
+Arab
+
+Figure 15 Student religious belief or non-belief
+
+Figure 16 Student age on entry
+Age
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+under 24
+
+2685
+
+2895
+
+3119
+
+2970
+
+25 - 29
+
+1674
+
+1765
+
+1837
+
+1624
+
+30 - 34
+
+1324
+
+1311
+
+1194
+
+1022
+
+35 - 39
+
+1009
+
+1002
+
+933
+
+822
+
+40 - 44
+
+637
+
+637
+
+602
+
+521
+
+45 - 49
+
+428
+
+413
+
+380
+
+327
+
+50 - 54
+
+193
+
+205
+
+194
+
+173
+
+55 - 59
+
+84
+
+76
+
+89
+
+80
+
+60 - 64
+
+<15
+
+<15
+
+17
+
+19
+
+65 and over
+
+<5
+
+<5
+
+7
+
+6
+
+Figure 17 below shows fairly steady numbers of total registered postgraduate research students over the last four years,
+with a small drop in 2023-24 from 2022-23. Overall research student numbers show greater stability than the number of
+taught students, which have seen significant drops over the last four years.
+Figure 17 Intended postgraduate research students’ awards 2020-24
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+DBA
+
+49
+
+50
+
+51
+
+45
+
+EngD
+
+28
+
+20
+
+0
+
+0
+
+MPhil
+
+6
+
+8
+
+5
+
+<5
+
+MSc by Research
+
+61
+
+57
+
+53
+
+56
+
+PhD
+
+921
+
+932
+
+996
+
+963
+
+Figure 18 below shows a continuing trend of a decrease in overall apprenticeship student numbers, which is due to a further
+decrease in the number of apprentices registered in the School of Management. The other three Schools have seen moderate
+increases in their apprentice numbers, with MK:U (where all students are studying as part of an apprenticeship) showing
+significant growth. The overall decrease in the number of apprentices has contributed to the decrease in overall taught student
+numbers, but is not as significant a factor as the reduction in numbers of new full-time taught students. MK:U apprentices are
+20
+
+completing part-time undergraduate awards, so therefore have longer registration periods (and remain registered students for a
+longer period of time) than those studying for a postgraduate award, so the numbers of MK:U apprentices is likely to rise again
+next year, as students who registered with MK:U in 2021-22 will only begin to complete their studies in 2024-25.
+Figure 18 Apprenticeship students by School
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+SATM
+
+211
+
+142
+
+99
+
+118
+
+SOM
+
+1241
+
+1160
+
+865
+
+546
+
+SWEE
+
+6
+
+7
+
+10
+
+14
+
+CDS
+
+32
+
+50
+
+63
+
+78
+
+MK:U
+
+-
+
+80
+
+186
+
+398
+
+Student achievement data
+Taught Students (non-apprentices)
+The tables below present achievement data of non-apprentice postgraduate students whose awards were completed and
+confirmed during the 2023-24 academic year. The University does not currently classify taught awards, however
+achievement below is presented as students achieving a final overall mark of High Pass (≥70%), Good Pass (60%-69%),
+Pass (50%-59%) or Fail (<50%) (n.b. these are quasi-classes created for the purposes of this report). The University is
+preparing to implement a classification system for its postgraduate taught awards from 2025-26, however for Master’s
+awards the classification will be based on an algorithm which takes into account the final average mark (as presented
+here) and the students’ final thesis mark.
+There were no students studying for an undergraduate award who completed their award during 2023-24.
+Figure 19 below shows a decrease in 2023-24 of the percentage of students who achieved a High Pass (≥70%), although the
+data shows this was matched by an increase in the number of students achieving a Good Pass (60-69%), meaning that the
+percentage of students who did not achieve at least 60% as their final average was only 10.2%. This was consistent with the
+previous four years and matched the 5-year average. As set out in section 2.3 of this report, Senate’s Education Committee
+has, through its Classification and Credit Framework Working Group established a subgroup to look at marking consistency
+across all taught programmes and sector benchmarking prior to the introduction of formal award classifications.
+Figure 19 Overall taught achievement 2019-24
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+5-year
+Average
+
+High Pass
+
+44.5%
+
+47.5%
+
+43.9%
+
+41.9%
+
+36.8%
+
+42.6%
+
+Good Pass
+
+45.6%
+
+43.4%
+
+45.2%
+
+47.5%
+
+52.9%
+
+47.2%
+
+Pass
+
+7.4%
+
+7.4%
+
+8.8%
+
+9.1%
+
+9.3%
+
+8.5%
+
+Fail
+
+2.5%
+
+1.7%
+
+2.1%
+
+1.5%
+
+0.9%
+
+1.7%
+
+Figure 20 Taught achievement by mode of study
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+5-year
+Average
+
+High Pass
+
+49.0%
+
+49.9%
+
+47.1%
+
+42.9%
+
+37.0%
+
+44.6%
+
+Good Pass
+
+42.7%
+
+41.5%
+
+42.5%
+
+45.8%
+
+52.5%
+
+45.4%
+
+Pass
+
+6.9%
+
+7.0%
+
+9.0%
+
+9.9%
+
+9.3%
+
+8.5%
+
+Fail
+
+1.4%
+
+1.7%
+
+1.4%
+
+1.5%
+
+1.1%
+
+1.4%
+
+High Pass
+
+29.0%
+
+38.4%
+
+33.5%
+
+38.3%
+
+36.1%
+
+35.1%
+
+Good Pass
+
+55.9%
+
+50.8%
+
+54.1%
+
+54.0%
+
+54.4%
+
+53.9%
+
+Pass
+
+9.0%
+
+8.9%
+
+7.9%
+
+6.1%
+
+9.4%
+
+8.2%
+
+Fail
+
+6.1%
+
+1.9%
+
+4.5%
+
+1.6%
+
+0.2%
+
+2.8%
+
+FT
+
+PT
+
+21
+
+As shown in Figure 20 the achievement rates of full-time students who achieve either a High Pass or Good Pass (≥60%) has
+remained fairly static across the last five years, with the equivalent achievement for part-time students showing slight yearon-year fluctuations.
+Figure 21 below sets out achievement by gender, which remains fairly even between male and female students, with the
+percentage of female students receiving a high pass consistently slightly lower than male students. However, female
+students across the last five years have seen a slightly higher proportion of High Pass and Good Pass outcomes compared
+to male students.
+Figure 21 Taught achievement 2019-24 by gender
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+5-year
+Average
+
+High Pass
+
+42.6%
+
+46.9%
+
+44.2%
+
+38.7%
+
+35.2%
+
+41.2%
+
+Good Pass
+
+48.1%
+
+45.8%
+
+45.4%
+
+51.3%
+
+54.2%
+
+49.3%
+
+Pass
+
+7.5%
+
+6.3%
+
+9.0%
+
+9.0%
+
+10.0%
+
+8.4%
+
+Fail
+
+1.8%
+
+1.0%
+
+1.4%
+
+1.0%
+
+0.5%
+
+1.1%
+
+High Pass
+
+45.2%
+
+47.7%
+
+43.7%
+
+43.1%
+
+37.3%
+
+43.1%
+
+Good Pass
+
+44.6%
+
+42.4%
+
+45.2%
+
+46.2%
+
+52.6%
+
+46.5%
+
+Pass
+
+7.4%
+
+7.9%
+
+8.7%
+
+9.2%
+
+9.1%
+
+8.5%
+
+Fail
+
+2.8%
+
+2.0%
+
+2.4%
+
+1.6%
+
+1.1%
+
+1.9%
+
+High Pass
+
+-
+
+100.0%
+
+100.0%
+
+66.7%
+
+62.5%
+
+64.0%
+
+Good Pass
+
+100.0%
+
+-
+
+-
+
+16.7%
+
+31.3%
+
+28.0%
+
+Pass
+
+-
+
+-
+
+-
+
+-
+
+6.3%
+
+4.0%
+
+Fail
+
+-
+
+-
+
+-
+
+16.7%
+
+-
+
+4.0%
+
+Female
+
+Male
+
+Other
+
+Figure 22 below sets out achievement by disability status. It shows that a higher proportion of students who have declared
+a disability do fail to achieve their award, although this has significantly decreased since 2019-20 and is reasonably in line
+with the achievement levels of those not declaring a disability. In addition, the percentage of students who have declared a
+disability who achieve a High Pass has continued to increase and for the first time in 2023-24 was higher than the High
+Pass achievement of students who have not declared a disability. This demonstrates that the efforts over the last few years
+to support and make available resources to students who have declared a disability has had a positive impact on their
+ability to achieve.
+Figure 22 Taught Student achievement by disability status
+2019-20
+
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+5-year
+Average
+
+High Pass
+
+37.9%
+
+36.9%
+
+40.5%
+
+40.6%
+
+41.4%
+
+39.6%
+
+Good Pass
+
+44.7%
+
+48.5%
+
+41.4%
+
+45.5%
+
+47.7%
+
+45.6%
+
+Pass
+
+6.8%
+
+12.6%
+
+11.7%
+
+10.5%
+
+9.4%
+
+10.2%
+
+Fail
+
+10.7%
+
+1.9%
+
+6.3%
+
+3.5%
+
+1.6%
+
+4.6%
+
+High Pass
+
+44.8%
+
+48.0%
+
+44.1%
+
+42.0%
+
+36.6%
+
+42.8%
+
+Good Pass
+
+45.7%
+
+43.1%
+
+45.4%
+
+47.6%
+
+53.2%
+
+47.3%
+
+Pass
+
+7.4%
+
+7.1%
+
+8.6%
+
+9.0%
+
+9.3%
+
+8.4%
+
+Fail
+
+2.0%
+
+1.7%
+
+1.9%
+
+1.4%
+
+0.9%
+
+1.5%
+
+Disclosed
+disability
+
+No disclosed
+disability
+
+22
+
+Research Students
+Research students do not receive a numerical mark for their final award outcome, with achievement measured as pass or
+fail. The University reports student completion within four years for full-time students and six years for part-time students,
+as set out in Figures 23a and 23b below. It should be noted that the figures for 2023-24 are skewed by the large number of
+students who have submitted their theses but not yet received a confirmed outcome. The 2020-21 – 2022-23 data shows a
+consistent level of completion for research students. The data below shows a high level of recorded withdrawals; this may
+be where a student has withdrawn from their award, be as a result of the outcome of a Review meeting or be where the
+student is recommended to work towards a lower award.
+Figure 23a Research student completion data – Full-time students
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Completed - over 4 years
+
+47.54%
+
+48.52%
+
+44.90%
+
+31.36%
+
+Completed - under 4 years
+
+29.51%
+
+30.18%
+
+27.89%
+
+22.03%
+
+Submissions - no outcome yet confirmed
+
+0.82%
+
+1.18%
+
+5.44%
+
+39.83%
+
+Withdrawals
+
+18.03%
+
+18.34%
+
+19.73%
+
+3.39%
+
+Failures
+
+4.10%
+
+1.78%
+
+2.04%
+
+3.39%
+
+Figure 23b Research student completion data – Part-time students
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+Completed - over 6 years
+
+51.16%
+
+40.38%
+
+39.29%
+
+32.73%
+
+Completed - under 6 years
+
+18.60%
+
+28.85%
+
+25.00%
+
+12.73%
+
+-
+
+1.92%
+
+7.14%
+
+32.73%
+
+Withdrawals
+
+25.58%
+
+28.85%
+
+26.79%
+
+16.36%
+
+Failures
+
+4.65%
+
+-
+
+1.79%
+
+5.45%
+
+Submissions - no outcome yet confirmed
+
+Degree apprentice students
+Apprentice achievement is also presented with the same achievement groupings as other taught students. Figure 24
+below table provides the achievement of apprentices compared to non-apprentice students. Overall and in 2023-24
+apprentices have a higher proportion of both High Pass (≥70%) outcomes and either High or Good Pass outcomes (≥60%)
+compared to non-apprentices. The percentage of apprentices who fail to achieve their award is very low across the last
+four years (zero in 2023-24).
+Figure 24 Overall degree apprentice achievement
+2020-21
+
+2021-22
+
+2022-23
+
+2023-24
+
+High Pass
+
+50.6%
+
+51.1%
+
+39.1%
+
+39.5%
+
+Good Pass
+
+48.6%
+
+48.0%
+
+58.4%
+
+57.5%
+
+Pass
+
+0.8%
+
+0.7%
+
+2.2%
+
+3.0%
+
+-
+
+0.2%
+
+0.3%
+
+-
+
+High Pass
+
+47.5%
+
+43.9%
+
+41.9%
+
+36.8%
+
+Good Pass
+
+43.4%
+
+45.2%
+
+47.5%
+
+52.9%
+
+Pass
+
+7.4%
+
+8.8%
+
+9.1%
+
+9.3%
+
+Fail
+
+1.7%
+
+2.1%
+
+1.5%
+
+0.9%
+
+Apprentice
+
+Fail
+Non-apprentice
+
+As part of their apprenticeship, apprentices complete their academic award (if it is a degree apprenticeship) and an End
+Point Assessment (EPA), which may or may not be linked to the academic award as part of their apprenticeship. During
+2023-24 357 apprentices went through their EPA process, 353 of which passed first time. The four apprentices who failed
+a first attempt at their EPA were successful on their second attempt, meaning that 98.9% of apprentices passed their EPA
+at the first attempt and 100% passed successfully within two attempts. 81% of apprentices achieved a distinction in their
+EPA, 7% a merit and 12% a pass. In 2023-24, all end point assessment was done by external EPAOs.
+23
+
+Figure 25 Apprentice EPA outcomes
+School
+
+Pass
+
+Merit
+
+Distinction
+
+Materials Process
+Engineer
+
+Standard
+
+<5
+
+0
+
+<5
+
+Post Graduate
+Engineer
+
+18
+
+0
+
+0
+
+Risk and Safety
+Management
+
+<5
+
+0
+
+<5
+
+Through Life Systems
+and Sustainment
+
+<5
+
+0
+
+<5
+
+SWEE
+
+Bioinformatics
+Scientist
+
+<5
+
+0
+
+0
+
+SOM
+
+Senior Leader (all
+variants)
+
+12
+
+18
+
+279
+
+Senior Investment
+and Commercial
+Banker
+
+<5
+
+0
+
+<5
+
+Systems Thinking
+Practitioner
+
+<5
+
+6
+
+<5
+
+Systems Engineer
+
+<5
+
+0
+
+0
+
+12%
+
+7%
+
+81%
+
+SATM
+
+CDS
+
+Total
+
+24
+
+4. Academic risks
+The following table presents major academic risks i.e. those related to quality, standards and the student experience
+(including student wellbeing) and associated regulatory and reputational risk. In creating this table, consideration has
+been given to academic-related risks in the university’s major risk register such that there is alignment between the two.
+Whilst the risks presented below represent major risks from the perspective of Senate’s remit (as opposed to those for
+which the University Executive holds the principal responsibility), the links and interactions between the two have been
+taken into consideration and joint responsibilities recognised.
+No
+
+Risk descriptor
+
+Consequence
+
+Mitigation
+
+Monitoring
+
+1
+
+Lack of PGT portfolio
+innovation,
+modernisation, and
+rationalisation.
+
+An old-fashioned and
+indistinct PGT portfolio
+damages reputation and
+recruitment.
+
+University-level portfolio
+review.
+
+Senate and University PVC-E and
+Executive
+University Executive
+
+2
+
+Lack of prioritisation of
+teaching excellence and
+the student experience
+
+Falling behind rather than
+leading the sector
+damages reputation and
+recruitment.
+
+Teaching quality initiative
+underpinned by greater use of
+benchmarked teaching
+quality and student
+experience data and the
+further development of the
+student engagement
+framework initiative. Review
+of required resources in
+academic and professional
+service teams to ensure
+further improvements and
+support in place.
+
+Education Committee PVC-E
+and the
+Apprenticeships
+Quality Group
+
+3
+
+Apprenticeship provision
+does not meet
+regulators’ (Ofsted, OfS,
+ESFA) expectations.
+
+Potential threat to
+training & EPAO status,
+reputational damage and
+funding clawback.
+
+Progress against action plans
+arising from Ofsted, ESFA and
+OfS visits during 2023-24 and
+2024-25.
+
+Oversight and
+PVC-E
+leaderships from the
+Apprenticeships
+Steering Committee
+and the
+Apprenticeships
+Quality Group
+
+4
+
+Major student incident
+(including student
+suicide) / student mental
+health and wellbeing
+
+Threat to life, health and
+wellbeing. Impacts on
+staff wellbeing.
+Consequences for
+reputation.
+
+5
+
+Non-compliance with
+research security
+legislation
+
+6
+
+Lack of compliance with
+sponsor terms and
+conditions for higher risk
+and major awards,
+including, increasingly
+demanding terms and
+conditions from
+industrial sponsors
+
+Owner
+
+Continuous improvement of University Executive
+our student support services,
+safeguarding and wellbeing
+policies, and staff training.
+Vigilance and responsiveness
+regarding students of
+concern. Engagement with
+the University Mental Health
+Charter Programme.
+Improvement to processes to
+prevent or catch incidences
+before they escalate.
+Risk of breach of national Development of enhanced
+University Executive
+due diligence for international and Senate
+security legislation and
+consequent penalties and research partnerships and
+internal ‘secure collaboration’
+reputational damage
+process for collaborative
+research aligned to research
+integrity practices.
+
+CE&VC
+
+Risk of financial penalties
+arising from noncompliance and
+reputational damage
+
+PVC R&I
+
+Development of new postaward professional project
+management service to be
+charged to projects.
+
+25
+
+25
+
+University Executive
+
+PVC R&I
+
+5. Actions plans
+5.1 2023-24 Action Plan update
+Action
+No.
+
+Theme
+
+Action
+
+Progress
+
+1
+
+Education Strategy Experience theme
+
+Phase 2 of Academic Charter - consultation
+and implementation plan completed.
+
+Progressed but not complete - a consultation and
+implementation plan is close to completion
+
+2
+
+Education Strategy Experience theme
+
+Phase 2 of "Cranfield Enhance" (co-curricular
+offer) designed and implemented.
+
+Complete - development of next suite of digital
+badges for Sustainability, enhancement of the way
+Cranfield Enhance is advertised to prospective
+and new students, consolidation & strengthening
+of the entrepreneurship offer and engagement
+with it, review of digital badge offer associated
+with digital and research skills programmes
+
+3
+
+Education Strategy Experience theme
+
+Phase 2 of Student Engagement Framework implementation planned and initiated.
+
+Complete - course rep co-creation project, review
+of EC representation, review of Student
+Experience Committee, part-time student
+experience project defined
+
+4
+
+Education Strategy Enhancement theme
+
+Senate and Executive approval of
+classification, credit and assessment rules
+implementation plan.
+
+Complete - implementation plan approved
+
+5
+
+Education Strategy Enhancement theme
+
+First round of taught course portfolio review
+complete and actions identified.
+
+Complete - decisions for 24-25 portfolio
+implemented and underpinning needs for a new
+university-level portfolio approach identified and
+progressed
+
+6
+
+Education Strategy Enhancement theme
+
+Ofsted full inspection visit "48 hour plan"
+operational.
+
+Complete - plan deployed as part of Cranfield's
+successful first full Ofsted inspection
+
+7
+
+Education Strategy Enhancement theme
+
+Review of Academic Partnership Senate
+Handbook in light of Internal Audit report.
+
+Complete – revised Handbook published
+September 2024
+
+8
+
+Education Strategy –
+Enhancement theme
+
+Phase 2 of Generative AI response Handbooks, guidance, training and
+communities of practice.
+
+Complete - cross-committee coordination group
+established, library and IP guides published,
+provisional staff and student guidance reviewed,
+internal & external discourse engaged with
+
+9
+
+Education Strategy Environment theme
+
+Re-establish Beacon project and in parallel
+agree large lecture room requirement
+
+On hold for financial reasons
+
+10
+
+Research and Innovation
+Strategy
+
+Complete the Space Utilisation Laboratory
+review to improve efficacy and access to
+facilities/ equipment.
+
+Complete
+
+11
+
+Research and
+Innovation Strategy
+
+Develop an additional new model for PhDs.
+
+Additional work to follow based on proposal that
+is being drafted for the doctoral college
+
+12
+
+Research and Innovation
+Strategy
+
+Improve research project management,
+Complete
+authorisation, QC approvals and due diligence
+
+13
+
+Research and Innovation
+Strategy
+
+Review and implement a new Research
+England QR funding allocation model.
+
+26
+
+Still in progress. Paper due to go to March 2025
+Senate
+
+5.2 2024-25 Action Plan
+This plan sets out headline activities commencing in 2024-25 to support the academic aims of
+the University.
+Action
+No.
+1
+
+Theme
+
+Action
+
+To be taken forward by
+
+Timeline
+
+Education Strategy Experience theme
+
+Phase 3 of Academic Charter - Undertake
+consultation and agree underpinning initiatives
+required to deliver ambitions
+
+PVC-E, PVC-R&I,
+Director of People and
+Culture
+
+July 2025
+
+2
+
+Education Strategy Experience theme
+
+Phase 3 of "Cranfield Enhance" to include
+implementation of the sustainability offer and the
+development of the outreach offer
+
+PVC-E
+
+July 2025
+
+3
+
+Education Strategy Experience theme
+
+Phase 3 of Student Engagement Framework - parttime student experience project delivery, next phase
+of course reps development project, apprentice
+representation
+
+PVC-E and Director of
+Student Experience
+
+July 2025
+
+4
+
+Education Strategy Enhancement theme
+
+Implementation of classification and credit
+framework changes.
+
+PVC-E
+
+July 2025
+
+5
+
+Education Strategy Enhancement theme
+
+Taught course portfolio review – to encompass both PVC-E, COO, Director of
+significant further course rationalisation for 25-26
+Finance
+recruitment year and review of the new course
+development and approval process to encourage new
+product modernisation and innovation.
+
+July 2025
+
+6
+
+Education Strategy –
+Enhancement theme
+
+Specify and start to deliver action plan arising from
+Ofsted inspection review
+
+PVC-E, Apprenticeships
+Steering Committee
+
+July 2025
+
+7
+
+Education Strategy –
+Experience theme
+
+Education Committee to agree new Assessment &
+Feedback Action Plan
+
+PVC-E
+
+July 2025
+
+8
+
+Education Strategy –
+Experience theme
+
+Education Committee to define priorities for a new
+teaching excellence project
+
+PVC-E
+
+July 2025
+
+9
+
+Education Strategy Environment theme
+
+Review of the Education Technology Standing
+Group
+
+PVC-E and Director of
+Information
+Technology
+
+July 2025
+
+10
+
+Research and Innovation
+Strategy - Scholarship with
+Purpose
+
+Mock REF
+
+PVC R&I
+
+July 2025
+
+11
+
+Research and Innovation
+Strategy -Scholarship with
+Purpose
+
+Research Committee Terms of Reference aligned
+with new University structures
+
+PVC R&I
+
+March 2025
+
+12
+
+Research Strategy Championing the Research
+Student
+
+Delivery of PRES response action plan, including
+proposal for a Doctoral College
+
+PVC R&I
+
+July 2025
+
+13
+
+Research Strategy Championing the Research
+Student
+
+Cranfield Doctoral Landscape Award submission
+
+PVC R&I
+
+September 2024
+
+14
+
+Research Strategy -Diversity Inaugural University Conference
+of Thought and People
+
+15
+
+Research Strategy Diversity of Thought and
+People
+
+Inaugural lecture in University Seminar Series
+
+27
+
+PVC R&I
+
+PVC R&I
+
+May 2025
+
+January 2025
+
+

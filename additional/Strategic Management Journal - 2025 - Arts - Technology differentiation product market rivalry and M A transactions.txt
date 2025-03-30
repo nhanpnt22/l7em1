@@ -1,0 +1,2122 @@
+Received: 3 August 2023
+
+Revised: 11 November 2024
+
+Accepted: 24 November 2024
+
+DOI: 10.1002/smj.3687
+
+RESEARCH ARTICLE
+
+Technology differentiation, product market
+rivalry, and M&A transactions
+Sam Arts 1
+
+| Bruno Cassiman 1,2
+
+| Jianan Hou 3
+
+1
+
+Department of Management, Strategy and Innovation, Faculty of Economics and Business, KU Leuven, Leuven,
+Belgium
+
+2
+
+Strategic Management Department, IESE Business School, University of Navarra, Barcelona, Spain
+
+3
+
+Department of Business Management, School of Management, Xiamen University, Xiamen, China
+
+Correspondence
+Sam Arts, Department of Management,
+Strategy and Innovation, Faculty of
+Economics and Business, KU Leuven,
+Hendrik Conscienceplein 8—Box 15520,
+2000 Antwerp, Belgium.
+Email: sam.arts@kuleuven.be
+Funding information
+Flemish Science Foundation (FWO),
+Grant/Award Numbers: G010324N,
+G071417N; National Bank of Belgium,
+Grant/Award Number: 3H160338;
+Onderzoeksraad, KU Leuven,
+Grant/Award Number: 3H200208;
+Fundamental Research Funds for the
+Central Universities, Grant/Award
+Number: 20720241011
+
+Abstract
+Research Summary: We study how unique firm technology influences M&A activity. Using a text-based network approach, we map each firm's position relative to
+every other firm in technology space to measure the
+uniqueness of its technology portfolio. Our findings indicate that firms with more unique technology portfolios
+become prime acquisition targets, particularly for close
+competitors within the same product market segments.
+These competitors seek to reduce competition and
+incorporate unique technologies to strengthen their competitive advantage. Furthermore, firms with unique technology portfolios tend to attract acquirers with closer
+technological proximity, facilitating the evaluation and
+integration of these technology assets. Our study underscores unique technology as a critical asset in the market
+for corporate control and a key driver of M&A
+transactions.
+Managerial Summary: In today's high-tech business
+environment, M&As are pivotal strategies not just for
+growth and competitiveness but often specifically
+aimed at acquiring the technology of target firms. By
+analyzing US public firms, we demonstrate that those
+
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2025 The Author(s). Strategic Management Journal published by John Wiley & Sons Ltd.
+Strat Mgmt J. 2025;46:837–862.
+
+wileyonlinelibrary.com/journal/smj
+
+837
+
+ARTS ET AL.
+
+with unique technology portfolios attract more acquisition interest, particularly from close product market
+rivals. These rivals aim to reduce competition and
+strengthen their existing product business by incorporating the unique technology. Companies with unique
+technology are also particularly appealing to those
+within closer technological proximity, easing the evaluation and integration process. Our findings emphasize
+that possessing a unique technology portfolio is a vital
+asset in the market for corporate control and a major
+catalyst for mergers and acquisitions activities.
+KEYWORDS
+
+mergers and acquisitions, rivalry, synergies, technology,
+uniqueness
+
+1 | INTRODUCTION
+Unique and proprietary firm technology is widely recognized as a key source of competitive
+advantage and superior performance (Mowery et al., 1998; Peteraf, 1993; Silverman, 1999;
+Wernerfelt, 1984). Firms with a unique technology portfolio can develop distinctive products or
+processes, strengthen market power, and ultimately increase firm profitability and market value
+(Arts et al., 2023). In addition to conducting internal R&D to push the technology frontier and
+develop a unique technology portfolio, firms may also acquire these resources through M&As
+with other firms that successfully innovate (Barney, 1986; Philips & Zhdanov, 2013). Anecdotal
+evidence suggests that acquiring unique technology is a significant driver for firms to engage in
+M&A transactions. For instance, Overture Services, which was the first company to develop
+and patent cost-per-click technology, was later acquired by Yahoo!1
+While M&A transactions are likely driven by a potential target firm's unique position and
+differentiation within the broader technology landscape, prior research has primarily focused
+on firm- or acquirer-target dyad-specific factors, often overlooking the broader context of a
+firm's position relative to all other firms in the industry or economy. Existing studies on M&A
+transaction incidence have largely focused on two key drivers: the rate of invention by potential
+target firms—typically measured by R&D investments and the growth or size of their patent
+portfolios—and the technological similarity and resulting synergies between targets and
+acquirers (e.g., Ahuja & Katila, 2001; Bena & Li, 2014; Chondrakis, 2016; Grimpe &
+Hussinger, 2014; Yu et al., 2016). However, beyond a potential target firm's rate of invention or
+its technological similarity with the acquirer, the crucial role of the uniqueness or differentiation of the firm's technology portfolio, relative to all other firms in the industry or economy,
+Overture Services filed a patent (US6907566) in 2003 for a “method and system for optimum placement of
+advertisements on a webpage,” the first patent in history pioneering the keyword “cost-per-click” (Arts et al., 2021). The
+patent received more than 1100 patent citations, including from the PageRank patent (US6285999), invented by Larry
+Page and exclusively licensed to Google.
+
+1
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+838
+
+839
+
+remains underexplored in determining M&A activity. Given that unique firm technology is a
+key driver of competitive advantage and firm performance (Arts et al., 2023), investigating its
+impact on M&A activity is essential for understanding the strategic motivations behind acquisitions and value creation through acquisitions.
+To address this gap, we compiled an economy-wide dataset of US public firms and M&As
+between 1984 and 2015 to explore how unique firm technology influences M&A activity. To do
+so, we employ a text-based network method to characterize a firm's technology portfolio based
+on the semantic content of patents, map each firm's position relative to every other firm in technology space, and measure the overall uniqueness or differentiation of a firm's technology portfolio (Arts et al., 2023).2 In line with the resource-based view, we treat a unique technology
+portfolio as a key resource for a firm's competitive advantage and superior performance
+(Barney, 1991; Mowery et al., 1998; Peteraf, 1993; Silverman, 1999). We build on Barney (1986)
+to interpret M&As as resource acquisitions in strategic factor markets, where firms' resource
+endowments—including the uniqueness of their technology portfolios—vary, potentially
+explaining why certain firms become targets and which firms acquire those targets
+(Adegbesan, 2009; Grimpe & Hussinger, 2014).
+To study how the uniqueness of technology portfolios impacts a firm's attractiveness as an
+acquisition target and influences the incidence of M&A transaction pairings between firms, we
+match each target or acquirer firm at the time of deal announcement to a group of similar
+pseudo-target or acquirer firms not involved in M&As, and each M&A deal (a target-acquirer
+pair) to multiple pseudo-deals (e.g., Bena & Li, 2014; Chen et al., 2018; Hernandez &
+Shaver, 2019). Matching and controlling for the various financial and innovation characteristics
+of firms that have previously been demonstrated to affect the probability of M&A transactions,
+such as R&D investments and the size of a firm's patent portfolio (e.g., Bena & Li, 2014;
+Philips & Zhdanov, 2013; Wagner & Cockburn, 2010), we find that firms with unique technology portfolios are more likely to become targets. The estimated probability of acquisition for
+firms with the least unique technology portfolios in our sample is 7%, rising to 20% for those
+with the most unique technology portfolios.
+Interaction effects at the deal level reveal that firms with unique technology are especially
+attractive to close competitors within the same product market segments, as measured by similarities in their annual 10-K product descriptions (Hoberg & Philips, 2016). This attractiveness
+is likely due to the acquiring firm's aim to reduce or eliminate competitive threats from close
+rivals possessing unique technology and, thus, considerable market power (Gans & Stern, 2003;
+Grimpe & Hussinger, 2014). Moreover, integrating the unique technology of a close rival can
+directly enhance the acquirer's competitive edge in that product market space (Bena & Li, 2014;
+Cassiman et al., 2005).
+Finally, we show that firms possessing unique technology portfolios are particularly appealing to acquirers that share a closer technological proximity. Such acquirers, due to their technological affinity with the target, are likely better equipped to recognize, comprehend, and assess
+the value of the target's unique technology, facilitating a more seamless integration of the
+acquired technology due to their enhanced absorptive capacity (Cassiman & Veugelers, 2006;
+Cohen & Levinthal, 1990; Fan et al., 2024). Consequently, these technologically more proximate
+companies are well positioned to efficiently utilize the target firm's unique technological assets
+2
+
+Although not all technologies are patented, we will use firm patent portfolios, firm technology or firm technology
+portfolios interchangeably in this paper. Similarly, we will use the terms uniqueness and differentiation
+interchangeably.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+and realize technological synergies (Ahuja & Katila, 2001). Moreover, acquiring unique intellectual property in proximate technological areas increases the freedom to operate and develop
+new technologies (Grimpe & Hussinger, 2014). All our findings are robust across a range of
+alternative and more stringent sampling and matching methods, along with different metrics
+for assessing the uniqueness of a firm's technology portfolio.
+Our work contributes to the literature on the intersection of firm-level innovation and
+M&As, particularly aligning with research on how innovation influences target selection
+and firm pairings in M&A transactions (e.g., Ahuja & Katila, 2001; Bena & Li, 2014; Chen
+et al., 2020; Chondrakis, 2016; Grimpe & Hussinger, 2014; Yu et al., 2016). While prior studies
+have primarily focused on firm-specific or acquirer-target dyad-specific factors—such as technological synergies and the rate of invention by target firms—we shift the focus to the broader
+context of a firm's unique position and differentiation within the technology landscape relative
+to all other firms in the industry or economy. We show that a unique technology portfolio is a
+critical strategic asset in the market for corporate control. Moreover, we demonstrate that the
+impact of unique firm technology on M&A dynamics is shaped by the interactions between
+potential targets and acquirers across both technological and product market spaces.
+
+2 | THEORY AND HYPOTHESES
+Prior work has repeatedly shown that a firm's rate of invention, as measured by R&D investments and patent portfolio size, positively correlates with firm performance (e.g., Hall
+et al., 2005). Beyond the rate of invention, more recent research indicates that the position and
+differentiation of invention by firms relative to all other firms are strong predictors of future
+firm performance (Arts et al., 2023). According to the resource-based view, a firm's competitive
+advantage and superior performance rely on resources that are unique and difficult to substitute
+or imitate, such as a unique and proprietary technology portfolio (Mowery et al., 1998;
+Peteraf, 1993; Wernerfelt, 1984). Using a panel of US public firms from 1980 to 2015, Arts et al.
+(2023) empirically confirm that a unique technology portfolio has a strong positive relationship
+with firm profitability and market value, particularly in R&D-intensive industries and those
+with strong product market rivalry. Firms with unique and proprietary technology portfolios
+can develop distinctive products or processes, strengthen market power, and make it more difficult for rivals to enter the same product market space (Arts et al., 2023; Hoberg & Philips, 2016;
+Sutton, 1991).
+Besides conducting internal R&D to develop a unique technology portfolio, firms can also
+buy these resources through the market for corporate control (Arora et al., 2001). In line with
+prior work, we conceptualize M&As as resource acquisitions in strategic factor markets, and
+specifically focus on the acquisition of firm technology portfolios as measured by patents
+(Ahuja & Katila, 2001; Barney, 1986; Bena & Li, 2014; Grimpe & Hussinger, 2014; Kaul &
+Wu, 2016). A large survey of executives active in M&As points out that acquiring technology is
+the most important strategic driver for firms to engage in M&A deals.3 Prior academic studies
+found mixed results and showed that firms with a higher R&D intensity, a smaller patent portfolio, slower growth in patenting, but more heavily cited patents are more likely to be acquired
+or receive a higher acquisition price, while firms with a lower R&D intensity but a larger patent
+3
+See https://www2.deloitte.com/content/dam/Deloitte/us/Documents/mergers-acqisitions/us-mergers-acquisitions-2018trends-report.pdf.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+840
+
+841
+
+portfolio are more likely to be acquirers (Bena & Li, 2014; Grimpe & Hussinger, 2008;
+Grimpe & Hussinger, 2014; Wagner & Cockburn, 2010).
+So far, the M&A literature has predominantly studied R&D investments and patenting of
+acquiring and target firms in isolation or at the target-acquirer dyad level, without considering
+the uniqueness of a potential target firm's technology portfolio relative to all other firms in the
+industry or the economy.4 Nonetheless, the uniqueness of a target firm's technology portfolio is
+arguably an important driver of M&A transactions. Anecdotal evidence suggests that acquiring
+a unique technology portfolio might play a key role in M&A decisions. For instance, a report
+from Deloitte in 2018 showed that nearly a third of S&P companies engaged in M&A deals with
+the primary purpose of acquiring unique technologies in fields such as artificial intelligence,
+robotics and cyber security.5 Even R&D intensive and technology pioneering firms such as
+Alphabet, Intel or Cisco engage in M&As to acquire unique and proprietary technology from
+other firms.6 For instance, in 2017, Intel paid 15.3 billion US dollars for Mobileye, a firm which
+pioneered and patented chip-based camera systems that power advanced driver assistance and
+self-driving cars.
+Besides the motivation of acquirers to engage in M&As to get their hands on unique technology of other firms, potential target firms themselves may also have an incentive to invest in
+R&D and create a unique technology portfolio in order to become an attractive acquisition target (Philips & Zhdanov, 2013). Given the importance of a unique technology portfolio for firm
+profitability and market value, we hypothesize that firms with a unique technology portfolio
+are more likely to become acquisition targets compared to otherwise similar firms with a less
+unique technology portfolio.7
+Hypothesis 1. Firms with a unique technology portfolio are more likely to become acquisition
+targets.
+Hypothesis 1 formulates a baseline expectation by suggesting that the uniqueness of a firm's
+technology portfolio influences its probability of becoming an acquisition target, regardless of
+the characteristics of the acquirer or specifics of the deal. This approach sets our analysis apart
+from much of the existing literature on acquisitions, which typically emphasizes the impact of
+characteristics specific to the target-acquirer dyad on acquisition outcomes. In subsequent
+hypotheses, we propose that the probability of a firm being targeted for acquisition depends not
+only on the uniqueness of its technology portfolio but also on how this uniqueness interacts
+with the firm's position relative to potential acquirers in technology or product market spaces.
+Firms with unique technology portfolios are likely more attractive acquisition targets for
+close competitors in the same product market, for two main reasons: they reduce competitive
+pressure and strengthen the acquiring firm's preexisting competitive advantage within the same
+product market. Acquiring a close competitor with a unique technology portfolio enables firms
+4
+
+One notable exception is Grimpe and Hussinger (2014) who illustrate that the preemptive power of a target firm's
+patent portfolio (as measured based on XY citations to EPO patents) results in a higher acquisition price.
+5
+See https://www2.deloitte.com/ch/en/pages/financial-advisory/articles/future-of-the-deal.html.
+6
+See, for instance: Bloomberg, February 29, 2008, “Innovation through Acquisition” and Forbes, November 8, 2005,
+“Does Innovation Through Acquisition Work?”
+7
+In theory, a firm's technology portfolio could be unique because other firms do not imitate it due to its limited market
+potential, which would instead result in a lower probability of acquisition. However, we assume that firms act
+rationally, and, given the significant costs of R&D, they aim to avoid developing technology portfolios that are unique
+but low in value. Moreover, firms that do end up with such portfolios are likely to exit the market, rendering this
+scenario less relevant.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+to preempt both current and potential future rivalry with that competitor in the product market, as well as competition from other companies that may also be interested in acquiring the
+same target (Baker & Bresnahan, 1985; Cunningham et al., 2021). Companies that hold unique
+and proprietary technological assets tend to innovate unique products or processes, enhance
+their market dominance, and erect barriers to entry for competitors (Hoberg & Philips, 2016;
+Sutton, 1991). Arts et al. (2023) confirm that a unique technology portfolio relates to market
+dominance, as shown by diminished overlap in 10-K product descriptions with industry rivals,
+higher profitability and market valuation. Thus, a unique technology portfolio of a close competitor poses a more significant competitive threat than a unique technology portfolio of a more
+distant market participant, due to the more direct competition. The “business stealing effect”
+implies that rivals within the same product market segments are prepared to offer a premium
+for acquiring a close competitor possessing unique technology, with the intention of neutralizing a potential threat. This willingness to pay a premium is more pronounced than that of
+acquirers from more distant market segments (Gans & Stern, 2003; Gilbert & Newbery, 1982;
+Grimpe & Hussinger, 2008).
+Furthermore, acquiring unique and proprietary technology from a close product market
+rival can more directly reinforce the acquirer's preexisting competitive advantage in that product market space. In case the acquirer and the target sell similar products to the same set of customers, integrating the unique technology of the target into the acquirer's current product
+business is more straightforward and effective (Bena & Li, 2014; Cassiman et al., 2005). Therefore, the strategic value of acquiring firms with unique technology portfolios is particularly pronounced for competitors within the same market space, underscoring its importance in
+strengthening market position and competitive advantage. In summary, a firm's unique technology portfolio makes it an attractive acquisition target, particularly for close competitors
+within the same product market, who aim to reduce competitive pressures and strengthen their
+existing competitive advantage in that market.
+Hypothesis 2. Firms with a unique technology portfolio are particularly attractive acquisition
+targets for close competitors in the product market.
+Firms possessing unique technology portfolios not only stand out as attractive acquisition
+targets but also pose significant challenges for external parties in terms of comprehension, valuation, and integration (Fan et al., 2024; Litov et al., 2012). The intricacies involved in identifying, valuing, and assimilating a target firm with a unique technology portfolio are presumably
+more complex compared to target firms with more conventional technologies. However, companies that share a closer technological proximity with the target are better equipped to understand and assess the value of its unique technology and to integrate the acquired technology
+more effectively due to their greater absorptive capacity (Ahuja & Katila, 2001; Cassiman &
+Veugelers, 2006; Cohen & Levinthal, 1990). Such technologically closer companies possess the
+requisite knowledge and expertise to efficiently leverage the target firm's unique technological
+assets, thereby maximizing technological synergies (Bena & Li, 2014). Acquiring unique, yet
+proximate technology also grants the acquirer the freedom to innovate within this related
+domain, as segments of the technology space were safeguarded by the target's intellectual property rights (Grimpe & Hussinger, 2008).
+Conversely, for potential acquirers that are technologically distant, the unique technology of
+the target firm may present more daunting identification, valuation, and integration challenges.
+Therefore, firms possessing unique technology portfolios are not only prime targets for acquisitions but also particularly appealing to companies closer in technology space, positioning them
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+842
+
+843
+
+well to recognize, value, and harness the unique technological assets and synergies ensuing
+from such acquisitions.
+Hypothesis 3. Firms with a unique technology portfolio are particularly attractive acquisition
+targets for firms that are closer in technology space.
+To give one example to illustrate our hypotheses, Google acquired the three search engine
+companies Outride, Orion, and Kaltix, that is, close competitors (or potential future competitors) in the product market, for their unique technology and patents.8 Kaltix, one of the
+acquired firms, pioneered and patented technology to dramatically speed up the calculations of
+Google's own PageRank algorithm. Since the target firms have similar products and (could)
+cater to the same customer base, the acquisitions allowed Google to more directly integrate the
+acquired technology and search engine features into its own online search tool and thereby
+strengthen its existing competitive advantage in the product market. The acquisitions also
+allowed Google to avoid current or future product market rivalry with these close competitors
+that owned a unique and proprietary technology portfolio and as such posed a greater competitive threat. Finally, given Google's closeness in technology space to the three target firms and its
+preexisting related technological knowledge and expertise in-house, it was well-positioned to
+identify, understand, valuate, and effectively integrate the unique technology of the target firms,
+optimizing technological synergies.
+
+3 | METHODOLOG Y
+3.1 | Data and sample
+We combine data on all US public firms linked to patents from Arora et al. (2021), firm financial information from Compustat, data on product similarity between firms from Hoberg and
+Philips (2016), data on stock market returns from the CRSP US stock database, and data on
+M&A deals from Thomson Reuters SDC (Bena & Li, 2014; Testoni et al., 2022). To collect information on M&A deals between US public firms, we use the Thomson Reuters SDC Platinum
+domestic M&A database and restrict the sample to completed deals announced between
+January 1 1984 and December 31 2015. In line with Bena and Li (2014), we keep all deals where
+the form is coded as a merger, an acquisition of majority interests, or an acquisition of assets.
+We exclude deals whose acquirer or target firm is from the financial sector (primary SIC
+between 6000 and 6999). A deal is retained only in case the acquirer owns less than 50% of the
+target firm at announcement, is seeking to own more than 50% of the target firm, and owns
+more than 90% of the target firm after the deal completion. In order to eliminate small and economically insignificant deals, we require that both acquirer's and target's total assets be valued
+at more than 1 million or that the transaction value is at least 1 million (all in 1984 constant US
+dollars). Next, we identify how many deal participants are covered by Compustat (with information on historical industry classification and financial characteristics) and the CRSP US stock
+database (with information on stock returns). To do so, we match each deal participant to Compustat by six-digit CUSIP number and retrieve firm characteristics at the end of the fiscal year
+before deal announcement. After merging the different datasets, we obtain 16,828 deals where
+8
+
+See http://googlepress.blogspot.com/2001/09/google-acquires-technology-assets-of.html and http://googlesystem.blogspot.
+com/2006/04/google-acquires-orion-referential.html.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+all information on acquirers is available, 5089 deals where information on target firms is available, and 1935 deals where information on both acquirer and target firms is available. To construct firm patent portfolios, we use the DISCERN database which matches all US public firms
+to US patents for the years 1980–2015 (Arora et al., 2021). In order to construct the patent portfolio of firm i in year t, we sample all granted patents linked to firm i with filing year between
+year t-4 and year t (e.g., Ahuja & Katila, 2001; Rothaermel & Deeds, 2004).9
+
+3.2 | Measuring a firm's position in technology and product
+market space
+Whereas prior work typically relied on patent classification to characterize firm technology
+portfolios, we leverage the work of Arts et al. (2018, 2023) and characterize firm
+technology portfolios using patent text. The technology portfolio of firm i in year t is represented as a term frequency–inverse document frequency (tf-idf) vector where each dimension corresponds to one stemmed technical keyword from the entire vocabulary of the patent
+dictionary, and its value captures the share of patents from firm i's patent portfolio in year
+t which contain the particular technical keyword and is offset by the share of all firm technology portfolios from the population in year t which contain the particular keyword (Arts
+et al., 2023; Testoni, 2021).10 Tf-idf helps to adjust both for the fact that some keywords are
+more representative of a firm's technology portfolio in a given year (e.g., battery for Tesla) and
+for the fact that some keywords appear frequently across the technology portfolio of many firms
+in a given year and are therefore less discriminating across firms (e.g., electric).
+Next, for every pair of US public firms in each year, tech similarityijt is calculated as the
+cosine similarity between the technology portfolio of firm i and firm j in year t (Arts et al., 2023;
+Jaffe, 1989). This metric enables the assessment of similarity between potential acquirers and
+target firms within the technology space, capturing the prospects for technology synergies
+(e.g., Ahuja & Katila, 2001). Table A.2 showcases the mergers and acquisitions within our
+dataset that feature the greatest technological similarity between the acquirer and the target
+companies. For example, in 2006, BellSouth Corporation was acquired by AT&T, uniting two
+companies with closely related technology portfolios in telecommunications, including developments in mobile networks and broadband. The 2009 acquisition of Sun Microsystems by Oracle
+combined two entities with very similar technology portfolios, especially in software, servers,
+and storage solutions. Finally, the 2006 merger of Maytag Corporation with Whirlpool brought
+together two firms with similar technology portfolios in home appliances.
+Subsequently, prod similarityijt is calculated for every pair of US public firms in each year as
+the overlap in the product descriptions found within the annual 10-K reports of firm i and firm
+j in year t (Hoberg & Philips, 2016). The authors thoroughly validate this approach for assessing
+product market overlap and rivalry, among others by showing that companies with the highest
+product similarity to a focal firm align with the competitors identified by managers in the focal
+9
+
+We require that the first active year of firm i should be no later than year t and the last active year should be no earlier
+than year t-1. Following Arora et al. (2021), we define an active record as the year with positive common shares traded
+and available sales. We set the last active year no earlier than year t-1 instead of year t in order to include those firms
+which were acquired or dissolved in year t in the sample. When constructing the patent portfolio, we also account for
+patents acquired through M&As in prior years.
+10
+The average firm-year level patent portfolio in our sample includes 1658 unique stemmed technical keywords
+providing a detailed insight in the firm's technology portfolio (see Arts et al., 2023).
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+844
+
+845
+
+firm's 10-K management discussion and analysis section. This measure facilitates the evaluation
+of product market overlap and rivalry between prospective acquirer and target firms, identifying
+potential for product market synergies (e.g., Cassiman et al., 2005). Table A.3 highlights
+mergers and acquisitions in our dataset with the most significant product market overlaps
+between acquiring and target firms. For instance, the 1993 merger of Advanced Interventional
+Systems with Spectranetics Corporation brought together entities with similar products in the
+medical devices sector, particularly in excimer laser systems. The 2001 acquisition of Anchor
+Gaming by International Game Technology merged firms with aligned product lines in gaming
+and slot machines, aimed at the same casino and entertainment markets. Finally, the 2010
+merger between Verifone and Hypercom combined two significant players in the electronic
+payment systems market providing similar point-of-sale terminals and payment processing
+solutions, directly targeting the same customer base in retail and financial sectors.
+Interestingly, the correlation between the similarity in technology and product market space
+between potential target firms and acquirers is a modest 0.31. This relatively low correlation
+underlines that companies with similar products within the same industry may rely on different
+technologies, or that the same technologies are utilized across various industries or product
+market segments. For example, Digital Equipment Corporation (DEC) and Compaq Computer
+Corporation had overlapping technology portfolios when they merged in 1998, both focusing on
+computing technology but targeting distinct product market segments. DEC primarily focused
+on enterprise and networking solutions, while Compaq specialized in personal computing. As
+an opposite example, the 2002 merger between Gilead Sciences and Triangle Pharmaceuticals
+illustrates a deal where both companies had significant overlap in the product market—
+specifically in HIV treatments—yet employed different technologies and approaches to drug
+development. The relatively modest correlation allows us to explore the role that both technological similarity and product market overlap and rivalry play in influencing M&A activity
+(Cassiman et al., 2005). Particularly, it enables an examination of how these factors moderate
+the impact of a target firm's unique technological assets on the probability of an M&A deal. This
+exploration allows us to better understand the strategic considerations underpinning M&A decisions in the context of acquiring unique firm technology.
+Finally, to assess the uniqueness or differentiation of firm i's technology portfolio in year t,
+we adopt the methodology of Arts et al. (2023) and compute technology differentiation as
+follows:
+tech differentiationit =1 −
+
+n
+1 X
+tech similarityijt ,
+n −1 j = 1, j ≠ i
+
+where n represent the number of firms active in year t and tech similarityijt measures the technological similarity between firm i and firm j in year t. Consistent with prior research, we consider only the top 10% of firms most technologically similar to firm i within year t, recognizing
+that a firm's position and differentiation in technology space are primarily determined in relation to its closest peers (Arts et al., 2023). Thus, firms with more unique and less overlapping
+technology portfolios compared to others in the technology space exhibit higher levels of technology differentiation. Due to the tech similarityijt distribution's very low mean and a long right
+tail, tech differentiationit is predominantly driven by the firms most similar to firm i in year t.11
+11
+
+Pairwise technology similarities and various versions of tech differentiation measures are collected from https://zenodo.
+org/record/5172146.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+Our robustness checks, detailed below, validate our findings for technology differentiation,
+regardless of whether it is measured against firms within the same industry to quantity the
+firm's technology uniqueness relative to industry peers, or against all active firms in the technology space for the year, beyond just the top 10% most similar firms.12 The acquisition targets
+in our sample with the most unique technology portfolios include Colgate-Palmolive's 1989
+acquisition of Vipont Pharmaceutical, which developed unique technologies for oral health
+products, including a therapeutic mouthwash containing sanguinarine to combat periodontal
+disease. Another example is Gilead Sciences's 2002 acquisition of Triangle Pharmaceuticals,
+which was at the forefront of developing nucleotide analogs, a crucial class of compounds for
+creating innovative antiviral drugs targeting HIV and hepatitis B. Finally, DTM Corporation
+was a pioneer in selective laser sintering, a technology for crafting complex and precise 3Dprinted objects without support structures, leading to its 2001 acquisition by 3D Systems Corporation. Table A.4 provides an overview of the M&A deals involving target companies with the
+most unique technology portfolios in our sample.
+
+3.3 | Control variables
+In line with prior work, we control for a firm's financial characteristics by including total assets,
+sales change, ROA, leverage, cash, stock return, and B/M (e.g., Bena & Li, 2014; Hirshleifer
+et al., 2018). To control for other firm-level innovation characteristics besides tech differentiation, we include R&D intensity, citation-weighted patents, and tech specialization. We winsorize
+all financial characteristics from Compustat/CRSP at the 1 and 99% levels (e.g., Belenzon
+et al., 2016; Bena & Li, 2014; Hirshleifer et al., 2018). Finally, we control for the fact whether
+acquirers and targets are from the same state. All variables are defined in Table 1.
+
+3.4 | Empirical strategy
+We construct a matched control sample of pseudo-targets and acquirers. Each target (acquirer)
+firm is matched to at most five of the most similar pseudo-target (acquirer) firms based on
+industry,13 financial characteristics (total assets, book-to-market value, sales change, leverage,
+cash, stock return, and ROA), and all innovation characteristics (R&D intensity, citation-weighted
+patents, and technology specialization) except tech differentiation, our main variable of interest.14
+For a target (acquirer) firm of a deal announced in year t, we first select the full population of
+firms from the same industry with at least one patent filed between year t-5 and t-1 and not
+involved in any M&A deal in the 3-year period prior to year t. Second, we run a logit regression
+to estimate the propensity to be a target (acquirer) and include all firm characteristics except
+tech differentiation. The results are shown in Table A.5. In line with prior work, we find that
+12
+
+Moreover, our findings remain consistent if we use an alternative measure of technology differentiation based on
+doc2vec that is able to account for synonyms (different words with same meaning), polysemy (same word with different
+meanings), and the order and context of words in patent documents.
+13
+Two-digit SIC code. All findings remain consistent if we match on three-digit SIC instead of two-digit SIC. Results are
+available from the authors. Matching on three-digit SIC codes results in fewer observations and less precise matches on
+other firm characteristics.
+14
+As shown in prior studies, all matching covariates that we include may affect the likelihood of M&A transactions
+(e.g., Bena & Li, 2014; Chen et al., 2018; Valentini, 2012).
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+846
+
+847
+
+T A B L E 1 Definitions variables.
+Tech differentiation
+
+Tech differentiation of firm i in year t is calculated as
+P 1
+1− n −1 1 n−
+j =1,j ≠ i tech similarityijt , with n equal to the number of firm i's
+10% most similar firms active in year t in terms of tech similarity and
+tech similarityijt equal to the tech similarity between firm i and firm j in
+year t (see below).
+
+Tech differentiation (compared
+to all firms)
+
+Tech differentiation (compared to all firms) of firm i in year t is calculated
+P n −1
+1
+as 1 − n −1
+j = 1,j ≠ i tech similarityijt , with n equal to all other firms active
+in year t and tech similarityijt equal to the technological similarity between
+firm i and firm j in year t.
+
+Tech differentiation (compared
+to industry rivals)
+
+Tech differentiation (compared to industry rivals) of firm i in year t is
+P n −1
+1
+calculated as 1 − n −1
+j = 1,j ≠ i tech similarityijt , with n equal to the firms
+from the same SIC2 industry as firm i active in year t and tech similarityijt
+equal to the technological similarity between firm i and firm j in year t.
+
+Tech differentiation (doc2vec)
+
+We use doc2vec to create document embedding vectors for every US
+patent using the five prior and five follow-on words surrounding a focal
+word in the patent text, representing each patent document as a vector of
+700 dimensions. To represent the patent portfolio of firm i in year t, we
+average the document embedding vectors of all patents linked to firm i
+which were filed between year t-4 and t. Next, tech differentiation
+(doc2vec) of firm i in year t is calculated as
+P
+1 − n−1 1 nj =−1
+1,j ≠ i tech similarity ðdoc2vecÞijt , with n equal to the number of
+firm i's 10% most similar firms active in year t in terms of tech similarity
+(doc2vec) and tech similarity ðdoc2vecÞijt equal to the cosine similarity
+between the embedding vectors representing the technology portfolios of
+firm i and firm j in year t. Tech similarity (doc2vec) is rescaled into the
+range of 0–1.
+
+R&D intensity
+
+Research and development expenses scaled by total assets.
+
+Citation-weighted Patents
+
+The number of patents in the patent portfolio of firm i in year t, that is, all
+granted patents linked to firm i which were filed by between year t-4 and
+t, weighted by the number of citations received by these patents within
+5 years after grant.
+
+Tech specialization
+
+First, the patent portfolio of firm i in year t is represented as a vector
+Sit = (Sit1, Sit2, …, SitK), where k  (1,K) indicates one main USPC patent
+class and Sitk denotes the share of patents from the patent portfolio of
+firm i in year t in patent class k. Next, firm i's tech specialization in year t
+is calculated as a Herfindahl index based on the share of patents in each
+class. We take all three-digit classes a patent was assigned to when
+calculating tech specialization.
+
+Total assets
+
+The total assets in millions of 2015 constant US dollars.
+
+Sales change
+
+Yearly sales growth rate.
+
+ROA
+
+Earnings before interest, taxes, depreciation, and amortization (EBITDA)
+scaled by total assets.
+
+Leverage
+
+Total debt (long-term debt and debt in current liabilities) scaled by total
+assets.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+T A B L E 1 (Continued)
+Cash
+
+Cash and short-term investment scaled by total assets.
+
+B/M
+
+The book value of common equity scaled by the market value of common
+equity. Market value is common shares outstanding multiplied by the
+month-end price that corresponds to the period end date.
+
+Stock return
+
+The difference between the buy-and-hold stock return from month −14 to
+month −3 relative to the deal announcement month and the analogously
+defined buy-and-hold stock return on the value-weighted CRSP index.
+
+Same state
+
+Equal to one if the (pseudo) acquirer and the (pseudo) target firm are
+located in the same state, and zero otherwise.
+
+Prod similarity
+
+Product similarity based on product descriptions in annual 10-K reports
+by Hoberg and Philips (2016). Data available from https://hobergphillips.
+tuck.dartmouth.edu/tnic_poweruser.htm.
+
+Tech similarity
+
+First, we construct the patent portfolio for firm i in year t by collecting all
+granted patents linked to firm i which were filed between year t-4 and t.
+Second, the patent portfolio of firm i in year t is represented as a vector
+Sit = (Sit1, Sit2, …, SitK), where k  (1,K) indicates one stemmed technical
+keyword identified from the entire patent vocabulary and Sitk denotes the
+share of patents from the patent portfolio of firm i in year t using the
+given word k. Tech similarity between firm i and j in year t is calculated
+as the cosine between the two vectors (cos(Sit, Sjt)) and uses tf-idf weights
+that offset the frequency of a keyword in a particular firm-year patent
+portfolio, that is, the share of patents containing the keyword, by the
+share of all firm patent portfolios from the entire population in a given
+year which contain the particular keyword.
+
+targets have a higher R&D intensity, fewer citation-weighted patents, larger assets, higher ROA
+and a lower stock return compared to firms from the same industry not involved in M&As in
+the previous 3 years. Acquirers have more citation-weighted patents, larger assets, less leverage,
+more cash, a higher ROA and stock return compared to firms from the same industry not
+involved in M&As in the previous 3 years.15 Third, we match each target (acquirer) firm with
+up to five of the most similar pseudo-target (acquirer) firms from the entire population of firms
+by nearest-neighbor matching (Bena & Li, 2014; Chen et al., 2018; Hernandez & Shaver, 2019).
+In parallel, we construct for every M&A deal (acquirer-target pair) up to 10 pseudo-deals
+(pseudo-acquirer-target pairs) by matching the actual acquirers of a deal to the corresponding
+pseudo-targets (up to five) and the actual targets of a deal to the corresponding pseudoacquirers (up to five). The final sample after matching includes 6614 acquirers and 32,511
+pseudo-acquirers, 1299 targets and 6351 pseudo-targets, and 580 deals (acquirer-target pairs)
+and 5763 pseudo-deals.16 As shown in Table A.6, most of M&A deals in our sample are from
+the following industries: measuring, analyzing, and controlling instruments (SIC38), chemicals
+15
+
+The number of targets (acquirers) in Table A.5 is smaller than that in Table 3 (Table A.7) because the logit regression
+used to estimate propensity scores is conducted at the firm-year level, while the conditional logit regression predicting
+the likelihood of being a target (or an acquirer) is conducted at the deal level. As a result, firms involved in multiple
+M&A transactions within the same year may appear multiple times in the deal-level regression.
+16
+Please notice that prod similarity is only available from 1989 onward. Therefore, in the M&A transaction pairing
+analysis, the number of actual deals is 546 and the number of pseudo-deals is 5427.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+848
+
+849
+
+and allied products (SIC28), electronics (SIC36), industrial and commercial machinery computer equipment (SIC35), and business services (SIC73).
+
+4 | R E SUL T S
+4.1 | Probability of being a target firm
+As an illustration, Figure 1 shows the network of all firms in the medical equipment industry in
+1997. Each node represents one firm, the size of the node is proportional to the size of the firm's
+patent portfolio in 1997 (based on patents from 1993 to 1997), two nodes are connected by an
+edge in case the tech similarity between the firms is above 0.30, and the thickness of the edge is
+proportional to tech similarity between the firms (thicker edge means higher tech similarity).
+Node colors represent different product market clusters based on the prod similarity between
+firms, that is, the overlap in the 10-K product descriptions of firms. Firms with a unique technology portfolio, that is, isolated nodes with few thick lines to other firms, are often acquired,
+particularly by product market rivals (firms from the same product market cluster, i.e., same
+
+F I G U R E 1 Network medical equipment industry in 1997. This network graph displays all firms from the
+medical equipment industry in 1997 with at least 10 granted patents in their 1997 patent portfolio, that is, filed
+between 1993 and 1997. Each node represents one firm, node size is proportional to the number of granted
+patents in the 1997 portfolio, two nodes are connected by an edge if tech similarity between the firms is larger
+than 0.3, and edge thickness is proportional to tech similarity between firms (thicker edge means more similar
+firms). Firms which were acquired between 1998 and 2002 are shown as triangles. Node colors represent
+different product market clusters based on the prod similarity between firms, that is, the overlap in the annual
+10-K product descriptions of firms.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+node color). The nodes of firms that are acquired within 5 years (between 1998 and 2002) are
+shown as triangles. For example, in 1998, Guidant Corporation acquired InControl, a company
+that developed unique technology to treat atrial fibrillation. Post-acquisition, Guidant integrated InControl's unique technology in combination with its own, aiming to develop more
+advanced implantable devices for treating atrial fibrillation. This endeavor was part of Guidant's
+strategy to be leader in the market of cardiovascular interventions and devices, underscoring
+the synergy between InControl's pioneering technology and Guidant's existing technologies and
+market presence.
+Table 2 presents the descriptive statistics for targets versus matched pseudo-targets in Panel
+a, and actual M&A deals (acquirer-target pairs) versus matched pseudo-deals (pseudo-acquirertarget pairs) in Panel b. Targets have a more unique and differentiated technology portfolio
+compared to matched pseudo-targets, and real acquirer-target pairs are both closer competitors
+in the product market and closer in technology space compared to matched pseudoacquirer-target pairs. Table A.1 demonstrates the correlation matrix.17
+In line with Bena and Li (2014), we run a conditional logit model to estimate the probability
+of being a target. Our binary outcome variable Target imt equals one if firm i is the actual target
+in deal m in year t, and equals zero in case of a matched pseudo-target. Besides matching
+target and pseudo-target firms on all financial and innovation characteristics (except tech differentiation), we additionally include all firm characteristics as control variables in the regressions.18 We control for firm i's financial characteristics (i.e., total assets, stock return, sales
+change, leverage, cash, ROA, and B/M) and innovation characteristics (i.e., R&D intensity, citation-weighted patents, and tech specialization) in year t-1. Nevertheless, as illustrated later, all
+our findings remain consistent if we exclude these control variables from the regressions. The
+model includes deal fixed effects for the real target and the matched pseudo-targets involved in
+each deal m. In the conditional logit models with deal fixed effects, we study whether heterogeneity in tech differentiation between target firms and matched pseudo-target firms drives the
+probability of being a target.
+Table 3, columns 1 and 2, present the outcomes of the conditional logit models without and
+with additional control variables.19 Consistent with Hypothesis 1, our analysis reveals that firms
+with a unique technology portfolio, marked by higher tech differentiation, are more likely to be
+targeted for acquisition. To quantify the magnitude of the effect of tech differentiation, we utilize
+the simulation methodology proposed by King et al. (2000) and Zelner (2009). This approach
+allows us to plot the predicted probability of a firm being targeted for acquisition across the
+entire range of values for tech differentiation in our dataset, including a 95% confidence interval
+for these predictions. While calculating the predicted probability for different values of tech
+17
+
+Table A.1 reveals a correlation between target tech differentiation and citation-weighted patents, tech specialization, and
+total assets, which might raise concerns regarding multicollinearity. Nevertheless, the variance inflation factor of target
+tech differentiation is 3.6, indicating that multicollinearity is unlikely to significantly bias our estimates. Moreover, as
+illustrated later, our analysis confirms that our findings remain consistent even when some or all of these correlated
+control variables are excluded.
+18
+Following the methodology of prior studies, we selected up to five of the most similar pseudo-target firms for each
+target firm from the entire population of firms within the same industry (Bena & Li, 2014; Chen et al., 2018;
+Hernandez & Shaver, 2019). Consistent with expectations and previous literature, the descriptive statistics presented in
+Table 2 reveal that significant differences in some of the matched firm characteristics persist between the target firms
+and their pseudo counterparts. Considering the broad range of firm-level characteristics included in our analysis, it is
+perhaps unsurprising that finding nearly identical firms proves challenging. Therefore, to account for these
+discrepancies, we have included all firm-level characteristics as control variables in our regression analyses.
+19
+In Table A.11, we present alternative robustness checks where one or a combination of control variables are excluded.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+850
+
+0.269
+
+0.277
+
+Tech similarity
+
+Same state
+
+0.000
+
+0.005
+1.000
+
+0.892
+
+0.923
+
+264.245
+
+60.225
+
+0.479
+
+25.891
+
+18.872
+
+26.698
+
+55.345
+
+5366.637
+
+0.282
+
+2331.189
+
+14.763
+
+0.098
+
+−96.614
+
+−1.023
+
+0.126
+
+0.000
+
+−125.641
+
+−71.884
+
+5.883
+
+0.013
+
+1.000
+
+0.000
+
+0.430
+
+0.135
+
+0.147
+
+0.057
+
+0.342
+
+0.133
+
+0.059
+
+0.000
+
+0.000
+
+0.000
+
+264.245
+
+2.400
+
+92.894
+
+90.673
+
+38.723
+
+345.441
+
+36,975.570
+
+1.000
+
+61,022.000
+
+89.689
+
+0.979
+
+Max
+
+1.000
+
+0.843
+
+0.354
+
+Pseudo-acquirer-target pairs (n = 5427)
+
+−0.670
+
+0.520
+
+27.097
+
+16.776
+
+2.224
+
+15.562
+
+1922.839
+
+0.337
+
+516.668
+
+10.741
+
+0.821
+
+Mean
+S.D.
+Min
+Pseudo-targets (n = 6351)
+
+0.004
+
+Pr(jTj > jtj)
+0.000
+0.000
+0.000
+
+−18.36
+−15.49
+−7.16
+
+0.031
+
+0.237
+
+t
+
+2.16
+
+−1.18
+
+0.738
+
+0.582
+
+−0.55
+0.33
+
+0.270
+
+0.021
+1.10
+
+2.31
+
+2.90
+
+0.999
+
+−0.00
+
+0.000
+
+−3.72
+
+0.000
+
+0.024
+
+−2.26
+4.83
+
+Pr(jTj > jtj)
+
+t
+
+t-Test
+
+851
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Note: This table reports the descriptive statistics for target firms versus matched pseudo-target firms in Panel a and for actual M&A deals (acquirer-target pairs) versus matched pseudo-deals
+(pseudo-acquirer-target pairs) in Panel b. We only include a deal if both acquirer and target are covered by Compustat/CRSP and filed at least one patent in the 5-year window before the
+announcement of the deal. ROA, R&D intensity, Sales change, Leverage, Cash, and Stock return are measured as percentages. ROA, Sales change, R&D intensity, Total assets, Leverage, Cash, B/
+M, and Stock return are winsorized at levels of 1 and 99%. Prod similarity is only available for observations since 1989. Hence, statistics reported in Panel b are based on deals whose prod
+similarity is available. The mean and standard deviation of pseudo-targets (deals) are weighted by the inverse number of pseudo-targets (deals) for each real target (deals). Definitions of
+variables are in Table 1.
+
+0.448
+
+0.178
+
+0.000
+
+0.128
+
+Prod similarity
+
+0.088
+
+Acquirer-target pairs (n = 546)
+
+−96.614
+
+92.894
+2.400
+
+0.126
+−1.023
+
+90.673
+
+38.723
+
+−125.641
+0.000
+
+36,975.570
+345.441
+
+5.883
+
+1.000
+
+20,619.000
+
+89.689
+
+0.985
+
+Max
+
+−71.884
+
+0.020
+
+1.000
+
+0.000
+
+0.456
+
+Min
+
+Panel b: Deal characteristics
+
+58.447
+
+24.318
+
+19.475
+
+−4.535
+
+17.101
+
+Leverage
+
+27.983
+
+Stock return
+
+1.290
+
+ROA
+
+48.772
+
+4457.090
+
+0.483
+
+11.995
+
+Sales change
+
+26.846
+
+1513.321
+
+Total assets
+
+0.275
+
+0.537
+
+0.337
+
+Tech specialization
+
+1193.695
+
+B/M
+
+303.691
+
+Citation-weighted patents
+
+0.090
+16.199
+
+Cash
+
+0.827
+
+12.550
+
+R&D intensity
+
+Panel a: Firm characteristics
+
+Tech differentiation
+
+Mean
+S.D.
+Targets (n = 1299)
+
+T A B L E 2 Descriptive statistics.
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+T A B L E 3 Probability of being a target.
+
+Tech
+differentiation
+
+Five
+control
+firms
+(1)
+
+Five
+control
+firms
+(2)
+
+One
+control
+firm
+(3)
+
+Ten
+control
+firms
+(4)
+
+PS < 1
+SD
+(5)
+
+PS < 0.1
+SD
+(6)
+
+PS < 0.05
+SD
+(7)
+
+0.890
+
+2.213
+
+2.365
+
+2.007
+
+2.324
+
+2.813
+
+2.823
+
+(0.341)
+
+(0.637)
+
+(0.890)
+
+(0.616)
+
+(0.654)
+
+(0.766)
+
+(0.855)
+
+[.009]
+
+[.001]
+
+[.008]
+
+[.001]
+
+[.000]
+
+[.000]
+
+[.000]
+
+Deal fixed
+effects
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Control
+variables
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Number of
+observations
+
+7650
+
+7650
+
+2598
+
+13,632
+
+7107
+
+4918
+
+3478
+
+Number of
+actual targets
+
+1299
+
+1299
+
+1299
+
+1299
+
+1246
+
+1043
+
+900
+
+Number of
+pseudo-targets
+
+6351
+
+6351
+
+1299
+
+12,333
+
+5861
+
+3875
+
+2578
+
+ll
+
+−2290
+
+−2254
+
+−885
+
+−2977
+
+−2114
+
+−1518
+
+−1125
+
+Pseudo r2
+
+.001
+
+.017
+
+.017
+
+.015
+
+.014
+
+.017
+
+.016
+
+t-Statistic
+propensity
+scores
+
+−2.23
+
+−2.23
+
+−1.22
+
+−2.99
+
+−0.52
+
+−0.01
+
+−0.06
+
+Pr(jTj > jtj)
+
+0.026
+
+0.026
+
+0.223
+
+0.003
+
+0.600
+
+0.990
+
+0.948
+
+Note: The table reports coefficient estimates from conditional logit regressions with deal-level fixed effects. A target enters the
+sample if both itself and its matched pseudo-target(s) are covered by Compustat/CRSP and filed at least one patent in the 5-year
+period prior to the deal announcement. The dependent variable is equal to one for target firms and zero for matched pseudotarget firms. Control variables include R&D intensity, Citation-weighted patents, Tech specialization, Total assets, Stock return,
+Sales change, Leverage, Cash, ROA, and B/M. Variables Total assets and Citation weighted patents are in natural logarithms.
+ROA, Sales change, R&D intensity, Total assets, Leverage, Cash, B/M, and Stock return are winsorized at levels of 1 and 99%.
+Robust standard errors (clustered at the deal level) are reported in parentheses. p-Values of the estimated coefficients are
+reported in brackets. T statistic and corresponding p values are obtained by comparing the means of propensity scores between
+target and pseudo-target firms.
+
+differentiation, all other variables are held constant at their mean values. The average raw probability of being a target in our estimation sample is 17%, corresponding with 1299 targets and
+6351 matched pseudo-targets. Figure 2 shows a consistently positive relationship between tech
+differentiation and the probability of a firm being targeted for acquisition. Specifically, firms at
+the lowest end of tech differentiation in our sample have a predicted acquisition probability of
+7%, which increases to 20% for those at the highest end. Moreover, an increase in tech differentiation from the 25th to the 75th percentile boosts the acquisition probability from 13 to 17%.
+Although we followed prior studies and selected for each target firm up to five of the most
+similar pseudo-target firms from the entire population of firms from the same industry (Bena &
+Li, 2014; Chen et al., 2018; Hernandez & Shaver, 2019), as expected and in line with prior papers,
+the descriptive statistics in Table 2 show that some differences in firm characteristics remain
+between targets and pseudo-targets. In columns (3)–(7) of Table 3, we test the robustness of our
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+852
+
+853
+
+F I G U R E 2 Effect of technology differentiation on acquisition target probability. This figure illustrates the
+predicated probabilities of being a target for different values of target tech differentiation. We utilize the
+simulation method proposed by King et al. (2000). Regression results can be found in column (2) in Table 3.
+Gray bars in the figure indicate the 95% confidence intervals.
+
+results using alternative and more restrictive sampling and matching criteria. In column (3), we
+replicate the findings of column (2) but include for every target firm only the single (instead of
+five) most similar pseudo-target firm as control, thereby dropping 66% of the firms from the sample. In column (4), we include for every target firm up to 10 instead of 5 of the most similar
+pseudo-target firms as control. In column (5), to reduce the covariate imbalance between the target and pseudo-target firms, we follow Austin (2011) and DeFond et al. (2017) and calculate the
+standard deviation of propensity scores for each deal (i.e., target and potential pseudo-target
+firms), and remove pseudo-target firms whose propensity score is more than 1 SD away from the
+propensity score of the corresponding target firm. Thus, for each target, firm only the most similar
+pseudo-target firms are retained as control and 7% of the firms are dropped from the sample.
+Finally, in columns (6) and (7), we follow the same strategy as column (5) but impose even stricter matching criteria by excluding pseudo-target firms whose propensity score is more than 10%,
+respectively, 5% of a standard deviation away from the propensity score of the corresponding target firm, thereby dropping, respectively, 36 and 55% of the firms from the sample.20 Despite the
+large differences in the composition and size of the different samples, we find very consistent
+results both in terms of statistical significance and in terms of the magnitude of the effect.21
+20
+
+Imposing even stricter matching criteria reduces the sample size up to a point that the conditional logit models fail to
+converge because of the small sample size. For example, excluding pseudo firms whose propensity score is more than
+1% of a standard deviation away results in a sample with 48 actual deals and 151 pseudo-deals.
+21
+We also experimented with coarsened exact matching (CEM) as an alternative matching approach which imposes
+balance between target and pseudo target firms on all firm characteristics simultaneously. However, in practice it
+turned out that for the large majority of target firms in our sample, it is impossible to find a control firm from the same
+industry that is similar in terms of all the different financial and innovation characteristics simultaneously. Therefore,
+we are unable to replicate our findings using CEM as an alternative matching approach.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+T A B L E 4 Probability of M&A transaction pairing.
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+12.129
+
+11.883
+
+11.269
+
+9.062
+
+10.263
+
+9.028
+
+(1.393)
+
+(1.660)
+
+(1.655)
+
+(1.621)
+
+(1.327)
+
+(1.635)
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.001]
+
+−2.399
+
+−0.070
+
+0.128
+
+0.069
+
+−2.161
+
+0.225
+
+(0.970)
+
+(1.386)
+
+(1.450)
+
+(1.443)
+
+(1.025)
+
+(1.477)
+
+[.013]
+
+[.960]
+
+[.930]
+
+[.962]
+
+[.035]
+
+[.879]
+
+19.599
+
+20.960
+
+20.674
+
+20.508
+
+18.999
+
+20.357
+
+(1.307)
+
+(1.408)
+
+(1.419)
+
+(1.425)
+
+(1.345)
+
+(1.425)
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+Target characteristics
+Target tech differentiation
+
+Acquirer characteristics
+Acquirer tech differentiation
+
+Acquirer-target pair characteristics
+Prod similarity
+
+Tech similarity
+
+9.455
+
+9.347
+
+9.824
+
+10.501
+
+10.648
+
+10.729
+
+(0.911)
+
+(0.904)
+
+(0.939)
+
+(0.993)
+
+(1.008)
+
+(1.021)
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+[.000]
+
+37.771
+
+23.558
+
+28.560
+
+(10.675)
+
+(10.810)
+
+(11.238)
+
+[.000]
+
+[.029]
+
+[.011]
+
+16.924
+
+13.896
+
+13.886
+
+(3.634)
+
+(3.526)
+
+(3.720)
+
+Target tech differentiation × Prod similarity
+
+Target tech differentiation × Tech similarity
+
+[.000]
+
+[.000]
+
+[.000]
+
+Deal fixed effects
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Control variables
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Number of observations
+
+5973
+
+5973
+
+5973
+
+5973
+
+5973
+
+5973
+
+Number of actual deals
+
+546
+
+546
+
+546
+
+546
+
+546
+
+546
+
+Number of control deals
+
+5427
+
+5427
+
+5427
+
+5427
+
+5427
+
+5427
+
+ll
+
+−791.0
+
+−733.0
+
+−726.2
+
+−723.3
+
+−778.7
+
+−719.9
+
+Pseudo r2
+
+.394
+
+.439
+
+.444
+
+.446
+
+.404
+
+.449
+
+Note: The table reports coefficient estimates from conditional logit regressions with deal-level fixed effects. A deal enters the
+sample if the M&A deal was announced after 1989 (inclusively) and both the acquirer and the target and their respective
+pseudo-target and acquirer firms own at least one patent in the 5-year period prior to the deal announcement. The dependent
+variable is equal to one for the actual acquirer-target firm pair, and zero for the pseudo-pairs. Control variables include R&D
+intensity, Citation-weighted patents, Tech specialization, Total assets, Stock return, Sales change, Leverage, Cash, ROA, and B/M
+for both (pseudo) acquirers and (pseudo) targets at the fiscal year end before deal announcement as well as a dummy variable
+which indicates whether the acquirer and target are from the same state. Variables Total assets and Citation-weighted patents
+are in natural logarithms. ROA, Sales change, R&D intensity, Total assets, Leverage, Cash, B/M, and Stock return are winsorized
+at levels of 1 and 99%. Robust standard errors (clustered at the deal level) are reported in parentheses. p-Values of the estimated
+coefficients are reported in brackets.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+854
+
+855
+
+4.2 | M&A transaction pairing
+To study the M&A transaction probability between (pseudo) acquirers and (pseudo) targets, we
+follow Bena and Li (2014) and run a deal-level conditional logit model. Our outcome variable
+AcquirerTargetijmt equals one if firms i and j are the actual acquirer-target pair for deal m in
+year t, and zero in case of matched pseudo-acquirer-target pairs. It is important to remember
+that pseudo-acquirer-target pairs include combinations of both actual acquirers with pseudotargets and pseudo-acquirers with actual targets. Next, tech similarityijt − 1 and prod similarityijt − 1
+capture the technological similarity and product market overlap, respectively, between firms
+i and j in year t-1. To evaluate Hypothesis 2, we introduce an interaction between
+target tech differentiationit − 1 and prod similarityijt − 1 : For Hypothesis 3, we similarly interact
+target tech differentiationit − 1 with tech similarityijt − 1 . Besides matching target (acquirer) and
+pseudo-target (acquirer) firms on all financial and innovation characteristics (except tech differentiation), we additionally include all firm characteristics as control variables in the regressions.
+We control for the financial and innovation characteristics of both firm i and firm j in year t-1,
+and capture the effect of geographic location on M&A transactions by including same stateijt − 1
+equal to one in case firm i and j are located in the same state in year t-1. However, as demonstrated in subsequent sections, our results hold even when we remove these control variables
+from the regression analyses. Finally, we control for deal fixed effects for the real target-acquirer
+pair and the matched pseudo-acquirer-target pairs involved in deal m. Due to data availability,
+we restrict the analysis to 5973 deals of which 546 deals and 5427 matched pseudo-deals. To
+improve readability, we will refer in the tables and discussion of the results below to acquirers
+for the group of firms including both acquires and matched pseudo-acquirers, and to targets for
+the group of firms including both targets and matched pseudo-targets.
+As shown in Table 4, across all configurations, technological similarity and product similarity between acquirers and targets are both important drivers of M&A transactions. This finding
+is consistent with prior studies emphasizing the important role of technology and product market synergies for M&As (e.g., Ahuja & Katila, 2001; Bena & Li, 2014; Cassiman et al., 2005;
+Chondrakis, 2016; Hoberg & Philips, 2016; Marki et al., 2010; Sears & Hoetker, 2014). In line
+with our findings in Table 3 and Hypothesis 1, target tech differentiation presents a positive relation with M&A pairing probability, whereas acquirer tech differentiation shows no effect in most
+cases.22 These findings confirm that firms with unique technology are more likely to become
+acquisition targets.
+Consistent with Hypothesis 2, we observe a positive interaction between target tech differentiation and prod similarity (column 3). This implies that firms possessing a unique technology
+portfolio are particularly appealing as acquisition targets for close competitors in the same product market segments. Furthermore, in column 4, the positive interaction between target tech differentiation and tech similarity supports Hypothesis 3, suggesting that firms with a unique
+technology portfolio are particularly attractive targets for firms closer in technology space. In
+columns 5 and 6, both interaction effects show a positive relationship, regardless of the inclusion of other control variables.23 In Table A.8, we demonstrate the robustness of our findings by
+
+22
+
+Although acquirer tech differentiation does not appear to predict pairing probability, we find firms with lower level of
+tech differentiation are more likely to be acquirers (Table A.7). This result suggests that firms with a less unique
+technology portfolio might be more likely to engage in acquisitions.
+23
+In Table A.12, we present alternative robustness checks where one or a combination of control variables are excluded.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+F I G U R E 3 Effect of technology differentiation on M&A transaction pairing, moderated by product market
+overlap and technological similarity. (a, b) The predicated probabilities of pairing by varying the values of the
+target tech differentiation, prod similarity, and tech similarity. We utilize the simulation method proposed by King
+et al. (2000). When creating (a), we set all variables other than target tech differentiation, prod similarity, and the
+corresponding interaction term to their sample means. When creating (b), we set all variables other than target
+tech differentiation, tech similarity, and the corresponding interaction term to their sample means. Regression
+results can be found in column (6) in Table 4. Gray bars in the figure indicate the 95% confidence intervals.
+
+employing the same alternative and more restrictive sampling and matching criteria used in
+Table 3. This time, however, the criteria are applied to both the target firms and acquirers.
+To better understand the magnitude of these interaction effects, we adopt the same simulation approach as before and plot the predicted M&A transaction pairing probability based on
+the results in Table 4 column 6 in Figure 3. We maintain all variables except target tech differentiation, prod similarity, tech similarity, and corresponding interaction terms at their sample
+means. The values on the horizontal axis encompass the entire range of target tech differentiation in our sample. To further improve the interpretation of the interaction effects, Table 5 presents the predicted M&A transaction probability for selected values of target tech differentiation,
+prod similarity, and tech similarity. The average raw probability of a deal in our estimation sample is 9%, corresponding with 546 deals and 5427 matched pseudo-deals.
+As depicted in Figure 3a and Table 5, the predicted probability of M&A transactions is
+highest for targets with a high level of technology differentiation, especially when there is close
+product market overlap and rivalry between potential targets and acquirers. Consistent with
+Hypothesis 2, the uniqueness of a target's technology portfolio is particularly relevant for closer
+rivals in the product market. Table 5 further demonstrates that among close product market
+rivals (with prod similarity fixed at the 75th percentile and other variables at their sample
+means), the estimated M&A pairing probability rises from 14.1 to 22.7% as target tech differentiation increases from the 25th percentile to the 75th percentile. In contrast, for more distant
+product market firms (with prod similarity fixed at the 25th percentile and other variables at
+their sample means), the predicted pairing probability increases from 6.1 to 9.3% with the same
+increase in target tech differentiation percentile.
+In parallel, Figure 3b illustrates that the estimated probability of M&A transactions peaks
+for targets with a high level of technology differentiation, particularly when there exists high
+technological similarity between potential targets and acquirers. Supporting Hypothesis 3, the
+uniqueness of a target's technology portfolio holds particular relevance for acquirers sharing a
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+856
+
+857
+
+T A B L E 5 Predicted M&A transaction pairing (in %) for selected values of target technology differentiation,
+product market overlap, and technological similarity.
+Target tech
+differentiation = p25
+
+Target tech
+differentiation = p75
+
+Difference
+
+prod similarity = p25
+
+6.086
+
+9.316
+
+3.230
+
+prod similarity = p75
+
+14.126
+
+22.684
+
+8.558
+
+8.040
+
+13.368
+
+Difference
+tech similarity = p25
+
+6.374
+
+9.832
+
+3.458
+
+tech similarity = p75
+
+13.322
+
+21.318
+
+7.996
+
+6.948
+
+11.486
+
+Difference
+
+Note: The table illustrates the effect sizes of interaction terms, namely target tech differentiation × prod similarity and target tech
+differentiation × tech similarity, by showing the predicted probabilities of M&A transaction pairing when the corresponding
+variables are set to 25th or 75th percentiles. All other control variables are fixed at their sample means. Probabilities are
+estimated based on the regression result shown in column 6 Table 4. We utilize the simulation method proposed by King et al.
+(2000). Given that the sample contains 546 deals and 5427 matched pseudo-deals, the average probability of pairing is 9%.
+
+similar technology portfolio. Among firms close in technology space (with tech similarity fixed
+at the 75th percentile and other variables at their sample means), the estimated M&A pairing
+probability increases from 13.3 to 21.3% as target tech differentiation rises from the 25th to the
+75th percentile. Conversely, for firms more distant in technology space (with tech similarity
+fixed at the 25th percentile and other variables at their sample means), the predicted pairing
+probability increases from 6.4 to 9.8% with the same increment in the target tech differentiation
+percentile.
+
+4.3 | Robustness checks
+To measure a firm's technology differentiation, we followed the approach of Arts et al. (2023),
+focusing on the top 10% of firms that are most technologically similar to the focal firm. This
+method underscores that a firm's position and differentiation in the technology space are largely
+determined against its nearest peers. To test the robustness of this approach, we recalculate tech
+differentiation based on a comparison with all other firms or alternatively exclusively based on a
+comparison with firms from the same industry.24 Moreover, our primary method based on tf-idf
+has limitations, such as not accounting for synonyms, polysemies, and the sequence and context
+of words in patent documents. These problems should be mitigated because we group the text
+of all patents in a firm's patent portfolio. Nevertheless, to further test the robustness of our
+method, we utilize doc2vec to derive embedding vectors for all US patents from Arts et al.
+(2023) and average the patent-level vectors of all patents in a firm's technology portfolio in a
+given year to map a firm's position in technology place. Subsequently, we use this alternative
+representation of a firm's technology portfolio in a given year to calculate tech similarity
+(doc2vec) for every pair of US public firms and each year by means of cosine similarities, and
+
+24
+
+Tech differentiation (industry rivals) is calculated as one minus the average tech similarity between the focal firm and
+all other firms from the same SIC2 industry in the same year.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+tech differentiation (doc2vec) for each firm and year.25 As illustrated in the analyses in
+Tables A.9 and A.10, we continue to find support for all three hypotheses if we calculate tech
+differentiation in alternative ways. The only exception is that the p value of target tech differentiation (doc2vec) becomes 0.167 in Table A.9 column (3).26 Despite this, target tech differentiation
+(doc2vec) remains a strong predictor of M&A transaction pairing, as shown in Table A.10.
+
+5 | DISCUSSION AND CONCLUSION
+Compiling an economy-wide dataset of US public firms and M&A transactions between 1984
+and 2015, we demonstrate that unique firm technology plays a crucial role in the market for
+corporate control and is a primary catalyst for M&A activity. We employ a text-based network
+method to delineate each firm's position relative to all other firms within both the technology
+and product market space, and to quantify the uniqueness of a firm's technology portfolio. By
+pairing each target and acquirer in an M&A transaction with similar pseudo-targets and
+acquirers, we utilize conditional logit models with deal-specific fixed effects to illustrate that
+firms possessing a more unique technology portfolio are prime acquisition targets.
+Our analysis further illustrates that firms with a unique technology portfolio emerge as particularly appealing targets for direct rivals within the same product market, as measured by the
+degree of similarity between the annual 10-K product descriptions of firms. This attractiveness
+can be attributed to the acquirer's desire to eliminate competitive pressure from a proximate
+competitor endowed with unique technology and, consequently, significant market power.
+Additionally, by integrating the unique technology of a close product market rival into the
+acquirer's current product business, the acquiring firm might more directly strengthen its competitive advantage in that product market space.
+We also find that firms with unique technology portfolios are especially attractive to potential acquirers within closer technological proximity. Firms with greater technological similarity
+to the target can presumably better identify, understand and value the target's unique technology and more efficiently integrate this acquired technology, thanks to their greater absorptive
+capacity. These technologically closer companies have the essential knowledge and expertise to
+effectively leverage the target firm's unique technological assets, thereby maximizing technological synergies. Moreover, acquiring the rights to related technologies improves the freedom to
+operate in this technology space.
+Our study is subject to several limitations. First, not all technologies are documented
+through patents, and the propensity to patent varies significantly across industries and firms.
+Nevertheless, we believe our findings could naturally extend to target firms with unique technology portfolios that are protected by other means, such as secrecy, complexity or lead time.
+These alternative protection mechanisms are known to influence the attractiveness of a potential target firm (Arranz et al., 2022). Moreover, our method of characterizing a firm's technology
+portfolio through patent text likely captures or correlates with other R&D projects and technologies of the firm that are not patented.
+25
+
+The correlation between tech differentiation and tech differentiation (doc2vec) is 0.79.
+This result aligns with the work of Arts et al. (2023), who identified a weaker correlation between technology
+differentiation and firm performance when using doc2vec compared to tf-idf. The likely reason is that tf-idf more
+effectively captures the uniqueness of a firm's technology portfolio. This is likely because the idf component in tf-idf
+corrects for common keywords across many firms' portfolios in a given year, making them less discriminating, and
+because tf-idf employs vectors with much higher dimensionality compared to doc2vec.
+
+26
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+858
+
+859
+
+Second, despite using a matching methodology aligned with previous research (e.g., Bena &
+Li, 2014; Chen et al., 2018; Hernandez & Shaver, 2019) and ensuring our results are consistent
+across various alternative and more stringent sampling and matching methods, we cannot
+entirely eliminate the potential impact of unobserved confounders that may influence the probability of becoming an acquisition target. For instance, it is possible that firms with more
+unique technologies might also engage more actively in marketing themselves as potential
+acquisition targets.
+Another limitation is that our analysis is restricted to US publicly traded companies listed
+on Compustat, which are generally larger entities. Nevertheless, smaller private companies and
+startups frequently take the lead in pioneering novel technologies and developing a unique
+technology portfolio. Anecdotal evidence also suggests that such smaller entities and startups,
+owing to their unique technologies, often become attractive targets for acquisitions. This attraction may be partly because they fall outside the scope of traditional merger regulations, which
+primarily focus on company size and product market shares (Wollmann, 2019).
+Moreover, although our findings show that companies with unique technology are preferentially targeted by direct competitors within the same product market segments, our analysis
+falls short of carefully separating the anticompetitive motives from the synergistic drivers
+behind these acquisitions (Cunningham et al., 2021). Major technology conglomerates, including giants like Alphabet, Amazon, Apple, Facebook, and Microsoft, have expanded their
+empires by absorbing hundreds of both public and private firms with unique technology, ranging from early-stage startups to established technology leaders, such as Google's acquisition of
+Motorola (Jin et al., 2023). This strategic consolidation of businesses could have potentially
+enhanced their insulation from the pressures of product market competition (Ederer &
+Pellegrino, 2023). Delving deeper into the distinct role of anticompetitive versus synergistic
+motives for acquiring firms with unique technology emerges as a valuable avenue for future
+investigation. This seems especially pertinent as prior empirical research suggests that unique
+firm technology softens product market rivalry, enhances market dominance, and, consequently, boosts firm profitability and market value, particularly in R&D intensive industries
+and industries characterized by strong product market rivalry (Arts et al., 2023). Additionally,
+exploring how the technology of private firms and startups influences M&A activities presents
+another interesting direction for future research.
+Despite its limitations, our study contributes to the existing literature on the relationship
+between firm-level innovation and M&As (Seru, 2014; Valentini, 2012), particularly aligning
+with research that examines how firm-level innovation affects M&A transaction incidence
+(e.g., Ahuja & Katila, 2001; Bena & Li, 2014; Chen et al., 2020; Chondrakis, 2016; Grimpe &
+Hussinger, 2014; Yu et al., 2016). Prior research has primarily focused on the rate of invention
+by potential target firms and the technological synergies between targets and acquirers as key
+drivers of M&A activity. Beyond the rate of invention, our findings add to this body of work by
+illustrating the vital role of a potential target firm's position and differentiation of invention relative to all other firms in the industry or economy. To the best of our knowledge, we are the
+first to demonstrate that a unique technology portfolio is a critical strategic asset in the market
+for corporate control. Additionally, we show that the impact of unique firm technology on
+M&A dynamics is shaped by the interplay between the target's unique technology and the technological and product market overlaps and competition between potential targets and
+acquirers.
+Our study also offers implications for both companies and policymakers. For companies,
+investment bankers, financial analysts, and M&A advisory consultants, it provides a robust
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+framework for identifying high-potential acquisition targets and potential investment opportunities. Additionally, it offers strategies for firms to enhance their attractiveness as acquisition
+targets by increasing the uniqueness of their technology and identifying potential acquirers.
+Finally, our findings suggest that policymakers in antitrust regulations and merger assessments
+should perhaps consider the uniqueness of firm technology when evaluating the impact of
+M&A transactions on market competition.
+A C K N O WL E D G M E N T S
+The authors gratefully acknowledge Bart Vanneste (the editor) and the two anonymous
+reviewers for their valuable insights and constructive feedback. Comments from René
+Belderbos, George Chondrakis, Andrea Fosfuri, Christoph Grimpe, Giovanni Valentini, Ivanka
+Visnjic, David Wehrheim, Yanfeng Zheng, and seminar participants at ESADE Business School,
+SKEMA, University of Pisa, and the AOM, Columbia Management, Analytics, and Data
+(MAD), SMS, Global Innovation and Intellectual Property and Druid conferences improved the
+paper substantially. Research assistance from Lena Veretennik with network graphs is acknowledged. Sam Arts acknowledges support from KU Leuven (grant 3H200208) and the National
+Bank of Belgium (grant 3H160338). Bruno Cassiman acknowledges support from FWO grants
+G071417N and G010324N from the Flemish government. Jianan Hou acknowledges support
+from the Fundamental Research Funds for the Central Universities (grant 20720241011).
+Authors are listed alphabetically and contributed equally.
+DATA AVAILABILITY STATEMENT
+The data utilized in this study were sourced from commercial vendors, including Thomson
+Reuters SDC Platinum, CRSP US Stock Database, and Compustat, and are subject to access
+restrictions. However, we have made the technology similarity and differentiation datasets publicly available at https://zenodo.org/records/5172146, and the product similarity data can be
+accessed at https://hobergphillips.tuck.dartmouth.edu/tnic_advanced.html.
+ORCID
+Sam Arts
+
+https://orcid.org/0000-0003-3214-7325
+
+R EF E RE N C E S
+Adegbesan, J. A. (2009). On the origins of competitive advantage: Strategic factor markets and heterogeneous
+resource complementarity. Academy of Management Review, 34(3), 463–475.
+Ahuja, G., & Katila, R. (2001). Technological acquisitions and the innovation performance of acquiring firms: A
+longitudinal study. Strategic Management Journal, 22(3), 197–220.
+Arora, A., Belenzon, S., & Sheer, L. (2021). Matching patents to Compustat firms, 1980–2015: Dynamic
+reassignment, name changes, and ownership structures. Research Policy, 50(5), 104217.
+Arora, A., Fosfuri, A., & Gambardella, A. (2001). Markets for technology and their implications for corporate
+strategy. Industrial and Corporate Change, 10(2), 419–452.
+Arranz, M. F. D. A., Grimpe, C., & Hussinger, K. (2022). Trade secret protection and foreign acquirer engagement. Paper presented at DRUID22 Conference. Copenhagen, Denmark.
+Arts, S., Cassiman, B., & Gomez, J. C. (2018). Text matching to measure patent similarity. Strategic Management
+Journal, 39(1), 62–84.
+Arts, S., Cassiman, B., & Hou, J. (2023). Position and differentiation of firms in technology space. Management
+Science, 69(12), 7253–7265.
+Arts, S., Hou, J., & Gomez, J. C. (2021). Natural language processing to identify the creation and impact of new
+technologies in patent text: Code, data, and new measures. Research Policy, 50(2), 104144.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+860
+
+861
+
+Austin, P. C. (2011). Optimal caliper widths for propensity-score matching when estimating differences in means
+and differences in proportions in observational studies. Pharmaceutical Statistics, 10(2), 150–161.
+Baker, J. B., & Bresnahan, T. F. (1985). The gains from merger or collusion in product-differentiated industries.
+Journal of Industrial Economics, 33(4), 427–444.
+Barney, J. (1986). Organizational culture: Can it be a source of sustained competitive advantage? Academy of
+Management Review, 11(3), 656–665.
+Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99–120.
+Belenzon, S., Patacconi, A., & Zarutskie, R. (2016). Married to the firm? A large-scale investigation of the social
+context of ownership. Strategic Management Journal, 37(13), 2611–2638.
+Bena, J., & Li, K. (2014). Corporate innovation and mergers and acquisitions. Journal of Finance, 69(5), 1923–
+1960.
+Cassiman, B., Colombo, M. G., Garrone, P., & Veugelers, R. (2005). The impact of M&A on the R&D process: An
+empirical analysis of the role of technological- and market-relatedness. Research Policy, 34(2), 195–220.
+Cassiman, B., & Veugelers, R. (2006). In search of complementarity in innovation strategy: Internal R&D and
+external knowledge acquisition. Management Science, 52(1), 68–82.
+Chen, I. J., Hsu, P. H., Officer, M. S., & Wang, Y. (2020). The Oscar goes to…: High-tech firms' acquisitions in
+response to rivals' technology breakthroughs. Research Policy, 49(7), 104078.
+Chen, Z., Kale, P., & Hoskisson, R. E. (2018). Geographic overlap and acquisition pairing. Strategic Management
+Journal, 39(2), 329–355.
+Chondrakis, G. (2016). Unique synergies in technology acquisitions. Research Policy, 45(9), 1873–1889.
+Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovaiton.
+Administrative Science Quarterly, 35(1), 128–152.
+Cunningham, C., Ederer, F., & Ma, S. (2021). Killer acquisitions. Journal of Political Economy, 129(3), 649–702.
+DeFond, M., Erkens, D. H., & Zhang, J. (2017). Do client characteristics really drive the big N audit quality
+effect? New evidence from propensity score matching. Management Science, 63(11), 3628–3649.
+Ederer, F., & Pellegrino, B. (2023). The great start-up sellout and the rise of oligopoly. AEA Papers and Proceedings, 113, 274–278.
+Fan, Y., Litov, L. P., Yang, M. J., & Zenger, T. (2024). Technological uniqueness and competitive advantage.
+Retrieved from https://ssrn.com/abstract=4293456 https://doi.org/10.2139/ssrn.4293456
+Gans, J. S., & Stern, S. (2003). The product market and the market for “ideas”: Commercialization strategies for
+technology entrepreneurs. Research Policy, 32(2), 333–350.
+Gilbert, R. J., & Newbery, D. M. (1982). Preemptive patenting and the persistence of monopoly. American Economic Review, 72(3), 514–526.
+Grimpe, C., & Hussinger, K. (2008). Pre-empting technology competition through firm acquisitions. Economics
+Letters, 100(2), 189–191.
+Grimpe, C., & Hussinger, K. (2014). Resource complementarity and value capture in firm acquisitions: The role
+of intellectual property rights. Strategic Management Journal, 35(12), 1762–1780.
+Hall, B. H., Jaffe, A. B., & Trajtenberg, M. (2005). Market value and patent citations. The Rand Journal of Economics, 36(1), 16–38.
+Hernandez, E., & Shaver, J. M. (2019). Network synergy. Administrative Science Quarterly, 64(1), 171–202.
+Hirshleifer, D., Hsu, P., & Li, D. (2018). Innovative originality, profitability, and stock return. Review of Financial
+Studies, 31(7), 2553–2605.
+Hoberg, G., & Philips, G. (2016). Text-based network industries and endogenous product differentiation. Journal
+of Political Economy, 124(5), 1423–1465.
+Jaffe, A. B. (1989). Characterizing the “technological position” of firms, with application to quantifying technological opportunity and research spillovers. Research Policy, 18(2), 87–97.
+Jin, G. Z., Leccese, M., & Wagman, L. (2023). How do top acquirers compare in technology mergers? New evidence from an SP taxonomy. International Journal of Industrial Organization, 89, 102891.
+Kaul, A., & Wu, B. (2016). A capabilities-based perspective on target selection in acquisitions. Strategic Management Journal, 37(7), 1220–1239.
+King, G., Tomz, M., & Wittenberg, J. (2000). Making the most of statistical analyses: Improving interpretation
+and presentation. American Journal of Political Science, 44(2), 341–355.
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ARTS ET AL.
+
+ARTS ET AL.
+
+Litov, L. P., Moreton, P., & Zenger, T. R. (2012). Corporate strategy, analyst coverage, and the uniqueness paradox. Management Science, 58(10), 1797–1815.
+Marki, M., Hitt, M. A., & Lane, P. J. (2010). Complementary technologies, knowledge relatedness, and invention
+outcomes in high technology mergers and acquisitions. Strategic Management Journal, 31(6), 602–628.
+Mowery, D. C., Oxley, J. E., & Silverman, B. S. (1998). Technological overlap and interfirm cooperation: Implications for the resource-based view of the firm. Research Policy, 27(5), 507–523.
+Peteraf, M. A. (1993). The cornerstones of competitive advantage: A resource-based view. Strategic Management
+Journal, 14(3), 179–191.
+Philips, G. M., & Zhdanov, A. (2013). R&D and the incentives from merger and acquisition activity. Review of
+Financial Studies, 26(1), 34–78.
+Rothaermel, F. T., & Deeds, D. L. (2004). Exploration and exploitation alliances in biotechnology: A system of
+new product development. Strategic Management Journal, 25(3), 201–221.
+Sears, J. B., & Hoetker, G. (2014). Technological overlap: Technological capabilities, and resource recombination
+in technological acquisitions. Strategic Management Journal, 35(1), 48–67.
+Seru, A. (2014). Firm boundaries matter: Evidence from conglomerates and R&D activity. Journal of Financial
+Economics, 111(2), 381–405.
+Silverman, B. S. (1999). Technological resources and the direction of corporate diversification: Toward an integration of the resource-based view and transaction cost economics. Management Science, 45(8), 1109–1124.
+Sutton, J. (1991). Sunk costs and market structure: Price competition, advertising, and the evolution of concentration. The MIT Press.
+Testoni, M. (2021). The market value spillovers of technological acquisitions: Evidence from patent-text analysis.
+Strategic Management Journal, 43(5), 964–985.
+Testoni, M., Sakakibara, M., & Chen, M. K. (2022). Face-to-face interactions and the returns to acquisitions: Evidence from smartphone geolocational data. Strategic Management Journal, 43(13), 2669–2702.
+Valentini, G. (2012). Measuring the effect of M&A on patenting quantity and quality. Strategic Management Journal, 33(3), 336–346.
+Wagner, S., & Cockburn, I. (2010). Patents and the survival of internet-related IPOs. Research Policy, 39(2),
+214–228.
+Wernerfelt, B. (1984). A resource-based view of the firm. Strategic Management Journal, 5(2), 171–180.
+Wollmann, T. G. (2019). Stealth consolidation: Evidence from an amendment to the Hart-Scott-Rodino Act.
+American Economic Review: Insights, 1(1), 77–94.
+Yu, Y., Umashankar, N., & Rao, V. R. (2016). Choosing the right target: Relative preferences for resource similarity and complementarity in acquisition choice. Strategic Management Journal, 37(8), 1808–1825.
+Zelner, B. A. (2009). Using simulation to interpret results from logit, probit, and other nonlinear models. Strategic Management Journal, 30(12), 1335–1348.
+
+S UP PO RT ING IN FOR MAT ION
+Additional supporting information can be found online in the Supporting Information section
+at the end of this article.
+How to cite this article: Arts, S., Cassiman, B., & Hou, J. (2025). Technology
+differentiation, product market rivalry, and M&A transactions. Strategic Management
+Journal, 46(4), 837–862. https://doi.org/10.1002/smj.3687
+
+10970266, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smj.3687 by Readcube (Labtiva Inc.), Wiley Online Library on [30/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+862
+
+

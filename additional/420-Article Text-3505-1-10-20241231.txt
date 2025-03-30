@@ -1,0 +1,2643 @@
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+DOI: 10.5937/StraMan2300060B
+Received: March 17, 2023
+Revised: August 22, 2023
+October 09, 2023
+Accepted: October 24, 2023
+Published online: December 26, 2023
+
+Boards’ strategic involvement models:
+past, present, and future
+Tihona Bozhinovska
+Ss. Cyril and Methodius University in Skopje, Faculty of Economics - Skopje, Skopje, Republic of North Macedonia
+https://orcid.org/0000-0003-3350-7468
+Ljupcho Eftimov
+Ss. Cyril and Methodius University in Skopje, Faculty of Economics - Skopje, Skopje, Republic of North Macedonia
+https://orcid.org/0000-0003-0870-4355
+Abstract
+Background: The research on boards’ strategic involvement has increased dramatically in the last few decades
+due to the need for improving boards’ strategic effectiveness as a mechanism for improving organizational
+performance. The corporate scandals highlighted even more that boards’ strategic decisions have sizable
+consequences for organizational survival, and long-term implications for organizational development.
+Purpose: The main research questions in this study are: 1. Which are the main elements of the concept of
+boards’ strategic involvement?; 2. Which models constitute the core of the concept and how we can classify
+them?; 3. How has the discourse on boards’ strategic role changed over time? Our purpose is to provide
+comprehensive answers to these questions and draft the future research agenda in this area.
+Study design/methodology/approach: Having in mind that boards’ strategic involvement is a multi-disciplinary
+area, we first conducted an integrative literature review, to detect the competing groups of models, and
+afterwards we conducted a semi-structured literature review in order to identify the most important topics in this
+area and to draft the future research agenda.
+Findings/conclusions: This paper contributes to research by identifying the models of boards’ strategic
+involvement, classifying them in three competing groups of models that represent the foundation in this research
+area, by identifying the most investigated topics in the past five years and finally, by drafting the future research
+agenda. Our conclusion is that the research in this multidisciplinary area is navigating around these three groups
+of models and that the most explored topics around which the future research is going to be conducted are
+boards’ involvement in the area of strategic human resource management and decisions regarding
+organizations’ sustainability.
+Limitations/future research: The study’s main limitations are related to the fact that the identified models on
+boards’ strategic involvement have been developed, mostly by authors from the USA and UK, where the onetier board system is used. In future research, the authors should focus on proposing new framework(s)/model(s)
+and supporting its insights with empirical evidence.
+Keywords
+boards, strategy, boards’ strategic involvement models, sustainable organizational performance, strategic
+human resource management
+
+Introduction
+Motivation of the paper
+
+The reason for investigating the literature on
+boards’ strategic involvement is in the fact that this
+is a mature research field that has emerged in the
+overlap of theories from several disciplines.
+Although the need for increased boards’
+
+participation into the strategic process and strategic
+decision-making has been strongly argued from the
+beginning of the 70s in the past century, most of
+the empirical papers researching this concept have
+been published after 1990. The reason for this is in
+the fact that boards’ strategic role has been
+theoretically defined by Zahra and Pearce II in
+1989. By analysing the four prevailing
+perspectives on boards’ roles, Zahra and Pearce II
+
+6
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+(1989) elaborated the essence and the key
+constituting elements of boards’ strategic role and
+thereby created the foundation for further empirical
+and theoretical research on boards’ strategic
+involvement. Building on their previous work, the
+same authors empirically researched boards’
+strategic involvement in 1990 on a sample of US
+companies and created the first model on boards’
+strategic involvement.
+In the following decades different authors
+investigated boards’ processes related to strategy
+and strategic decision-making grounding their
+research on a variety of theoretical approaches.
+Namely, the authors employed different theoretical
+approaches from strategic management to gain
+more insight on boards’ processes and particularly
+those processes related to boards’ members
+involvement in strategy. Although different models
+were designed, and therefore the basis for future
+research in this area was created during these more
+than two decades, their main contribution and
+findings have not been properly analysed and
+systematized. However, since boards’ work and
+processes, particularly those related to strategy, as
+noted in several papers represent a “black box”
+(Leblach & Schwarts, 2007; Klarner et al., 2020;
+Guerra, 2022), the need for thoughtful and
+methodological research on the literature on
+boards’ strategic involvement is necessary for
+gaining clarity and laying the foundations for
+further empirical examination on the topic.
+Deepening our understanding on strategic process
+and the decisions that board members and top
+management teams make, as well as their
+behaviour in those processes is essential for
+selecting proper theoretical and methodological
+approaches for empirically researching boards’
+strategic involvement and strategic management in
+general.
+The contribution of this paper is in the synthesis
+of the literature on boards’ strategic involvement,
+the identification of the key conceptual
+frameworks/models, identifying the most popular
+topics in this research area in the period 2019-2023
+and setting directions for future research. This
+could give some insights regarding boards’ work
+and their participation in the strategic process that
+hopefully could led to a construction of a new
+theory on boards’ strategic involvement, as some
+academics have already proposed (Rindova, 1999;
+Pye & Camm, 2003; Ghaya, 2011).
+The paper intends to answer the following
+questions:
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+1. Which are the main elements of the concept
+of boards’ strategic involvement?
+2. Which models constitute the core of the
+concept and how we can classify them?
+3. How has the discourse on boards’ strategic
+role and boards’ strategic involvement
+changed over time?
+Finally, the main motivation for writing this
+paper is in the perceived lack of a study on boards’
+strategic involvement that explains the origins and
+the foundations of the concept, and how the topic
+has reconceptualised in the past decade. We must
+reflect and write on this since strategy is the most
+important board function (Wommack, 1979) and
+because the strategic directions defined at the top
+of the organizations determine its survival,
+competitiveness, and future growth. Furthermore,
+the behaviour of boards and top management teams
+members and the practices used in the strategic
+management process in the largest organizations,
+which can have enormous impact on the overall
+economy, remain unavailable for research for most
+academics.
+Theoretical background
+
+The theoretical approaches that constitute the basis
+for researching boards’ strategic involvement
+includes the theories related to organizational
+sciences and strategic management such as agency
+theory, resource dependence theory, strategic
+choice theory, stewardship theory and stakeholder
+theory. Additionally, for proper investigation of
+this concept, the analysis of several approaches
+used in psychology is more that need and justified.
+Namely, the finding in cognitive psychology has
+been used for increasing the understanding of
+managerial cognition and the link between
+managerial or directors’ cognition with the
+strategic process. Furthermore, the investigation of
+boards’ strategic involvement is not possible
+without understanding the term “involvement”
+which is elaborated from organizational
+perspective in the works of Maslach and Leither
+(1997), who analyse involvement as a component
+of employee engagement (in the research on
+burnout, which is a very popular topic in the area
+of human research management). Consequently,
+we can conclude that the theoretical background of
+boards’ strategic involvement incorporates the
+theories that have been used for defining boards’
+strategic role (agency theory
+and resource
+dependence theory), theories/approaches that
+elaborate the process of strategy making and the
+
+Bozhinovska & Eftimov
+
+role of executives in this process (stewardship
+theory, strategic choice theory and stakeholder
+theory), the cognitive approach that explains how
+directors and managers exercise strategic thinking
+and strategic behaviours and the theories on
+employee engagement that elaborate the meaning
+of the term involvement.
+One of the main premises of agency theory is
+that the firm or the corporation represents a legal
+entity that is constituted on a nexus of contracts and
+that agency costs are generated by each contractual
+agreement (Jensen & Meckling, 1976). Fama and
+Jensen (1983) analyse how the agency problems
+arise in private organizations and analyse the
+decision-making process in situation when there is
+separation of ownership and control. Furthermore,
+these authors explain the steps in the decisionmaking process and boards’ role in this process.
+Additionally, they explain the decision hierarchy
+and decisions’ agent’s role in this process. Agency
+theory also includes some assumption regarding
+the human nature, such as those that humans focus
+on their self-interest, have bound rationality and
+are risk averse (Eisenhardt, 1989). Zahra and
+Pearce II (1989) argue that agency theory
+recognises and stresses boards’ strategic role,
+which includes “boards’ involvement in and
+contribution to articulation of the firm’s mission,
+the development of the firms’ strategy and setting
+of guidelines for implementation and effective
+control of the chosen strategy” (p. 302). The main
+premise of the resource dependence theory is that
+organizations are externally controlled and that
+organizational decisions reflect the environmental
+pressures (Pfeffer & Salancik, 2003). Furthermore,
+Pfeffer and Salancik (2003) argue that
+organizations use co-optation and executive
+succession as mechanisms for managing
+environmental influences (constrains). Zahra and
+Pearce (1989) highlight that resource dependence
+theory analyses boards as a link to the external
+environment and argue that boards’ strategic role
+includes the board members’ impact on the
+strategic initiatives of strategic choices. Therefore,
+the strategic choice theory should also be analysed
+as part of the theoretical background of the concept
+of boards’ strategic involvement. Child (1972)
+argues that besides the environmental pressures,
+strategic choices are severely influenced by the
+dominant coalitions within the organisation.
+Therefore, the strategic choice perspective stresses
+that the strategic decision-making process is
+influenced by the distribution of power of the
+dominant coalitions within the organization and
+
+Boards’ strategic involvement models: past, present, and future
+
+that strategic choices largely depend on the
+cognitive abilities of boards’ members and
+managers and their interpretation of the
+environmental trends and organizational events
+(Child, 1997). Therefore, director’s mind-set,
+power and the intra-organizational political
+process are critical in the phase of strategic
+initiatives generations, and the choices
+organisations make are largely impacted by
+strategic actors’ ability to understand complexity
+and to implement the selected alternative (Child,
+1997). Consequently, we conclude that this theory
+emphasises the importance of the strategic actors’
+(which includes boards’ members and managers)
+power, mind-set and ability to cope with
+complexity as a critical component in the strategic
+process. In other words, board members’ ability to
+participate in this process is highly determined by
+their understanding of the intra-organizational
+political processes. The stewardship theory has
+different assumptions from the agency theory and
+argues that executives are motivated to act as good
+stewards, and therefore boards’ structure should be
+designed to enable the needed authority and
+discretion in the strategic process (in the
+formulation as well as in the implementation phase
+of the process) (Davis et al., 1997). This theory
+assumes that executives act as good stewards in
+any situation and, according to the terminology
+introduced by the proponents of the agency theory,
+the boards should focus more on the decision
+management process, rather than on the control of
+the executive members. The theory that
+dramatically changed the views about the strategic
+management process in the last century was the
+stakeholder theory, which must be analysed as part
+of the theoretical background of this concept. The
+term stakeholder (which included shareholders,
+employees, customers, suppliers, lenders and
+society) was introduced in 1963 in an internal
+memorandum of the Stanford Research Institute,
+and the main premise of this theory is that “unless
+executives understand the needs and concerns of
+the stakeholder groups” they could not formulate
+objectives and strategies that enable organizational
+survival and growth (Freeman, 1984, pp. 31-32).
+Furthermore, the proponents of this theory
+elaborate the need for incorporating stakeholder
+management as part of the strategic management
+process, for which the engagement of executives is
+required. Additionally, the authors suggest that
+firms’ top executives must be included in the
+strategic process and work actively on harmonising
+their values with the values of the different groups
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+7
+
+8
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+of stakeholders to be able to properly manage the
+relations with the external and internal
+environment. Moreover, the proponents of the
+theory emphasise that top executives accompanied
+by other staff experts must be included in all
+strategic management processes in the
+organization (Freeman, 1984, pp. 66-67).
+Regarding the cognitive perspective in the light
+of the concept of boards’ strategic involvement,
+firstly we are going to elaborate its components,
+and afterwards its relationship with the strategy.
+According to Braisby and Gellaty (2005),
+cognitive psychology “is the branch of psychology
+devoted to the scientific study of the mind” (p. 1),
+which includes the study of the observable
+individual behaviour, as well as the unobservable
+processes that lead to the individuals’ behaviour
+(each behaviour includes multiple cognitive
+processes). The interest in the adoption of the
+cognitive approach in management and strategy
+research has intensified at the end of the 1980s and
+during the 1990s. Particularly interesting insights
+regarding cognition and strategy (which are of
+primary interest for our study), were elaborated by
+Stubbart (1989). Stubbart (1989) argues that there
+are three components of cognition that are crucial
+for individuals’ involvement in the strategic
+management process. These elements are:
+1. Intentions which are related to the executives
+and non-executives’ motivation to think about
+strategic issues and options; 2. Representations
+which are related to executives and non-executives
+knowledge about strategic management; and
+3. Computation which refers to the processes for
+encoding, locating, using, changing, manipulating,
+sustaining
+or
+abandoning
+the
+mental
+representations and intentions (Stubbart, 1989, p.
+331). Therefore, we can conclude that the boards’
+members’ cognition is tightly related to boards’
+strategic involvement, and this is the reason why
+the cognitive approach has been incorporated as a
+theoretical background in some of the behavioural
+models of the concept.
+Finally, the last theoretical approaches that
+must be analysed for fully understanding the
+concept of boards’ strategic involvement are those
+related to employee engagement, which define the
+term “involvement”. The most comprehensive
+definition of the term involvement in the context of
+organizational sciences has emanated from the
+proponents of the theories on employee
+engagement. Namely, there are two dominant
+theories (Saks & Gruman, 2014) in the scientific
+research of employee engagement: the one that
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+relies on the research related to job burnout and
+employee well-being and the one that relies on the
+research in psychology and sociology related to the
+roles individuals occupy at work and to what
+degree. Khans’ work (1990) enables us to
+understand how individuals occupy certain roles,
+how they are drawn to perform the tasks within
+each role they have and the so called “self-in role”
+processes, which is relevant for our topic since it
+gives an insight on how directors (or board
+members) are motivated for fulfilling the tasks
+included in the boards’ strategic role and how we
+can analyse theirs dedication to the strategic tasks.
+The second theoretical approaches related to
+employee engagement are those that are focused on
+researching job-burnout (Maslach & Leither,
+1997), which understand employee engagement as
+opposite condition to job burnout. Maslach and
+Leither (1997, p. 161) explain that the
+psychological state of engagement (or burnout) has
+three components – energy, involvement and
+effectiveness – and define involvement as “degree
+of concern and cynicism about work”.
+To sum up, the development of all these
+theoretical approaches has enabled the research on
+boards’ strategic involvement as separated
+concepts. Basically, the theories that define the
+scope of boards’ strategic role (agency and
+resource dependence theory), the theories that
+broaden the understanding of the strategic
+management process and explain how strategic
+choices are or should be made by the individual
+(stewardship theory, stakeholder theory, strategic
+choice theory and cognitive perspective), as well as
+the theories that form the foundation of the
+employee engagement as a separate concept must
+be taken into consideration for understanding
+boards’ strategic involvement, its essence and
+elements.
+Evolution of thought
+
+The boards’ members’ strategic involvement has
+been driving the attention of both practitioners and
+academics since the early 1970s. The reasons for
+increased interest in boards’ involvement in
+strategy, and the internal governance mechanisms
+in the 1970s were related to the fact that several
+large corporations in the USA, managed by
+professional full-time executives, experienced
+difficulties in operation (Cheffins, 2015).
+Basically, the interest in this area has increased as
+the pitfalls of “managerial capitalism” became
+more visible.
+Regarding the evolution of thought on boards
+
+Bozhinovska & Eftimov
+
+strategic involvement, through the analysis of 150
+articles published between 1972 and 2007,
+Pugliese et al. (2009) identified three periods: the
+first one is called the emerging debate on boards’
+strategic involvement (1972-1989), the second one
+is called the heyday of input-output approaches
+(1990-2000) and the third one is named towards
+more pluralism in the board-strategy debate (20012007). In the last period (2008-2020), Bezemer et
+al. (2023) found that the authors, besides
+investigation of the traditional variables and
+constructs, also focus on the relevance of the
+organizational context and the underlining
+dynamics and processes.
+Consequently, it can be noted that boards’
+strategic involvement in the past few decades has
+significantly developed and generated new insights
+regarding boards’ tasks and behaviours. Besides, as
+a result of the corporate scandals and crisis, as well
+as of the changes in the external environment,
+boards’ tasks and roles have also evolved, which
+has been particularly evident during the Covid-19
+period and in the so-called post-pandemic period.
+Therefore, the increasing number of papers within
+this research area have generated a substantive
+knowledge base (which according to Torraco, 2005
+and Snyder, 2019 are the characteristics of a mature
+topic), and have created the opportunity for
+conducting an integrative literature review. The
+main purpose of this integrative literature review is
+the synthesis of the existing knowledge and the
+presentation of a classification of the models that
+represent the essence of this topic.
+Namely, the proliferation of models started
+when the lack of a suitable model was perceived as
+one of the main obstacles to boards’ involvement
+in strategy (Rosenstein, 1987). In accordance with
+our understanding, other barriers for boards’
+involvement into strategy include: the boards
+members’ lack of knowledge and expertise for
+certain issues; boards’ dynamics; the CEO power
+and his/her perception about the role of other
+boards’ members; and finally, the attitude boards’
+members have about the execution of their
+strategic role (do they support the active or passive
+school of thought as elaborated by Levrau & Van
+den Berghe, 2007).
+Aim and structure of the paper
+
+This paper aims to: 1. create a comprehensive
+overview of boards’ strategic involvement models,
+and to systematize them accordingly, whereby the
+foundation of this multidisciplinary research area
+can be clearly identified; and 2. to identify the main
+
+Boards’ strategic involvement models: past, present, and future
+
+topics in the articles researching boards’ strategic
+involvement published in the past 5 years and draft
+the future research agenda.
+The methodology employed for investigating
+boards’ strategic involvement are explained in
+section 1. The key findings are elaborated in
+section 2. This section has three parts: the first part
+is dedicated to identification of the models that
+represent the core of the concept of boards’
+strategic involvement; the second part is dedicated
+on the identification of current research themes in
+this area; and the third part on drafting future
+research agenda. From a methodological point of
+view, the first part of this section represents an
+integrative literature review, and the second part is
+a semi-structured literature review. The third
+section of the paper includes Discussion and the
+fourth - Conclusion.
+
+1. Methodology
+For conducting the integrative literature review we
+selected papers analysing boards’ strategic
+involvement using different theories and
+perspectives, from several disciplines and subdisciplines: management, strategic management
+and economics. In the first step we identified eight
+(8) papers that developed comprehensive models
+on boards’ strategic involvement. The following
+eight models were selected in the first phase of the
+literature review: the model of Zahra and Pearce II
+(1990); the model of Judge and Zeithaml (1992);
+the model of McNulty and Pettigrew (1999); the
+model of Forbes and Milliken (1999), the
+Rindovas’ model (1999); the model developed by
+Pye and Camm (2003); the model developed by
+Drew and Kaye (2007); and the Ghayas’ model
+(2011). All selected models were published in
+prominent/reputable
+journals
+from
+the
+management
+research
+area
+(European
+Management Journal, Academy of Management
+Journal, Organizational Studies, Academy of
+Management Review, Journal of Management
+Studies, Journal of General Management and
+European Management Journal, respectively),
+except for the last one, which was published in a
+Working Paper of the University of Strasburg,
+Faculty of Economics and Management.
+The reason for including these eight models is
+in the fact that they incorporate several different
+perspectives/approaches for explaining the essence
+of the concept. Namely, as we have already
+mentioned, boards’ strategic involvement is
+multidisciplinary research and therefore if the
+authors relied only on one theory (for example,
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+9
+
+10
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+only on agency theory without incorporating any
+other theory or approach used in the organizational
+sciences), they would fail to demonstrate the
+complexity of the topic. Hence, our reasoning is
+that only the models that rely on other approach
+besides the agency theory (although this does not
+mean that agency theory has to be included) or
+explain the relation of boards’ strategic role with
+the overall organizational performance should be
+included in this analysis.
+In the second step, we analysed the papers by
+conducting an exploratory inductive analysis to
+understand on which theories or approaches they
+rely on. This resulted in the generation of Table 1
+where we present the models that constitute the
+core of the concept and which criteria each of them
+meets.
+In the third step we analysed the models’
+element, classified them in three categories and
+identified the similarities and differences between
+the models within each group.
+The methods used in these three steps were
+thematic analysis and content component analysis
+as described by Bergman et al. (2017).
+Furthermore, to investigate the current topics in
+this research area, we conducted a semi-systematic
+literature review. This approach gives an
+opportunity for identifying the most researched
+issues related to boards’ involvement in strategy
+and drafting the future research agenda. Although
+the semi-systematic literature review is less
+rigorous than the structured literature review, it
+gives an overview of the existing knowledge in the
+field and has been used in social sciences in the
+past few decades (Snyder, 2019).
+The semi-systematic literature review was
+conducted in several steps: 1. we identified the key
+research articles in this area published in the period
+between 2019 and 2023; 2. we analysed them by
+reading only the title and the abstract and classified
+them in three groups in accordance with their
+relevance for the research questions addressed in
+this study; 3. we read and analysed the full articles
+which resulted in their reclassification and
+identification of the most popular topics in this
+research area in the past five years. The key words
+identified used for selecting the articles were:
+boards and strategy, strategic involvement of the
+boards; and boards and strategic decision making.
+Overall, sixty-four research articles were selected
+in the first phase. After analysing the articles’
+content and the journal in which they were
+published the total number of articles included in
+this part of the study was forty-eight (48). The last
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+phase included identification of the topics
+addressed in these studies, which were published in
+journals indexed in Scopus and SCI in the period
+between 2019 and 2023.
+
+2. Key findings
+2.1. Boards’ strategic involvement models
+classification
+
+The identified models of boards’ involvement in
+strategic decision-making are systematized broadly
+in the following groups: generic (basic or general)
+models, behavioural models, and integrative
+models. Some of them were created as part of
+empirical studies, while others were created in
+conceptual papers. The identified three types of
+models differ in the definition of the concept, the
+factors identified as determinants/predictors of
+boards’ strategic involvement and the expected
+outcomes of boards’ strategic involvement. The
+classification of boards’ strategic involvement
+models is presented in Figure 1.
+The first group of models (generic, basic or
+general models) includes the models developed by
+Zahra and Pearce II (1990), and Judge and
+Zeithaml (1992). According to Maasen (2002), the
+most prominent characteristics of the general
+models of boards’ involvement in strategy are that
+boards’ attributes, such as boards’ composition or
+structure are recognized as important determinants
+of boards’ strategic involvement, models recognize
+external pressures; and that boards’ strategic
+involvement impacts overall organizational
+performance.
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+Table 1 Models included in the integrative literature review and the criteria they met
+Criteria
+Model
+
+Does it explains the relation of
+boards' strategic involvment with
+organizational performance?
+
+Approach
+No approached/theory described in this paper. However, in their
+previous works on defining boards’ strategic roles authors rely
+on agency and resource dependence theory (Zahra & Pearce II,
+1989).
+Institutional and strategic choice perspective
+
+Yes
+
+No
+
+Rindova, 1999
+
+Agency and resource dependance theory, as well as some
+approaches from organizational sociology.
+Upper echelons and strategic choise perspective, cognitive
+approach and approaches from organizational sociology.
+Agency theory and cognitive approach.
+
+Yes
+
+Pye and Camm, 2003
+
+Agency and transaction cost theory, stewardship theory,
+resource dependance theory, class hegemony, and managerial
+hegemony.
+Stakeholder theory.
+
+Yes
+
+Agency and transaction cost theory, stakeholder theory, class
+hegemony and legalistic perspective.
+
+Yes
+
+Zahra and Pearce II, 1990
+Judge and Zeithmal, 1992
+McNultty and Pettigrew, 1999
+Forbes and Millicken, 1999
+
+Drew and Kaye, 2007
+Ghaya, 2011
+
+Yes
+
+Yes
+No
+
+Source: the authors’ construction
+
+Figure 1 Classification of boards’ strategic involvement models
+
+Source: the authors’ construction
+
+The main differences between the two models
+refer to how authors identify the determinants of
+boards’ strategic involvement, more specifically
+which boards’ characteristics are analysed as
+determinants of boards’ strategic involvement, the
+role of the organizational performances in the
+model and the methods used for testing the
+hypothesis. Namely, to develop the model Judge
+and Zeithaml (1992) use the institution and
+strategic choice perspective, while Zahra and
+Pearce II (1990) do not elaborate any theoretical
+approach as a foundation for the model they
+constructed. Furthermore, the model developed by
+Judge and Zeithaml (1992) includes determinants,
+
+as well as outcomes of/from boards’ strategic
+involvement. Zahra and Pearce II (1990), in
+contrast, focus only on the determinants.
+Moreover, in the analysis of the determinants,
+Judge and Zeithaml (1992) use only the formal
+characteristics of board composition (boards size
+and insider representation), together with
+organizational age and level of diversification,
+while Zahra and Pearce II (1990) include several
+boards characteristics: representation of outsider
+directors, directors’ experience, efficiency on
+internal board operations, board independence and
+criticality of board contribution which refers to the
+argument that if boards’ role is perceived as more
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+11
+
+12
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+valuable, more discretion will possess (Zahra &
+Pearce II, 1990, p. 167). Additionally, these two
+models differ significantly in their understanding
+of the position of organizational performances in
+the model. Namely, according to Zahra and Pearce
+(1990), the organization performance gap should
+be investigated as predictor of boards’ strategic
+involvement, since “…boards are likely to become
+more involved in the strategic process at times of
+major corporate crises” (Zahra & Pearce II, 1990,
+p. 167). On the other hand, in the Judge and
+Zeithaml model, organizational performance is
+analysed as an outcome. Regarding definition,
+Zahra and Pearce II (1990) explain that boards’
+strategic involvement covers the attention boards
+give to strategy, while alternatively Judge and
+Zeithaml (1992) understand the concept as boards’
+contribution in strategy formulation and
+evaluation. Finally, Zahra and Pearce II (1990) use
+a questionnaire as method for data gathering and
+testing the hypothesis, while Judge and Zeithaml
+(1992), use telephone interviews with directors.
+The second group of models, the behavioural
+models, includes the frameworks that recognize
+structural characteristics of boards’ composition
+and environmental pressures as determinants of
+boards’ strategic involvement, but also include
+predictors related to boards’ dynamics. Most of the
+models placed in this group were developed at the
+end of the second and the beginning of the third
+period, since this group includes the models
+constructed by McNulty and Pettigrew (1999),
+Forbes and Milliken (1999), Rindova (1999), and
+Pye and Camm (2003).
+McNulty and Pettigrew (1999) conducted
+research on boards’ involvement in capital
+investment decision process. The most significant
+contribution of this model is the identification of
+the levels of boards’ strategic involvement.
+Furthermore, McNulty and Pettigrew (1999) argue
+that the influences that determine boards’ strategic
+involvement can be classified in two categories:
+contextual (increased attention to boards’ duties,
+crisis in business performance and directors’
+contracts) and processual influences (boards’
+agenda and meetings, informal interim dialog).
+Forbes and Milliken (1999) introduce the
+cognitive perspective in the research of boards’
+strategic involvement and try to understand the
+determinants of boards’ task performance, which
+include
+boards’
+characteristics
+(boards’
+demographic characteristics), boards’ cognitive
+conflicts and boards’ characteristics as a group.
+Forbes and Milliken (1999) argue that the
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+influence of boards’ characteristics is indirect,
+through their impact on the boards’ processes, and
+recognize the relation of the tasks within the
+boards’ roles and the impact of boards’
+cohesiveness on its’ ability to perform the tasks.
+Moreover, these authors imply that boards’ task
+performance has an impact on overall
+organizational performance.
+Rindova (1999) published her contribution in
+the same year as the previous authors and
+according to this model, the determinants of
+boards’ strategic involvement include: boards’
+size, boards’ composition, boards’ relationships,
+decision complexity and uncertainty and directors’
+expertise. Rindova (1999) understands boards’
+strategic involvement as directors’ engagement
+and proposes that directors’ strategic participation
+is related to better decision quality. Rindova (1999)
+does not claim that director’s strategic involvement
+is related to organizational performance.
+Pye and Camm (2003) developed a model that
+has three key elements: environmental and
+contextual factors that influence non-executive
+directors’
+roles
+and
+boards’
+roles,
+conceptualizations of boards’ roles and
+conceptualization of non-executive directors’
+roles. The contextual and environmental factors
+that influence the non-executive directors’ roles
+and boards’ roles include: the extent of regulation
+within the industry, the presence of influential
+stakeholders outside the organization, commercial
+requirements of the organization to develop new
+core competencies or to enter new markets, the
+potential for mergers and acquisitions activity, and
+perceived level of risk to the organization. Pye and
+Camm (2003) explain the role and contribution of
+boards throughout the learning board model that
+they have constructed. More specifically, Pye and
+Camm (2003) imply that board members have two
+potentially conflicting agendas - performing and
+conforming. In the interception of these two
+dimensions of performance and conformance, the
+authors have identified four different aspects of
+boards’ contribution. Namely, when boards are
+concerned with short-term performance and
+external conformance, they focus closely on
+accountability. When boards are focusing on shortterm performance and internal conformance their
+main role is management supervision. In situations
+where boards’ members focus on long-term
+performance and external conformance, they give
+contribution by policy formulation. And when
+boards focus on long-term performance and
+internal conformance boards’ members engage in
+
+Bozhinovska & Eftimov
+
+strategic thinking. Besides, Pye and Camm (2003)
+suggest that the key aspects of non-executive
+directors’ role are: contribution to strategy
+formulation, ensuring the company has the right
+CEO, ensuring that business development
+strategies are in place, ensuring the board is
+focused on maximizing long-term shareholder
+value, ensuring that risk management strategies are
+in place, and ensuring that the management team is
+competent.
+The models included in this category are
+attempting to explain boards’ strategic
+involvement by simplifying their processes and
+boards’ behaviour as a group, and by
+simultaneously emphasizing the uncertainty of the
+environment in which they operate. As Ginsberg
+(1994) explains, the strategy development process
+includes
+convergence
+of
+the
+available
+sociocognitive
+resource
+(human
+and
+organizational). For the human resources, the most
+
+Boards’ strategic involvement models: past, present, and future
+
+important are the practical problem-solving and
+verbal abilities and their social competencies,
+while in terms of the organizational resource, the
+ability to implement mapping and modelling
+techniques and to design proper structures and
+incentive systems are perceived as crucial
+(Ginsberg, 1994). Therefore, the boards’ ability for
+meaningful participation in strategy is largely
+dependent on the sociocognitive characteristics of
+the individual boards’ members, and of the board
+as a group. The behavioural models of boards’
+strategic involvement are important, since they
+investigate how boards approach the grand tree
+problem of decision-making (identified by
+Levinthal & March, 1993): ignorance, ambiguity,
+and conflict. The key features of the behavioural
+models of boards’ strategic involvement are
+presented in Table 2.
+
+Table 2 Comparison of behavioural models of boards’ strategic involvement
+Models’ elements
+Definition of boards’ involvement in
+strategic decision-making
+Factors influencing boards’
+McNulty and
+Pettigrew 1.
+Defined through the levels of
+(1999)
+strategic involvement
+participation
+2.
+Boards’ strategic involvement
+levels
+3.
+Description of boards’
+behavior on each level of
+involvement
+Forbes and Milliken (1999)
+1.
+Determinants of boards
+Performing tasks for fulfilling boards’
+strategic involvement
+strategic role
+2.
+Board-level results
+3.
+Firm-level results
+Rindova (1999)
+1.
+Determinants: boards’ size,
+Directors’ participation in strategy
+boards’ composition, boards’
+formulation, or in scanning,
+relationships, decision
+interpretation of the available
+complexity and uncertainty,
+information and choosing the most
+directors’ expertise
+suitable alternative.
+2.
+Determining directors’
+contribution in strategy
+3.
+Directors’ contribution
+outcomes
+Pye and Camm (2003)
+1.
+Factors influencing boards’
+Contribution to the strategy
+strategic involvement;
+formulation process for achieving
+2.
+Boards’ contribution and
+the desired level of performance in a
+roles;
+given organizational environment.
+3.
+NEDs’ roles and contribution
+
+Expected outcomes
+Do not investigate the outcomes of
+boards’ strategic involvement.
+Rather, they are more focused on
+the definition of the concept and on
+the determinants.
+Impact on boards’ effectiveness and
+on organizational performances
+Improving decision quality
+
+Expected impact on organizational
+performances.
+
+Source: the authors’ construction
+
+The third group of models is the group of
+integrative models. In this group, we have included
+the models of Drew and Kaye (2007) and Ghaya
+(2011). These models have been developed at the
+end of the third and in the fourth period of research
+in this area. Ghaya (2011) has developed an
+integrative model as an end result of an extensive
+literature review. On the other hand, the model
+developed by Drew and Kaye (2007) is an output
+of their research and broad experience. The
+
+implications of the model developed by Ghaya
+(2011) are more theoretical, while the model of
+Drew and Kaye (2007), besides the theoretical
+contribution, also has significant practical value.
+Ghaya (2011) defines boards’ strategic
+involvement as job (work) involvement. Ghaya’s
+(2011) model includes the internal factors and
+environment characteristics as determinants of
+boards’ strategic involvement. This conceptual
+framework also, classifies the results of the boards’
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+13
+
+14
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+strategic involvement in two groups: corporate
+performances (measured by both quantitative and
+qualitative indicators) and results related to quality
+of strategic decisions.
+On the other side, the model developed by
+Drew and Kaye (2007) includes: clear
+identification of responsibilities in the strategic
+process, analysis of the agenda setting process and
+suitable attention management, by using the
+Strategic scorecard. Drew and Kaye (2007) argue
+that the responsibilities of the boards include:
+monitoring of implementation, strategic review
+and learning. For achieving a higher level of
+directors’ accountability, Drew and Kaye (2007)
+propose implementing the Strategic scorecard. The
+Strategic scorecard has four quadrants. The first
+quadrant refers to the boards’ attention on the
+strategy development, i.e. the boards’ involvement
+in developing companies’ vision, mission, goals,
+strategies and the identification of the critical
+success factors. The second quadrant focuses on
+boards’ involvement in generating strategic
+alternatives for scope changes and offering
+directions for growth (Drew & Kaye, 2007). The
+third quadrant refers to boards’ involvement in
+strategic implementation (developing plans,
+
+programs and selecting projects). Finally, the
+fourth quadrant focuses on boards’ involvement in
+managing strategic risks (properly assessing risks
+and creating contingency/recovery plans). The use
+of the Strategic Scorecard enables examination of
+the key aspects in strategic management, creates a
+better climate for communication and learning by
+board members and is suitable for customization
+(Drew & Kaye, 2007).
+The two integrative models differ by their goal
+in analysing the concept, the attention on the
+definition of the concept and the elements
+included. Ghaya (2011), to create the model,
+conducts an in-depth analysis of the theoretical
+debate and focuses on offering an exhaustive
+definition of the concept. On the other side, Drew
+and Kaye (2007) focus more on explaining the
+advantages and the use of the Balance scorecard
+and on explaining the key features of the Strategic
+scorecard. Their goal is designing a tool than can
+enhance boards’ strategic involvement and make
+directors more accountable in performing their
+strategic tasks. The integrative models’
+characteristics are presented in Table 3.
+
+Table 3 Comparison of integrative models of boards’ strategic involvement
+Models’ elements
+Definition of boards’ involvement in
+strategic decision-making
+Drew
+and
+Kaye (2007)
+
+1.
+2.
+3.
+
+Ghaya (2011)
+
+1.
+2.
+4.
+
+Expected outcomes
+
+Clear identification of responsibilities in
+the process;
+Analysis of the agenda setting issues and
+suitable attention management;
+Using a framework for managing boards’
+strategic involvement (Strategic
+scorecard)
+
+Defining
+responsibilities
+within
+strategy process and its contribution
+for strategic positioning, developing
+strategic
+options,
+strategy
+implementation
+and
+analyzing
+strategic risks.
+
+Expected impact on boards’
+effectiveness and organizational
+performances.
+
+Antecedents of boards’ involvement in
+strategic decision-making;
+Key activities for boards’ strategic
+involvement;
+Effects of boards’ strategic involvement.
+
+Boards’ job involvement
+
+Expected effects of boards’
+strategic
+involvement
+for
+organizational
+performances
+(measured by using qualitative and
+quantitative measures) and for the
+decisions’ quality.
+
+Source: the authors’ construction
+
+2.2. Current topics
+
+The analysis of the forty-eight articles published in
+the period 2019-2023, selected as described in the
+section Methodology, resulted in identification of
+two broad topics, that were combined in some
+articles, and which have several sub-topics. In
+general, each article was classified in one of the
+broad topics (or so called first-level subtopics) we
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+have identified. The first board topic is “strategic
+involvement” and the second one is “strategic
+performance”. For the purposes of this literature
+review, we define the general boards’ strategic
+involvement as a topic that includes all the studies
+related to analysis of boards’ participation and
+influence (through several practices, processes and
+mechanisms) on the overall strategic process
+(strategy formulation, implementation and
+
+Bozhinovska & Eftimov
+
+strategic control), as well as in planning and
+implementing strategic change (the components of
+the definition of boards’ strategic involvement, as
+proposed by different authors are presented in
+Figure 2). The second topic, “strategic
+performance” includes all the studies that
+investigate the relation of boards’ characteristics,
+activities and/or tasks, with firm-level strategic
+and/or financial performance, or boards’ impact on
+strategic organizational performance. The second
+topic is more recently developed, most of all as a
+result of the identified gap within the existing
+literature on the mechanisms that connect boards
+strategic thinking and acting with achieving higher
+organizational performances. The analysis of the
+strategic performance on boards, per se, is not
+sufficient. Furthermore, the topics or issues in
+which boards take active participation in the past
+few decades have dramatically changed because of
+the changes in the organizational priorities
+(sustainability become a top priority), which lead
+to adjustment in this research area, and the
+development of this first-level subtopic.
+Out of the 48 articles we have analysed, 37 are
+categorized in the first main topic – strategic
+involvement, while 11 area categorized in the
+second main topic – strategic performance. In the
+
+Boards’ strategic involvement models: past, present, and future
+
+first round of analysis, 4 articles were classified in
+the both first-level subtopics, and after iterated
+analysis those articles were classified in one of the
+identified first-level subtopics.
+Within the two (2) board topics (or first-level
+subtopics), we have identified several subtopics (or
+second-level subtopics). The first broad topic
+“strategic involvement” includes three subtopics:
+strategic human resource management (n=19),
+board processes (n=11), and sustainability (n=7).
+The second main topic, so-called “strategic
+performance”, includes articles that are categorized
+in the following three (3) subtopics: sustainable
+performance, which includes articles investigating
+the influence of board characteristics and activities
+on long-term financial, social, and environmental
+performance (n=7); financial performance that
+includes articles that investigate the impact of
+boards characteristics and activities only on the
+organizations’ financial performance (n=3) and
+other performance. In the last subtopic we have
+classified one article that investigates other type of
+strategic
+organizational
+performance
+(the
+organizations’ advocacy performance). The
+identified first level and second level sub-topics are
+presented in Figure 3.
+
+Figure 2 Components of boards’ strategic involvement
+
+Source: the authors’ construction
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+15
+
+16
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+Figure 3 Boards’ strategic involvement – topics and subtopics identified in semi-structured literature review
+
+Source: the authors’ construction
+
+The most significant subtopic in the strategic
+involvement main topic is the topic strategic
+human resource management. In this subtopic we
+have included the articles that investigate the issues
+related to recruiting and selecting board members
+(the succession of board members and CEOs, n=7),
+the importance of boards human capital (n=4) and
+strategic leadership within the board and of the
+board as a group (n=6). Separately, we are also
+going to discuss the findings related to boards’
+involvement in issues related to workplace safety
+(Lornudd et al., 2021) and DEI (Morgan et al.,
+2021).
+The recruiting and selection processes are one
+of the most investigated subtopics in boards’
+involvement in strategic human resource
+management. Namely, some authors are interested
+in the determinants of boards’ gender diversity
+(Mikkonen et al., 2021; Blommaert & Van der
+Brink, 2020; and Mensi-Klarbach & Seierstad,
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+2020), while others are interested whether the
+negative performance feedback influences board
+diversity in terms of their expertise (Jung et al.,
+2023). Jung et al. (2023) present evidence that the
+negative performance feedback leads to increased
+board expertise diversity, regardless of the other
+demographic characteristic of the boards’ member
+candidates. Zenou et al. (2020) contribute by
+emphasising the importance of the boards’
+recruitment process and argue that this process
+represents a specific strategic answer that should
+be implemented properly in order to provide the
+expected outcomes. Additionally, Zenou et al.
+(2020) suggest that board diversity does not
+include only the board members’ demographic
+characteristics and argument that board members’
+education, expertise and networks are critical for
+implementing innovation. Therefore, these authors
+focus on the human capital requirements as a
+criterion for selecting new board members. The
+
+Bozhinovska & Eftimov
+
+other two articles within this subgroup investigate
+the CEO succession process from strategic change
+perspective (Zhu et al., 2020) and from the
+resource availability perspective (Campopiano et
+al., 2020). Zhu et al. (2020) present evidence that
+insider CEOs prioritize strategic change in
+situation in which they have prior board experience
+in other companies. Therefore, this study has
+significant theoretical and practical implications,
+since it attempts to identify how CEOs’ strategic
+priorities are shaped. On the other hand,
+Campopiano et al. (2020) argued that CEO human
+capital represents a significant organizational
+resource, even in a family company, and that its
+importance may diminish the influence of the
+intentions for appointing a family member as CEO.
+However, this conclusion largely depends on the
+role of competitive strategic resources and the
+extent of family involvement in the management.
+The other subtopic, called human capital,
+includes the articles that research the influence of
+boards’ members human capital on the
+organization strategy formulation (Aber &
+Torchia, 2019; Fernandez & Sundaramurthy, 2020;
+Calabrò et al., 2021) and the overall strategic
+process (Klarner et al., 2021). Aber and Torchia
+(2019) investigate the relation between boards’
+managerial human capital (using the perspectives
+of the upper echelon and dynamic managerial
+capabilities) and boards’ involvement in strategic
+change. Their results have showed that boards’
+managerial human capital have positive impact on
+the boards’ capabilities and through them on the
+preparation of decisions that lead to strategic
+change. Fernandez and Sundaramurthy (2020)
+have argued that in formulation of international
+merger and acquisition strategy, the boards’
+international experience and expertise can be used
+only when the CEO has his/her own international
+experience. Calabrò et al. (2021) have investigated
+the association between boards’ family members’
+human capital and innovation strategy. Klarner et
+al. (2021) have introduced the capabilities-based
+view of boards’ actions and imply that boards’
+members capabilities are crucial for executing the
+activities that are integrated in the boards’ strategic
+role. In the capabilities-based view of boards’
+actions, the knowledge, skills, abilities, and other
+characteristics (KSAO) of board members are
+crucial for fulfilling boards’ roles. In their
+conceptual framework, Klarner et al. (2021)
+distinguish 3 types of KSAOs: task-specific, teamgeneric and firm-specific KSAOs. By introducing
+this approach Klarner et al. (2021) imply that
+
+Boards’ strategic involvement models: past, present, and future
+
+boards’ work is an organizational issue that should
+be addressed by using the same approaches that are
+used for researching other phenomena within
+organizations.
+Closely related to the human capital research
+issues are those related to strategic leadership.
+Namely, within this group we have included the
+articles that are investigating which managerial or
+leadership capabilities should be demonstrated by
+the board members (especially board chair) for
+achieving a higher level of boards’ strategic
+involvement (Castellanos & George, 2020;
+Luciano et al., 2020; Nahum & Carnelli, 2019;
+Morais et al., 2020; Kanadli et al., 2020; Sidhu et
+al., 2021). Castellanos and George (2020)
+distinguish the terms strategic leadership and
+strategic management and suggest that CEOs are
+more occupied in the activities related to strategic
+management, while the whole board (as a team)
+should be engaged in practicing strategic
+leadership. Luciano et al. (2020), on the other hand,
+analyse the board and top management team as a
+strategic-oriented multiteam system or a strategic
+leadership system and theorize that fulfilling the
+boards’ strategic role implies that boards are
+working as part of this kind of systems.
+Furthermore, Luciano et al. (2020) stress that
+boards’ effectiveness in fulfilling this task depends
+on boards’ capacity to work independently and
+interdependently with the top management team on
+strategic management. On the other side, Nahum
+and Carnelli (2019) attempt to investigate the
+reasons for differences in directors’ individual
+participation in the strategic process. The findings
+presented by Nahum and Carnelli (2019) suggest
+that boards’ leadership style (their sources and
+influence on board dynamics) is a key predictor of
+directors’ individual contribution in strategy. One
+of the main conclusions in the Nahum and Carnelli
+(2019) study is that directors increase their lever of
+strategic decision-making involvement when board
+chairs’ influence is based on expertise and referent
+power and when he displays a professional, nonego driven and open-minded behaviour. Morais et
+al. (2019) investigating the consequences of
+discontinuous change as a predictor of the type of
+leadership demonstrated by the board chair.
+Namely, Morais et al. (2019) concluded that when
+the organization is faced with relational internal
+problems because of disruptive change, the board
+chair is more likely to demonstrate relational
+leadership, while when faced with relational
+external problems the chairman and CEO are both
+more prone to demonstrating disruptive leadership.
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+17
+
+18
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+On the other side, if the problems are less complex
+(performance changes or new products/market are
+identified) the adoption of transformational and
+entrepreneurial leadership style is more likely
+(Morais et al., 2019). Kanadli et al. (2020) argue
+that directors’ job-diversity can increase board
+strategic involvement only when the chairperson is
+capable of exercising leadership behaviour. To be
+specific, when the chairpersons are capable of
+displaying their talents during board meetings,
+when they achieve higher levels of leadership
+efficacy and when they have previous experience
+as a CEO, it is more likely that the board is going
+to increase its participation in the strategic process.
+Findings of Sidhu et al. (2021) indicate that the
+leadership demonstrated by a female chairperson
+has the ability to reverse the negative impact that
+greater board gender diversity has on introducing
+novel strategies. Finally, Calabrò et al. (2021)
+suggest that family members in family-owned
+companies’ boards display specific type of
+strategic leadership that is focused on greater
+valorisation of the human capital and therefore
+creates an environment that stimulates innovation.
+In this second-level subgroup, we also include
+articles that discuss the boards’ strategic
+involvement in DEI initiatives (Morgan et al.,
+2021) and issues related to human resource
+workplace safety (Lornudd et al., 2021). Morgan et
+al. (2021) argue that boards have to understand the
+interests of several groups of shareholders and that
+they have the capability and authority to work on
+designing DEI related policies and procedures.
+Meanwhile, Lornudd et al. (2021) argue that the
+boardroom represents a “social arena”, and that
+board members have significant impact on CEOs’
+priorities and that are able to impose the strategic
+and healthy issues as a strategic imperative. These
+authors introduce the term “strategic health and
+safety” and suggest that organizational health and
+safety issues should represent a top-level board
+priority. Lornudd et al. (2021) support this thesis
+with the argument that health and safety issues
+affect employee’s well-being and in turn their
+productivity and that are important for building the
+employer brand.
+Board processes also represent one of the secondlevel subtopics, which includes the articles
+investigating boards’ dynamics, roles, and tasks, as
+well as board processes and practices, and boards
+overall effectiveness. Regarding boards’ strategic
+involvement, Bezemer et al. (2023) have identified
+key component/elements that this concept
+comprises: boards’ strategic-decision making,
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+other boards decisions and activities tightly related
+to strategic decision-making (such as: executive
+compensation, CSR disclosure, joint venture
+activities, CEO strategic behaviour, etc.) which
+constitute boards’ strategic role, determinants of
+boards’ strategic involvement, and boards’
+strategic performance (or effectiveness in
+executing the strategic role). The findings of
+Benzemer et al. (2023) indicate that in the period
+between 2008 and 2020 most of the scholars have
+focused on analysing boards’ strategic
+performance (boards’ effectiveness in executing
+the strategic role). However, focusing only on
+boards’ roles and processes and their effectiveness
+is not sufficient if it cannot be aligned with the
+overall organizational performances. SlomkaGolebiovska et al. (2023) argue that the increased
+presence of women in Italian boards has an effect
+on the way the strategic tasks are executed. One of
+the conclusions in this study is that women are
+more critical when accessing organizational
+performance, and more willing to articulate their
+views during meetings since they are less likely to
+be developed in environments in which the CEO
+and other board members have been building their
+career path. Beshlawy and Ardroumli (2021) are
+researching boards’ decision-making process and
+turbulent times. Boards’ decision-making process
+is just one of the processes that boards’ strategic
+involvement includes. However, although episodic
+in nature (Klarner et al., 2021), it is essential in
+strategy formulation and taking corrective action
+when necessary. The findings of Beshlawy and
+Ardroumli (2021) indicate that boards’ strategic
+decision-making processes has significantly
+changed after the 2008, and that boards’ practices
+related to making strategic choices have evolved.
+Namely, board members have become more aware
+of the importance of this process and more
+conscious in analysis of the available alternatives.
+Furthermore, they find it necessary to distinguish
+their
+responsibilities
+and
+managements’
+responsibilities in this process (Beshlawy and
+Ardroumli, 2021). Squires and Elnahla (2020)
+depict boards’ roles from the agency and
+stakeholder theory aspects. The integration of these
+two perspectives in explaining boards’ roles is one
+of the most significant contributions of this study.
+The concept proposed by Squires and Elnahla
+(2020) incorporates all tasks related to strategy in
+the so-called service role. Hamidi and Machold
+(2020) investigate boards’ task related to value cocreation and introduce the concept of so-called
+service-dominated logic. In the service-dominated
+
+Bozhinovska & Eftimov
+
+logic as a concept, Hamidi and Machold (2020)
+highlight the importance of service, collaboration
+and systems thinking in the value creation process
+(which in broader context refers to the strategic
+process). Similarly, with the previous authors point
+to the primacy of the servant role over the strategic
+board role. However, the findings in our research,
+and especially the models designed to deepen the
+understanding of the concept of boards’ strategic
+involvement, firmly argument the need for separate
+analysis of the board’s strategic role. Looking for
+the answer to the question “what boards do/should
+do”, Boivie et al. (2021, p. 1), have found that
+“directors view themselves as strategic partners
+with their firms’ executives”. Boivie et al. (2021)
+make theoretical contribution by using qualitative
+research methods and argument that board
+members’ main duty is to be a strategic partner in
+the value creation process. The term strategic
+partner assumes that board members are constantly
+focused on the organizations’ strategies, the
+changes in the external and internal environment,
+and their contribution to the value creation process
+(Boivie et al., 2020), which makes this the most
+important boards’ function. Watson and Ireland
+(2020), on the other hand, investigate which
+processes and practices are included in the boards’
+“strategizing” task. According, to Watson and
+Ireland (2020) the term ‘strategizing’ or setting
+strategic direction includes all the processes related
+to strategic planning, and discussions generated on
+board meetings and in informal settings related to
+making the appropriate strategies choices,
+understanding ambiguities and managing them
+towards favourable outcomes. Therefore, boards’
+strategizing represents a group work and requires
+mobilization of all the resources available to
+directors. Goldstein (2022) also introduces an
+interesting perspective by analysing the strategic
+mapping process and boards’ and managements’
+role in it. Goldstein’s (2022) contribution in this
+research area is in the confirmation that board
+members and top management teams are included
+in the process of setting the organizations’ strategic
+direction and creating the tools for implementation
+(or creating the strategic map). The use of these
+tools enables the companies’ strategists to align the
+interest of different groups of stakeholders, to
+communicate the strategy within the organization
+properly and to measure the achievements.
+Consequently, we can conclude that the boards’
+strategizing task also includes the activities related
+to developing the strategic map, following strategy
+execution, and discussing the organizational
+
+Boards’ strategic involvement models: past, present, and future
+
+performances. The involvement of both teams
+included in the so-called strategic leadership
+system in the process of ‘depicting the strategy’ is
+expected to have positive impact on fulfilling the
+task related to strategy executions, as well as
+monitoring. Findings of Hermanson et al. (2020)
+indicate that if the tensions in the managementdirectors relation are higher, then boards require
+more formal approach to strategic planning,
+although this leads to creation of certain paradoxes
+in boards’ functioning. Finally, Hermanson et al.
+(2020), conclude that the organizations’ size and
+board members’ experience are key factors for
+determining which approach to strategic planning
+is going to be acceptable for the board. Klarner et
+al. (2020) analyse boards’ involvement only in a
+particular strategic aspect – innovation. These
+authors’ contribution is in the analysis of the nature
+of directors’ involvement in innovation and the
+synthesis of its key dimensions: direction, timing,
+and formality. Klarner et al. (2020) have identified
+two types of boards’ strategic involvement:
+differentiated and structured board involvement.
+They describe the differentiated board involvement
+as involvement that occurs in spontaneous
+interaction, in different timing and enables sharing
+different types of information and knowledge,
+while the structured board involvement is one
+characterized by higher formality, which implies
+sharing certain type of expertise/knowledge in
+fixed and pre-planned meetings. Minciullo and
+Pedrini (2019) research the predictors and
+consequences of boards’ strategic involvement on
+a sample of non-profit organizations. Their
+findings indicate that the higher level of
+bureaucratic control from the founding
+organization leads to increased levels of directors’
+involvement in all boards’ tasks and that the main
+consequence of the increased boards involvement
+is higher organizational effectiveness.
+Regarding the next second-level subtopic,
+sustainability, it can be noted that this concept has
+emerged in the end of the 80-ties and in the past
+five years its popularity has increased, due to the
+challenges modern societies face. Contemplating
+on corporate sustainability research, Bergman et al.
+(2017) have constructed a typology that enables
+deeper understanding of all the layers that the
+concept embodies. Namely, Bergman et al. (2017)
+distinguish between three types of corporate
+sustainability and nine subtypes: 1. corporate
+sustainability in relation with corporate
+responsibility;
+2.
+mono-focal
+corporate
+sustainability; 3. inclusive approaches to corporate
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+19
+
+20
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+sustainability. For our research purposes, we argue
+that the mono-focal corporate sustainability, which
+analyses this concept as a strategy, is the most
+relevant subtype. This type of corporate
+sustainability highlights the activities related to
+defining
+sustainability
+priorities,
+its
+implementation and communication, and the
+importance of the directors’ capability for
+implementing the strategies that would make the
+organization sustainable (Bergman et al., 2017).
+However, some authors investigate corporate
+sustainability in relation to the concept of corporate
+social responsibility. Most of the articles classified
+within this topic address the social and
+environmental aspects (Gaio & Concalves, 2022;
+Yarram and Adapa, 2021; Peng et al., 2021; and
+Issa and Bensalm, 2022), while Kanadli et al.
+(2022), Amorelli and Garcia-Sanchez (2020) and
+Amorelli and Garcia-Sanchez (2023) investigate
+all three aspects of sustainability as a strategy or
+strategic activities upon which boards can act. Gaio
+and Cancelves (2022) investigate the relation
+between board gender diversity and the adoption of
+the corporate social responsibility concept, and
+their findings indicate that the larger proportion of
+women in the board is related to the adoption of the
+CRS practices that lead to the creation of more
+sustainable companies. Yarram and Adapa (2021)
+argue that the mere presence of one woman in a
+board is not sufficient for influencing the
+company’s strategy, and in particular for
+influencing the adoption of the CSR practices.
+Their findings support the existence of the effect of
+tokenism and argue that women are exposed to the
+performance pressure. Therefore, the adoption of
+the CSR practices is related to board gender
+diversity, but one female director cannot have the
+influence that several women would have. Peng et
+al. (2021) are interested in investigating the
+determinants of corporate social responsibility
+practices in multinational companies. The results
+presented by Peng et al. (2021) indicate that
+boards’ gender diversity is positively related to
+environmental and social disclosure, and that
+tenure diversity is positively related to social
+disclosures of the multinational companies. Issa
+and Bensalem (2022) suggest that boards’ gender
+diversity has an impact on eco-innovation, and that
+this impact is indirect, through the adoption of the
+CRS strategy. On the other hand, Kanadli et al.
+(2022) have conducted a literature review in which
+they conclude that women directors are more
+sensitive to the issues related to all three aspects of
+sustainability
+(economic,
+social
+and
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+environmental) and that their ability to influence
+board agenda depend on boards’ openness and its
+structural leadership (board chair). Furthermore,
+Amorelli and Garcia-Sanchez (2023) concluded
+that companies with higher representation of
+women in their boards are more likely to adopt
+sustainable practices and that women can give
+significant insight in the debates related to
+sustainability as a strategy. In general, it can be
+noted that most of the studies categorized under
+this second-level subtopic are focused on
+investigating the factors that lead to greater boards’
+involvement in strategic decisions regarding
+sustainability, and especially in investigating the
+effects of the boards’ gender diversity. The
+findings of Amorelli and Garcia-Sanchez (2020)
+indicate that organizations are more prone to
+implement strategies improving CRS disclosure if
+female presence on the board is stronger.
+Strategic performance is the second main topic
+(or first-level subtopic) within this research area
+that has been gaining significant popularity in the
+past 5 years. Although the number of articles
+classified in strategic performance subtopic is
+smaller (n=9) it gives significant insights regarding
+the development of the future research agenda.
+According to our understanding, and for the
+purposes of this study, we define sustainable
+performance as a system of measures of the
+organizations’ financial results, and the measures
+of the effect of corporate social responsibility
+activities and strategies on organizations’
+reputation and finally, financial performance.
+Therefore, we can conclude that these articles
+investigate the concept of sustainability from the
+triple bottom line (TBL) perspective (also
+described by Bergman et al. 2017 as one of the nine
+subtypes of sustainability), and analyse how
+boards’ characteristics and processes influence
+corporate sustainability performance. In a study of
+UK listed companies in the period between 2009
+and 2016, Orazalin (2019) found that the existence
+of sustainability committees within the boards’
+structure can increase the effectiveness of
+companies’
+sustainability
+strategy,
+and
+consequently has a positive impact on
+organizations’ sustainable performance. On the
+other hand, Orazalin and Baydauletov (2020)
+examine the impact of corporate social
+responsibility strategy on organizations’ social and
+environmental performance, and include board
+gender diversity as a moderator of this relation.
+Orazalin and Baydauletov (2020) concluded that
+corporate social responsibility strategy and board
+
+Bozhinovska & Eftimov
+
+gender diversity are positively related to corporate
+social and environmental performance, and that the
+positive relation between CSR strategy and
+environmental
+performance
+is
+negatively
+moderated by board gender diversity. Similarly,
+Moussa et al. (2019) have found evidence that
+suggest that boards have direct and indirect impact
+on organizations environmental performance (or
+carbon performance in particular) and that in this
+relation the mediating role of the carbon strategy is
+crucial. Naciti (2019), on the other hand,
+investigated the influence of board diversity,
+independence and CEO duality on organizations’
+sustainability performance and concluded that
+higher level of boards’ diversity and the separation
+of CEO and board chair role are positively related
+to the sustainability performance components,
+while greater board independence is negatively
+related to sustainability performance. Chams and
+Garcia-Blandon (2019) study the effect of several
+board structural characteristics on organizations’
+overall sustainable performance. Their findings
+indicate that board size, number of board
+committees and board gender diversity are
+positively related with organizations’ sustainable
+performance and that the relation between board
+age and organizations sustainable performance is
+curvilinear. Martinez-Jimenez et al. (2019) have
+investigated how boards gender diversity and
+board effectives influence business performance
+(in which they include indicators regarding
+beneficial consequences, perceived quality,
+competitive advantage, survival of the company)
+and have concluded that there is a positive and
+statistically significant relation between board
+effectiveness and business performance, although
+they could not identify positive and statistically
+significant relation between board gender diversity
+and board effectiveness or business performance.
+Bannò et al. (2021) suggest that board gender
+diversity impact organizations sustainable
+activities (including sustainable disclosure) and
+through them the organizations sustainable
+performance, which in turn determines firm
+performance and value. Their research indicates
+that the relation between boards’ gender diversity
+and organizations’ overall sustainability is
+mediated by several variables.
+The second group of articles examines the relation
+of boards’ characteristics and strategies with
+organizations’ financial performance. Carmo et al.
+(2022) found that the positive effect of female
+directors on companies’ financial performance is
+evident only when a critical mass of women is
+
+Boards’ strategic involvement models: past, present, and future
+
+reached. Baghdadi et al. (2020) concluded that
+there is a positive and statistically significant
+association
+between
+board
+composition
+(independence and impartiality) and corporate
+default risk. Bayo-Moriones et al. (2020) have
+studied the effect of completive strategy on the
+performance system (for assessing performance on
+individual level, e.g. the performance of the
+employees) and their join influence on the
+organizational performance. Bayo-Moriones et al.
+(2020) findings indicate that the proper alignment
+of corporate strategy with the performance
+appraisal system has positive and statistically
+significant relation with several measures of
+financial performance (such as, ROE and sales per
+employee).
+Therefore,
+designing
+proper
+performance appraisal system for the adopted
+completive strategy can lead to improved
+organizational performance.
+And the last paper that is included in this topic –
+strategic performance is the one that analysis the
+determinants of the organizations’ advocacy
+performance (which represents their ability to
+influence citizens; opinions, media agendas,
+political parties’ and politicians’ agendas,
+parliamentary decisions and governmental
+decisions). The study that address this issue was
+developed by Vehka and Vesa (2023) on a sample
+of 507 board member in 140 associations (or
+interest organizations). Vehka and Vesa (2023)
+have found that there is a positive relation between
+board
+meetings,
+board
+members’
+(or
+managements’) political experience and most
+importantly boards performance in strategic task
+with the organizations advocacy performance.
+Most of the findings in the paper within this firstlevel subtopic (strategic performance) indicate that
+board impact on organizations performance largely
+depends on their ability for effective execution of
+their strategic task and for formulating strategies
+(completive strategies, CRS strategies, or carbon
+strategies) that highlight the importance of certain
+type of performance (Orazalin, 2019; Orazalin &
+Baydauletov, 2020; Moussa et al., 2019; BayoMoriones et al., 2020; Vehka and Vesa, 2023).
+2.3. Future research agenda
+
+Although the boards’ strategic involvement has
+been analysed in numerous papers with the
+application of different approaches, some aspects
+seem to remain not sufficiently researched. For
+example, it is evident that there is a lack of models
+on boards’ strategic involvement in two-tier boards
+system. Also, some of the models are designed to
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+21
+
+22
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+answer the question how boards fulfil their
+strategic role (Zahra & Pearce II, 1990; Judge and
+Zheithaml, 1992, Forbes and Milliken, 1999),
+while others focus on the question how directors
+fulfil their strategic role (McNulty & Pettigrew,
+1999; Rindova, 1999). Those models that
+incorporate both levels of involvement (the
+strategic involvement of boards as a group and of
+directors as individuals, such as the works of Pye
+and Camm, 2003; Drew and Kaye, 2007; Ghaya,
+2011) are mostly conceptual and prescriptive, and
+on individual level cover only strategic
+involvement of non-executive directors (Pye and
+Camm, 2003) or strategic involvement of
+executive directors (Drew and Kaye, 2007). Some
+of the relations/conclusions in the conceptual
+models should be further empirically tested.
+Additionally, none of the models that focus on
+directors’ strategic involvement as individual,
+incorporates the theoretical propositions of the
+literature related to employee engagement,
+directly.
+Therefore, our recommendation regarding
+future research on models of boards’ strategic
+involvement should focus on generating models
+that incorporate the theoretical propositions of the
+theories on employee engagement, where the term
+involvement is clearly defined, and models that
+incorporate both levels of the concept of boards’
+strategic involvement (the strategic involvement of
+boards as groups and of directors as individuals).
+Furthermore, future research should focus on
+generating models that explain how both boards
+(the management and the supervisory board) fulfil
+their strategic role in the two-tier board system.
+Additionally, by synthetizing the most
+researched subtopics within the main topic boards’ strategic involvement, we suggest that
+further studies on this topic should focus on
+answering the following questions:
+I.
+In relation to the strategic human resource
+management sub-topic: 1. How do boards
+select new directors? 2. Which criteria are
+used for selecting new directors? 3. How do
+boards prepare the organization for CEO
+change? 4. How do boards manage the
+situation in case of CEO turnover? 5. How
+can all board members demonstrate
+strategic leadership and when is it
+expected?
+II.
+In relation to board processes sub-topic:
+1. Does directors’ impact on strategy differ
+in accordance with their participation in the
+ownership structure? 2. How do boards in
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+III.
+
+IV.
+
+organizations with two-tier board system
+collaborate in fulfilling the strategic role?
+3. What can boards do to create a context
+that support and enhance the strategic
+involvement of all their members? 4. Can
+the increased level of formalization of
+several strategy related processes lead to
+greater board strategic involvement?
+In relation to sustainability: 1. How do
+board members understand sustainability,
+as a strategy or as a concept related to
+CSR? 2. Does the adoption of sustainability
+as a strategy by the board lead to achieving
+sustainable organizational performance?
+In relation to strategic organizational
+performance (as a first level sub-topic):
+1. How do boards’ members define
+sustainable organizational performance?
+2. How and when should boards initiate the
+discussion regarding achieving a level of
+performance (financial, social, and
+environmental) that is sustainable in the
+long run? 3. When are boards in the
+position to influence strategic choices in
+order to ensure the achievement of
+sustainable organizational performance?
+
+Discussion
+In order to achieve the paper’s purposes, we
+conducted an integrative literature review and a
+semi-systematic literature review, whose insights
+are reported in the section Key findings. The main
+outputs of the integrative literature review are the
+identification of the core models that shape the
+foundations in this research area and the
+proposition of their classification. The core models
+on boards’ strategic involvement are: the model of
+Zahra and Pearce II (1990), the model of Judge and
+Zeithaml (1992), the model of McNulty and
+Pettigrew (1999), the model of Forbes and Milliken
+(1999), the Rindovas’ model (1999), the model
+developed by Pye and Camm (2003), the model
+developed by Drew and Kaye (2007) and the
+Ghayas’ model (2011). The models were classified
+in the following three groups: generic (basic or
+general) models, behavioural models, and
+integrative models. In the group of generic (basic)
+models we included the models developed at the
+beginning of the second period of the evolution of
+thought, in which scientific approaches were used
+for addressing these issues for the first-time. These
+models try to generate a comprehensive definition
+of the concept and investigate the relation of
+boards’ strategic involvement and organizational
+
+Bozhinovska & Eftimov
+
+performance. The second group of models, the
+behaviour models, were developed at the end of the
+second period of the evolution of thought in this
+area, incorporate the cognitive approach in the
+research of boards’ strategic involvement
+(Rindova, 1999) and broadly investigate boards’
+processes and dynamics (McNulty & Petigrew,
+1999; Forbes and Milliken, 1999; Pye and Camm,
+2003). These models also analyse the relation of
+boards’ strategic involvement with decisionquality (Ridova, 1999) and organizational
+performance (McNulty & Petigrew, 1999; Forbes
+and Milliken, 1999; Pye and Camm, 2003). The
+last groups of models are the so-called integrative
+models that summarise the previous knowledge on
+boards’ strategic involvement and add the
+stakeholder theory postulates in the theoretical
+explanation. In this group we have classified the
+model developed by Drew and Kaye (2007) and
+Ghaya (2011).
+To understand how the research on boards’
+strategic involvement has evolved over time we
+conducted a semi-structured literature review and
+identified the main subtopics in this area in the
+period between 2019 and 2023. According to the
+thematic analysis of 48 research papers published
+in journals indexed in Scopus and SCI in the period
+between 2019 and 2023, we have identified the
+following sub-topics: strategic involvement which
+includes studies on issues related to strategic
+human resource management, board processes, and
+sustainability; and strategic organizational
+performance, which includes research on the
+relation of boards’ strategic involvement with
+financial performance, the relationship of boards’
+strategic
+involvement
+with
+sustainable
+performance and with other types of organizational
+performance (such as advocacy performance). The
+main trends within the second level subtopics,
+especially the finding in the studies related to
+issues in the area of strategic human resource
+management and sustainability and sustainable
+organizational performance are expected to shape
+the future research agenda in this area.
+
+Conclusion
+In conclusion, we can suggest that this paper has
+achieved the defined aim by answering the three
+research questions defined in the introduction.
+Regarding the question “Which are the main
+elements of the concept of boards’ strategic
+involvement?” we conclude that it includes
+research on: the understanding of the boards’
+strategic role, the theories that explain the strategic
+
+Boards’ strategic involvement models: past, present, and future
+
+process or the strategic management as
+organizational process, the link of the strategic
+management
+process
+with
+organizational
+performance and sustainability, boards’ process
+and working style as a group, the understanding
+about directors’ (managerial) cognition and its link
+to strategic management, and the understanding of
+the involvement as construct that has been
+researched through the lens of the employee
+engagement theories.
+Regarding the question related to the
+foundation of this topic, we have identified that the
+core of the concept consists of eight models that
+deconstruct different aspects of the concepts’
+elements. Namely, after defining the boards’
+strategic role (in their work published in 1989),
+Zahra and Perce II (1990) analyze the factors that
+determine boards’ strategic involvement. Judge
+and Zeithmal (1992) focus on the antecedents of
+boards’ strategic involvement, as well as on the
+impact of boards’ strategic involvement on
+organizational financial performance. McNultty
+and Pettigrew (1999) focus on the impact of
+boards’ chairman and non-executive directors on
+the strategic process. Rindova (1999) incorporates
+the cognitive perspective in the research on this
+topic and assumes that directors’ participation is
+directly related to decision quality. Pye and Camm
+(2003) focus on researching the boards’ strategic
+involvement of the board as a group, and of the
+non-executive directors, and analyze the contextual
+factors influencing boards’ strategic involvement.
+Relying on the literature on Balanced Scorecard,
+Drew and Kaye (2007) developed the Strategic
+Scorecard as a tool for measuring boards’
+involvement in the strategy making processes.
+Ghaya (2011) united the findings in the existing
+literature and created a new integrative model on
+boards’ strategic involvement.
+Regarding the third question, we can conclude
+that while at the beginning of the 1990s the models
+of boards’ strategic involvement address the
+question how boards fulfill their strategic role
+(Zahra & Pearce II, 1990; Judge & Zeithmal,
+1992), at the end of the 1990s, with the
+proliferation of the so-called behavioral models on
+boards’ strategic involvement, the focus shifted
+and directors’ strategic involvement also gained
+attention (McNulty & Petigrew, 1999; Rindova,
+1999; Pye & Camm, 2003). In the first decade of
+the 21st century the main interest was directed
+towards the issues related to board effectiveness, as
+visible from the Drew and Kaye (2007) model
+which focuses on developing a tool for measuring
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+23
+
+24
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+how boards perform their strategic role. However,
+at the beginning of the second decade of the 21st
+century, the focus is on the research of the impact
+of boards’ strategic involvement on the different
+types of organizational performance, as proposed
+by Ghaya (2011). Namely, Ghaya (2011) argues
+that boards’ strategic involvement is related to
+organizations’ strategic decisions (their origin,
+nature, importance, rapidity, and novelty), and
+different quantitative indicators (financial
+performance indicators) and qualitative indicators
+(achievement of strategic objectives, position of
+the company in the market, firm survival, product
+cost control, serenity of the social climate) of
+corporate performance. At the end of the second
+decade of the 21st century and the beginning of the
+third, most of the research on boards’ strategic
+involvement relates to the issues of strategic
+human resource management (such as the practices
+for recruiting and selecting board members, CEO
+succession, the importance of the human capital
+and what strategic leadership includes etc.) and
+how boards’ strategic involvement can contribute
+to
+generating
+sustainable
+organizational
+performance.
+As elaborated in the introduction the main
+motivation for writing this paper was to identify
+what constitutes the foundation of this concept and
+how the research on this topic has evolved over
+time. We may conclude that by assessing the
+existing literature critically, by classifying
+fundamental works in this research area and by
+systemizing the key finding in the recent research
+we have uncovered most of the elements of the
+concept, explained some of the existing
+ambiguities and set the directions for future
+research.
+Although we have fulfilled the paper’s aim and
+answered the key research questions, we should
+also note that the study has several limitations.
+Firstly, the study incorporates only articles
+published in English and most of them written by
+authors from the USA and Western European
+countries. Secondly, although we elaborate how
+the discourse on the topic has changed in the past
+few decades, we do not propose a new conceptual
+framework since that was not the purpose of this
+study and we believe that this should be done in
+future research. The purpose of this study was to
+assess the existing literature critically, interpret the
+understanding of the elements of the concept and
+identify the ongoing trends in the research on this
+topic.
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+References
+Åberg, C. & Torchia, M. (2019). Do boards of directors
+foster strategic change? A dynamic managerial
+capabilities perspective. Journal of Management and
+Governance, 24, 655-684.
+https://doi.org/10.1007/s10997-019-09462-4
+Amorelli, M. F. & García-Sánchez, I. M. (2020). Trends in
+the dynamic evolution of board gender diversity and
+corporate social responsibility. Corporate Social
+Responsibility and Environmental Management, 28(2),
+537-554.
+https://doi.org/10.1002/csr.2079
+Amorelli, M. F. & García-Sánchez, I. M. (2023). Leadership
+in heels: women on boards and sustainability in times of
+COVID-19. Corporate Social Responsibility and
+Environmental Management, 30(4), 1987-2010.
+https://doi.org/10.1002/csr.2469
+Baghdadi, G. A., Nguyen, L. H. G. & Podolski, E. J. (2020).
+Board cooption and default risk, Journal of Corporate
+Finance, 64, 101703.
+https://doi.org/10.1016/j.jcorpfin.2020.101703
+Bannò, M., Filippi, E. & Trento, S. (2023). Women in top
+echelon positions and their effects on sustainability: a
+review, synthesis and future research agenda. Journal
+of Management and Governance, 27, 181–251.
+https://doi.org/10.1007/s10997-021-09604-7
+Bayo-Moriones, A., Galdon-Sanchez, J. E., & Martinez-deMorentin, S. (2021). Business strategy, performance
+appraisal and organizational results. Personnel Review,
+50(2), 515-534.
+https://doi.org/10.1108/PR-09-2019-0498
+Bergman, M. M., Bergman, Z., & Berger, L. (2017). An
+empirical exploration, typology, and definition of
+corporate sustainability. Sustainability, 9(5). 753-766.
+https://doi.org/10.3390/su9050753
+Beshlawy, H. E. & Ardroumli, S. (2021). Board dynamics
+and decision-making in turbulent times. Corporate
+Governance and Organizational Behavior Review, 5(1),
+57-68.
+https://doi.org/10.22495/cgobrv5i1p6
+Bezemer, P. J., Pugliese, A., Nicholson, G. & Zattoni, A.
+(2023). Toward a synthesis of the board-strategy
+relationship: a literature review and future research
+agenda. Corporate Governance: an International
+review, 31(1),178-197.
+https://doi.org/10.1111/corg.12481
+Blommaert, L., & Van den Brink, M. (2020). Gender equality
+in appointments of board members: the role of multiple
+actors and their dynamics. European Mangement
+Review, 17(3), 633-647.
+https://doi.org/10.1111/emre.12381
+Boivie, S., Withers, M. C., Graffin, S. D. & Corley, K. G.
+(2021). Corporate directors' implicit theories of the roles
+and duties of boards. Strategic Management Journal,
+42(9), 1662-1695.
+https://doi.org/10.1002/smj.3320
+Braisby, N. & Gellatly, A. (2005). Cognitive pshychology.,
+London, UK: Oxford University Press.
+Calabrò, A., Torchia, M., Jimenez, D.G. & Kraus, S.
+(2021). The role of human capital on family firm
+innovativeness: the strategic leadership role of family
+board members. International Entrepreneurship and
+Management Journal, 17, 261–287.
+https://doi.org/10.1007/s11365-020-00657-y
+
+Bozhinovska & Eftimov
+Campopiano, G., Calabrò, A., & Basco, R. (2020). The
+“Most Wanted”: the role of family strategic resources
+and family involvement in CEO succession intention.
+Family Business Review, 33(3), 1-26.
+https://doi.org/10.1177/0894486520927289
+Carmo, C.; Alves, S. & Quaresma, B. (2022). Women on
+boards in Portuguese listed companies: does gender
+diversity influence financial performance?
+Sustainability, 14(10), 6186.
+https://doi.org/10.3390/su14106186
+Castellanos, J. D. & George, B. (2020), Boardroom
+leadership: the board of directors as a source of
+strategic leadership. Economic and Business Review,
+6(20-1),103-119.
+https://sciendo.com/article/10.18559/ebr.2020.1.5
+Chams, N. & García-Blandón, J. (2019). Sustainable or not
+sustainable? The role of the board of directors. Journal
+of Cleaner Production, 26, 1067-1081.
+https://doi.org/10.1016/j.jclepro.2019.04.118
+Cheffins, B. R. (2015). Corporate governance since the
+managerial capitalism era. Business History Review,
+89(4), 717-744.
+https://doi.org/10.1017/S0007680515000690
+Child, J. (1972). Organizational structure, environment and
+performance: the role of strategic choice. Sociology,
+6(1), 1-22.
+https://doi.org/10.1177/003803857200600101
+Child, J.(1997). Strategic choice in the analysis of action,
+structure, organizations and environment: retrospect
+and prospect. Organization Studies, 18(1), 43-76.
+https://doi.org/10.1177/017084069701800104
+Claessens, S., & Yurtoglu, B. (2012). Corporate
+Governance and Development — An Update.
+Washington: International Finance Corporation.
+Davis, J. H., Schoorman, F.D. & Donaldson, L. (1997),
+Toward a stewardship theory of management, Academy
+of Management Review, 22(1), 20–47.
+https://doi.org/10.5465/amr.1997.9707180258
+Eisenhardt, K. M. (1989). Agency theory: an assessment
+and review. The Academy of Management
+Review,14(1), 57-74.
+https://doi.org/10.5465/amr.1989.4279003
+Fama, E. F. & Jensen, M. C. (1983), Separation of
+ownership and control. Journal of Law and Economics,
+26(2), 301–325.
+Fernandez, W. D. & Sundaramurthy, C. (2020). Boards’
+relevant experience and international strategy: a recipe
+for success or a case of too many cooks?. Global
+Strategy Journal, 10(4), 726-749.
+https://doi.org/10.1002/gsj.1392
+Forbes, D. P., & Milliken, F. J. (1999). Cognition and
+corporate governance: understanding boards of
+directors as strategic decision-making groups. The
+Academy of Management Review, 24(3), 489-505.
+https://doi.org/10.2307/259138
+Freeman, E. J. (1984). Strategic Management: A
+Stakeholder Approach. London, UK: Pitman Publishing
+Inc.
+Gaio, C. & Gonçalves, T. C. (2022). Gender diversity on the
+board and firms corporate social responsibility.
+International Journal of Financial Studies 10(15), 1-16.
+https://doi.org/10.3390/ijfs10010015
+
+Boards’ strategic involvement models: past, present, and future
+
+Ghaya, H. (2011). Board of directors’ involvement in
+strategic decision making process: definition and
+literature review. Working Papers of BETA 2011-22,
+Bureau d'Economie Théorique et Appliquée, UDS,
+Strasbourg. Retrieved May 9, 2021 from:
+https://ideas.repec.org/p/ulp/sbbeta/2011-22.html
+Ginsberg, A. (1994). Minding the Competition: From
+Mapping to Mastery. Strategic Mangement Journal, 15,
+153-174.
+https://doi.org/10.1002/smj.4250150911
+Goldstein, J. C. (2022). Strategy maps: the middle
+management perspective. Journal of Business
+Strategy, 43(1), 3-9.
+https://doi.org/10.1108/JBS-09-2020-0191
+Guerra, S. (2022). The black box of corporate governance.
+New York: Routledge.
+Hamidi, D. Y. & Machold, S. (2020). Governance, boards
+and value co-creation – changing perspectives towards
+a service dominant logic. European Management
+Journal, 38(6), 956-966.
+https://doi.org/10.1016/j.emj.2020.06.001
+Hermanson, D. R., Tompkins, J. G., Veliyath, R. & Ye, Z. S.
+(2020). Strategic planning committees on U.S. public
+company boards: axiomatic or paradoxical?. Long
+Range Planning, 53(5), 101967.
+https://doi.org/10.1016/j.lrp.2020.101967
+Issa, A. & Bensalem, N. (2022). Are gender-diverse boards
+eco-innovative? The mediating role of corporate social
+responsibility strategy. Corporate Social Responsibility
+and Environmental Management, 30(2), 742-754.
+https://doi.org/10.1002/csr.2385
+Jensen, M. C. & Meckling, W.H. (1976). Theory of the firm:
+managerial behavour, agency cost and ownership
+structure. Journal of Financial Economics, 3(4), 305360.
+Judge, W. Q., & Zeithaml, C. P. (1992). Institutional and
+strategic choice perspectives on board involvement in
+strategic decision process. The Academy of
+Management Journal, 35(4), 766-794.
+https://doi.org/10.2307/256315
+Jung, H., Lee, Y. G. & Park, S. H. (2023). Just diverse
+among themselves: how does negative performance
+feedback affect boards’ expertise vs. ascriptive
+diversity?. Organization Science 34(2), 657-679.
+https://doi.org/10.1287/orsc.2022.1595
+Khan, W. A. (1990). Psychological conditions of personal
+engagement and disengagement at work. Academy of
+Management Journal, 33(4), 692-724.
+https://doi.org/10.5465/256287
+Kanadli, S. B., Alawadi, A., Kakabadse, N. & Zhang, P.
+(2022). Do independent boards pay attention to
+corporate sustainability? Gender diversity can make a
+difference. Corporate Governance, 22(7), 1390-1404.
+https://doi.org/10.1108/CG-09-2021-0352
+Kanadlı, S. B., Zhang, P. & Kakabadse, N. K. (2020). How
+job-related diversity affects boards’ strategic tasks
+performance: the role of chairperson. Corporate
+Governance, 20(4), 583-599.
+https://doi.org/10.1108/CG-08-2019-0267
+Klarner, P., Probst, G. & Useem, M. (2020). Opening the
+black box: Unpacking board involvement in innovation.
+Strategic Organization, 18(4), 487-519.
+https://doi.org/10.1177/1476127019839321
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+25
+
+26
+
+Bozhinovska & Eftimov
+
+Boards’ strategic involvement models: past, present, and future
+
+Klarner, P., Yoshikawa, T. & Hiit, M. (2021). A capability
+based view of boards: a new conceptual framework for
+board governance. Academy of Management
+Perspectives, 35,(1), 123-141.
+https://doi.org/10.5465/amp.2017.0030
+
+Morais, F., Kakabadse, A. & Kakabadse, N. (2020). Leading
+through discontinuous change: a typology of problems
+and leadership approaches in UK boards. Long Range
+Planning, 53(2). 101870.
+https://doi.org/10.1016/j.lrp.2019.02.003
+
+Leblach, R. & Schwarts, M. S. (20070. The black box of
+board process: gaining access to a difficult subject.
+Corporate Governance, 15(5), 843-851.
+https://doi.org/10.1111/j.1467-8683.2007.00617.x
+
+Morgan, D. L., LePeau, L. A. & Commodore, F. (2022).
+Observable evidence and partnership possibilities for
+governing board involvement in diversity, equity, and
+inclusion: a content analysis. Research in Higher
+Education, 63, 189–221.
+https://doi.org/10.1007/s11162-021-09651-x
+
+Levinthal, D. A. & March, G. A. (1993). The myopia of
+learning. Strategic Management Journal, Special Issue:
+Organization, Decision-making and Strategy, 14, 95112.
+https://doi.org/10.1002/smj.4250141009
+Levrau, A., & Van den Berghe, L. (2007). Corporate
+governance and board effectiveness : beyond
+formalism. Vlerick Leuven Gent Working Paper Series
+2007/03. Retrieved December 15, 2022 from:
+https://repository.vlerick.com/bitstream/handle/20.500.1
+2127/2267/Levrau_A_WP_CorporateGovernanceandBo
+ardEffectiveness.pdf?sequence=1&isAllowed=y
+Lornudd, C., Frykman, M., Stenfors, T., Ebbevi, D., Hasson,
+H., Sundberg, C. J. & Von Thiele Schwarz, U. (2021).
+A champagne tower of influence: an interview study of
+how corporate boards enact occupational health and
+safety. Safty science, 143, 1-33.
+https://doi.org/10.1016/j.ssci.2021.105416
+
+Moussa, T., Allam, A., Elbanna, S. & Bani-Mustafa, A.
+(2019). Can board environmental orientation improve
+US firms’ carbon performance? The mediating role of
+carbon strategy. Business Strategy and the
+Environment, 29(1), 72-80.
+https://doi.org/10.1002/bse.2351
+Naciti, V. (2019). Corporate governance and board of
+directors: The effect of a board composition on firm
+sustainability performance. Journal of Cleaner
+Production, 237, 117727.
+https://doi.org/10.1016/j.jclepro.2019.117727
+Nahum, N., & Carmeli, C. (2019). Leadership style in a
+board of directors: implications of involvement in the
+strategic decision‑making process, Journal of
+Management and Governance, 24, 199-227.
+https://doi.org/10.1007/s10997-019-09455-3
+
+Luciano, M. M., Nahrgang, J. D. & Shropshire, C. (2020)
+Strategic leadership systems: viewing top management
+teams and boards of directors from a multiteam
+systems perspective. Academy of Management
+Review, 45(3), 1-62.
+https://doi.org/10.5465/amr.2017.0485
+
+Orazalin, N. (2019). Do board sustainability committees
+contribute to corporate environmental and social
+performance? The mediating role of corporate social
+responsibility strategy. Business Strategy and the
+environment, 29(1), 140-153.
+https://doi.org/10.1002/bse.2354
+
+Maassen, G. F., (2002), An International Comparison of
+Corporate Governance Models, 3ed. Amsterdam:
+Spencer Stuart.
+
+Orazalin, N. & Baydauletov, M. (2020). Corporate social
+responsibility strategy and corporate environmental and
+social performance: the moderating role of board
+gender diversity. Corporate Social Responsibility and
+Environmental Management, 27(4), 1664-1676.
+https://doi.org/10.1002/csr.1915
+
+Martinez-Jimenez, R., Hernández-Ortiz, M.J. & Cabrera
+Fernández, A. I.. (2019). Gender diversity influence on
+board effectiveness and business performance.
+Corporate Governance, 20(2), 307-323.
+https://doi.org/10.1108/CG-07-2019-0206
+Maslach, C., & Later, M. P. (1997). The truth about burnout:
+how organizations cause personal stress and what to
+do about it. San Francisco, USA: John Willey & Sons.
+
+Peng, X., Yang, Z., Shao, J. & Li, X. (2021). Board diversity
+and corporate social responsibility disclosure of
+multinational corporations. Applied Economics, 53(42),
+4884-4898.
+https://doi.org/10.1080/00036846.2021.1910620
+
+McNulty, T., & Pettigrew, A. (1999). Strategist on the board.
+Organization Studies, 20(1), 47-74.
+https://doi.org/10.1177/0170840699201003
+
+Pfeffer, J. & Salancik, G. R. (2003). The External Control of
+Organizations. Stanford, California: Stanford University
+Press.
+
+Mensi-Klarbach, H., & Seierstad, C. (2020). Gender Quotas
+on Corporate Boards: Similarities and Differences in
+Quota Scenarios. European Management Review,
+17(3), 615-631.
+https://doi.org/10.1111/emre.12374
+
+Pugliese, A., Bezemer, P. J., Zattoni, A., Huse, M., Van den
+Bosch, F. A. J., & Volberda, H. W. (2009). Boards of
+directors’ contribution to strategy: a literature review
+and research agenda. Corporate Governance: An
+International Review, 17(3), 292–306.
+https://doi.org/10.1111/j.1467-8683.2009.00740.x
+
+Mikkonen, M. , Stenvall, J. & Lehtonen, K. (2021). The
+paradox of gender diversity, organizational outcomes,
+and recruitment in the boards of national governing
+bodies of sport. Administrative Sciences 11(4), 141157.
+https://doi.org/10.3390/admsci11040141
+Minciullo, M. & Pedrini, M. (2019). Antecedents of board
+involvement and its consequences on organisational
+effectiveness in non‑profit organisations:a study on
+European corporate foundations. Journal of
+Managemnt and Governance, 24,531-555.
+https://doi.org/10.1007/s10997-019-09480-2
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+Pye, A., & Camm, G. (2003). Non-executive directors:
+moving beyond the ‘one-size-fit-all’ view. Journal of
+General Management, 28(3), 52-70.
+https://doi.org/10.1177/030630700302800304
+Rindova, V. P. (1999). What corporate boards have to do
+with strategy: a cognitive perspective. Journal of
+Management Studies, 36(7), 953-975.
+https://doi.org/10.1111/1467-6486.00165
+Rosenstein, J. (1987). Why don’t boards get more involved
+in strategy?. Long Range planning, 20(3), 30-34.
+https://doi.org/10.1016/0024-6301(87)90069-0
+
+Bozhinovska & Eftimov
+Saks, A. M., & Gruman, J. A (2014). What do we really
+know about employee engagement?. Human Resource
+Development Quarterly, 25(2), 155-180.
+https://doi.org/10.1002/hrdq.21187
+Sidhu, J. S., Feng, Y., Volberda, H. W. & Van Den Bosch,
+F. A. J. (2021). In the shadow of social stereotypes:
+gender diversity on corporate boards, board chair’s
+gender and strategic change. Organization Studies,
+42(11), 1677-1698.
+https://doi.org/10.1177/01708406209445
+Slomka-Golebiowska, A., De Masi, S. & Paci, A. (2023).
+Board dynamics and board tasks empowered by
+women on boards: evidence from Italy. Management
+Research Review, 46(3), 390-412.
+https://www.emerald.com/insight/content/doi/10.1108/M
+RR-09-2021-0678/full/html
+Snyder, H. (2019). Literature review as a research
+methodology: an overview and guidelines. Journal of
+Business Reserach, 104, 333-339.
+https://doi.org/10.1016/j.jbusres.2019.07.039
+Stubbart, C. I. (1989). Managerial cognition: a missing link
+in strategic management research. Journal of
+Management Studies, 26(4), 325-347.
+https://doi.org/10.1111/j.1467-6486.1989.tb00732.x
+Squires, B. & Elnahla, N. (2020). The roles played by
+boards of directors: an integration of the agency and
+stakeholder theories. Transnational Corporations
+Review, 12(2), 126-139.
+https://doi.org/10.1080/19186444.2020.1757340
+Torraco, R. J. (2006). Writing integrative literature reviews:
+guidelines and examples. Human Resource
+Development Review, 4(3), 356-367.
+https://doi.org/10.1177/1534484305278283
+Vehka, M. & Vesa, H. (2023). Internal governance of
+interest organizations: the role of boards of directors in
+advocacy performance. Non-profit and Voluntary Sector
+Quartely, 52(2), 474-492.
+https://doi.org/10.1177/08997640221091529
+
+Boards’ strategic involvement models: past, present, and future
+
+Watson, C. & Ireland, A. (2021). Boards in action:
+processes and practices of ‘strategizing’ in the
+boardroom. Journal of Management and Governance
+25, 933–966.
+https://doi.org/10.1007/s10997-020-09545-7
+Wommack, W. W. (1979). The board’s most important
+function. Harvard Business Review, 57(5).
+https://hbr.org/1979/09/the-boards-most-importantfunction
+Yarram, S. R. & Adapa, S. (2021). Board gender diversity
+and corporate social responsibility: Is there a case for
+critical mass?. Journal of Cleaner Production, 278,
+123319.
+https://doi.org/10.1016/j.jclepro.2020.123319
+Zahra, S. A. & Pearce II, J. A. (1989). Boards of directors
+and corporate financial performance: a review and
+integrative model. Journal of Management, 15(2), 291334.
+https://doi.org/10.1177/014920638901500208
+Zahra, S. A., & Pearce II, J. A. (1990). Determinants of
+boards directors’ strategic involvement. European
+Management Journal, 8(2), 164-173.
+https://doi.org/10.1016/0263-2373(90)90082-H
+Zenou, E., Allemand, I., Brullebaut, B., & Galia, F. (2020).
+Board recruitment as a strategic answer: Do
+companies' strategies for innovation influence the
+selection of new board members?. Strategic Change,
+Special Issue: Organizational Design Products, 29(1),
+127-139.
+https://doi.org/10.1002/jsc.2316
+Zhu, Q, Hu, S. & Shen, W. (2020). Why do some insider
+CEOs make more strategic changes than others? The
+impact of prior board experience on new CEO
+insiderness. Strategic Management Journal, 41(10), 1–
+19.
+https://doi.org/10.1002/smj.3183
+
+ Correspondence
+
+Tihona Bozhinovska
+“Ss. Cyril and Methodius” University in Skopje,
+Faculty of Economics – Skopje, Skopje
+Bul. Goce Delchev, 9V, 1000 Skopje,
+Republic of North Macedonia
+E-mail: tihona@eccf.ukim.edu.mk
+
+STRATEGIC MANAGEMENT, Vol. 29 (2024), No. 4, pp. 005-027
+
+27
+
+

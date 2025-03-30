@@ -1,0 +1,1418 @@
+MANAGING
+MULTICULTURAL
+TEAMS
+Exploring the opportunities
+and challenges
+
+Research report
+April 2021
+
+The CIPD is the professional body for HR and people
+development. The registered charity champions better work
+and working lives and has been setting the benchmark for
+excellence in people and organisation development for
+more than 100 years. It has more than 150,000 members
+across the world, provides thought leadership through
+independent research on the world of work, and offers
+professional training and accreditation for those working in
+HR and learning and development.
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+Research report
+1
+2
+3
+
+Managing multicultural teams:
+Exploring the opportunities
+and challenges
+
+4
+5
+6
+
+Contents
+1
+
+Introduction
+
+2
+
+2
+
+Aims and approach of the research
+
+3
+
+3
+
+What are multicultural teams?
+
+4
+
+4
+
+What are the benefits and challenges of multicultural teams?
+
+6
+
+5
+
+Embracing multicultural teams through cultural intelligence
+
+10
+
+6
+
+COVID-19 and multicultural virtual teams
+
+13
+
+7
+
+Conclusion and recommendations
+
+16
+
+8
+
+References
+
+18
+
+Acknowledgements
+This report was written by Jake Young, Research Associate at the CIPD. I would
+like to thank Melanie Nicholls, Director – Qualitative Research, and Mariana
+Owen, Senior Research Executive, of YouGov for their contribution to the online
+focus group discussions. I would also like to thank CIPD colleagues for their
+support with this project, particularly Jonny Gifford, Melanie Green, Wilson
+Wong, Claire McCartney, Abdul Wahab, Keith van der Linde, Ramy Bayyour,
+Charlotte Chedeville, Charmaine Ng, Zainab Oyegoke and Mary Connaughton.
+Many thanks for your contributions.
+
+1
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+1
+2
+3
+4
+5
+6
+
+Introduction
+
+The multicultural team is a phenomenon that, in particular due to globalisation, migration
+and greater workforce diversity, has seen long-term growth. Understanding cultural
+differences should be a prominent consideration for contemporary people managers.
+Exploring the evidence around managing culturally diverse teams is vital, as poor
+management can have negative outcomes, as discussed in the CIPD’s evidence-based
+report Diversity Management that Works.
+The COVID-19 pandemic has prompted many organisations to radically change their
+ways of working or even overhaul their business models. As a result, the spotlight now
+shines even brighter on managers, who play a pivotal role in helping organisations adapt
+and thrive. One major area of change is homeworking: having steadily become more
+commonplace over the last two decades, it has seen a huge increase due to the pandemic
+and may continue to increase in the future. This presents particular challenges for the
+management of multicultural teams and, what’s more, may make them more common.
+As our economies start to recover from the effects of the pandemic, it’s vital that
+organisations know how to manage multicultural teams effectively.
+The challenges posed by multicultural teams
+Cultural diversity is reflected in the different values, ways of thinking, and behavioural
+patterns of team members.1 Research2 suggests that organisations working with
+multicultural teams face a threefold challenge:
+• creating a common goal
+• enabling each team member to work at their best
+• ensuring fair treatment for all, irrespective of background.
+Exactly how to approach these challenges and create a supportive and high-performing
+team is a difficult question, but it’s generally agreed that overcoming barriers inherent to
+cultural differences – for example, problems of communication and different values – will
+allow multicultural teams to reap the rewards of innovation and learning, among other
+positive outcomes.3
+Overcoming the barriers needed to unlock the potential of multicultural teams can be
+challenging, but it can also bring something new and unique to work groups.4 We view
+cultural diversity, like diversity more generally, as a positive that can facilitate many
+beneficial outcomes for businesses, so long as they provide inclusive environments and
+careful management of their people.
+A developing and relevant research area
+While plenty of research in the 2000s explored the link between cultural diversity and
+team performance, some5 found positive associations, while others6 suggested a negative
+link. One early meta-analysis7 of research on group member heterogeneity concluded that
+‘much is still unknown regarding the nature of diversity, its impact on work group outcomes,
+and the intervening mechanisms’ (p142).
+At the time, more needed to be done to provide clarity on the mechanisms of the
+relationship between culturally diverse teams and organisational outcomes. The consensus
+was clear: to shine a light on the mixed effects of culturally diverse teams, the key
+influences needed to be explored.8 Research in the past decade has indeed sought to do
+this, exploring the effects of factors like creativity, communication and cultural intelligence
+on the relationship between multicultural teams and work outcomes.
+
+2
+
+Introduction
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+
+The global COVID-19 pandemic – and the resulting changes to our organisations and
+workforces – has brought into focus the role of managers in supporting and developing
+successful virtual teams. This is no different in multicultural teams, where managers seek
+to contend with a number of challenges that are both heightened by working remotely
+and unique to teams whose members are culturally diverse. Naturally, this feels like an
+appropriate time to explore these issues in detail.
+
+3
+4
+5
+6
+
+2
+
+Aims and approach of the research
+
+In this research, we set out to explore the opportunities and challenges faced by
+multicultural teams, with a particular focus on the role managers can play in overcoming
+the barriers to working effectively and unlocking their potential.
+Exploring the research evidence
+We first assessed the research literature on multicultural teams, exploring how multicultural
+teams are defined and identifying their benefits and challenges – looking specifically
+at creativity, communication and geographical dispersion, and how they mediate the
+relationship between cultural diversity and team outcomes. The notion of cultural
+intelligence, or cross-cultural competence, was then explored as we considered how it can
+be developed to embrace multicultural teams and facilitate their success.
+Engaging with managers of multicultural teams
+We also conducted online focus groups with managers from three different global regions
+to assess their perspectives on managing multicultural teams. We aimed to:
+• explore the perspectives of 23 managers on multicultural teams
+• identify the key challenges and opportunities in multicultural teams
+• gain insight into the skills, capabilities and guidance people need to work effectively in a
+multicultural environment
+• understand the perceived impact of the COVID-19 pandemic on teamworking in this context.
+Research took place in May 2020 in the UK, APAC (Asia-Pacific) and the Middle East (ME). UK
+participants were recruited via the YouGov Panel, and APAC and ME participants were recruited
+via the CIPD.
+Table 1: Number of participants by region
+Group 1 (UK)
+
+Group 2 (APAC)
+
+Group 3 (ME)
+
+14 May 2020
+
+18 May 2020
+
+19 May 2020
+
+10 participants
+
+5 participants
+
+8 participants
+
+We recruited participants based on the following specifications:
+•
+•
+•
+•
+
+3
+
+all with management responsibilities
+all manage a multicultural team (for example, a mix of nationality, ethnicity, religion)
+mix of industry/sector
+mix of gender, ethnicity and geographical location.
+Aims and approach of the research
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+Bringing together this practitioner expertise with a review of the scientific literature, we draw
+on two crucial sources of evidence, in line with the principles of evidence-based practice:9
+
+1
+2
+3
+4
+5
+6
+
+• practitioner expertise
+• scientific literature.
+This research aims to help people professionals understand the nature of multicultural
+teams, the challenges they face, and how to approach these challenges and harness the
+benefits of diverse teams. It provides key recommendations on the influencing factors
+that must be addressed to balance and manage the various values, experiences and
+personalities in your teams.
+The following section explores the findings of this dual approach thematically, first
+outlining what the evidence tells us about each theme, followed by investigating manager
+perspectives from our focus group participants.
+
+3
+
+What are multicultural teams?
+
+Section summary
+• Research evidence and manager insights frame multicultural teams as those
+whose members share a variety of values and attitudes – not only as a result of
+demographics, but of their experiences too.
+• Evidence suggests cultural diversity affects multicultural teams in three differing
+ways, which we outline below.
+• Managers highlight sensitivity and empathy as key to creating a trusting and
+supportive environment for culturally diverse staff.
+
+Evidence base
+Multicultural teams are generally defined as a group of people from different nationalities
+and cultures whose shared goal is to deliver for an organisation or another stakeholder.10
+Evident in these teams is that its members have spent a significant portion of their formative
+years in different countries and have consequently learned different values and demeanours
+– aspects that we know make up generally agreed definitions of organisational culture, or
+‘the way we do things around here’.11
+Being part of a culture provides a source of identity for its members.12 Diversity of culture in
+organisational teams is therefore thought to influence them in three potentially opposing ways:13
+1 First, people are attracted to working alongside those they find similar to themselves in
+terms of values, beliefs and attitudes.14
+2 Second, people categorise themselves into groups and categorise others as outsiders or
+as members of other groups.15 This leads to favouritism towards those belonging to the
+group and stereotyping of others.
+3 A third perspective positions cultural diversity as an opportunity rather than a problem,
+suggesting that it helps bring more varied contributions to teams, enabling new
+information and perspectives to be heard and subsequently enhancing the team’s
+problem-solving and creativity.16
+
+4
+
+What are multicultural teams?
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+Manager insights
+
+1
+
+Figure 1: Summary of insights by region: Context
+
+2
+3
+4
+5
+6
+
+Respondents felt the UK is a
+multicultural society, but less
+so than the other regions.
+
+Being part of a
+multicultural team is the
+norm in the ME region.
+
+Respondents felt pride
+at living in a region that
+encourages multiculturalism.
+
+Our focus group participants generally had a clear sense of what they understood to be
+a multicultural team. They highlighted the mixing of people from different nationalities,
+ethnicities and religions, as well as those of varying ages and genders. Many felt that
+multiculturalism goes beyond demographics; there was discussion around the different
+values, perspectives and experiences people bring to a team; for example, those who work
+in different industries.
+
+We have a very diverse group with more than 60 nationalities
+and very different perspectives… [It’s a] challenge for some to
+work with, but others who are open to listen, engage and be
+challenged work well. (focus group member, ME)
+Respondents from APAC and ME countries were particularly aware of multiculturalism in
+their teams, especially those from multinational firms, where expatriate employees are
+the norm. This is something they consider when managing their teams. One participant,
+for example, described adjusting their management style as ‘lifelong learning. [You] try
+to adjust to some degree, yet also expect the other team members to come forward and
+be more open minded, so my team works off the premise “assume good intent first”’
+(focus group member, APAC).
+Participants highlighted open-mindedness and cultural sensitivity as two key aspects
+of their roles. While they noted that the skills needed to manage a multicultural team
+are similar to those of any good manager, showing sensitivity to cultural issues through
+empathy, attempting to find common ground, and being a good listener are vital to
+creating trust and fostering a supportive environment among culturally diverse teams.
+
+5
+
+What are multicultural teams?
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+4
+1
+2
+3
+4
+5
+6
+
+	What are the benefits and
+challenges of multicultural teams?
+
+Section summary
+• Research on the key factors influencing the relationship between cultural diversity
+and positive outcomes (notably creativity and communication) has boomed in the
+last decade.
+• Multicultural teams are more creative than homogenous teams, especially those
+with deep-level diversity (in other words, more diverse attitudes and values
+towards culture).
+• Managers particularly acknowledge the benefits of sharing unique perspectives
+and experiences – not just for innovating at work but for team members to
+become more well rounded.
+• Language barriers present a challenge to effective communication. They reduce
+colleagues’ levels of trust and expectations of successful work, and sometimes
+lead to ‘code-switching’ – switching to one’s native language.
+• Leaders are important to combat these barriers through upholding language
+discipline and highlighting the achievements of staff beyond their language skills.
+• Showing patience and sensitivity to culturally specific nuances of language is a
+key skill for managers to better understand their team’s behaviour.
+• An environment home to diverse, different, unique contributions is more important
+than one boasting perfect communicators.
+
+Evidence base
+In 2010, Stahl et al17 conducted a meta-analysis of exploring the link between diversity
+of culture and organisational outcomes. They found cultural diversity to be unrelated to
+overall team performance. However, cultural diversity was found to be associated with
+other divergent and somewhat contradictory team outcomes. While more culturally diverse
+teams were found to experience increased creativity, they suffered from greater conflict –
+particularly task conflict, and, to a lesser extent, relationship and process conflict.
+Interestingly, while these teams experienced lower social integration and cohesion,
+contrary to expectations, the effectiveness of their communication was not reduced,
+and they were found to be more satisfied than homogenous teams. It should be noted
+that the effect sizes for these relationships were generally small.18 By ‘small’ we mean
+that the difference is not big enough to observe in day-to-day activity and would need
+to be measured to be detected. In short, the relationship between cultural diversity and
+organisational outcomes exists, but is weak.
+The researchers’ main recommendation from this 2010 paper was that future research
+should move beyond the simple question of the positive or negative effect cultural
+diversity has on team performance, and focus more on the mechanisms by which
+teams are affected by cultural diversity, and the intervening processes that influence
+this relationship. This year (2021), the authors of the original research paper took a
+retrospective look at their study and where the body of evidence has developed in the
+past decade.19 First of all, they focused on creativity and communication.
+
+6
+
+What are the benefits and challenges of multicultural teams?
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+3
+4
+5
+6
+
+Culturally diverse teams are more creative
+Creativity is a very important immediate team outcome for several reasons. First, in Stahl
+et al (2010),20 the positive relationship between culturally diverse teams and greater
+creativity was found to be the strongest of all outcome variables measured. Second,
+creativity is part of the process of innovating for new ideas and solutions – in fact, the two
+are often measured interchangeably. Third, research on the relationship between cultural
+diversity and team creativity has flourished in the last decade, as summarised by a recent
+meta-analysis from Wang et al (2019).21 This body of research identifies three levels to
+culture – team, organisational and national22 – though Wang focuses on national culture,
+which is based on countries and ethnicities. This is because many countries these days
+have several different ethnic cultures, and many ethnic cultures exist across more than one
+country.23 As mentioned earlier, the shared elements of spending time in a certain country
+or among a certain group, such as language, etiquette and geographic location, can
+influence the perceptions, values and actions of people in such groups.24
+Wang et al (2019) sought to heed the wishes of Stahl et al (2010) in finding more
+nuance in the relationship between multicultural teams and organisational outcomes by
+distinguishing between surface-level and deep-level diversity in multicultural teams. Put
+simply, surface-level diversity is defined as overt demographic differences between team
+members. For cultural diversity, ethnicity and nationality are most commonly examined
+in team research.25 Deep-level diversity concerns less immediately observable, more
+psychological characteristics – notably, the values and attitudes associated with culture.26
+Wang et al (2019) found deep-level diversity to be associated with greater team creativity,
+given that this enables a greater range of knowledge and perspectives and generates novel
+ideas.27 This effect was more positive when teams worked face-to-face and members had
+to rely on each other for input and resources. Surface-level diversity, on the other hand –
+more associated with threats to identity and intergroup conflict – was found to have no
+association with creativity and innovation. This was unexpected, as a negative relationship
+was predicted. A negative relationship was present, however, when tasks were simple.
+Multicultural teams’ communication is affected by language barriers
+As with creativity, research on communication in multicultural teams has not only become
+more prevalent but more nuanced in recent years, particularly as a result of a long-overdue
+increase in the role of language differences in how teams communicate.
+One particularly influential study28 investigated the ways in which multinational team
+members’ reactions to language barriers influence their intention to trust and subsequent
+trust formation. They first found that members who don’t speak the team’s shared language
+well are often not recognised for their high technical skills, instead being perceived as lacking
+ability. These negative attributions influence judgements on their trustworthiness. It was
+found to be important that a colleague can fulfil their share of a group task; lacking shared
+language proficiency, and in turn appearing to lack competence, jeopardises this.
+Simple linguistic misunderstandings which lead to unmet expectations could also
+misinform employees’ judgements about their colleagues’ dependability, to the point
+where they are perceived as unreliable or even untrue to their word. Again, this
+dependability (or lack thereof) influences the relationship between language barriers and
+judgements on trustworthiness. Put simply, if a colleague misunderstands your instructions,
+and subsequently fails to complete these, they may be perceived as less dependable and,
+as a result, less trustworthy.
+
+7
+
+What are the benefits and challenges of multicultural teams?
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+3
+4
+5
+6
+
+How do employees respond to language barriers?
+One prominent reaction to language barriers is switching from the shared team language
+to one’s own mother tongue, also known as ‘code-switching’.29 There is evidence that
+this occurs in all teams, irrespective of size and function. Some perceive this as simply
+a method of ensuring effective communication by allowing team members with lower
+proficiency in the shared language a chance to speak in their native tongue, but others
+feel it is more emotionally driven, occurring more when stress and emotion are greater.
+Switches in language are reported to be short-lived if only a few team members speak the
+particular language, but more extensive when more colleagues do. Often, strong negative
+emotions are reported towards code-switching, including feelings of exclusion, discomfort
+and even suspicion and paranoia.
+Another study30 highlights emotion-regulation strategies as methods of managing
+language barriers in global teams. Emotional regulation refers to methods by which we
+manage and respond to an emotional experience, both consciously or unconsciously
+manage our feelings.31 Respondents in the study reported methods such as staying silent
+in meetings if they lacked confidence in speaking the shared language, or simply failing to
+attend, to avoid anxiety and shame. They also reported excluding those who only spoke
+the shared language in both meetings and electronic communication.
+How can managers and employees help resolve these issues?
+Clearly, speaking a foreign language in multicultural teams creates anxiety, particularly for
+those who perceive their skill at speaking a particular language to be insufficient. They’re
+unlikely to take risks and to make themselves vulnerable, reducing the chance that they
+will gain recognition for their positive contribution to the team. So, what can be done?
+Leaders and managers are of course vital here, not only in raising awareness of language
+barriers and their consequences, but potentially using their privilege to uphold language
+discipline and guide code-switchers back to the shared language, if necessary. More
+broadly, staff throughout the team should regularly highlight the task-related achievements
+of each team member in meetings to counteract the perceptions of them as incompetent,
+encouraging colleagues to look beyond their language proficiency and acknowledge their
+skill elsewhere.
+Those struggling as a result of their own language proficiency can also use emotion
+regulation more positively by taking a step back to understand and reframe the cause
+of their anxiety and changing their response to it. For example, in the previous study,
+respondents motivated themselves to get accustomed to the shared team language
+in order to help others have better access to the team information. This meant they
+associated the language with empathetic rather than unpleasant emotions.
+Overall, creating an environment that values diversity as a source of creativity and
+encourages open communication across language barriers is an important goal. In fact,
+proposing ‘poor English’ as the official language of the organisation may be more effective
+than aiming for flawless expression.
+
+Manager insights
+Given time and support, multicultural teams can thrive
+The benefits and challenges of multicultural working were more keenly felt by APAC and
+ME respondents, who reported having more diverse teams than UK respondents. Many of
+the benefits highlighted align with the literature explored above.
+
+8
+
+What are the benefits and challenges of multicultural teams?
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+Figure 2: Summary of insights by region: Similarities and differences
+
+1
+2
+3
+4
+5
+6
+
+Participants saw innovation
+and creativity as the key
+benefits of cultural diversity.
+
+Participants experienced
+more of the challenges of
+working in multicultural
+teams, particularly around
+communication.
+
+Participants experienced
+similar communication
+challenges, but greatly valued
+the innovation of their teams.
+
+First, although participants acknowledged that multicultural teams are inherently
+challenging, they felt that perseverance can reap great rewards. For example, several
+respondents noted that considering multiple perspectives often takes time, and sometimes
+these perspectives have to be discussed and explained to different members of the team.
+But the time and effort this takes is more than made up for by the diversity of experience
+and thought that is brought to the table, and is incredibly rewarding and effective for
+problem-solving and generating new ideas.
+
+It’s a great experience – you can generate the best ideas and
+solutions to problems based on diversity of background.
+Sometimes you have to take time to communicate things clearly
+and to check understanding, as it can take more time up front to
+align common understanding. (focus group member, ME)
+Related to this is innovation and creativity. Participants recognised the strength of
+diversity, and that having a multicultural team encourages members to see not just
+themselves and their customers, but what they produce, from different angles. This
+encourages the creation of new and more relevant services for a variety of customers. On
+a more personal note, participants noted that they appreciate and enjoy simply learning
+about people’s different cultures, traditions and even things like food and humour. As a
+result of this, they feel more well rounded as individuals. It’s no wonder that two words
+used more frequently than others among participants were ‘enriching’ and ‘enlightening’.
+Enabling their members to learn and appreciate new things about their colleagues means
+that multicultural teams thrive when given time to innovate and take new approaches to
+problem-solving.
+Communication in multicultural teams is essential, but challenging
+Respondents generally felt the initial stages of working in a multicultural team to be the
+most challenging, as this is when misconceptions, and even stereotyping, lead to certain
+members’ ideas being side-lined or undermined. As mentioned, patience is paramount,
+since understanding different cultures and ways of working takes time and must be
+worked on in order to develop.
+
+9
+
+What are the benefits and challenges of multicultural teams?
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+
+While respondents recognised the essential nature of communication in effective
+teamwork, this was highlighted as the most prominent challenge in multicultural teams.
+With varying levels of proficiency in the shared language (key to clear and effective
+communication), participants reported incidents of ‘code-switching’, or switching from the
+shared language to members’ native language.
+
+Different cultures may have different assumptions about why
+somebody is quiet. Is it lack of language competence? Does
+it mean agreement or disagreement? These are all realistic
+interpretations. (focus group member, APAC)
+
+3
+4
+5
+6
+
+The complexity of language is a key challenge, according to respondents. This includes
+the use of accents and slang, as well as cultural nuances like staying silent to respect a
+speaker rather than speaking up. Working to understand these complexities and using
+inclusive language, where possible, is important. Participants reported that people from
+certain cultures tend to communicate in particular ways; as such, being aware of – and
+understanding – these was a key skill to learn.
+
+Very often different people interpret the same thing differently,
+and so being sensitive while communicating is very
+important. (focus group member, ME)
+Cultural diversity in teams presents opportunities and challenges for workplace teams. One
+way of overcoming the challenges and harnessing the potential of multicultural teams is by
+developing cultural intelligence (CQ), discussed below.
+
+5
+
+	Embracing multicultural teams
+through cultural intelligence
+
+Section summary
+• Cultural intelligence (CQ [cultural quotient]), or the ability to successfully interact
+among diverse cultures, is one way of embracing multiculturalism in teams and is
+particularly important for global leaders.
+• Cultural intelligence can be developed through perspective-taking and suspending
+judgements about others. Greater CQ is linked to enhanced performance, greater
+job satisfaction and knowledge-sharing, among other outcomes.
+• Managers highlight the importance of flexibility in approaching cultural diversity
+in teams, being attentive to individual differences and working styles, rather than
+taking a one-size-fits-all approach to management.
+• Participants feel the need for formal and informal training on cross-cultural
+competence. In particular, more implicit, ‘on the job’ learning is perceived as useful
+for building trust in multicultural teams.
+
+10
+
+Embracing multicultural teams through cultural intelligence
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+Evidence base
+
+1
+2
+3
+4
+5
+6
+
+An extensive stream of research has been developed in the last decade or so that explores
+the importance of cross-cultural competence and cultural intelligence in allowing culturally
+diverse teams to thrive.
+As businesses become more global, cultural intelligence (CQ) – an individual’s knowledge,
+skill and ability to function and interact effectively in culturally diverse situations – is
+essential.33 Not only will those who possess CQ be able to harness the benefits of
+multiculturalism, but they will also manage some of the challenges raised earlier. In
+highlighting individuals’ potential to meet the demands of different cultural contexts, this
+definition of CQ aligns with the broader definition of intelligence, which emphasises the
+ability to adapt to one’s environment.34
+Cultural intelligence shares some similarities with inclusive behaviours – showing respect to
+those who are different from us and ensuring everyone has a say. This is discussed in greater
+detail in the CIPD’s research report on building inclusive workplaces. Cultural intelligence is
+distinguished from inclusive behaviours, and indeed simply being a good manager, because
+it focuses specifically on awareness of – and sensitivity to – cultural diversity.
+Leaders need to develop cultural intelligence as a matter of priority
+Research35 outlines attributes through which cultural intelligence can be achieved, suggesting
+that perhaps the most important ability of a culturally intelligent individual is to suspend
+judgement about another person until they have enough information to understand whether
+that person will ‘think, feel and behave’ in the way that their culture might suggest. While
+culture can suggest how someone may think or behave, other individual factors, such as
+personality, should be understood before making a judgement. Situational factors are also
+important; a culturally intelligent person should look at the situational context and use this
+before making a judgement on the culture of someone else. Finally, the paper highlights the
+issue of ethnocentrism – that is, people feel that the norms of their culture are, or should
+be, the norm everywhere. This type of bias is difficult to overcome because ‘in some sense
+one goes against “human nature”’. However, through undertaking training, involving showing
+empathy by understanding the perspective of someone else and walking in their shoes,
+individuals can learn to gain a better appreciation for other cultures.
+More research36 highlights the importance of cultural intelligence through interviews
+with global leaders in six multinational companies. This research found that first-hand,
+cross-cultural leadership is key for the development of leaders. Through engaging with
+this development, leaders acknowledge the value of cultural sensitivity, networks and
+relationships. Not only does this learning provide a vital developmental role, but it’s essential
+if global leaders are to successfully fulfil their roles. The research suggests that global leaders
+should approach development in a dynamic, ad hoc way, evaluating new situations and
+continuously improving their cross-cultural understanding through learning from mistakes.
+Outcomes of cultural intelligence
+One systematic review37 of cultural intelligence links it to several positive outcomes.
+Notably, evidence finds CQ to have a positive influence on cross-cultural job performance
+– both task performance (fulfilling in-role obligations) and contextual performance
+(going beyond one’s role to help the organisation more widely).38 The same goes for job
+satisfaction.39 Another study40 found that employees’ increased CQ led to better task
+performance in global virtual teams when contact intensity with the leader increased.
+In terms of enhancing performance, the speed at which performance improved in
+multicultural teams was greater for those with higher, rather than lower, levels of CQ.41
+
+11
+
+Embracing multicultural teams through cultural intelligence
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+3
+4
+5
+6
+
+CQ was also found to promote knowledge-sharing among multicultural teams.42 Indeed, CQ
+has been found to enhance the quality of social exchanges between individuals from diverse
+culture backgrounds, with one study43 finding that higher CQ reduced the negative association
+between knowledge-hiding and creativity; the higher the individual’s level of CQ, the less
+negative the relationship. This suggests that CQ helps individuals overcome negative processes
+of social categorisation in intercultural environments and, in turn, enhances creativity.
+CQ has also been shown to be a particularly important characteristic of leaders. Leaders
+with CQ are more likely to enable integration into multinational teams44 and boost expatriate
+adjustment and performance.45 Moreover, CQ has been shown to predict international
+leadership potential – the judgements outside observers make about future performance
+of a leader.46 This is important because, unlike judgements of actual performance, which is
+retrospective, judgements of future performance are prospective and are the basis of important
+selection decisions. CQ was also found to be positively related to leadership effectiveness,
+specifically in the context of cross-border activities47 and culturally diverse teams.48
+
+Manager insights
+Leaders should take a flexible approach to managing cultures and personalities
+While focus group respondents did not explicitly reference cultural intelligence, they
+highlighted a number of similar characteristics – empathy, emotional intelligence, patience
+and active listening, among others – that they felt were needed to support and get the
+most from their multicultural teams. Another characteristic – flexibility – was cited as the
+most important for a leader to have.
+This is because there is no clear, flawless formula or one-size-fits-all approach to managing such
+teams. But, by understanding when to consider and alter their approach to reflect the context,
+and by having a genuine interest in other cultures and working styles, leaders can be agile,
+prepared and, subsequently, increase their chances of effective and successful management.
+This includes adjusting their leadership style for different individuals, particularly when
+interacting with them one-to-one. As the literature on cultural intelligence states, someone’s
+culture – while a reasonable indicator of their behaviour – may indeed be less influential than
+their personality. Thus, individual differences, more than cultural differences, may require
+leaders to change their approach – for example, adjusting how they communicate, their
+body language or their tone. While some respondents, particularly from the UK group, were
+keen to ‘treat everyone the same’, most highlighted the importance of fair treatment, where
+different approaches are taken for different individuals and their unique circumstances.
+
+I had to find a more direct approach with certain team
+members and a more persuasive nature with others. As a new
+manager, it took a few tough lessons to ensure I was flexing
+my managing style. (focus group member, UK)
+The need for training
+Participants called for a mix of formal and informal training to provide them with the skills
+to communicate with – and adapt to – different cultures.
+Those from the ME and APAC regions were more likely than UK respondents to have taken
+part in formal training to build cross-cultural competence, but respondents from each
+group shared their experiences of training. According to respondents, training is often part
+of the onboarding process or as a module in ongoing training, such as online and diversity
+training. ME and APAC respondents also noted training for expatriates to be common.
+
+12
+
+Embracing multicultural teams through cultural intelligence
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+We have colleagues transferring/relocating from other countries
+like the US, Scotland, Ireland and we have a Middle East
+culture-related session for them. (focus group member, ME)
+
+1
+2
+3
+4
+5
+6
+
+Unfortunately, respondents did not always perceive this training as sufficient. While
+training on cultural nuances, particularly those from different employee resource groups,
+was seen as useful at the time, there is a disconnect between training sessions and dayto-day interactions. Respondents put this down to factors such as training often being
+isolated and not tied to values or performance outcomes.
+Respondents placed more emphasis on implicit training, learned ‘on the job’ through
+observation and informal conversations. The respondents felt more positively about this
+because it allows them to build trust with their teams and ensure members of the team
+feel a mutual respect. Although formal training was appreciated, sessions that appear
+to be box-ticking exercises more than genuine attempts at learning were seen as less
+effective than learning softer skills and adapting to unique situations.
+
+I believe most learning happens when people see their leaders
+respect diversity and work with this. (focus group member, ME)
+You learn along the way; the point is there is no one size fits all.
+(focus group member, APAC)
+Developing an awareness of cultural differences and nuances is key for successful
+managers of multicultural teams. The final section explores how leaders manage cultural
+diversity in teams that work remotely in different geographical locations and time zones.
+
+6
+
+	COVID-19 and multicultural
+virtual teams
+
+Section summary
+• The evidence base on the effect of remote working on multicultural teams has
+grown in the last two decades, as homeworking becomes more common.
+• Global virtual teams benefit from the varied perspectives of culturally diverse
+members, but face challenges of working in different time zones and maintaining
+effective communication online.
+• Managers’ flexibility in dealing with different patterns of communication in their
+teams is key to responding to individuals’ needs.
+• While multicultural teams, especially those in the UK, have felt the strain of the
+pandemic and changes to work, managers are generally optimistic, and report
+positive effects of working virtually, such as greater productivity as a result of less
+commuting.
+• Ensuring the team catches up regularly is key to maintaining engagement and
+involvement and avoiding isolation.
+
+13
+
+COVID-19 and multicultural virtual teams
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+Evidence base
+
+1
+2
+3
+4
+5
+6
+
+Geographic dispersion presents unique challenges to virtual multicultural teams
+Given the steady rise in employees working from home over the last two decades, the
+evidence base on the geographical dispersion of multicultural teams has flourished. The
+global crisis caused by the COVID-19 pandemic has seen a dramatic spike in remote
+collaboration that has remained at a relatively stable level for the best part of a year. There
+is now a great deal of research exploring the effects of remote working on multicultural
+teams, which is more relevant than ever in such uncertain times.
+Global virtual teams (GVTs) are those whose members are often culturally diverse and
+whose tasks are usually conducted internationally through communication technology,
+rather than face-to-face.50 One study summarises current knowledge on GVTs, focusing on
+the key drivers that influence their success and ways to mitigate their challenges.
+Given that GVTs are often made up of culturally diverse members, the opportunities they
+present are similar in nature to those of multicultural teams who work together in a fixed
+location. A growing body of research highlights the cultural diversity of GVTs as improving their
+effectiveness through providing a variety of perspectives, facilitating creativity and problemsolving.51 Where homogenous teams may encounter ‘groupthink’ and narrow-mindedness,
+more diverse global teams are likely to consider alternative solutions to a problem.52
+Some challenges that multicultural teams face are unique to being virtual. First, working
+in different time zones presents hurdles, particularly to maintaining a healthy work–life
+balance and sharing tacit knowledge over online communication.53 There is also a great
+deal of discussion over the richness of media used to maintain communication in global
+virtual teams. Research argues that gestures, tone and intonation, so important to face-toface discussions, are lost when communicating through text or audio channels.54
+Recently published CIPD research into virtual teams explores these issues in detail.
+Research finds that virtual teams can be less effective the more they use electronic media
+to communicate because they share less information with each other, provide delayed
+feedback, and find it more difficult to understand the information they are given. However,
+rich media, such as video calls, may be able to influence this relationship more positively
+and be used as a good alternative for in-person communication.
+The opportunities and challenges of virtual teams are discussed in the CIPD’s evidence review.
+
+Manager insights
+Multicultural teams have been affected by the pandemic and homeworking,
+but remain optimistic about the future
+Participants were very much affected by the COVID-19 pandemic and subsequent
+workplace changes, with the majority working from home at the time of data collection.
+There were, of course, uncertainties expressed. Those in the UK group in particular, whose
+industries were more varied, felt concerned about how their industries would adapt, with
+some participants facing furlough. There was also a general feeling of anxiety around
+the pandemic itself and a desire to stay safe and free from infection. However, they were
+broadly accepting of the situation and were trying to embrace any benefits.
+
+The retail industry is very tough and there were redundancy
+worries before COVID, so I feel like this has just heightened it.
+(focus group member, UK)
+
+14
+
+COVID-19 and multicultural virtual teams
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+3
+4
+5
+6
+
+Those in the APAC and ME groups expressed more optimism. In APAC countries, in particular,
+there were more cases of workers returning to offices as lockdown measures began to ease.
+Generally, respondents highlighted the key skills needed during a crisis as similar to those
+needed in more ‘typical’ work conditions: empathy, attentiveness, emotional intelligence
+and active listening. However, communication was cited as especially important. Simply
+bringing the team together and ensuring everyone can have a catch-up – be it work- or
+non-work-related – was seen as key to keeping team members feeling engaged and
+involved. Typically, managers noted four ‘Cs’ by which they are abiding during the crisis:
+calm, compassionate, controlled and clear communication. This was seen as paramount
+to ensuring team members feel supported.
+
+We communicate more, have a regular rhythm for both the team
+and individual team members. (focus group member, APAC)
+I actually think this has weirdly brought the team closer
+together. Especially when we get the whole team together just
+for a general check-in and catch-up. (focus group member, UK)
+Many even reported positive effects of remote working, notably an uptick in productivity
+and focus as a result of fewer distractions at home than in the office. Regular team catchups and huddles were noted as important in this regard, not only to ensure everyone stays
+connected and up to speed with each other’s work, but to ensure each member of the
+team is accountable for their work.
+
+[The] team has overall been amazing; they feel more
+productive. In the beginning we were all exhausted, as
+everything was reactive, but recently it is becoming more
+balanced and we are learning how to do virtual working
+sessions and not just task-orientated meetings. (ME)
+Managers recognise the benefits of greater productivity and more free time,
+but acknowledge communication challenges
+There have been some clear benefits – both practical and emotional – to remote working,
+according to respondents. On a practical level, managers and workers alike have found
+themselves with more free time and a greater work–life balance as a result of having no
+commute. Respondents from APAC and ME, in particular, noted that they were sometimes
+working remotely and with colleagues from different regions before the pandemic, making
+their transition to full-time homeworking more smooth. More generally, respondents noted
+greater productivity, engagement, collaboration and more focused decision-making.
+
+I think generally the people are quite happy; they spend less
+time commuting, and that translates to better productivity
+too. (focus group member, APAC)
+As mentioned, regular informal meetings provide more emotional support for workers.
+Alongside more regular team social events, these ensure members can come together and
+bond with one another. While there was initial trepidation towards working remotely, many
+respondents indicated they feel more trusting in their colleagues, as they see evidence of
+them completing tasks independently and successfully.
+
+15
+
+COVID-19 and multicultural virtual teams
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+The social cohesion is better as we are all in it together. The sharing
+of information is key as well as shared decision-making. (focus
+group member, ME)
+
+1
+2
+3
+4
+5
+6
+
+Managers of multicultural teams have, however, faced a series of challenges as a result of
+increased remote working. Communication issues, a major barrier to multicultural team
+effectiveness, have been exacerbated during the pandemic, with managers reporting
+that they struggle to gauge the appropriate level of contact and communicate in both a
+succinct and empathetic way. Managers reported that adapting to the different needs of
+their members of staff is a challenge, with some finding it difficult to express themselves
+and be confident over video calls, making effective communication more challenging.
+Indeed, returning to language barriers in multicultural teams, some team members whose
+language proficiency is limited may be more comfortable with email than video calls as
+this allows them more time to consider their response. Again, this requires flexibility on
+the part of the manager to respond to the needs of their individual team members. This is
+once again discussed in greater detail in the CIPD’s evidence review on virtual teams.
+
+I feel I can manage better seeing someone’s body language
+and facial expression than through a conference call. (focus
+group member, UK)
+Practically, remote working was seen to cause issues around setting up an appropriate
+workstation, dealing with technology issues and balancing home and familial
+responsibilities. These issues were noted to cause anxiety around the intrusive nature of
+video calling and balancing work and home life, with some commenting that they often
+work longer hours than usual.
+
+Remote work doesn’t impact productivity for my team; to the
+contrary… people end up working more, not knowing how to
+separate work and life. (focus group member, APAC)
+
+7
+
+Conclusion and recommendations
+
+Cultural diversity brings with it the potential for open and creative teams whose members
+respect the fresh perspectives of each other, as well as the risk of conflict as values and
+attitudes clash. Through exploring the literature and conducting a qualitative study,
+this report provides a greater understanding of the influencing factors that need to
+be harnessed in order to overcome the challenges inherent to multicultural teams to
+enable them to perform effectively. An inclusive workplace should embrace these fresh
+perspectives and provide guidance to sensitively manage any issues. This is where the role
+of people professionals is so vital.
+
+Multicultural teams require patience and openness to
+be effective
+Cultural diversity presents challenges to effective teamwork, as different perspectives
+have to be recognised to ensure all members remain involved and engaged. While people
+of different cultures may understand and work in different ways, a team’s ability to view
+problems from different perspectives can unlock its potential and create a path to greater
+
+16
+
+Conclusion and recommendations
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+3
+4
+5
+6
+
+creativity, innovation and a fresh approach to work. This requires leaders who show cultural
+intelligence, reading the context of the situation and remaining open and empathetic to
+the values and experiences of others to successfully mediate culturally diverse situations.
+How employers and people professionals can foster patience and openness
+• Show sensitivity not only to employees’ demographic differences, but to their different
+values, attitudes and experiences too.
+• Encourage employees to seek these attitudes and use the different perspectives of
+others, not only to enhance team decision-making, but to learn more about each other
+on a personal and professional level.
+• Suspend your judgement about another person until you have enough information
+about them, their cultural values and whether these influence how they act.
+• Think flexibly about how to manage different individuals in your teams, avoiding a
+blanket approach. Try to treat your people in a way that suits them, making small
+changes that cater to individual needs rather than ‘treating everyone the same’.
+
+Communication is a challenge to master
+It is not surprising that communication was cited as the main consideration for
+multicultural teams in both the research literature and the focus groups. Communication
+in any team is key to developing relationships, trust and team cohesion. Leaders have a
+key role to play here, not only in managing their teams more broadly through making their
+teams aware of the consequences of language barriers, celebrating the success of team
+members away from their language proficiency and upholding language discipline, but at
+a more individual level, using active listening and empathy to seek to better understand
+cultural nuances and communication styles.
+While the effectiveness of cultural competence training was questioned by respondents, there
+is appetite for more of it in the form of online resources, support during onboarding and
+informal mentoring. A more implicit, personal approach to training may be more beneficial –
+again, highlighting the need for patient, emotionally intelligent and flexible leaders.
+How employers and people professionals can overcome communication
+challenges
+• Raise awareness of language barriers in team meetings to ensure that everyone
+understands instructions and tasks and does not feel hesitant to contribute.
+• Don’t be afraid to nudge ‘code-switchers’ back to the shared language, if necessary.
+Having a conversation with the team members about why they change language and
+what can be done to promote effective, open communication across language barriers,
+rather than expecting flawless expression, may be useful, too.
+• Highlight the achievements of each team member in meetings; this way, colleagues will
+recognise their skill beyond their language proficiency.
+• Listen attentively for different cultural nuances of communication from different team
+members. Being switched on to these will allow you to monitor your staff’s contributions
+more closely and encourage active discussion from all team members.
+
+Remote working resolves some issues, but exacerbates others
+There are understandably concerns given the huge shake-up of traditional working patterns,
+with more and more employees working from home and on furlough. Global virtual teams face
+similar challenges to more fixed teams as a result of these changes, with the added challenge
+of maintaining a healthy work–life balance over different time zones. However, many are
+positive about the benefits of remote working – notably increased productivity and focus. Once
+
+17
+
+Conclusion and recommendations
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+1
+2
+3
+4
+5
+6
+
+again, communication is the greatest challenge. Maintaining regular contact through hangouts
+and catch-ups is key to reducing the risk of isolation. Successful long-term remote working will
+rely heavily on managers maintaining regular communication and being flexible to individual
+needs and styles of working to get the most out of multicultural teams in the future.
+How employers and people professionals can make the most of remote
+working
+• Encourage the use of rich media, such as video-conferencing, where possible. This will
+allow staff to share feedback and their perspectives and resolve differences quickly.
+• When working across time zones, build awareness of the best time intervals for team
+members to meet. Allowing staff flexible working hours will not only allow them to
+collaborate more often with their colleagues, but will reduce the likelihood of them
+working overtime.
+• Get to know the communication preferences of your people as well as you can – some
+may feel more comfortable communicating in certain ways, such as over email. Being
+flexible to their desires will boost their confidence in communicating.
+• Regularly bring the team together for catch-ups and hangouts. Be creative with this –
+as well as regular work meetings and project updates, create tasks, games and social
+sessions to allow the team to touch base and provide support for each other.
+Multicultural teams are an increasingly common feature of modern working life and require
+deliberate and sensitive management informed by good evidence. We have summarised
+some of this evidence and highlighted some key factors that should be considered in order to
+positively influence culturally diverse teams. We have also provided some key insights into how
+managers perceive their teams, particularly in light of the COVID-19 pandemic and the rapid
+shift to remote working. Employers should of course seek to understand their own workforces
+directly, being attentive to their unique make-up. However, if we can lean on these key
+influences, there are substantial benefits to be had from well-managed multicultural teams.
+
+8
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+18
+
+References
+
+Lisak, A., Erez, M., Sui, Y. and Lee, C. (2016) The positive role of global leaders in
+enhancing multicultural team innovation. Journal of International Business Studies. Vol
+47. pp655–73.
+Connaughton, S.L. and Shuffler, M. (2007) Multinational and multicultural distributed
+teams: a review and future agenda. Small Group Research. Vol 38, No 2. pp387–412.
+Stahl, G.K., Makela, K., Zander, L. and Maznevski, M.L. (2010a) A look at the bright side of
+multicultural team diversity. Scandinavian Journal of Management. Vol 26. pp439–47.
+DiStefano, J.J. and Maznevski, M.L. (2000) Creating value with diverse teams in global
+management. Organisational Dynamics. Vol 29. pp45–63.
+Earley, C.P. and Mosakowski, E. (2000) Creating hybrid team cultures: an empirical test of
+transnational team functioning. Academy of Management Journal. Vol 43, No 1. pp26–49.
+Kirkman, B.L., Tesluk, P.E. and Rosen, B. (2004) The impact of demographic
+heterogeneity and team leader–team member demographic fit on team empowerment
+and effectiveness. Group and Organisation Management. Vol 29, No 3. pp334–68.
+Webber, S.S. and Donahue, L. (2001) Impact of highly and less job-related diversity on
+work group cohesion and performance: a meta-analysis. Journal of Management. Vol 27,
+No 2. pp141–62.
+References
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+8
+
+1
+2
+
+9
+
+10
+11
+
+3
+4
+
+12
+
+13
+14
+
+5
+15
+
+6
+
+16
+
+17
+
+18
+
+19
+
+20
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+28
+
+29
+
+19
+
+Mannix, E. and Neale, M.A. (2005) What differences make a difference? Psychological
+Science in the Public Interest. Vol 6, No 2. pp31–55.
+Barends, E., Rousseau, D. and Briner, R. (2014) Evidence-based management: the basic
+principles. Amsterdam: Center for Evidence-Based Management. Available at: www.
+cebma.org/wp-content/uploads/Evidence-BasedPractice-The-Basic-Principles.pdf
+Stahl et al (2010a).
+Balogun, J. and Johnson, G. (2004) Organisational restructuring and middle manager
+sensemaking. Academy of Management Journal. Vol 47, No 4. pp523–49.
+Leung, K. and Bond, M.H. (2004) Social axioms: a model for social beliefs in multicultural
+perspective. Advances in Experimental Social Psychology. Vol 36. pp119–97.
+Mannix and Neale (2005).
+Williams, K.Y. and O’Reilly III, C.A. (1998) Demography and diversity in organisations:
+a review of 40 years of research. In: Staw, B.M. and Cummings, L.L. (eds). Research in
+organisational behavior, Vol 20. Greenwich, CT: JAI Press. pp77–140.
+Tajfel, H. (1982) Social psychology of intergroup relations. Annual Review of Psychology.
+Vol 33. pp1–39.
+Ancona, D.G. and Caldwell, D.F. (1992) Demography and design: predictors of new
+product team performance. Organisation Science. Vol 3, No 3. pp321–41.
+Stahl, G.K., Maznevski, M.L., Voigt, A. and Jonsen, K. (2010b) Unraveling the effects of
+cultural diversity in teams: a meta-analysis of research on multicultural work groups.
+Journal of International Business Studies. Vol 41. pp690–709.
+Cohen, J. (1988) Statistical power analysis for the behavioural sciences. London:
+Routledge.
+Stahl, G.K. and Maznevski, M.L. (2021) Unraveling the effects of cultural diversity in
+teams: a retrospective of research on multicultural work groups and an agenda for future
+research. Journal of International Business Studies. Vol 52. pp4–22.
+Stahl et al (2010b).
+Wang, J., Cheng, G.H.L., Chen, T. and Leung, K. (2019) Team creativity/innovation in
+culturally diverse teams: a meta-analysis. Journal of Organisational Behaviour. Vol 40.
+pp693–708.
+Erez, M. (2011) Cross-cultural and global issues in organisational psychology. In: Zedeck,
+S. (ed.). APA handbook of industrial and organisational psychology, Vol 3. Washington,
+DC: American Psychological Association. pp807–54.
+Leung, K., Bhagat, R.S., Buchan, N.R., Erez, M. and Gibson, C.B. (2005) Culture and
+international business: recent advances and their implications for future research. Journal
+of International Business Studies. Vol 36. pp357–78.
+Triandis, H.C. (1996) The psychological measurement of cultural syndromes. American
+Psychologist. Vol 51. pp407–15.
+Ely, R.J. and Thomas, D.A. (2001) Cultural diversity at work: the effects of diversity
+perspectives on work group processes and outcomes. Administrative Science Quarterly.
+Vol 46, No 2. pp229–73.
+Kirkman, B.L. and Shapiro, D.L. (2001) The impact of cultural values on job satisfaction
+and organisational commitment in self-managing work teams: the mediating role of
+employee resistance. Academy of Management Journal. Vol 44, No 3. pp557–69.
+Stahl et al (2010b).
+Tenzer, H., Pudelko, M. and Harzing, A.-W. (2014) The impact of language barriers on
+trust formation in multinational teams. Journal of International Business Studies. Vol 45,
+No 5. pp508–35.
+Harzing, A.W. and Feely, A.J. (2008) The language barrier and its implications for HQ–subsidiary
+relationships. Cross Cultural Management: An International Journal. Vol 15, No 1. pp49–60.
+References
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+30
+
+1
+
+31
+
+2
+
+32
+
+3
+
+33
+
+4
+5
+
+34
+
+6
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+20
+
+Hinds, P.J., Neeley, T.S. and Cramton, C.D. (2014) Language as a lightning rod: power
+contests, emotion regulation, and subgroup dynamics in global teams. Journal of
+International Business Studies. Vol 45. pp536–61.
+Gross, J. and Thompson, R. (2007) Emotion regulation: conceptual foundations. In:
+Gross, J.J. (ed.). Handbook of emotion regulation. New York: Guilford Press. pp3–24.
+Harzing, A.W., Köster, K. and Magner, U. (2011) Babel in business: the language barrier
+and its solutions in the HQ–subsidiary relationship. Journal of World Business. Vol 46, No
+3. pp279–87.
+Ang, S. and Van Dyne, L. (2008) Handbook of cultural intelligence. Armonk, NY: ME
+Sharpe.
+Earley, P. and Ang, S. (2003) Cultural intelligence: individual interactions across cultures.
+Stanford, CA: Stanford University Press.
+Sternberg, R.J. (2012) Intelligence in its cultural context. In: Gelfand, M.J., Ciu, C.-Y. and
+Hong, Y.-Y. (eds). Advances in culture and psychology, Vol 2. Oxford: Oxford University
+Press. pp205–48.
+Triandis, H. (2006) Culture intelligence in organisations. Group and Organisation
+Management. Vol 31, No1. pp20–26.
+Terrell, S. and Rosenbusch, K. (2013) Global leadership development: what global
+organisations can do to reduce leadership risk, increase speed to competence, and build
+global leadership muscle. People and Strategy. Vol 36, No1. pp40–46.
+Solomon, A. and Steyn, R. (2017) Exploring cultural intelligence truths: a systematic
+review. SA Journal of Human Resource Management. Vol 15.
+Jyoti, J. and Kour, S. (2015). Assessing the cultural intelligence and task performance
+equation. Cross Cultural Management. Vol 22, No 2. pp236–58.
+Bücker, J.J.L.E., Furrer, O., Poutsma, E. and Buyens, D. (2014) The impact of cultural
+intelligence on communication effectiveness, job satisfaction and anxiety for Chinese
+host country managers working for foreign multinationals. International Journal of
+Human Resource Management. Vol 25, No 14. pp2068–87.
+Presbitero, A. (2020) Foreign language skill, anxiety, cultural intelligence and individual
+task performance in global virtual teams: a cognitive perspective. Journal of International
+Management. Vol 26, No 2.
+Moon, T. (2013) The effects of cultural intelligence on performance in multicultural
+teams. Journal of Applied Social Psychology. Vol 43, No 12. pp2414–25.
+Chen, M. and Lin, C. (2013) Assessing the effects of cultural intelligence on team
+knowledge sharing from a socio-cognitive perspective. Human Resource Management.
+Vol 52, No 5. pp675–95.
+Bogilovic, S., Cerne, M. and Škerlavaj, M. (2017) Hiding behind a mask? Cultural
+intelligence, knowledge hiding, and individual and team creativity. European Journal of
+Work and Organisational Psychology. Vol 26, No 5. pp710–23.
+Flaherty, J. (2008) The effects of cultural intelligence on team member acceptance
+and integration in multinational teams. In: Ang, S. and Van Dyne, L. (eds). Handbook of
+cultural intelligence: theory, measurement, and applications. Armonk, NY: M.E. Sharpe.
+pp192–205.
+Kim, K., Kirkman, B. and Chen, G. (2008) Cultural intelligence and international
+assignment effectiveness: a conceptual model and preliminary findings. In: Ang, S.
+and Van Dyne, L. (eds). Handbook of cultural intelligence: theory, measurement, and
+applications. Armonk, NY: M.E. Sharpe. pp71–90.
+Kim, Y.J. and Van Dyne, L. (2012) Cultural intelligence and international leadership
+potential: the importance of contact for members of the majority. Applied Psychology:
+An International Review. Vol 61, No 2. pp272–94.
+References
+
+Managing multicultural teams: Exploring the opportunities and challenges
+
+47
+
+1
+2
+
+48
+
+3
+
+49
+
+4
+5
+
+50
+
+6
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+21
+
+Rockstuhl, T., Seiler, S., Ang, S., Van Dyne, L. and Annen, H. (2011) Beyond general
+intelligence (IQ) and emotional intelligence (EQ): the role of cultural intelligence (CQ) on
+cross-border leadership effectiveness in a globalized world. Journal of Social Issues. Vol
+67, No 4. pp825–40.
+Groves, K.S., Feyerherm, A.E. and Gu, M. (2015) Examining cultural intelligence and
+cross-cultural negotiation effectiveness. Journal of Management Education. Vol 39, No 2.
+pp209–43.
+Gibson, C.B. and Gibbs, J.L. (2006) Unpacking the concept of virtuality: the effects of
+geographic dispersion, electronic dependence, dynamic structure, and national diversity
+on team innovation. Administrative Science Quarterly. Vol 51, No 3. pp451–95.
+Jarvenpaa, S.L. and Leidner, D.E. (1999) Communication and trust in global virtual teams.
+Organisation Science. Vol 10, No 6. pp791–815.
+Jimenez, A., Boehne, D., Taras, V. and Caprar, D. (2017) Working across boundaries:
+current and future perspectives on global virtual teams. Journal of International
+Management. Vol 23, No 4. pp341–49.
+DiStefano, J.J. and Maznevski, M.L. (2000) Creating value with diverse teams in global
+management. Organisational Dynamics. Vol 29, No 1. pp45–63.
+Williams, K.Y. and O’Reilly, C.A. (1998) Demography and diversity in organisations: a
+review of 40 years of research. Organisational Behaviour. Vol 20. pp77–140.
+Kankanhalli, A., Tan, B.C. and Wei, K.-K. (2006) Conflict and performance in global
+virtual teams. Journal of Management and Information Systems. Vol 23, No 3. pp237–74.
+Maznevski, M.L. and Chudoba, K.M. (2000) Bridging space over time: global virtual team
+dynamics and effectiveness. Journal of Organisational Science. Vol 11, No 5. pp473–92.
+Baltes, B.B., Dickson, M.W., Sherman, M.P., Bauer, C.C. and LaGanke, J.S. (2002)
+Computer mediated communication and group decision-making: a metaanalysis. Organisational Behavior and Human Decision Processes. Vol 87, No 1. pp156–79.
+Kahai, S.S., Huang, R. and Jestice, R.J. (2012) Interaction effect of leadership and
+communication media on feedback positivity in virtual teams. Group and Organisation
+Management. Vol 37, No 6. p716.
+
+References
+
+Chartered Institute of Personnel and Development
+151 The Broadway London SW19 1JQ United Kingdom
+T +44 (0)20 8612 6200 F +44 (0)20 8612 6201
+E cipd@cipd.co.uk W cipd.co.uk
+Incorporated by Royal Charter
+Registered as a charity in England and Wales (1079797)
+Scotland (SC045154) and Ireland (20100827)
+Issued: April 2021 Reference: 8132 © CIPD 2021
+
+

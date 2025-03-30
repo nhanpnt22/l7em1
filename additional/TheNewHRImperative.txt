@@ -1,0 +1,801 @@
+RESEARCH REPORT
+
+The New HR Imperative:
+HR Executives as Strategists
+and Visionaries
+
+Sponsored by
+
+SPONSOR PERSPECTIVE
+
+My mission as Indeed’s chief people and sustainability officer is to make
+sure our employees feel challenged, inspired, included, and empowered
+to make progress toward our goals of helping all people get jobs equitably.
+Of course, as any senior HR leader knows, leading a workforce of any
+size today comes with inherent challenges. Employees rightfully expect
+more from their leaders and HR must balance the competing demands
+of managing critical “run the business” work alongside employee
+development, transformational projects, and keeping pace with emerging
+technologies.
+This change and the increased demands from both the boardroom and
+the employees highlight the need for HR leaders at every level to evolve
+beyond traditional roles into strategic, operational partners.
+This 2024 Harvard Business Review Analytic Services survey underscores
+this imperative, revealing that 82% of executives say it’s very important
+for HR leadership to influence an organization’s strategy and vision.
+Still, only 33% say their HR leadership is effective in this regard. This
+gap presents a tremendous opportunity for HR leaders to elevate their
+influence and impact.
+The insights presented in this report underscore a critical reality: When
+we as HR professionals excel in fostering employee engagement, our
+organizations gain a significant competitive advantage.
+Creating engaged employees can’t happen overnight. It’s a continuous
+journey that demands thoughtful planning, creativity, and commitment.
+By setting clear metrics and practices, we can measure and improve our
+engagement strategies, turning them into real business results. Achieving
+this goal requires a culture of recognition, opportunities for growth, higher
+prioritization of employee well-being, and transparent communication.
+HR departments must move towards more transformative initiatives
+that foster an ethical, inclusive, and innovative organizational culture.
+Investing in continuous employee development and creating systems to
+motivate and engage talent are key. We are excited about the potential for
+leveraging artificial intelligence (AI) to streamline processes and enhance
+decision making. By embracing responsible AI, HR can free up time for
+strategic thinking, relationship building, and problem-solving, further
+solidifying their role as strategic partners.
+HR executives are at a pivotal point where their strategic input is valuable
+and essential for overall business success. By expanding their roles and
+focusing on fostering an ethical, inclusive, and innovative organizational
+culture, HR can drive significant positive change, ensuring that employees
+not only are prepared for the future but are active shapers of it. This report
+guides HR leaders to harness their potential and lead with strategic vision
+and purpose. By doing so, we will drive business success and build a more
+inclusive and resilient future for all.
+
+LaFawn Davis
+Chief People and
+Sustainability Officer
+Indeed
+
+The New HR Imperative:
+HR Executives as Strategists
+and Visionaries
+
+Business strategies are becoming increasingly
+intertwined with workforce strategies. Organizations face
+the imperative to become more forward-thinking and
+agile while finding and retaining the talent to do so—all
+while dealing with the rise of new technology such as
+generative AI (gen AI). The opportunities and challenges
+these developments create naturally place the HR
+department at the center of change.
+In March 2024, Harvard Business Review Analytic Services surveyed 444
+members of the Harvard Business Review audience who are familiar with the
+practices of their organization’s HR department. The respondents are primarily
+executive management or board members (32%) and senior management
+(34%), as well as other levels. The survey found that the majority of respondents
+(82%) say it’s very important for HR leadership to influence an organization’s
+strategy and vision. However, only 33% report the HR leadership at their
+organization is very successful in this regard.
+“The job title of the chief HR officer [CHRO] has changed to things like people
+officer,” says William Tincup, an HR thought leader and podcaster based in
+Arlington, Texas. “But in many cases, the HR mindset has not changed. HR
+needs to get on board with things like technology adoption or the operations
+and financial departments are going to take over its responsibilities.”
+The 33% of organizations whose HR leadership is very successful at
+influencing strategy and vision, according to respondents, are defined in this
+report as “leaders.” The organizations whose HR leadership is identified as
+somewhat successful in that regard (37%) are defined here as “followers.” Those
+that are not very successful in that regard (30%) are defined as “laggards.”
+Leaders are focusing on areas that have not traditionally been associated
+with HR. For example, 81% of leaders agree that “the HR leadership is regarded
+
+HIGHLIGHTS
+
+82% of respondents say
+it’s very important for HR
+departments to influence
+an organization’s strategy
+and vision.
+
+81% of leaders agree the HR
+leadership is regarded as
+influential in ensuring the
+organization acts in an ethical
+manner by people within the
+organization.
+
+26% agree the HR leadership at
+their organization is engaged in
+enterprise-wide generative AI
+strategy discussions.
+
+Due to rounding, some figures in this report may not
+add up to 100%.
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+1
+
+Harvard Business Review Analytic Services
+
+“We are at a pivot point in the practice of HR and, more importantly,
+in the recognition of the value of HR as a strategically essential
+function,” says Corinne Bendersky, faculty chair and associate
+professor of management and organizations at the University of
+California, Los Angeles (UCLA).
+
+Pursuing New Priorities
+
+as influential in ensuring the organization acts in an ethical
+manner by people within the organization.” “The strong HR
+organizations create a culture in which an ethical sensibility
+is manifesting because it’s just part of how they do things,
+as opposed to there being a rule for that,” says Amy Loomis,
+research vice president, Future of Work, at International
+Data Corp. (IDC), a consultancy in Needham, Mass. “They
+are being honest about how new ways of working aren’t fully
+developed but are fully essential.”
+The demands of today's workforce are positioning CHROs
+to drive transformative change across the organization.
+They can fortify their position by shoring up their HR
+departments in several ways. The survey showed that
+HR departments have room for improvement around key
+talent areas, such as ongoing training and development
+of employees, creating systems to motivate employees,
+and performance management. The survey also indicated
+that most HR departments are lagging in their technology
+skills and emphasizing passive metrics like turnover. By
+putting more effort into these areas, CHROs can enable their
+departments to become even greater influencers in strategic
+decision making.
+“We are at a pivot point in the practice of HR and, more
+importantly, in the recognition of the value of HR as a
+strategically essential function,” says Corinne Bendersky,
+faculty chair and associate professor of management and
+organizations at the University of California, Los Angeles
+(UCLA). “HR leaders can’t make strategically viable
+recommendations without data and analytics to guide them.
+HR needs to do a better job [of] keeping pace with the skill
+sets they need [in order] to use those technology resources
+to both enhance decision making and communicate
+persuasively.”
+This report will explore how HR departments must expand
+their role to become a greater strategic and visionary force,
+including the measures they must take to improve their
+workforce and overall organization, the obstacles they must
+overcome, and the capabilities they must develop and use to
+achieve their growing mandate. The survey findings illustrate
+the opportunities and challenges that arise from this new HR
+mandate, providing a guide for others to follow.
+
+Administrative tasks like compliance and recordkeeping have
+always been at the core of HR department functions.
+Ninety-one percent of the survey’s respondents say the
+HR department at their organization is very or somewhat
+successful at maintaining employee records. In addition, 86%
+say their HR department is very or somewhat successful at
+ensuring legal and regulatory compliance.
+In these complex times, however, organizations need
+far more from their HR departments. “The tactical stuff of
+HR, like compliance, is the safe place,” Tincup says. “The
+HR innovators are pushing beyond the safe places to the
+tougher tasks. They are thinking more about things from the
+perspective of the IT, finance, or sales departments.”
+CHROs and HR departments are positioned to make an
+even bigger strategic impact by moving beyond the tactical
+and practical to transformative tasks. A central element
+of HR making a strategic impact is its role in shaping an
+organizational culture. Strengthening the organizational
+culture is the top priority that HR leadership should focus on
+more, according to survey respondents. More than a third of
+leaders (35%), 46% of followers, and 43% of laggards want their
+HR leadership to increase their focus on this priority. FIGURE 1
+However, there are other areas CHROs and HR departments
+should focus on improving to meet more of their organizations’
+growing needs. Respondents say their HR departments are
+“very successful” at expected duties, like maintaining employee
+records (55%) and ensuring legal and regulatory compliance
+(51%). They are less likely to see their HR department as
+“very successful” for many employee-focused tasks, such
+as creating systems to motivate employees (11%), mediating
+relationships between employees (17%), and onboarding and
+training talent (22%).
+Three additional priority areas that survey respondents
+want their HR leadership to give greater focus to revolve
+around talent—improving talent retention (41%), employee
+engagement (38%), and employee development (36%). “If you’re
+not focusing on retention, engagement, and development, I
+don’t know what you’re there to do besides paperwork,” says
+Keahn Gary, a senior manager and innovation and disruption
+strategist at Cognizant Technology Solutions Corp., a global
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+2
+
+Harvard Business Review Analytic Services
+
+IT services and consulting firm headquartered in Teaneck,
+N.J. “You have to give people a space to grow.”
+Notably, few leaders (13%), followers (7%), and laggards
+(7%) cite increased profit as a top priority on which the HR
+leadership at their organization needs to increase its focus.
+Instead, leaders prioritize forward-thinking elements like
+increasing automation with technology (21%) and preparing
+for the next generation of workers (26%) more than do the
+other two groups. Meanwhile, talent-related priorities are at
+the top of the list for followers, including improving talent
+retention (45%), employee development (40%), and employee
+engagement (38%).
+Experts say HR departments must focus their employee
+development efforts widely, reaching into every tier across the
+
+organization. “CHROs should keep their finger on the pulse of
+employee engagement and track the impact and strategy for
+leadership development,” IDC’s Loomis says. “This is true for
+mid-management, in particular, but also for senior leaders
+because their ability to shift their mindset and approach is a
+critical factor in organizational success.”
+
+New Capabilities Needed
+CHROs and HR departments have heard the call to be a bigger
+force in dynamic and difficult times. The past five years have
+seen social unrest and a pandemic challenge companies’
+policies on remote work and employee wellness, increasing
+the responsibilities of and pressure on HR.
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+3
+
+Harvard Business Review Analytic Services
+
+Two-thirds of respondents (65%) say the HR capabilities at
+their organization have become more critical for success in
+the past two years. “Even as little as three or four years ago,
+we were not seeing CHROs involved in the decision making
+for companies around what position they would take on
+social issues,” says Art Mazor, global human capital practice
+leader for Deloitte Consulting LLP, headquartered in New
+York. “That’s changed dramatically.”
+Respondents say the key obstacle preventing HR
+departments from achieving their goals is insufficient
+skills within their HR department. This was cited by 40%
+of respondents overall and 56% of laggards. In contrast,
+leaders (29%) are less likely to cite insufficient skills as an
+obstacle. Other key obstacles preventing HR departments
+
+from achieving their goals include difficulty in demonstrating
+the link between HR efforts and business outcomes (38%),
+operational inefficiencies (37%), and a lack of resources and
+people power (33%). FIGURE 2
+Respondents say the key capabilities that the HR
+leadership at their organization should have to increase
+their value to the organization are a mindset of growth
+and innovation, strategic thinking ability, talent retention
+abilities, and a strategic partnership orientation. However,
+differences emerged between what respondents say HR
+leadership at their organization should have and what the HR
+leadership does have to allow them to increase their value.
+In particular, key differences include a mindset based on
+growth and innovation (38% should have; 27% does have),
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+4
+
+65%
+
+say the HR
+capabilities at
+their organization
+have become
+more critical for
+success in the
+past two years.
+
+Harvard Business Review Analytic Services
+
+and strategic thinking ability (38% should have, 28% does
+have). FIGURE 3
+Diane Youden, principal in workforce transformation,
+PwC US, the New York-headquartered consultancy, notes
+the CHRO should establish a vision for the near future
+and build HR’s brand as a key strategic partner engaged in
+solving business issues.
+She says HR should invest time to understand key business
+topics such as gen AI, climate change, and cybersecurity
+in order to establish a point of view of HR’s role in these
+important business priorities. This vision will set the
+objectives for investing in specific HR capabilities, achieving
+efficiencies in HR delivery, and establishing key foundations
+such as a talent architecture of skills and an internal career
+mobility program. It will also establish the core threads of
+how HR tells its story to key stakeholders, building its brand
+as a strategic partner engaged in solving business issues.
+“CHROs should focus on building modern capabilities
+and skills within the HR organization,” says Youden. “This
+includes not being afraid to innovate and introduce new
+programs that address the needs of an evolving workforce.”
+Many of these capabilities support the collaboration that
+is needed as HR tackles more complex issues. Effective HR
+leadership hinges on strong collaboration with other C-suite
+executives, particularly the chief information officer and
+CFO, on such issues as workforce planning, technology
+investments, and operational efficiency.
+“To effectively cultivate these capabilities requires a
+commitment from the business leaders,” Youden says.
+“HR will need to collaborate with the business to establish
+a clear vision and will also need to use a data-driven
+approach to show progress and demonstrate the positive
+impact of these initiatives. By highlighting tangible results
+and progression, HR can support the sustainability and
+scalability of these programs.”
+Forging stronger partnerships with the C-suite could
+also help HR nudge leaders in areas where HR has limited
+authority itself. “Organizational culture is a great example
+of something that only the top leaders can change,” says
+Peter Cappelli, director of the Wharton Center for Human
+Resources at the University of Pennsylvania. “It is driven not
+by campaigns or communication but by acting differently.
+Culture doesn’t change unless what the organization rewards
+and punishes changes, and HR has zero control over that.”
+
+Where HR Must Take the Lead
+Even as their impact and role become larger, CHROs should
+give deeper consideration to whether they are focusing their
+time and efforts enough on areas of key importance to the
+organization. The survey found the areas where HR leadership
+has taken a primary role in addressing their organization’s
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+6
+
+“The tactical stuff of
+HR, like compliance, is
+the safe place. The HR
+innovators are pushing
+beyond the safe places to
+the tougher tasks. They
+are thinking more about
+things from the perspective
+of the IT, finance, or sales
+departments,” says William
+Tincup, an HR thought
+leader and podcaster
+based in Arlington, Texas.
+
+Harvard Business Review Analytic Services
+
+needs include well-established HR terrain, such as the
+challenge of attracting talent with necessary skills (67%), the
+need to address employees’ mental and emotional well-being
+(66%), and further development of inclusive cultures (55%).
+However, the survey also found gaps between the issues
+HR is addressing and the issues that have a significant
+impact on organizational success. Top among the gaps is
+the need for transparent communication across all levels of
+the organization. Sixty percent of respondents say the need
+for transparent communication across all levels has impacted
+success at their organization. However, only 45% say the HR
+leadership at their organization has taken a primary role in
+addressing it. FIGURE 4
+“HR is critical for helping navigate the increased number
+of business changes; however, oftentimes they lack the right
+skills and capabilities to support the workforce through those,”
+explains Anthony Abbatiello, workforce transformation
+practice leader, PwC US. “Investing in both areas can help
+HR be more effective in supporting business outcomes.”
+Transparent communication is an area where HR should
+take a lead, experts agree. Such communication can be done
+by soliciting employee feedback more frequently and then
+sharing the findings openly, even if those findings reveal
+organizational shortcomings. “It’s vital that CHROs take
+the feedback they get from workers and then reflect it back
+to the workforce in an unvarnished way,” Deloitte’s Mazor
+says. “In the past, the norm was to polish up the results
+from engagement surveys to make it look like companies
+were doing better than they really were. Now HR is being
+very honest about exactly where they stand in terms of
+their level of inclusion and equity across the organization.
+Consequently, employees take HR seriously when they try
+to advance their agenda in that space.”
+He adds that transparency works best when the organization
+has invested the time to figure out what it needs to do to make
+corrections. Transparency becomes productive when it is
+coupled with solutions.
+The survey found additional differences of opinion as
+to which economic forces are impacting organizational
+success and where HR is taking the lead. Forty-two percent
+of respondents say the increased rate of change of business
+conditions has impacted the success of their organization,
+yet only 20% say that the HR leadership has taken a primary
+role in addressing their organization’s needs regarding this
+development. Likewise, 46% say that the evolving use of
+technology has impacted success at their organization, yet
+only 23% say that the HR leadership has taken a primary
+role in addressing their organization’s needs regarding this
+development.
+“HR’s limited involvement may stem from a lack of
+connection between program outcomes and HR’s value
+proposition,” Youden of PwC says. To address this disconnect,
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+8
+
+Harvard Business Review Analytic Services
+
+“By actively engaging with project teams and communicating their
+ability to contribute effectively, HR can reshape the perception
+of its role and become an indispensable partner in driving
+organizational success,” says Diane Youden, principal in workforce
+transformation, PwC US.
+
+HR professionals should “sell their plan” by approaching
+project teams and leadership, showcasing how HR can
+collaborate to drive the desired outcomes. “By highlighting
+the people factor, including change adoption, upskilling, and
+potentially associated changes in job responsibilities, HR can
+demonstrate its value in promoting success,” Youden says.
+“By actively engaging with project teams and communicating
+their ability to contribute effectively, HR can reshape the
+perception of its role and become an indispensable partner
+in driving organizational success.”
+
+Ethics as HR Mandate
+HR leadership is seen as key to ensuring ethical behavior.
+About two-thirds of respondents (65%) agree that the HR
+leadership at their organization is regarded as influential
+in ensuring their organization acts in an ethical manner by
+people within the organization. This finding was far more
+common among leaders (81%) than among followers (68%)
+and laggards (44%). FIGURE 5
+“Companies need to think about the human implications of
+any decisions they make,” UCLA’s Bendersky says. “It saddens
+me when I hear about companies where HR is perceived as
+the bad guy who’s just there to do investigations and protect
+the company. HR should be protecting the employees and be
+the voice of the employees at the C-suite.”
+Loomis says becoming a greater ethical force requires selfreflection on the part of HR. “It’s very important for HR to
+be seen as ethical, and one of the ways they can do that is to
+acknowledge that, even with the best intentions, historically
+the systems that are put in place to support the organization
+on a day-to-day basis can make it challenging to recognize
+how to be ethical in the moment,” she says. “Creating a culture
+of trust begins by looking in the mirror.”
+As part of that ethical standing, 74% of leaders agree that the
+HR leadership at their organization is taking steps to ensure
+there is trust between management and employees, whereas
+fewer laggards (38%) agree. Similarly, 79% of leaders agree that
+HR leadership at their organization is focusing on improving
+company culture to meet workers' rising expectations, but
+only 44% of laggards agree.
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+9
+
+Harvard Business Review Analytic Services
+
+“We don’t talk about people as people, we talk about them
+as resources,” Cognizant’s Gary says. “That can be problematic
+because we don’t consider all the other aspects and dimensions
+of their lives that contribute to how they show up to work
+every day, whether they want to come back tomorrow, and
+whether they want to have their friend come work with them.
+The core of every business is the people and their interactions
+and engagement with each other.”
+
+data and metrics. “One of the big things that HR leaders do
+is take the temperature of the organization and know where
+their employees are and what they need to be able to anticipate
+and to be proactive concerning strategic decision making,”
+Bendersky says. “So increasing analytical skills and bringing
+more technology analysts into the HR function is critical.”
+Taking that temperature well means selecting the correct
+metrics. The survey found that employee turnover and
+retention rates (59%), employee satisfaction (52%), and
+employee performance (50%) were the metrics respondents say
+their HR department tracks to help executives make decisions.
+Overall, leaders track more HR metrics to aid decision making
+than do followers and laggards. The metrics where leaders are
+most ahead of laggards are employee performance (64% vs.
+32%), productivity measures (41% vs. 22%), cost to hire (37%
+vs. 16%), and training effectiveness (39% vs. 9%).
+“Right now, too many of the metrics that HR uses are
+passive,” Gary says. “Knowing you have an attrition rate of
+X% doesn’t tell the full story of the employee life cycle. You
+need more detailed and personal information about employee
+sentiment. If an employee joined you a month ago, you should
+measure whether they know who their boss is, whether they
+know what to do, and whether they feel supported. You have
+to be sure you are collecting the data that makes sense and
+can tell a story over time, rather than just tell the story you
+want to tell.”
+
+Impact of Artificial Intelligence and Data
+Data and technology are critical tools that CHROs can
+leverage to make a larger impact. Hardly a day passes without
+discussion of new ways that AI and data could affect our lives
+and the way we work. The technology has both huge workforce
+and ethics implications. For example, there are concerns
+about whether artificial intelligence (AI) could unwittingly
+introduce bias into hiring decisions, making technology an
+element in HR’s ethical mission.
+At the moment, though, HR departments appear to be
+making limited use of AI within their own operations. In fact,
+38% of survey respondents indicated that the HR department
+at their organization was not using AI. For those using AI, the
+most commonly cited ways AI is being used include reducing
+the number of routine or repetitive tasks for employees (21%),
+streamlining HR processes (20%), and bolstering learning
+and development (16%). In addition, 16% of respondents say
+they don’t know if the HR department at their organization
+is using AI. FIGURE 6
+Similarly, only 27% of respondents agree that the
+HR leadership at their organization is leveraging AI for
+transactional and operational efficiency to make room for
+the more human side of the business. “A lot of HR practitioners
+look at AI as a competitor that will take their jobs,” Tincup
+says. “That’s a natural response. But the reality is AI is going
+to take the low-value tasks. Right now, HR spends its time
+running from fire to fire to fire. AI will give them the time to
+think strategically so they can come up with those crazy ideas
+that will make the hair on the back of their necks stand up.”
+HR is also not playing a strong role in how the rest of the
+organization is using AI. Only 26% of survey respondents
+agree that the HR leadership at their organization is engaged
+in enterprise-wide gen AI strategy discussions.
+“HR should be 100% involved in the generative AI
+discussions because companies need to think about the
+displacement effects of their AI policies and practices,”
+Bendersky says. “It’s not in society’s interests to displace
+many people from jobs with computers. It is in society’s
+interest to make people more efficient and productive in their
+jobs, especially with looming labor shortages.”
+As data-driven decisions and new AI tools become the norm,
+HR departments need to develop greater expertise in using
+
+Key Steps for HR Leaders
+The survey and interviews with experts revealed key steps
+that leaders are taking to help them stand out from followers
+and laggards. Leaders do the following:
+
+Emphasize transferable skills, experiences, and the
+ability to learn new skills. “Today, a big driver of engagement
+is the opportunity to grow new skills,” Mazor says. “And
+the workforce is really looking for that, whether they’re
+potential workers or the workers we have working for our
+companies now.”
+
+Improve manager listening and feedback to boost talent
+retention. “Companies used to do employee surveys once a
+year,” Mazor says. “The best CHROs are driving employee
+listening to new frontiers, with regular pulse checks and
+regular focus groups that allow them to make changes that
+drive better workforce engagement.”
+
+Align employee learning with business goals, upskilling,
+and training on emotional intelligence. “We need to be
+relentless in ensuring our employees have all the tools they
+need to be successful,” Tincup says. “Reskilling and upskilling
+are not a one-and-done. It’s forever because skills have a halflife, and we don’t talk about skills decay the way we should.”
+
+Develop a more inclusive culture focused on well-being.
+“There needs to be a massive shift in how we look at people,
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+10
+
+Harvard Business Review Analytic Services
+
+“HR should be 100% involved in the generative AI discussions
+because companies need to think about the displacement effects
+of their AI policies and practices,” UCLA’s Bendersky says.
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+11
+
+Harvard Business Review Analytic Services
+
+“CHROs will need to pivot and focus on board-level issues that
+help evolve the business model and create economic value for
+shareholders,” says Anthony Abbatiello, Workforce Transformation
+practice leader, PwC US.
+
+from a cost center to investment,” Gary says. “Many studies
+show that diversity, equity, and inclusion has been dropping
+in importance since 2021, when it peaked as a high priority.
+But you can’t be human-centered without understanding that
+DEI is critical to your success.”
+Employ HR metrics to aid decision making. As the
+survey suggests, they should track employee performance,
+productivity, cost to hire, and training effectiveness. “If you’re
+still measuring turnover by itself, you’re measuring the wrong
+thing,” Mazor says. “Because we recognize that people are not
+staying with companies for a lifetime career, turnover can
+be healthy; it’s a backward metric. Measuring engagement
+is more closely linked to productivity.”
+
+Over the next three years, “CHROs will need to pivot and
+focus on board-level issues that help evolve the business
+model and create economic value for shareholders,” Abbatiello
+says. Key responsibilities will include optimizing benefits and
+reward plans, maximizing tax efficiencies, reinvesting in skills
+architecture, upskilling the workforce, and delivering a worldclass work experience.
+To help their organizations change, HR departments
+themselves must change. “While new technologies will be
+a catalyst toward HR evolution, HR will also need to change
+its operating and service delivery models to free up capacity,
+as well as upskilling itself, to focus on these more strategic,
+value-added initiatives,” Youden says. “HR will need to take
+an outcomes- or metrics-driven approach, to better articulate
+their impact on these and other business priorities.”
+As if all that weren’t enough, AI poses a significant ethical
+challenge for HR. “Unlike other technology advances that
+have happened before, there is a fundamental moral aspect in
+AI, because it’s going to reify and reinforce a lot of the innate
+bias,” Loomis says. “On the plus side, there’s an opportunity
+in the HR realm for using AI to expose bias.”
+For their organizations to thrive, CHROs and their HR
+departments must take a leadership role in ensuring their
+organizations embrace the people-first mantra that is becoming
+a strategic imperative. “We live in a different world now than
+we did only a few years ago,” Gary says. “Everything’s more
+complex; the values are different. We need to figure out how to
+ensure those values are reflected in the way that we approach
+talent management as a whole, so the workforce sees we are
+making a genuine investment and have a genuine commitment
+to the people who determine the organization’s success.”
+
+Conclusion
+In fast-changing, complex times, CHROs are well-positioned
+to make their HR departments a strategic force within
+their organizations. “Today, HR leaders are expected to be
+strategic partners who contribute to the overall business
+strategy,” Mazor says. “CHROs are now expected to not only
+be at the table but bring solutions and help organizations
+to make strategic choices around their workforce and the
+social agenda.”
+Leaders are far more likely to take a more forward-thinking
+and strategic approach to stay ahead of trends than are
+followers or laggards. More than half (57%) of leaders agree
+that the HR leadership at their organization takes a “futurist”
+outlook, staying ahead of business and workforce trends that
+affect their organization, whereas only 32% of followers and
+19% of laggards agree.
+
+Research Report | The New HR Imperative: HR Executives as Strategists and Visionaries
+12
+
+M E T H O D O LO GY A N D PA R T I C I PA N T P R O F I L E
+
+Harvard Business Review Analytic Services surveyed 444 members of the Harvard Business Review
+audience via an online survey fielded in April 2024. Respondents qualified to complete the survey if
+they were familiar with the practices of the HR department at their organization.
+Size of Organization
+
+Seniority
+
+Key Industry Sectors
+
+Job Function
+
+Regions
+
+34%
+
+32%
+
+16%
+
+16%
+
+41%
+
+14%
+
+10%
+
+23%
+
+10,000 or more
+employees
+
+38%
+
+1,000–9,999
+employees
+
+12%
+
+500–999
+employees
+
+16%
+
+100–499
+employees
+
+Executive
+management/
+board members
+
+34%
+
+Senior
+management
+
+19%
+
+Middle
+management
+
+16%
+
+Other grades
+
+Technology
+
+Education
+
+9%
+
+Financial
+services
+
+9%
+
+Government/
+not for profit
+
+9%
+
+Manufacturing
+All other sectors
+less than 8% each.
+
+Figures may not add up to 100% due to rounding.
+
+HR/training
+
+General
+management
+
+9%
+
+Academia
+All other functions
+less than 8% each.
+
+North America
+
+Europe
+
+23%
+
+Asia Pacific
+
+9%
+
+Middle East/Africa
+
+5%
+
+Latin America
+
+ABOUT US
+
+Harvard Business Review Analytic Services is an independent commercial research
+unit within Harvard Business Review Group, conducting research and comparative
+analysis on important management challenges and emerging business opportunities.
+Seeking to provide business intelligence and peer-group insight, each report is
+published based on the findings of original quantitative and/or qualitative research
+and analysis. Quantitative surveys are conducted with the HBR Advisory Council,
+HBR’s global research panel, and qualitative research is conducted with senior
+business executives and subject-matter experts from within and beyond the Harvard
+Business Review author community. Email us at hbranalyticservices@hbr.org.
+
+hbr.org/hbr-analytic-services
+
+Copyright © 2024 Harvard Business School Publishing.
+
+MCCRE52991024
+
+
