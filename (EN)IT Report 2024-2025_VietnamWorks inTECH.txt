@@ -1,0 +1,5655 @@
+Human Resources &
+Recruitment Trends
+In The IT Industry
+Amidst the Artificial
+Intelligence Surge Of
+2024-
+
+2025
+
+Table of contents
+
+Part I: Overview
+
+
+01
+
+
+1.1. Introduction
+
+
+03
+
+
+1.2. Methodology
+
+
+03
+
+
+1.3. Disclaimer 
+
+
+04
+
+
+1.4. Highlight from the report
+
+
+
+04
+
+
+
+Part 2: Portrait of IT personnels and recruiters participating in the survey
+
+
+05
+
+
+2.1. Overview of IT Personnels
+
+
+06
+
+
+2.2. Overview of IT Personnel Salaries
+
+2.3. Overview of the recruiters
+
+
+
+11
+
+
+
+Part 3: Current situation of Vietnam's IT sector in 2024-2025
+
+
+14
+
+
+3.1. Current state of IT departments in businesses following 2023 layoffs
+
+
+15
+
+
+3.2. The IT personnel situation post-2023 layoffs
+
+
+18
+
+
+3.3. Job-seeking trends of IT personnel in 2024-2025
+
+
+21
+
+
+3.4 IT recruitment trends in 2024 - 2025
+
+
+24
+
+
+3.5. Challenges for Candidates and Companies in the IT Sector in 2024 - 2025
+
+
+
+30
+
+
+
+Part 4: Technology Trends & Impact of AI in HR and Recruitment 2024 - 2025
+
+
+32
+
+
+4.1. Popular programming languages in 2
+​ 024 - 2025
+
+
+33
+
+
+4.2. Popular Libraries & Frameworks in 2024 - 2025
+
+
+34
+
+
+4.3. The trend of IT professionals using AI
+
+
+35
+
+
+4.4. The trend of IT professionals upskilling in AI
+
+
+49
+
+
+4.5. AI's impact on recruitment
+
+
+
+Part 5: Corporate Profile
+ 
+
+
+01
+
+10
+
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+41
+
+
+
+45
+ 
+
+
+Table of
+contents
+
+Part 1
+
+Overview
+02
+
+Human
+Resources
+and
+Recrui
+t
+ment
+Trends
+i
+n
+the
+IT
+Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 1
+
+1.1. introduction
+2023 marked a period of rapid development, with Artificial Intelligence (AI) becoming a mainstream
+trend and a focal point of both excitement and concern in the technology sector. In 2024, AI
+technology continues to be a hot topic and has the potential to bring about significant breakthroughs
+in the future. Automation and AI contribute to increase productivity and economic growth, but millions
+of people worldwide may need to transition their careers or upgrade their skills to adapt.
+
+Numerous market reports and news articles predict that AI has the potential to replace IT personnel
+while also creating new job opportunities. With a mission to be Vietnam's leading IT recruitment brand,
+VietnamWorks inTECH launches a Report on Human Resources and Recruitment Trends in the IT
+Industry Amidst the Artificial Intelligence Surge of 2024-2025. This report provides valuable insights
+for IT professionals in their career development and for businesses in their upcoming recruitment
+plans.
+
+
+1.2. Methodology
+This report is based on a survey of 2,000 participants (including IT candidates and businesses)
+throughout Vietnam. This survey was conducted from July 22nd, 2024 to August 22nd, 2024 through
+VietnamWorks inTECH ecosystems.
+
+Data is anonymized according to General Data Protection Regulation (GDPR) guidelines and is stored
+separately and used only for reporting analysis. Percentages may not always equal 100% due to
+different options and different response behaviors. Many questions are only shown to respondents
+based on their previous answers.
+
+In addition, we also use some data from public reliable sources.
+
+1.3. Disclaimer
+The information in the report is compiled and analyzed from responses from 1,500 IT candidates from
+many positions, programming languages, years of experience, provinces, etc., and 500 businesses from
+July and August 2024.
+
+Although the report has been collected and analyzed with the most detail and transparency, this
+report does not represent the entire IT industry market and is for reference only.
+
+All information in the report may not be copied in whole or in part without written consent from
+VietnamWorks inTECH.
+
+
+03
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 1
+
+1.4. Highlight from the report
+
+04
+
+1
+
+60% of IT personnels laid off in 2023 have yet to find new jobs in 2024
+
+2
+
+IT professionals are willing to take on more workloads and multitasking to find
+new jobs quickly
+
+3
+
+Threads becomes a new source for job seeking and recruitment
+
+4
+
+Skilled Product Owners/Product Managers are in short supply
+
+5
+
+AI Chatbots surpass Stack Overflow in terms of top-rated pages/tools for
+code solutions
+
+6
+
+Salaries for AI candidates are 10-50% higher than other positions
+
+IT personnel continue to be significantly impacted by the aftermath of layoffs, as
+nearly 60% of those laid off in the previous year have still not found new employment
+in 2024. This figure is approximately 1.5 times higher compared to the corresponding
+rate for IT personnel who voluntarily left their jobs in 2023 (page 19)
+
+
+To find new jobs quickly, many IT professionals are willing to consider taking on heavier
+workloads and multitasking. This figure has increased by 10% compared to the previous
+year, indicating the increasing competitiveness of the job market (page 22).
+
+Although the social network Threads is relatively new, 4.4% of IT professionals use it to
+search for jobs, and 2.4% of companies reported using it to reach out to candidates
+(page 23 and page 28).
+
+
+Based on a survey of recruiters, Product Owners/Product Managers are the most
+difficult positions to fill, accounting for 25.6% of total responses (page 30). Most
+companies believe that this position is difficult to fill because candidates do not meet
+the required qualifications.
+
+AI Chatbots like ChatGPT and Gemini are gradually becoming indispensable tools for IT
+professionals to solve coding-related tasks, as they have the second most responses to
+the question: "What is the first page/tool IT personnel think of when seeking solutions
+to coding problems?" (page 35).
+
+Survey results show that a majority of companies are willing to offer higher salaries for
+AI candidates compared to other positions. Specifically, 43.7% of companies reported
+that they pay AI personnel 10-20% more, while 18.4% indicated that the salaries of AIrelated titles are 20-50% higher than non AI-related titles (page 43).
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 1
+
+Part 2
+
+Portrait of 
+
+IT personnels and
+
+recruiters participating
+
+in the survey
+
+05
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 2
+
+2.1. Overview of IT Personnels
+1%
+
+28%
+
+72%
+
+20%
+
+79%
+
+Are you an IT professional who 
+
+switched from another field?
+No
+
+Gender
+Male
+Female
+
+Yes
+
+A significant 28% of IT professionals
+surveyed reported having made a career
+transition from non-IT fields such as
+Marketing or Sales.
+ 
+
+06
+
+Others
+
+A marked gender imbalance was
+observed among the survey
+respondents, with males constituting
+79% of the sample and females
+accounting for approximately 20%.
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 2
+
+2.1. Overview of IT Personnels
+
+City
+
+Education
+
+80%
+
+80%
+
+1
+
+7
+
+60%
+
+%
+
+60%
+63%
+
+40%
+
+40%
+
+27%
+
+20%
+
+20%
+
+8%
+
+14
+
+2%
+
+%
+
+7%
+
+3%
+
+3%
+
+1
+0%
+
+1
+
+%
+
+%
+
+0%
+
+B c
+a
+
+Ho Chi Minh City
+
+Others
+
+Danang
+
+Hanoi
+
+l
+
+'
+
+ll
+
+he or s
+
+Co
+
+d
+
+V c
+
+'
+
+'
+
+o
+
+Master s
+
+ege s
+
+I
+
+d
+
+d
+
+egree
+
+egree
+
+egree
+
+ationa
+
+l/
+
+m d
+
+nter
+
+e
+
+iate
+
+N
+
+on
+
+-d
+
+e
+
+P
+
+d
+
+hD
+
+egree
+
+/ S lf-
+
+u
+
+ta
+
+Others
+
+ght
+
+d
+
+egree
+
+W
+
+The IT professionals surveyed were primarily
+
+concentrated in major metropolitan areas. Ho
+
+Minh
+
+with
+
+City accounted for the highest
+
+63%, followed by Hanoi
+
+at
+
+79
+
+hile
+
+% of IT survey respondents possess a
+
+Bac
+
+Chi
+
+l
+
+he
+
+proportion
+
+or
+
+’
+
+s
+
+d
+
+egree
+
+or
+
+revealed that about
+
+q
+
+27%.
+
+ac
+
+higher, the survey also
+
+3%
+
+of IT professionals have
+
+k
+
+uired their s
+
+lf- l a
+
+ills through se
+
+x
+
+term online courses or e
+
+Age
+
+v
+
+O
+
+er
+
+3
+
+0
+
+-3
+
+5-3
+
+2
+
+22
+
+-
+
+1
+
+8
+
+1
+
+8
+
+3
+
+0
+
+5-
+
+%
+
+5
+
+4
+
+2
+
+s
+
+
+2
+
+1-3
+
+%
+
+1
+
+8 year
+
+3-5
+
+22%
+
+1
+
+3
+
+s
+
+
+s
+
+
+15
+
+year
+
+s
+
+
+4
+
+2
+
+ess than
+
+a yea
+
+22
+
+1
+
+0%
+
+0%
+
+20%
+
+1
+
+0%
+
+40%
+
+r
+
+
+1
+
+0%
+
+%
+
+8%
+
+0%
+
+In correlation with age, over
+
+under
+
+professionals surveyed have more than
+
+22
+
+to
+
+over
+
+38. The largest group, comprising
+
+aged
+
+between
+
+30
+
+and
+
+38.
+
+work
+
+3
+
+20%
+
+The ages of IT professionals surveyed ranged f rom
+
+31% of respondents, was
+
+7
+
+3
+
+%
+
+year
+
+L
+
+er
+
+%
+
+2%
+
+7%
+
+0
+
+ternal training institutions.
+
+More than
+7%
+
+U d
+n
+
+-
+
+rning via short
+
+Years of Experience
+
+8 year
+
+3
+
+e
+
+a
+
+0%
+
+40%
+
+third of the IT
+
+8
+
+years
+
+of
+
+experience.
+
+uman Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of
+5
+H
+
+2024
+
+202
+
+PART
+
+2
+
+2.1. Overview of IT Personnels
+
+3.1%
+7.7%
+6.3%
+
+29.9%
+
+19.2%
+
+12,3%
+
+73.1%
+
+23.4%
+
+25.1%
+
+Work environment
+
+Company models
+
+Product
+
+In-person
+
+
+Non-IT Business
+
+
+Hybrid
+
+Outsourcing
+
+
+IT Service
+
+Remote
+
+Consulting
+
+
+Others
+
+While in-person work remains the most
+
+common arrangement, accounting for
+
+73% of respondents, there is a growing
+
+trend towards flexible work
+The majority of survey respondents were
+arrangements in the IT industry. Notably,
+IT professionals f rom product
+19.2% of respondents reported working
+companies
+in a hybrid
+
+(29.9%), followed by those
+
+model, and 7.7% worked
+f rom non-IT
+
+remotely
+
+businesses
+
+(25.1%) and
+
+full-time, indicating a
+outsourcing
+
+companies
+
+(23.4%).
+
+diversified approach to work in the IT
+
+sector.
+
+uman esources and ecruitment rends in the IT Industry
+Amidst the Artificial ntelligence urge of 0
+0
+H
+
+08
+
+R
+
+R
+
+I
+
+T
+
+S
+
+2
+
+24-2
+
+25
+
+PART 2
+
+2.1. Overview of IT Personnels
+Top 15 job positions of IT personnel
+IT Support/Helpdesk
+Back-end Developer
+Data Analyst / Data Scientist / Business
+Intelligence Analyst
+Fullstack Developer
+QA/QC
+Product Owner/Product Manager
+Front-end Developer
+Tester
+System Engineer/System Admin
+UX/UI Designer
+IT Consultant
+ERP Engineer/ ERP Consultant
+Mobile Developer
+AI Engineer
+Embedded Engineer
+
+10%
+8%
+7.5%
+7.1%
+7%
+6.1%
+5.4%
+5%
+3.1%
+3%
+2.6%
+2.1%
+2%
+1.9%
+1.7%
+
+0%
+
+2.5%
+
+5%
+
+7.5%
+
+10%
+
+Top 15 IT job positions frequently recruited by businesses
+Back-end Developer
+Fullstack Developer
+Front-end Developer
+IT Support/Helpdesk
+Tester
+QA/QC
+Data Engineer
+Data Analyst/Data Scientist/Business
+Intelligence Analyst
+IT Manager
+DevOps Engineer/DevSecOps Engineer
+UX/UI Designer
+Mobile Developer
+Tech lead
+Product Owner/Product Manager
+AI Engineer
+
+12.4%
+10.4%
+8.9%
+8.1%
+7.5%
+7%
+6.4%
+5.9%
+5.3%
+5.1%
+5%
+5%
+4.5%
+4.5%
+4.2%
+
+0%
+
+2.5%
+
+5%
+
+7.5%
+
+10%
+
+12.5%
+
+IT Support/Helpdesk, Back-end Developer, and Data Analyst / Data Scientist / Business
+Intelligence Analyst are the top 3 job positions of IT personnel according to the 2024 survey
+In terms of IT job positions frequently recruited by businesses, Back-end Developer tops the list
+with 12.4%, followed by FullStack Developer (10.4%) and Front-end Developer (8.9%)
+Additionally, the survey noted that AI Engineer made its debut in the Top IT job positions and Top
+IT job positions frequently recruited by businesses, ranking 14th and 15th respectively.
+  
+
+09
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 2
+
+2.2. Overview of IT Personnel Salaries
+
+
+IT Salaries by Job Level
+
+80.1%
+
+Fresher
+
+Junior
+
+30.1%
+
+Middle
+
+58.3%
+
+6.1%
+
+48.7%
+
+Senior
+
+31.8%
+
+32.5%
+
+Head / CTO / COO
+
+22.8%
+
+19.0%
+
+18.2%
+
+13.2%
+
+0%
+
+Under $500
+
+
+6.1%
+
+12.4%
+
+26.3%
+
+42.9%
+
+25%
+
+0%
+
+7.8%
+
+34.8%
+
+30.6%
+
+Leader / Manager
+
+17.6%
+
+28.6%
+
+75%
+
+100%
+
+$2.000 - $3.000
+
+
+$500 - $1.000
+
+
+$3.000 - $5.000
+
+
+$1.000 - $1.500
+
+
+Over $5.000
+
+$1.500 - $2.000
+
+The
+
+survey
+
+data
+
+reveals
+
+that
+
+Most Fresher and Junior positions find it difficult to receive a salary exceeding $1,000/month
+
+For the Middle level, monthly salaries primarily range from $500
+
+Salaries for Senior and Leader
+
+professionals earn over $1,000
+
+A notable 71% of C-level
+
+/
+
+-
+
+$1,500 (accounting for 83.5%
+
+Manager roles exhibit significant variation. A substantial proportion of these IT
+
+per
+
+mont
+
+executives
+
+(Head
+
+/
+
+CTO
+
+/
+
+COO) earn more
+
+than
+
+$3,000 per month, while over 28%
+
+command salaries exceeding $5,000.
+
+uman Resources and Recruitment rends in the IT Industry
+Amidst the Artificial Intelligence urge of
+H
+
+10
+
+T
+
+S
+
+2024-2025
+
+PART 2
+
+2.3. Overview of the Recruiters
+
+7.3%
+
+Ho
+
+5.1%
+
+54.2%
+
+Ho Chi Minh City
+
+
+Chi
+
+Minh city
+
+and Hanoi
+
+are the
+
+two areas that
+
+account for the
+Hanoi
+
+
+largest proportion
+
+when surveying the
+
+operating locations
+Danang
+
+of companies, with
+
+respective rates of
+
+54.2% and 33.3% .
+
+Others
+
+33.3%
+
+Operating Locations of the Business
+
+8
+5.
+
+6
+
+.5%
+
+41.2%
+%
+
+F w
+e
+
+When asked about
+
+00 mpl y
+
+er than 1
+
+e
+
+o
+
+ees
+
+their business
+
+workforce size,
+
+7.
+
+9
+
+F m 00
+
+%
+
+ro
+
+1
+
+00 mpl y
+
+to 5
+
+e
+
+o
+
+nearly 80% of
+
+ees
+surveyed businesses
+
+were small and
+
+F m 00 f w
+,000 mpl y
+ro
+
+5
+
+1
+
+e
+
+to
+
+o
+
+e
+
+medium-sized
+
+er than
+
+enterprises.
+
+
+ees
+
+F m ,000 f w
+,000 mpl y
+ro
+
+1
+
+3
+
+to
+
+e
+
+o
+
+e
+
+Specifically,
+
+er than
+
+businesses with
+
+ees
+
+fewer
+
+3
+
+6
+
+More than 3
+
+,000 mpl y
+e
+
+o
+
+than
+
+100
+
+employees
+
+ees
+accounted for 41.2% ,
+
+.7%
+
+and those from 100
+
+to
+
+fewer
+
+than
+
+500
+
+employees made up
+Business Workforce Size
+36.7% .
+
+Following that are businesses with more
+
+3000
+
+employees (8.5%), businesses with 500
+
+fewer
+
+than
+
+1,000
+
+employees
+
+to
+
+fewer
+
+uman Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 0 - 0
+24
+
+than
+
+3,000
+
+(5.6%).
+
+
+H
+
+2
+
+to
+
+employees (7.9%), and finally,
+
+businesses from 1,000
+
+11
+
+than
+
+2
+
+25
+
+PART
+
+2
+
+2.3. Overview of the Recruiters
+
+5.1%
+10.7%
+
+Non-IT Business
+
+
+38.5%
+
+The majority of surveyed
+
+businesses operate
+
+under the Non-IT
+
+Outsourcing
+
+
+Business
+
+model
+
+(accounting for 38.5%).
+
+Following that are
+
+Product
+
+
+Outsourcing
+
+companies
+
+(22.6%), Product
+
+companies (22%), IT
+
+22%
+
+IT Service 
+
+
+Service companies
+
+(10.7%), and finally,
+
+Consul ting firms (5.1%)
+
+
+Consulting
+22.6%
+Business Operating Model
+
+2.2%
+32.8%
+
+Onsite
+
+
+65%
+
+When asked about
+
+their business
+
+working model, 65%
+
+Hybrid 
+
+
+of businesses
+
+responded that they
+
+are implementing
+
+Remote
+
+the Onsite
+
+Onsite)
+
+(Work
+
+model,
+
+32.8% follow the
+
+Hybrid
+
+Work)
+
+(Blended
+
+model, and
+
+only 2.2% operate
+
+under the Remote
+
+(Work
+
+Remotely)
+
+model.
+
+
+Business Working Model
+
+Job Position of the Surveyed
+
+Business Representative:
+
+From the survey results received, the job positions of the
+
+representatives from surveyed businesses come from two key
+
+departments:
+
+
+HUMAN
+
+RESOURCES
+
+DEPARTMENT: The majority of
+
+responses came from employees in the human resources
+
+department (46.7%), with managers and HR directors
+
+accounting for 49.7% .
+
+
+BUSINESS
+
+MANAGEMENT: This survey also received
+
+participation from the business management level,
+
+accounting for 3.6% .
+
+
+12
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART
+
+2
+
+2.3. Overview of the Recruiters
+
+Top Industries of Surveyed Companies
+
+Software Development
+33.6%
+
+Outsourcing
+
+
+16%
+
+Commerce
+
+
+9.9%
+
+Technical Manufacturing
+
+
+9.2%
+
+Technology Consulting
+
+
+6.9%
+
+Human Resources
+
+
+6.1%
+
+E-commerce
+
+
+Insurance
+
+
+4.6%
+
+Fintech
+
+
+4.6%
+
+Education
+
+
+4.6%
+
+Banking
+
+4.6%
+
+10%
+
+0%
+
+20%
+
+30%
+
+40%
+
+The survey results indicate that participating companies have the highest demand for IT recruitment
+
+from the Software
+
+Engineering
+
+Development
+
+Outsourcing industry (33.6%), followed by Commerce (16%). The
+
+Manufacturing (9.9%) and Technology
+
+participation. Sectors such as Human
+
+Consul ting (9.2%) industries also have significant
+
+Resources, E-commerce, and Insurance have lower
+
+participation rates, while Fintech, Education, and Banking have comparable rates (4.6%).
+
+
+Human Resources and Recruitment Trends in the IT Industry
+13
+
+PART 2
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+Part 3
+
+Current situation
+of Vietnam's IT
+sector in 2024-2025
+
+14
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 3
+
+3.1. Current state of IT departments in businesses following 2023 layoffs
+
+Survey results show that the rate of IT layoffs has declined compared to 2023, and there has been a
+
+growth in IT staffing. A significant majority of businesses (85.7%) reported an increase in IT personnel,
+
+ranging f rom 5% to 30% .
+
+The current state of IT personnel in businesses in 2024 by geographic location
+
+60%
+
+55
+
+47.
+
+4
+
+5
+
+5
+
+53
+
+.6%
+
+.8%
+
+%
+
+.8%
+
+40%
+
+3
+
+0.8%
+
+27.1%
+
+24%
+
+22.2%
+
+18.6%
+
+20%
+
+17.7%
+
+1
+
+12.
+
+5
+
+5
+
+.4%
+
+%
+
+11.1%
+
+11.1%
+
+6.8%
+
+0%
+
+Layoffs
+
+No layoffs, but there
+
+Stable
+
+Increased
+
+occurred
+
+were cuts to salaries,
+
+workforce
+
+staffing
+
+bonuses, or other
+
+benefits
+
+H C M
+H i
+
+D g
+
+O
+o
+
+hi
+
+y
+
+
+Stable workforce is highest in Da
+
+inh cit
+
+other provinces
+
+ano
+
+Other
+
+/
+
+Nang (55.6%) and
+
+cities (53.8%).
+
+
+provinces/cities have recorded a higher
+
+growth rate in personnel (30.8%) compared to the
+
+anan
+
+big cities: Ho
+
+Chi
+
+Minh
+
+City, Hanoi, and
+
+Da
+
+Nang.
+
+
+thers
+
+In contrast, Ho
+
+Chi
+
+notable decrease
+
+Minh
+
+in
+
+city
+
+and
+
+Hanoi saw a
+
+staff, with reduction rates of
+
+17.7% and 18.6% , respectively.
+
+
+15
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial ntelligence urge of
+- 5
+I
+
+S
+
+2024
+
+202
+
+PART
+
+3
+
+3.1. Current state of IT departments in businesses following 2023 layoffs
+
+m
+
+IT recruit
+
+ma
+
+ent de
+
+nd in
+
+2025 by b
+
+p
+
+usiness o
+
+a
+
+er
+
+ting
+
+m
+
+odel
+
+5.1%
+
+P
+
+ro
+
+23.1%
+51.3%
+
+Stable workforce
+
+Product
+
+uct
+
+had the
+
+lowest rate of
+b
+
+Increased staffing
+
+d
+
+onus
+
+cuts
+
+s
+
+a a y,
+l
+
+r
+
+, a d be efi
+n
+
+n
+
+t
+
+at 5.1%.
+
+
+Layoffs occurred
+
+No layoffs, but there were
+cuts to salaries, bonuses, or
+other benefits
+
+20.5%
+
+Consul ting/
+18.4%
+
+36.7%
+
+Stable workforce
+
+Outsourcing
+
+had a
+
+higher rate of staff
+
+Increased staffing
+
+increase compared to
+
+other models at 30.6% .
+
+
+Consulting / 
+
+
+14.3%
+
+Layoffs occurred
+
+Outsourcing
+
+No layoffs, but there were
+cuts to salaries, bonuses, or
+other benefits
+30.6%
+
+10%
+
+Non-IT
+57.1%
+
+Stable workforce
+
+Business
+
+recorded the highest
+
+10%
+
+stable
+
+Increased staffing
+
+workforce
+
+rate
+
+at 57.1% .
+
+Layoffs occurred
+
+Non-IT Business
+
+No layoffs, but there were
+cuts to salaries, bonuses, or
+
+22.9%
+
+other benefits
+
+10.5%
+
+IT
+
+36.8%
+
+Stable workforce
+
+service
+
+model
+
+with
+
+highest
+
+Increased staffing
+
+IT Service
+
+was
+
+the
+
+the
+
+layoffs
+
+occurred
+
+rate
+
+at
+
+31.6%
+
+
+Layoffs occurred
+
+No layoffs, but there were
+cuts to salaries, bonuses, or
+
+31.6%
+
+other benefits
+
+21.1%
+
+16
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of
+2024
+
+2025
+
+PART
+
+3
+
+3.1. Current state of IT departments in businesses following 2023 layoffs
+
+The current state of IT personnel in businesses in 2024 by Business Workforce Size
+
+60%
+
+50.8%
+
+47.9%
+
+42.9%
+
+42.9%
+
+40%
+
+40%
+
+40%
+
+40%
+
+30%
+
+23.1%
+
+20.5%
+20.5%
+
+20%
+
+20%
+
+20%
+
+14.3%
+13.8%
+
+12.3%
+
+11%
+10%
+
+0%
+
+Layoffs
+
+No layoffs, but there
+
+Stable
+
+Increased
+
+occurred
+
+were cuts to salaries,
+
+workforce
+
+staffing
+
+bonuses, or other
+
+benefits
+
+Businesses with fewer
+Fewer than 100 employees
+
+
+employees and over
+
+than
+
+3,000
+
+100
+
+employees
+
+had the highest rate of layoffs occurred
+From 100 to 500 employees
+
+at 20.5% and 20% , respectively.
+
+
+
+From 500 to fewer than 1,000 employees
+
+Businesses from 500
+
+From 1,000 to fewer than 3,000 employees
+
+
+1,000
+
+to
+
+fewer
+
+employees and over
+
+than
+
+3,000
+
+employees had the highest rate of staff
+
+More than 3,000 employees
+
+increase at 42.9% and 40% , respectively.
+
+
+
+Meanwhile, businesses from 1,000
+
+fewer
+
+than
+
+3,000
+
+employees had the
+
+highest rate of salary,
+
+benefit
+
+17
+
+S
+
+2024
+
+2025
+
+bonus,
+
+and
+
+cuts at 30% .
+
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial ntelligence urge of
+I
+
+to
+
+PART 3
+
+3.2. The IT personnel situation post-2023 layoffs
+
+57
+.
+
+5
+
+.1%
+
+%
+
+According to the
+64%
+
+Stable job situation
+
+survey, in 2023,
+
+13.4%
+
+11.
+
+8
+
+of IT
+
+personnel
+
+%
+
+To have one's salary, bonus,
+
+or other benefits reduced
+
+experienced
+
+reductions
+
+benefit
+
+salary
+
+or
+
+cuts, 11.8%
+
+Voluntary resignation
+actively
+
+new
+
+and
+
+sought
+
+opportunities,
+
+5.7%
+
+were
+
+To be laid off
+forced
+
+13.4%
+
+to
+
+leave
+
+the
+
+company.
+
+
+Others
+
+IT personnel situation in 2023
+
+The situation of 2023’s IT personnel having their salaries and benefits cut in 2024
+
+N
+
+59
+
+o change
+
+2
+
+To be reinstated to the
+
+p -202
+re
+
+6.4%
+
+3 cut level.
+
+mp
+p -202
+
+To be increased co
+
+the
+
+re
+
+ared to
+14.3%
+
+3 cut level
+
+0
+
+2024, more than half of those who experienced
+
+or
+
+benefit
+
+to
+
+%
+
+4
+
+0
+
+%
+
+6
+
+0
+
+%
+
+80
+
+%
+
+salary
+
+cuts reported that their salaries have yet to
+
+pre-cut
+
+levels, remaining stagnant. Only
+
+26.4% have had their salaries
+
+proportion, 14.3%
+
+18
+
+20
+
+%
+
+In
+
+recover
+
+.3%
+
+have
+
+restored, and a smaller
+
+received
+
+a
+
+raise.
+
+Human Resources and Recruitment rends in the IT Industry
+Amidst the Artificial Intelligence urge of 202 -2025
+T
+
+S
+
+4
+
+PART
+
+3
+
+3.2. The IT personnel situation post-2023 layoffs
+
+The situation of 2023’s IT personnel being laid off in 2024
+
+60%
+
+Still unemployed
+
+Found a new job and
+17.5%
+
+satisfied with the position
+
+Found a new job but not
+12.5%
+
+satisfied with the position
+
+10%
+
+Found a job but not in the IT field
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+The situation of 2023’s IT personnel voluntarily resigning in 2024
+
+43.9%
+
+Still unemployed
+
+Found a new job and
+24.4%
+
+satisfied with the position
+
+Found a new job but not
+23.2%
+
+satisfied with the position
+
+8.5%
+
+Found a job but not in the IT field
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+On the other hand, the survey also noted
+
+Nearly 60%
+
+of
+
+laid-off
+
+those who voluntarily
+
+employees had yet to find new jobs in 2024, a rate about
+
+1.5
+
+times
+
+higher
+
+than that of
+
+qui
+
+Employees who voluntarily
+
+quit had a significantly higher rate of
+
+compared to those who were laid off, at
+
+24.4% and
+
+Despite finding new jobs, there was still a
+
+positions. This figure was lower
+
+for
+
+suitable
+
+and
+
+satisfying
+
+jobs
+
+17.5%, respectivel
+
+proportion
+
+laid-off
+
+finding
+
+of
+
+employees
+
+who
+
+were
+
+dissatisfied
+
+employees compared to those who voluntarily
+
+with
+
+their
+
+new
+
+quit, at 12.5% and
+
+23.2%, respectively
+
+Additionally, a small but notable proportion of employees who voluntarily
+
+field, while this rate was
+
+lower
+
+for laid-off
+
+quit had switched
+
+to
+
+a
+
+different
+
+employees
+
+
+Overall, both groups faced difficulties in finding jobs after the wave of layoffs, but those who voluntarily
+
+with careful preparation and professional networks, faced
+
+fewer
+
+difficul ties
+
+than
+
+those
+
+Human Resources and Recruitment rends in the IT Industry
+Amidst the Artificial ntelligence urge of
+-
+
+who
+
+were
+
+laid
+
+quit, often
+
+off.
+
+
+
+T
+
+19
+
+I
+
+S
+
+2024
+
+2025
+
+PART 3
+
+3.2. The IT personnel situation post-2023 layoffs
+
+Time taken for IT professionals to find a new job after their most recent resignation, by job level and position
+
+60%
+60%
+
+44.6%
+
+40%
+
+37.5%
+
+37.5%
+
+44.9%
+
+37.9%
+
+33.7%
+32%
+
+31.6%
+
+30.2%
+
+20.8%
+
+19.4%
+
+29.9%
+
+19.8%
+
+20%
+
+15.8%
+14.4%
+
+12.5%
+11.8%
+
+9.7%
+9.6%
+
+8.8%
+6.9%
+
+6.8%
+
+5.2%
+
+4.8%
+
+4%
+2.8%
+
+4%
+
+2.9%
+
+0%
+
+Fresher
+
+Junior
+
+Middle
+
+Leader/
+
+Head/
+
+Manager
+
+CTO/ COO
+
+Senior
+
+Less than 1 month
+
+
+1 to 3 months
+
+
+6 months to 1 year
+
+
+3 to 6 months
+
+Over 1 year
+
+Based on the survey, it can be concluded that:
+
+Senior-level positions filled the fastest: Individuals in Leader/Manager and Head/CTO/COO roles found
+
+new employment in the shortest time, often within a month. This suggests a high demand for leadership
+
+and high level positions in the IT industry.
+
+
+Senior
+
+and Middle-level
+
+professionals had comparable job search durations: Both Senior
+
+and Middle-level
+
+employees had a high percentage of finding new jobs within three months, indicating a relatively active
+
+job market for these levels.
+
+
+A small percentage of employees across all levels took a significant amount of time to find a new job:
+
+While most employees found employment quickly, a small but notable proportion, especially at the
+
+Fresher level, took a year or more. This could be attributed to lower demand for entry-level positions in the
+
+current job market.
+
+
+Significant variations across job levels: Despite some similarities, the chart reveals distinct differences in job
+
+search durations across various levels. This indicates that job opportunities and hiring requirements vary
+
+significantly between different job levels
+
+
+uman Resources and Recruitment rends in the IT Industry
+Amidst the Artificial Intelligence urge of
+H
+
+20
+
+T
+
+S
+
+2024
+
+2025
+
+PART 3
+
+3.3. Job-seeking trends of IT personnel in 2024-2025
+
+68.1%
+
+31.9%
+
+Yes
+
+No
+
+Percentage of IT employees
+
+changing jobs in the first half of 2024
+
+1.4%
+
+1.1%
+
+Currently looking for a new job
+
+6.8%
+
+37.9%
+8.7%
+
+Planning to change jobs in the next
+
+6-12 months
+
+Not planning to change jobs in the
+
+next 1 years
+
+16.4%
+
+Not planning to change jobs in the
+
+next 3 years
+
+Not planning to change jobs in the
+
+next 2 years
+
+27.6%
+
+No plans to change jobs
+
+IT career change plans in the
+
+Others
+
+2024-2025 period
+
+The IT job market showed stability
+
+in
+
+the
+
+first
+
+half
+
+of
+
+2024 with a turnover rate of only 32%. However, future
+
+prospects indicate a more dynamic landscape, as over 65% of IT personnel are currently
+
+to
+
+21
+
+do so within the next 6-12
+
+seeking
+
+new
+
+jobs
+
+or plan
+
+months.
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 0
+0 5
+2
+
+24-2
+
+2
+
+PART 3
+
+3.3. Job-seeking trends of IT personnel in 2024-2025
+
+The top priorities of IT professionals when seeking new employment
+
+A salary equal to or higher than my
+23.2%
+
+previous position
+
+17%
+
+Opportunities for career advancement
+
+Company's financial stability
+
+15.1%
+
+Many benefits (e.g., insurance,
+10.8%
+
+bonuses, company trips)
+
+Flexible work arrangements (hybrid
+9.8%
+
+or remote work)
+
+Potential level, impact of the
+9.4%
+
+product/project
+
+8.6%
+
+Friendly supervisors and colleagues
+
+4.5%
+
+Company location is close to home
+
+1.8%
+
+Nice office with modern equipment
+
+5%
+
+0%
+
+F c
+a
+
+tors IT professionals are willing to
+
+10%
+
+c
+
+ompromise on to se
+
+cu
+
+15%
+
+re a new
+
+20%
+
+25%
+
+j b qu c
+o
+
+i
+
+kly
+
+Able to take on more workload and
+37.3%
+
+multitasking
+
+More flexible in choosing work
+34.3%
+
+environment and benefits
+
+Willing to accept lower salary to get
+15.6%
+
+a job sooner
+
+12.8%
+
+No changes compared to before
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+Compared to the 2023 survey:
+The 2024 survey recorded a significant increase in the number of votes for "Salary equal to or higher than
+the previous position", jumping from the 3rd to the 1st rank with over 23%. This proves that salary remains
+the main motivation for IT job changes.
+
+On the other hand, to secure a new job quickly, many IT professionals are willing to consider "Taking on
+more workload and multitasking". This figure has increased by 10% compared to the previous year,
+indicating an increasingly competitive job market.
+
+22
+
+Human Resources and Recruitment Trends in the IT Industry
+midst the rtificial Intelligence Surge of
+A
+
+A
+
+2024
+
+2025
+
+PART
+
+3
+
+3.3. Job-seeking trends of IT personnel in 2024-2025
+
+IT job search channel
+
+26.6%
+
+Job boards (e.g., VietnamWorks)
+
+22.3%
+
+Social media
+
+10.7%
+
+Headhunters
+
+10.2%
+
+HR of companies directly contacting
+
+9.6%
+
+Referrals from acquaintances
+
+7.2%
+
+Company's career page
+
+Groups,
+
+communities on
+
+6.5%
+
+Zalo, Telegram,...
+
+Job postings
+
+via
+
+4.4%
+
+email
+
+2.2%
+
+Job fairs
+
+Others
+
+0.2%
+
+0%
+
+10%
+
+The survey findings highlight the enduring popularity of Job
+
+20%
+
+30%
+
+boards among IT job seekers, with 26.6% of
+
+respondents indicating that they primarily use these platforms to find new opportunities. This suggests
+
+that IT professionals continue to take a proactive approach to their career searches.
+
+
+Social
+
+media platforms also remain a significant channel for IT candidates, with 22.3% of respondents
+
+using this method. This represents a slight increase compared to last year (21.9%)
+
+
+50%
+Top 5 IT social media platforms
+
+for job seekers
+
+
+49.1%
+
+40%
+40.7%
+
+30%
+
+Beyond familiar platforms like
+
+LinkedIn and
+
+Facebook, the
+
+20%
+survey also noted a rise in the use
+
+of newer social media platforms
+
+for IT job searches. Specifically,
+
+TikTok and Threads have gained
+
+10%
+
+significant attention, accounting
+
+for 5.4% and 4.4% of survey
+
+respondents, respectively.
+
+5.4%
+
+4.4%
+
+0.4%
+
+0%
+
+LinkedIn
+
+23
+
+Facebook
+
+Human Resources
+
+TikTok
+
+and
+
+Threads
+
+Recruitment
+
+Amidst the Artificial Intelligence
+
+Zalo
+
+Trends in the IT Industry
+
+Surge
+
+of 2024-2025
+
+PART
+
+3
+
+3.4. IT recruitment trends in 2024 - 2025
+
+Top positions businesses are expected to hire for in 2025
+
+22.5%
+
+Backend / Frontend Developer
+
+Product Owner / Product Manager /
+15.7%
+
+Project Manager
+
+QC / QA
+
+
+13.1%
+
+AI Engineer
+
+
+13.1%
+
+Data Engineer / Data Scientist
+
+
+12.5%
+
+DevOps
+
+
+11%
+
+Cyber Security Engineer
+
+
+7.3%
+
+5%
+
+Scrum Master / Agile Coach
+
+5%
+
+0%
+
+The survey results reveal that Backend/Frontend
+
+10%
+
+Managers at 15.7% . QC/QA
+
+and AI
+
+20%
+
+25%
+
+Developers are the most sought-after positions by
+
+businesses, accounting for 22.5% of the total. Following closely are Product
+
+Project
+
+15%
+
+Owners/Product
+
+Managers/
+
+Engineers tied for the third spot at 13.1% , indicating a strong
+
+focus on product quality assurance and AI development.
+
+
+Human Resources and Recruitment Trends in the IT Industry
+24
+
+PART 3
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+3.4. IT recruitment trends in 2024 - 2025
+
+8.5%
+
+1.1%
+8.5%
+
+A significant 49.7% of surveyed
+
+Significant
+
+32.2%
+
+decrease
+
+companies reported a slight
+
+increase in IT salary and benefits
+
+compared to 2023. This indicates
+49.7%
+
+a growing trend among
+
+businesses to adjust
+
+Slight decrease
+compensation packages to
+
+attract talent.
+
+
+No change
+Meanwhile, 32.2% of companies
+
+opted for "no
+
+change"
+
+suggesting that a substantial
+
+portion of businesses did not feel
+
+Slight increase
+the need to adjust salaries and
+
+benefits compared to the
+
+previous year.
+
+
+Significant
+
+Shift in salary and benefits packages
+
+increase
+
+for IT positions compared to 2023
+
+Human Resources and Recruitment Trends in the IT Industry
+25
+
+PART 3
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+3.4. IT recruitment trends in 2024 - 2025
+
+Despite differences in business models and geographic locations, the demand for recruitment in 2025
+
+is still diverse and abundant in terms of quantity, indicating that businesses have clear recruitment
+
+strategies. Among them, hiring 0-10, 10-30, and 30-50 employees are the three most prioritized groups
+
+by many businesses.
+
+
+IT recruitment demand in 2025 by geographic location
+
+80%
+
+61.5%
+
+60%
+
+41.7%
+
+40%
+37.3%
+
+33.3%
+32.2%
+
+26%
+
+22.2%
+
+22.2%
+
+20%
+
+15.4%
+
+15.4%
+13.5%
+
+11.1%
+
+11.1%
+
+10.2%
+
+8.5%
+7.7%
+
+5.1% 5.1%
+
+5.2%
+
+3.4%
+
+4.2%
+3.3%
+3.4%
+1%
+
+0%
+
+0 - 10
+
+10 - 30
+
+30 - 50
+
+50 - 100
+
+100 - 200
+
+200 - 300
+
+Over 300
+
+No
+
+recruitment
+
+plans yet
+
+The data reveals the following recruitment distribution
+Ho Chi Minh city
+
+
+Hanoi
+
+
+Ho
+
+Chi
+
+Minh
+
+City
+
+has an uneven distribution among
+
+groups, with 41.7% of recruitment plans recruiting 0-10
+
+Danang
+
+
+Other provinces/cities
+
+employees
+
+Hanoi primarily focuses on recruiting 10-30
+
+employees
+
+(37.3%)
+
+Danang showcases a wide range of recruitment scales,
+
+from
+
+0
+
+Other
+
+to
+
+200
+
+employees
+
+provinces/cities predominantly plan to hire on a
+
+smaller scale, with 61.5% targeting 0-10
+
+6
+
+2
+
+uman Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of
+H
+
+2024-2025
+
+employees.
+
+PART
+
+3
+
+3.4. IT recruitment trends in 2024 - 2025
+
+2%
+
+1.4%
+
+8.2%
+
+2.9%
+
+2.9%
+
+34.7%
+
+0 - 10
+
+
+5.7%
+
+0 - 10
+
+
+51.4%
+
+6.1%
+
+10 - 30
+
+
+10 - 30
+
+
+14.3%
+
+30 - 50
+
+
+30 - 50
+
+
+12.2%
+
+N
+
+Consulting / 
+
+
+on
+
+Outsourcing
+
+10.2%
+
+- B
+IT
+
+usiness
+
+50 - 100
+
+
+50 - 100
+
+
+100 - 200
+
+
+100 - 200
+
+
+Over 300
+
+
+200- 300
+
+21.4%
+
+No recruitment
+
+No recruitment
+
+plans yet
+
+plans yet
+
+26.5%
+
+8.5%
+
+8.5%
+
+10.5%
+
+10.3%
+
+21.1%
+
+33.3%
+
+0 - 10
+
+
+0 - 10
+
+
+5.1%
+
+5.3%
+
+2.6%
+
+10 - 30
+
+
+10 - 30
+
+
+10.5%
+
+7.7%
+
+30 - 50
+
+
+30 - 50
+
+
+IT Service
+
+Product
+50 - 100
+
+
+100 - 200
+
+
+100 - 200
+
+
+Over 300
+
+
+15.8%
+
+No recruitment
+Over 300
+36.8%
+
+plans yet
+
+41%
+
+8.5%
+
+m
+
+IT recruit
+
+ma
+
+ent de
+
+nd in
+
+2025 by b
+
+8.5%
+
+p a
+
+usiness o
+
+er
+
+ting
+
+m
+
+odel
+
+Based on the survey results, we can observe the following hiring trends:
+
+
+Non-IT
+
+businesses, which are not directly related to information technology, have a relatively low
+
+demand for IT personnel, with less
+
+Consul ting/Outsourcing and IT
+
+than
+
+10
+
+employees (51.4%) in 2025.
+
+
+services companies, due to their project-based nature, exhibit a wider
+
+range of hiring needs.
+
+
+Product
+
+27
+
+companies tend to focus on hiring 0-30
+
+employees in 2025 (74.3%).
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of
+2024-2025
+
+PART
+
+3
+
+3.4. IT recruitment trends in 2024 - 2025
+
+Primary criteria businesses look for when hiring
+
+Work experience and
+46.9%
+
+completed projects
+
+Strong programming skills
+
+16.4%
+
+Innovative mindset and
+13%
+
+quick learner
+
+Soft skills and teamwork abilities
+
+11.9%
+
+Proficiency in foreign languages
+
+10.2%
+
+10%
+
+0%
+
+20%
+
+30%
+
+When hiring, companies generally place a greater emphasis on work
+
+a high percentage (46.9%) Programming
+
+skills and innovative
+
+40%
+
+experience and completed
+
+50%
+
+projects, with
+
+mindset are also highly sought after, reflecting a
+
+demand for both technical expertise and innovative thinking.
+
+
+
+Sources for finding IT candidates in the recruitment process of businesses
+
+Social networks (Linkedin,
+23.4%
+
+Facebook, Threads...)
+
+Job sites such as VietnamWorks
+
+19.5%
+
+Employee referrals
+
+18 %
+
+The company's own career page
+
+12.5%
+
+Technology groups and communities
+10.9%
+
+such as Zalo, Telegram...
+
+Headhunt services
+
+9.4%
+
+Job fair
+
+6.3%
+
+5%
+
+0%
+
+The
+
+and
+
+survey
+
+Threads
+
+some
+
+role
+
+results
+
+(23.4%)
+
+companies
+
+in
+
+attracting
+
+Employee
+
+specialized
+
+Company’s
+
+to
+
+that
+
+find
+
+trusting
+
+businesses
+
+IT
+
+primarily
+
+candidates.
+
+and
+
+using
+
+it
+
+Among
+
+(2.4%).
+
+Job
+
+rely
+
+on
+
+these,
+
+sites
+
+social
+
+networks
+
+Threads
+
+such
+
+as
+
+15%
+
+is
+
+a
+
+20%
+
+platforms
+
+relatively
+
+new
+
+VietnamWorks
+
+like
+
+LinkedIn,
+
+platform
+
+(19.5%)
+
+also
+
+but
+
+play
+
+25%
+
+Facebook,
+
+still
+
+an
+
+has
+
+important
+
+candidates.
+
+
+
+referrals
+
+Headhunting
+
+28
+
+show
+
+10%
+
+account
+
+services
+
+for
+
+(9.4%)
+
+18%
+
+and
+
+of
+
+recruitment,
+
+technology
+
+highlighting
+
+groups
+
+and
+
+the
+
+significance
+
+communities
+
+(10.9%)
+
+of
+
+internal
+
+are
+
+also
+
+networks.
+
+used
+
+to
+
+attract
+
+talents.
+
+
+
+own
+
+career
+
+pages
+
+(12.5%)
+
+and
+
+job
+
+fairs
+
+(6.3%)
+
+are
+
+less
+
+popular
+
+choices. 
+
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of
+
+2024-2025
+
+PART
+
+3
+
+3.4. IT recruitment trends in 2024 - 2025
+
+Enterprise investment and development factors for IT recruitment in 2024 - 2025
+
+Talent retention
+
+.3
+
+21
+
+Improving HR technology and tools
+
+1
+
+Expanding the IT talent pool
+
+1
+
+Enhancing employer branding in the
+tech industry
+
+1
+
+Enhancing the candidate experience
+10
+
+Recruitment marketing
+
+7.4
+
+Others
+
+0
+
+.4
+
+.8
+
+in
+
+the
+
+recruitment
+
+tech
+
+6
+
+%
+
+%
+
+%
+
+5%
+
+10%
+
+15%
+
+According to the survey, 21.3% of businesses plan to invest primarily in
+
+branding
+
+2%
+
+%
+
+0%
+
+HR
+
+%
+
+11%
+
+HR / Recruitment analytics
+
+17% for improving
+
+6.
+
+7
+
+%
+
+technology
+
+&
+
+tools. Expanding
+
+the
+
+IT
+
+talent
+
+talent
+
+pool
+
+25%
+
+retention in 2024-2025, followed by
+
+(16.2%) and enhancing
+
+industry (16%) are also key areas of focus. Enhancing
+
+analytics (10.8%) are less prioritized, while recruitment
+
+20%
+
+candidate
+
+employer
+
+experience (11%) and HR/
+
+marketing (7.4%) is the least prioritized.
+ 
+
+The most appreciated standout points in an applicant's resume
+
+3
+
+Highlight relevant skills and experience
+Concise and easy-to-understand content
+
+.
+
+21 5%
+
+Use numbers and data to illustrate
+achievements
+
+1
+
+Well-defined career goals, show
+passion and dedication
+
+15
+
+Attach a professional profile picture
+
+4.
+
+Eye-catching CV layout
+
+4.3
+
+(19.5%) and clear
+
+professional
+
+9
+
+2
+
+career
+
+personal
+
+5%
+
+%
+
+%
+
+10%
+
+According to the survey, 35% of businesses value
+
+content
+
+.3
+
+9.
+
+5%
+
+0%
+
+easy-to-understand
+
+5%
+
+relevant
+
+skills
+
+and
+
+and data
+
+to
+
+illustrate
+
+(15.3%) are also important considerations. Eye-catching
+
+4
+
+0%
+
+experience the most in a CV. Concise
+
+follows closely at 21.5% . Using numbers
+
+objectives
+
+3
+
+20%
+
+0%
+
+and
+
+achievements
+
+CV
+
+layout and
+
+images are less significant, accounting for a smaller percentage.
+
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of
+4202
+
+2025
+
+PART
+
+3
+
+3.5. Challenges for Candidates and Companies in the IT Sector in 2024 - 2025
+
+IT job positions that companies find difficult to recruit
+
+Product Owner /
+
+25.6%
+
+Product Manager
+
+
+16.4%
+
+Full Stack
+
+
+16.4%
+
+AI Engineer
+
+
+12.6%
+
+DevOps
+
+
+12.4%
+
+Cyber Security Engineer
+
+
+9.2%
+
+Cloud Engineer
+
+
+7.5%
+
+Back-end
+
+0%
+
+10%
+
+Survey results show that the most difficult positions to recruit for include Product
+
+and Full
+
+Stack
+
+and
+
+AI
+
+20%
+
+Owner
+
+30%
+
+/
+
+Manager (25.6%)
+
+Engineers (16.4%). This reflects the high competition and great demand in product
+
+management and full-stack technology fields. Positions like DevOps (12.6%) and Cyber
+
+Security
+
+Engineer
+
+(12.4%) also face recruitment challenges, highlighting the importance of security and system management.
+
+Positions like Cloud
+
+Engineer (9.2%) and Back-end (7.5%) are less difficult to fill but still require attention.
+
+
+When inquired about the levels of hard-to-fill positions, a majority of companies indicated senior-level roles and
+
+above. Besides technical expertise, many companies also seek candidates with solid management skills.
+
+
+Human Resources and Recruitment Trends in the IT Industry
+30
+
+PART 3
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+3.5. Challenges for Candidates and Companies in the IT Sector in 2024 - 2025
+
+Reason for resigning from the previous IT job
+
+24.9%
+
+Inadequate compensation and benefits
+
+19.2%
+
+Limited career growth opportunities
+
+Unsuitable company culture or environment
+
+16.2%
+
+Personal reasons (including family, health, or other
+10.3%
+
+personal commitments)
+
+Change in career interests, desire to explore a
+9.8%
+
+different field
+
+4%
+
+Conflict with boss or colleagues
+
+2.8%
+
+Geographic inconvenience
+
+High work pressure
+
+2.7%
+
+Layoff
+
+2.7%
+
+Others
+
+7.3%
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+When asked about their reasons for quitting their previous company, nearly 25% of the IT professionals surveyed
+cited Inadequate compensation and benefits. Limited career growth opportunities and an unsuitable
+company culture or environment were also significant factors contributing to their decision to leave.
+
+
+Challenges and difficulties in finding a new IT job
+
+Lack of relevant experience or skills for
+
+the
+
+j
+
+20.4%
+
+ob requirements
+
+High competition for the position due to
+18.9%
+
+many applicants
+
+Limited
+
+Insu
+
+j
+
+18.5%
+
+ob postings
+
+ffi
+
+cient foreign language proficiency or so
+
+ft
+
+skills
+13.3%
+
+(e.g., communication skills, teamwork skills)
+
+11.6%
+
+Complex and lengthy interview process
+
+9.7%
+
+Irrelevant technical tests or interview questions
+
+R
+
+H
+
+recruiters lack knowledge about the
+
+/
+
+technology or product
+
+6%
+
+company
+
+A
+
+ges
+
+0.5%
+
+Others
+
+1.1%
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+The lack of relevant experience or skills for the job requirements has become the most significant barrier for
+IT professionals seeking new jobs in 2024, rising two ranks compared to the previous year. Additionally, Age has
+emerged as a new challenge, especially for older IT professionals, highlighting the evolving landscape of the IT
+industry.
+
+31
+
+uman Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial ntelligence Surge of
+H
+
+I
+
+2024
+
+2025
+
+PART
+
+3
+
+Part 4
+
+Technology Trends
+& Impact of AI
+
+in HR & Recruitment
+2024 - 2025
+
+32
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.1. Popular programming languages in ​2024 - 2025
+
+Top 10 Languages C
+​ ommonly Used by IT
+
+SQL
+
+
+15.1%
+
+Python
+
+
+12.9%
+
+Javascript
+
+
+12.71%
+
+HTML/CSS
+
+
+11.64%
+
+Java
+
+
+9.75%
+
+C#
+
+
+7.3%
+
+C/C++
+
+
+6.86%
+
+TypeScript
+
+
+5.92%
+
+PHP
+
+
+4.85%
+
+Shell/Power Shell
+
+3.4%
+
+5%
+
+0%
+
+10%
+
+15%
+
+20%
+
+Top 10 Languages Businesses Favor for Hiring
+
+Java
+
+
+16.2%
+
+Python
+
+
+13.7%
+
+Javascript
+
+
+13%
+
+SQL
+
+
+12.2%
+
+C/ C++
+
+
+11.5%
+
+C#
+
+
+9%
+
+HTML/CSS
+
+
+8.6%
+
+PHP
+
+
+7.3%
+
+TypeScript
+
+
+4.6%
+
+Swift
+
+4%
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+Leading in both rankings last year, SQL continues to hold its position as the top choice in the Top 10
+Languages Commonly Used by IT, accounting for 15.1%. However, in the Top 10 Languages Businesses Favor
+for Hiring, SQL has dropped to fourth place, with 12%, as Java takes the top spot. 
+
+Notably, Python has risen to second place in both rankings this year. One of the reasons that can be
+mentioned is the strong development of artificial intelligence and the important role of Python in this field.
+
+Additionally, TypeScript is presence in the Top 10 in both groups indicates a growing demand for learning
+and hiring in this language. 
+
+While Java remains a top priority for businesses, it is less favored by IT professionals.
+
+
+33
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.2. Popular Libraries & Frameworks in 2024 - 2025
+
+Top 5 Libraries & Frameworks Used by IT Professionals
+
+.NET
+
+
+11.9%
+
+React.js
+
+
+10.3%
+
+Node.js
+
+
+8.8%
+
+7.3%
+
+jQuery
+
+6.2%
+
+ASP.NET
+2.5%
+
+0%
+
+5%
+
+7.5%
+
+12.5%
+
+10%
+
+Top 5 Libraries & Frameworks Preferred by Companies for Recruitment
+
+
+.NET
+
+
+28.2%
+
+React.js
+
+
+20.7%
+
+Node.js
+
+
+17%
+
+Angular
+
+
+12.1%
+
+Spring
+
+11.5%
+
+10%
+
+0%
+
+20%
+
+30%
+
+Leading the Top 5 Libraries & Frameworks in both rankings are .NET, React.js, and Node.js. This order remains
+unchanged from the 2023 survey results.
+Companies are increasingly seeking skills in Angular and Spring, while developers are more familiar with jQuery
+and ASP.NET.
+
+34
+
+R
+
+R
+
+Human esources and ecruitment Trends in the IT Industry
+midst the rtificial Intelligence urge of
+4-
+
+A
+
+A
+
+S
+
+202 2025
+
+PART 4
+
+4.3. The trend of IT professionals using AI
+6.5%
+18.9%
+59.8%
+81.1%
+
+33.7%
+
+Using AI for working
+
+Frequency of using
+Regularly (every day)
+
+
+Yes
+
+Occasionally (1 - 2 times/week)
+
+No
+
+Rarely (1 - 2 times/month)
+
+AI has become an essential assistant for IT. Over 80% of respondents said they are using AI to support their work,
+and nearly 60% of them use it every day.
+
+Top Sites / Tools for finding code solutions
+Google
+
+
+29.3%
+
+AI chatbox tools (ChatGPT, Gemini, Copilot,...)
+
+
+26.2%
+
+Stack Overflow
+
+
+16.5%
+
+GitHub
+
+
+10 . 4 %
+
+YouTube
+
+
+9.4%
+
+IT groups and communities on Facebook
+
+Online IT forums: Viblo, VOZ, etc.
+
+
+5.4%
+2.1%
+
+0.7%
+
+Others
+
+0%
+
+10 %
+
+20%
+
+3 0%
+
+When asked, "What is the first site/tool you think of to search for solutions when encountering code issues?" Google
+was the most chosen answer among IT professionals, accounting for nearly 30% of responses. In second place,
+surpassing Stack Overflow (16.5%), are AI chatbot like ChatGPT and Gemini, with 26.2%. This shows that AI chat
+tools are increasingly being utilized by IT professionals in their daily work.
+
+
+35
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.3. The trend of IT professionals using AI
+
+Top 4 Generative AI Tools Used by IT
+60%
+72.2%
+
+40%
+
+20%
+
+9.6%
+
+9.6%
+
+9.6%
+
+Microsoft Copilot
+
+Gemini
+
+6.5%
+
+0%
+
+ChatGPT/GPT-4
+
+GitHub Copilot
+
+Holding a 72.2% share, ChatGPT/GPT-4 has become the top tool in Generative AI, significantly outpacing rivals
+like Microsoft Copilot, Gemini, and GitHub Copilot.
+
+
+22.8%
+
+Not related to code
+
+Related to code
+
+
+53.1%
+
+Both of the above
+
+24.1%
+
+Purpose of using AI tools
+
+36
+
+Over half of the IT professionals surveyed utilize
+AI tools for both coding and non-coding tasks.
+The number using AI for code-related tasks only
+exceeds those who use it solely for non-coderelated activities.
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.3. The trend of IT professionals using AI
+
+Top 5 AI applications in coding-related work
+Supporting for coding
+
+
+26.3%
+
+Debug / fix bug
+
+19.3%
+
+Code improvement /
+refactoring
+
+13.1%
+
+Writing code documentation
+
+
+12.7%
+
+11.2%
+
+Review code
+
+10%
+
+0%
+
+20%
+
+30%
+
+In response to the question "How do AI tools assist you in your coding-related work?", most IT
+professionals reported using AI to assist in supporting for code writing, followed by debugging/fixing
+bugs and code improvement/refactoring.
+
+
+Level of trust among IT professionals when using AI tools for coding-related work
+
+60%
+54
+
+4
+
+%
+
+0%
+
+20%
+
+2 .1%
+4
+
+1 .2%
+8
+
+1. %
+
+2.2%
+
+Completely
+Distrustful
+
+Distrustful
+
+5
+
+0%
+
+ormal
+
+Trustworthy
+
+N
+
+Fully
+Trustworthy
+
+More than 42% of IT professionals who participated in the survey trust using AI to support coderelated work
+
+37
+
+Human
+
+R
+
+esources and
+
+R
+
+ecruitment
+
+Amidst the Artificial Intelligence
+
+S
+
+T
+
+rends in the IT Industry
+
+urge of
+
+202 202
+4-
+
+5
+
+PART
+
+4
+
+4.3. The trend of IT professionals using AI
+
+Top 5 AI applications in non-coding work
+Research and information
+synthesis
+
+22.4%
+
+Accelerating the learning
+process of new technologies
+and skills
+Improving communication
+processes (email writing,
+presentation preparation, etc.)
+
+19.8%
+
+16.7%
+
+Translation
+
+16.1%
+
+13.1%
+
+Report writing
+0%
+
+10%
+
+5%
+
+15%
+
+20%
+
+25%
+
+When it comes to non-coding work, IT professionals commonly use AI to Research and information
+synthesis, Accelerating the learning process of new technologies and skills, and Improving
+communication processes (email writing, presentation preparation, etc.).
+
+
+Level of trust among IT professionals when using AI tools for non-coding work
+
+
+60%
+
+64.6%
+
+40%
+
+20%
+
+0%
+
+28.5%
+
+0%
+
+3.1%
+
+Completely
+Distrustful
+
+Distrustful
+
+3.8%
+
+Normal
+
+Trustworthy
+
+Fully
+
+Trustworthy
+
+More than 32% of IT professionals surveyed trust AI to assist with non-coding tasks.
+
+38
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.4. The trend of IT professionals upskilling in AI
+
+18.2%
+
+Yes
+
+43.7%
+
+No but planning to learn in
+the future
+
+No
+
+38%
+
+The demand for AI learning and skill enhancement
+within the IT community is becoming increasingly
+evident. Specifically, 43.7% of IT professionals
+surveyed are currently pursuing additional AI
+knowledge. Furthermore, 38% expressed their
+intention to learn about this field in the future.
+
+Have you been learning about AI?
+
+Top 5 AI Learning Resources
+
+Online Courses 
+
+
+47.5%
+
+(Udemy, Coursera, Pluralsight,...)
+
+Online Communities and
+
+Forums
+
+19.5%
+
+18%
+
+Youtube
+
+versity, Institute, and Training
+
+Uni
+
+12.9%
+
+Center Programs
+
+Internal Company Resources
+
+0.7%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+The survey results indicate that online learning is the preferred method for IT professionals. Nearly half of those
+seeking AI education choose online courses of reputable platforms like Udemy, Coursera, or Pluralsight.
+Additionally, self-learning through online communities and forums or YouTube are also popular options.
+
+39
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.4. The trend of IT professionals upskilling in AI
+
+Barriers to learning/accessing AI technology for IT professionals
+
+19.9%
+
+Lack of foundational knowledge
+
+Difficulty finding suitable
+
+17.7%
+
+learning resources
+
+Abstract and complex AI
+15.8%
+
+concepts and terms
+
+Limited time for learning
+
+14.8%
+
+Scarcity of Vietnamese
+14.4%
+
+language materials
+
+High tuition fees
+
+10%
+
+Lack of perceived
+
+6.5%
+
+immediate benefits
+
+0.9%
+
+Others
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+While there is a strong demand for AI education among IT professionals, the survey highlighted some common
+challenges they encounter. Almost 20% of respondents cited a lack of foundational knowledge as their primary
+barrier to learning AI. Additionally, difficulties in finding appropriate learning resources and the abstract nature
+of AI concepts were reported by 17.7% and 15.8% of respondents, respectively
+
+40
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.5. AI's impact on recruitment
+
+58.8%
+
+41.2%
+
+Yes
+AI tools for
+recruitment
+No
+
+6.6%
+
+28.3%
+
+Write job descriptions
+
+
+21.7%
+
+Automate job posting
+
+
+Purpose of use
+
+
+Screen candidate resumes
+
+
+Analyze and evaluate candidates
+
+21.7%
+21.7%
+
+Conduct interviews via chatbot
+
+7.7%
+
+0.7%
+
+4.2%
+
+44.4%
+
+ChatGPT
+
+
+Gemini
+
+17.6%
+
+Commonly used
+tools
+
+Microsoft Copilot
+
+
+Internally Developed Tools
+
+
+Notion
+
+
+25.4%
+
+HiredScore
+
+The survey found that 41.2% of businesses are utilizing AI to streamline their recruitment processes, highlighting the
+growing trend of AI adoption in the industry.
+
+
+Common AI applications include automating tasks such as write job descriptions (28.3%), automate job posting,
+screen candidate resumes, and analyze and evaluate candidates (all 21.7%).
+
+
+41
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.5. AI's impact on recruitment
+
+10.2%
+
+14.1%
+
+Very high priority
+
+
+High priority
+
+
+Medium priority
+
+
+Low priority
+
+31.1%
+26.6%
+
+No priority
+
+More than 50% of businesses prioritize hiring
+candidates with AI skills. Of these, 26.6% prioritize
+and 14.1% highly prioritize AI skills, indicating a
+significant portion of businesses have recognized
+
+18.1%
+
+the importance of AI in the evolving technological
+landscape.
+
+
+Priority level for hiring personnel with
+skills in using ai tools
+
+50.8%
+
+49.2%
+
+Yes
+
+No
+
+The data reveals a balanced distribution of
+businesses with and without AI recruitment needs
+(49.2% vs. 50.8%), indicating a rising trend in AI
+adoption.
+
+
+Demand for hiring personnel in the
+AI sector
+
+
+42
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+4.5. AI's impact on recruitment
+
+The demand for hiring personnel in the AI sector is increasing, with attractive salaries and a focus on programming
+skills, data processing, and practical AI applications.
+
+
+Number of years of
+experience typically
+
+Less than 1 year
+
+
+12.5%
+
+required in AI
+recruitment
+
+From 1 to 2 years
+
+
+39.4%
+
+Most businesses (64.4%) are
+looking for AI professionals
+
+From 2 to 3 years
+
+
+25%
+
+from 1-3 years of
+experience, suggesting a
+balance between the need
+
+From 3 to 5 years
+
+
+16.3%
+
+for experienced candidates
+and those who are eager to
+
+More than 5 years
+
+learn.
+
+
+6.7%
+
+0%
+
+10%
+
+20%
+
+30%
+
+Proficient in programming languages
+such as Python, R, or Java
+
+40%
+
+Skills typically required
+for AI candidates
+
+
+25%
+
+Businesses are primarily
+
+Ability to work with large and
+unstructured data
+
+seeking AI candidates with
+22.1%
+
+strong practical skills, such
+as proficiency in
+
+Solid understanding of machine
+learning, deep learning, and computer
+vision algorithms
+
+programming languages
+
+20%
+
+like Python, R, and Java,
+and the ability to handle
+
+Experience with AI libraries:
+TensorFlow, PyTorch, scikit-learn, etc.
+
+1
+
+8.3%
+
+large, unstructured
+datasets. This reflects the
+growing demand for AI
+
+Strong foundation in probability,
+statistics, and linear algebra
+
+14.6%
+
+professionals who can apply
+their knowledge to realworld projects.
+
+
+
+0%
+
+Lower than other positions
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+Salary comparison
+between AI candidates
+and other IT roles,
+including programmers
+and software engineers
+
+
+5.7%
+
+On par with other positions
+
+32.2%
+
+The survey results reveal that a
+majority of businesses
+
+Higher than other positions
+by 10% to 20%
+
+perceive AI candidates' salaries
+43.7%
+
+to be higher compared to
+other positions. Specifically,
+43.7% believe salaries are 10%
+
+Higher than other positions
+by 20% to 50%
+
+1
+
+8.4%
+
+to 20% higher, while 18.4%
+estimate a 20% to 50%
+increase. This clearly reflects
+the growing value and
+
+0%
+
+43
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+demand for AI talent.
+
+
+PART 4
+
+4.5. AI's impact on recruitment
+
+Trends in AI candidates
+recruitment
+
+Willing to train
+personnel without AI
+
+11.5%
+
+experience
+
+Most businesses (56.3%) are
+looking for AI candidates
+with prior experience,
+
+Prefer to hire personnel
+
+56.3%
+
+with prior AI experience
+
+suggesting that experience
+is highly valued in the AI
+field and is essential for
+meeting the demands of
+
+Combine both of the
+
+complex AI projects.
+ 
+
+32.2%
+
+above approaches
+
+0%
+
+20%
+
+40%
+
+60%
+
+Challenges in AI
+
+Searching for
+
+candidates Recruitment
+
+didates with suitable
+skills and experience
+
+can
+
+46%
+
+A significant 46% of
+respondents identified the
+
+Limited budget to
+offer competitive
+
+difficulty in finding AI
+28.7%
+
+candidates with the
+
+salaries
+
+suitable skills and
+experience as the primary
+
+High competition with
+
+challenge in AI recruitment,
+
+other companies in
+
+reflecting a shortage of
+
+25.3%
+
+attracting talent
+
+qualified professionals in the
+AI field.
+ 
+
+
+0%
+
+44
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 4
+
+Part 5
+
+Corporate
+Profile
+
+45
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 5
+
+5.1. Navigos Group
+
+Navigos Group is the leading provider of human resources recruitment services in Vietnam. The
+company's mission is to help job seekers and companies achieve their dreams through the
+professional recruitment services Navigos Group provides. Navigos Group is known for its ecosystem
+including VietnamWorks - The leading online recruitment portal, VietnamWorks inTECH - an
+Information Technology employment recruitment brand, and Navigos Search - A mid-level and seniorlevel personnel recruitment service. In 2013, Navigos Group Vietnam officially became a member of
+the en Japan group specializing in providing human resources recruitment services with headquarters
+in Tokyo (Japan). Navigos Group has marked 22 years of operation in the Vietnamese market in 2024.
+
+
+5.2. VietnamWorks
+
+Vietnamworks is the leading and longest-operating job website in Vietnam with over 9 million
+monthly visits. Every day, VietnamWorks brings countless new jobs to over 5 million experienced
+candidates and is always at the forefront of providing the best recruitment solutions for over 60,000
+companies, mostly multinational corporations and leading brands in Vietnam. The rich database of
+experienced candidates and reputable employers of VietnamWorks is a valuable asset in the
+competitive recruitment market in Vietnam.
+
+
+5.3. VietnamWorks inTECH
+
+Together with VietnamWorks, Vietnamworks inTECH - a job & recruitment brand in the Information
+Technology industry, part of Navigos Group, was created to continue the mission of supporting
+Employers and Job Seekers in the Information Technology industry group above Vietnam market.
+
+Vietnamworks inTECH is committed to providing many high-paying jobs with attractive benefits
+f rom reputable technology companies at home and abroad with a variety of positions and
+recruitment levels.
+
+5.4. Navigos Search
+
+Navigos Search is Vietnam's leading executive search brand. With more than 20 years of experience
+in the HR field, Navigos Search offers a team of motivated, market-savvy consultants, and the most
+comprehensive database of applicants at all levels. According to Navigos Group's new philosophy Human Growth - Navigos Search is delighted to assist Companies in finding the best talents, as well
+as be a trustworthy partner for Candidates to choose the "Right Fit" and "Go Further" in their
+professional journey
+
+
+46
+
+Human Resources and Recruitment Trends in the IT Industry
+Amidst the Artificial Intelligence Surge of 2024-2025
+
+PART 5
+
+Headquarter
+20th Floor, e.Town Central, 11 Doan Van Bo,
+Ward 13, District 4, Ho Chi Minh City, Vietnam.
+
+(84 28) 5404 1373
+
+
+Hanoi Office
+7th Floor, V-building, 125-127 Ba Trieu Street, Nguyen Du Ward,
+Hai Ba Trung District, Hanoi, Vietnam.
+
+(84 24) 3974 3033
+
+
