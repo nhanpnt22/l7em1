@@ -1,0 +1,4018 @@
+Survey report
+June 2024
+
+CIPD Good
+Work Index 2024
+
+The CIPD has been championing better work and
+working lives for over 100 years. It helps organisations
+thrive by focusing on their people, supporting our
+economies and societies. It’s the professional body for
+HR, L&D, OD and all people professionals – experts in
+people, work and change. With over 160,000 members
+globally – and a growing community using its research,
+insights and learning – it gives trusted advice and offers
+independent thought leadership. It’s a leading voice in
+the call for good work that creates value for everyone.
+
+Survey report
+
+CIPD Good Work Index 2024
+Contents
+1
+
+Introduction
+
+2
+
+2
+
+Work centrality and discretionary effort
+
+6
+
+3
+
+Job satisfaction and pay
+
+10
+
+4
+
+Impact of work on mental and physical health
+
+11
+
+5
+
+Engagement and meaning
+
+12
+
+6
+
+Task complexity and work–life balance
+
+13
+
+7
+
+Job security
+
+15
+
+8
+
+Conflict in the workplace
+
+17
+
+9
+
+Autonomy and control
+
+26
+
+10 Skills and training in the workplace
+
+29
+
+11 Conclusion and recommendations
+
+32
+
+12 About this report
+
+33
+
+Acknowledgements
+
+This report was written by Ian Brinkley, on behalf of the CIPD.
+
+Publication information
+
+When citing this report, please use the following citation:
+Brinkley, I. (2024) CIPD Good Work Index 2024: Survey report. London: Chartered
+Institute of Personnel and Development.
+
+1
+
+CIPD Good Work Index 2024: Survey report
+
+1 Introduction
+
+The CIPD Good Work Index is an annual benchmark of good work or job
+quality in the UK. It measures a wide range of aspects of job quality, including
+employment essentials, such as contractual arrangements, the day-to-day
+realities of work as experienced by workers themselves, and the impacts on
+their health and wellbeing.
+The 2024 survey was conducted as the labour market continued to
+demonstrate resilience despite some recent weakening. Unemployment
+remained low and the level of unfilled vacancies remained high. The rapid fall
+in inflation had allowed some recovery in real wages. However, concerns over
+labour supply and low productivity remained as acute as ever.
+Last year’s report was conducted during high levels of industrial disputes,
+mostly in the public sector. The first two months of 2024 for which statistics
+are available show much reduced activity. There appears to have been no
+great increase in cases going to employment tribunal.1 However, neither
+measure is a good indicator of underlying conflict in the workplace at the
+individual level. The CIPD’s 2024 survey helps fill that gap.
+2024 at a glance
+The central focus of this report is conflict in the workplace, also a core theme
+from our 2019 survey. Conflict in our context covers being undermined or
+humiliated at work, verbal abuse, false allegations, discrimination related to a
+protected characteristic (sex, race, disability, sexuality), intimidation, assault,
+and harassment.
+The most commonly reported conflicts were being shouted at, undermined
+or humiliated, or being verbally abused. About 5% of people reported
+discrimination. Serious incidents, such as sexual and physical assault, were rare.
+The headline result is good news. Conflict has fallen, from 30% reporting
+at least one form of conflict in 2019 to 25% in 2024. However, this may be
+attributed to the big rise in homeworking since 2019, rather than to underlying
+improvement. The decline in conflict is mostly driven by falls in incidents
+of being shouted at or verbally abused, which are linked to people being in
+physical proximity.
+The largest falls in conflict were for white men over 35 in the ABC
+socioeconomic group (see Box 1 for details) and permanent jobs (these groups
+also account for most of the rise in homeworking). Non-heterosexual workers
+also reported higher than average declines – but from an exceptionally high
+level – and reported conflict still remains well above the average.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+1
+
+2
+
+Gov.uk. Tribunal statistics quarterly: July to September 2023.
+
+Introduction
+
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Box 1: Survey definitions
+The survey uses some condensed categories to help summarise results
+and we have combined some categories to give an adequate sample.
+These include:
+ABC1 and C2DE socioeconomic groups: ABC1 is mostly those in
+higher-skill, white-collar managerial, professional and technical jobs.
+C2DE includes those in skilled manual and less skilled manual and nonmanual jobs.
+Non-heterosexual workers: This group combines the three survey
+categories of gay and lesbian, bisexual and other sexuality to ensure an
+adequate sample size.
+Atypical contracts: This group combines three survey categories of
+temporary workers, zero-hours workers, and short-hours workers to
+ensure an adequate sample size. Note that some of these jobs are also
+permanent.
+Age: In this analysis we have typically combined the two youngest age
+groups (all those under 35) to ensure a reasonable sample, especially
+for comparisons with the 2019 survey, where those under 25 were
+underrepresented.
+Ethnic minorities, women, the disabled, those under 35, those with ‘atypical’
+job contracts, and those in the C2DE socioeconomic group were more likely
+to report conflict in 2024 and, for them, little has changed since 2019.
+A big focus of public debate for many policy-makers and practitioners is
+on formal processes to resolve conflict, such as grievances, mediation or
+industrial tribunals, but very few workplace conflicts are escalated to this level.
+Discussions with HR and line managers have a role, but the most common
+way people dealt with conflict was to let it go. It is unrealistic to think every
+conflict can be resolved fully, and most people reported either full or partial
+resolution – but one-third had no resolution.
+People who reported conflict had lower job and pay satisfaction and were
+more likely to say they experienced excessive workload, pressure, exhaustion,
+and negative impacts on their mental and physical health than those who
+did not. They also gave more negative responses on voice in the workplace.
+Unsurprisingly, they were twice as likely to say they may quit their job as
+those who did not report conflict.
+The impact of conflict on general relations in the workplace was surprisingly
+modest. People who reported conflict were less likely to report good relations
+with managers, but they were a minority. Most people who reported conflict
+also reported good relations in the workplace. And conflict had no significant
+impact on relations with colleagues or how managers perceived their relations
+with staff.
+3
+
+Introduction
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+This may be because people are making nuanced judgements about working
+relations in general and specific actions and incidents. Those who reported
+conflict were more critical of their managers and teams when specific
+behaviours were mentioned. It might also imply many of these incidents were
+one-offs where people were prepared to let it go, rather than systemic abuse,
+but this interpretation would require further work to confirm.
+The impact on performance was ambiguous. Given all the negatives
+associated with conflict reported above, it is hard to see how workers who
+are disproportionately disaffected about their job and pay, overloaded,
+and exhausted at work are going to perform at their best. Conflict is likely
+to generate higher turnover rates. But we also found little impact on
+discretionary effort – most people in conflict said they would still work harder
+than they needed to help their employer and their colleagues and make
+innovative suggestions in their teams.
+The 2024 survey confirms a previous trend, which started in the pandemic,
+where increasing numbers say they think a job is just about the money –
+up from 38% in 2019 to 47% in 2024. People were also less likely to say they
+would work harder than they need to help their employer, down from 57% to
+51%. Neither trend is helpful in terms of improving workforce productivity.
+There is somewhat better news on skills, training, and development, with
+an increasing proportion of people saying they had opportunities to acquire
+skills and good career opportunities. But there was no progress in matching
+skills and qualifications to jobs – many said they felt overqualified and
+had the skills to do more. We also found very little training specifically on
+new technologies, such as AI and virtual reality (VR), despite their growing
+application in the workplace.
+Many other indicators show little change from either last year or from 2019.
+Most people have a positive experience from work with high rates of job
+satisfaction. Most think their work is valuable and useful for their organisation,
+but fewer feel inspired by the organisation or their work. They were also less
+likely to think their work is useful and valuable to society or serves a wider
+purpose, but this is a tough hurdle for many jobs to pass.
+We also found no significant change in the degree of autonomy people have
+in their jobs when looking at tasks, pace, how work is done, and start and
+finish times. Although one perceived benefit of homeworking is more control
+over work, the rise in homeworking since 2019 has had almost no impact.
+This may be because those most likely to work from home were also the most
+likely to have jobs with high autonomy, regardless of where they do them.
+This in turn leads us to a more general conclusion. If most indicators of
+work quality have not greatly changed since 2019, it must follow that
+the big increase in homeworking has had little impact on them as well.
+Homeworking is popular with those who do it and there is some unmet
+demand from those who do not. But it is not a panacea. The sort of job
+we do, how we do it, and the way we are treated are all likely to be more
+important than geographical location.
+4
+
+Introduction
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Finally, we should note that the proportion who say work is having a negative
+impact on their mental and physical health has not changed significantly
+either, nor have indicators such as excessive workload, pressure, or exhaustion.
+Many of these are too high, but we suggest that work is not the primary driver
+of the rise in inactivity caused by long-term sickness since 2019.
+
+Box 2: What is good work?
+Definition
+The CIPD believes that good work is fundamental to individual
+wellbeing, supports a strong, fair society, and creates motivated workers,
+productive organisations and a strong economy.
+We define ‘good work’ as work that:
+• is fairly rewarded
+• gives people the means to securely make a living
+• provides opportunities to develop skills and a career and gives a
+sense of fulfilment
+• delivers a supportive environment with constructive relationships
+• allows for work–life balance
+• is physically and mentally healthy for people
+• gives people the voice and choice they need to shape their working
+lives
+• is accessible to all
+• is affected by a range of factors, including HR practices, the quality
+of people management and by workers themselves.
+Seven dimensions of good work
+Our definition of ‘good work’ is based on seven dimensions of good
+work that we capture data on. This data forms the basis for the CIPD
+Good Work Index itself, which uses both objective and subjective
+measures.
+Objective measures capture aspects that, in principle, should be
+unbiased: for example, data on contract type and union membership.
+Subjective measures reflect an opinion, preference or feeling: for example,
+how meaningful people find their work, the quality of relationships at
+work, and measures of job or life satisfaction.
+Our seven dimensions of good work are as set out in Table 1.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+5
+
+Introduction
+
+CIPD Good Work Index 2024: Survey report
+
+Table 1: Dimensions of good work
+
+Dimension
+
+Areas included
+
+1 Pay and benefits
+
+Subjective feelings regarding pay, employer pension
+contributions, and other employee benefits
+
+2 Contracts
+
+Contract type, underemployment, and job security
+
+3 Work–life balance
+
+Overwork, commuting time, how much work
+encroaches on personal life and vice versa, and HR
+provision for flexible working
+
+4 Job design and the nature
+of work
+
+Workload or work intensity, autonomy or how
+empowered people are in their jobs, how well
+resourced they are to carry out their work, job
+complexity and how well this matches the person’s
+skills and qualifications, how meaningful people find
+their work, and development opportunities provided
+
+5 Relationships at work
+
+Social support and cohesion, the quality of
+relationships at work, psychological safety, and the
+quality of people management
+
+6 Employee voice
+
+Channels and opportunities for feeding views to one’s
+employer and managers’ openness to employee views
+
+7 Health and wellbeing
+
+Positive and negative impacts of work on physical and
+mental health, often considered as an outcome of job
+quality
+
+1
+
+2 Work centrality and
+discretionary effort
+
+2
+3
+4
+
+The following section sets out some of the main findings from the 2024
+survey. We have also compared this with previous surveys from 2019 onwards.
+Most indicators show little or very modest change over the period.
+
+5
+
+One of the big exceptions has been a measure of ‘work centrality’, where
+respondents were asked whether a job to them is just about the money and
+nothing else. This was a trend we highlighted in last year’s report and this year
+saw a further rise. In 2024, 47% agreed, compared with just 36% in 2019. The
+turning point seems to have been the pandemic.
+
+7
+
+6
+
+8
+
+9
+10
+
+11
+12
+6
+
+Work centrality and discretionary effort
+
+CIPD Good Work Index 2024: Survey report
+
+A further question asked about discretionary effort, measured by people’s
+willingness to work harder than they needed to help their employer or
+organisation. This has declined from pre-pandemic levels. In 2019, 57% said
+they would be willing to work harder than they had to and, in 2024, this was
+down to 51%. Recent surveys suggest it has stabilised at this lower level. If
+things are not getting worse, they are also showing no sign of returning to
+pre-pandemic levels.
+Figure 1: My job is just for the money and I am willing to work harder than I need (%)
+60
+
+57
+53
+
+50
+40
+
+56
+
+53
+
+51
+
+51
+
+2023
+
+2024
+
+47
+36
+
+41
+
+38
+
+37
+
+2020
+
+2021
+
+43
+
+30
+20
+10
+0
+2019
+
+2022
+
+2023
+
+2024
+
+Job just for the money
+
+2019
+
+2020
+
+2021
+
+2022
+
+Willing to work harder
+
+Base: all (n=5,482).
+
+In 2024, men were more likely to agree that a job is just about the money
+than women. There was little variation by age, except for the oldest group
+of 55 or over, where only 35% agreed a job is just about the money. Workers
+in the C2DE socioeconomic groups were more likely to agree than those in
+ABC1 groups. Private sector workers were more likely to agree (49%) than the
+public sector (42%) or the voluntary sector (37%).
+Since 2019, there has been an exceptionally large increase for three groups –
+those under 35, those in atypical employment contracts, and ethnic minorities.
+The first two are related, as the young are disproportionately likely to be in
+atypical work. However, as the 2019 survey underrepresented younger age
+groups and atypical work, some of these results should be read with caution.
+In contrast, there was below-average change for those 55 or over, those in
+socioeconomic group C2DE, and the disabled.
+
+1
+
+2
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+7
+
+Work centrality and discretionary effort
+
+CIPD Good Work Index 2024: Survey report
+
+Table 2: A job is just about the money (% agree)
+
+2019 (%)
+
+2024 (%)
+
+% change
+
+Men
+
+40
+
+52
+
++12
+
+Women
+
+31
+
+42
+
++11
+
+Under 35*
+
+34*
+
+52
+
++18
+
+55 or older
+
+32
+
+35
+
++3
+
+C2DE socioeconomic group
+
+45
+
+51
+
++6
+
+ABC1 socioeconomic group
+
+33
+
+45
+
++12
+
+White
+
+36
+
+45
+
++9
+
+Ethnic minority
+
+38
+
+58
+
++20
+
+Disabled
+
+40
+
+46
+
++6
+
+Non-disabled
+
+35
+
+47
+
++12
+
+Atypical contract*
+
+26
+
+46
+
++20
+
+Permanent contract
+
+39
+
+49
+
++10
+
+All in work
+
+36
+
+47
+
++ 11
+
+Note: * small sample sizes in at least one survey.
+Base: all in work (2019: n=5,113; 2024: n=5,482); men (2019: n=2,696; 2024: n=2,863); women (2019: n=2,417; 2024: n=2,619); under
+35 (2019: n=1,041; 2024: n=1,491); 55 or older (2019: n=1,628; 2024: n=1,441); ABC1 (2019: n=3,684; 2024: n=4,001); C2DE (2019:
+n=1,317; 2024: n=1,397); white (2019: n=4,495; 2024: n=4,970); ethnic minority (2019: n=489; 2024: n=396); disabled (2019: n=989;
+2024: n=909); non-disabled (2019: n=3,998; 2024: n=4,522); atypical contract (2019: n=226; 2024: n=253); permanent contract (2019:
+n=4,222; 2024: n=4,615).
+
+Working at home and work centrality
+The 2024 survey suggests that those who worked at home were less likely to
+say a job is just about the money than those who did no work at home (43%
+v 52%). Those who worked at home were also more likely to say they are
+willing to work harder than they need to help their employer or organisation
+(55%) than those who did not (47%). So the 2024 survey does not suggest an
+obvious association between working at home and less commitment to work
+as measured by these questions.
+It is still possible that the rise in homeworking is associated with an
+increase in lower work commitment. We cannot directly test this because
+of differences in the questions asked in the two surveys. There is some
+indirect association. As Table 2 shows, it is among the ABC1 group that we
+see bigger than average increases in the share who say work is just about
+the money, and it is the ABC1 group who also account for almost all the
+increase in working at home since 2019.
+
+1
+
+2
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+8
+
+Work centrality and discretionary effort
+
+CIPD Good Work Index 2024: Survey report
+
+However, as we show later, the increase in working at home had no impact
+on many other work quality measures, such as autonomy, suggesting it is the
+nature of the job and how we are treated at work which are more important
+drivers than where we work. Any link to homeworking and the rise in those
+saying a job is just about the money must be regarded as not proven for the
+time being.
+Many would enjoy a job even if they did not need the money
+Work centrality is, however, a complex issue. Although nearly 40% agreed a
+job is just about the money, even more (57%) agreed they would enjoy their
+job even if they did not need the cash.
+In 2024, women were somewhat more likely to agree this is the case than
+men (younger age groups were much more likely to agree, as were ethnic
+minority workers). Those in ‘atypical contracts’ were slightly more likely to
+agree than those in permanent work. But there was no difference by disability
+or socioeconomic group (58% for ABC1, 57% for C2DE). The proportion of
+people in work who hold this view has been remarkably stable across all
+groups since 2019.
+We might say that work today is becoming more polarised between those
+who see it just as a means of income and those who value it for the
+enjoyment it brings. This seems to be especially so for younger as well as
+ethnic minority workers. Both groups saw exceptionally large increases in the
+proportion who said a job is just for money, but both were also consistently
+more likely than other groups to say they would enjoy a job even if they did
+not need the cash.
+Figure 2: I would enjoy having a paid job even if I didn’t need the money (% agree)
+
+1
+
+90
+
+2
+
+80
+70
+60
+
+60
+
+66
+
+64
+55
+
+63
+56
+
+55
+
+57
+
+57
+
+50
+
+3
+4
+
+40
+30
+
+5
+
+20
+
+6
+
+10
+0
+Women
+
+Men
+
+Under 35 45 or older
+
+Ethnic
+minority
+
+White
+
+Atypical
+
+Permanent All in work
+
+Base: women (n=2,584); men (n=2,802); under 35 (n=1,467); 45 or older (n=2,702); ethnic minority (n=392); white (n=4,879);
+atypical contract (n=249); permanent contract (n=4,534); all in work (n=5,426).
+
+7
+8
+
+9
+10
+
+11
+12
+9
+
+Work centrality and discretionary effort
+
+CIPD Good Work Index 2024: Survey report
+
+3 Job satisfaction and pay
+
+In 2024, most people said they were satisfied with their job (70%) and only
+13% said they were dissatisfied. There were no significant differences by
+gender or ethnicity (or between the public, private and voluntary sectors).
+Younger age groups were slightly more satisfied than older age groups (73%
+for those under 35 and 69% for those over 35). In contrast, the disabled were
+significantly less satisfied than the non-disabled. So too were those in less
+skilled work (socioeconomic group C2DE) compared with higher-skill, whitecollar jobs (socioeconomic group ABC1). This was also the case for those in
+atypical contracts.
+Figure 3: Job satisfaction (% satisfied)
+90
+80
+
+73
+
+70
+
+69
+
+72
+
+72
+66
+
+63
+
+71
+
+70
+
+63
+
+60
+50
+40
+30
+20
+10
+0
+Under 35
+
+Over 35
+
+Disabled
+
+Nondisabled
+
+C2DE
+
+ABC1
+
+Atypical
+
+Permanent All in work
+
+Base: under 35 (n=1,496); over 35 (n=3,993); disabled (n=912); non-disabled (n=4,525); C2DE (n=1,400); ABC1 (n=4,005); atypical
+contract (n=253); permanent contract (n=4,622); all in work (n=5,489).
+
+Pay match with responsibilities
+The survey also asked whether people thought they were paid appropriately
+for the responsibilities they had – 51% agreed while 30% disagreed. The
+proportion in agreement has edged up since last year and is noticeably up
+from 45% in 2019. The rise was almost entirely driven by the private sector
+(52% in 2024).
+In comparison, the voluntary sector was slightly less likely to agree (50%) and
+the public sector least so (46%). There were relatively minor differences by
+gender, ethnicity, age, and socioeconomic group. Employees with disabilities
+were less likely to agree, at 44%, compared with those without disabilities (52%).
+This may feel a little counterintuitive given the pressures on real pay in recent
+years and increased incidences of industrial action. However, the question
+asks people to judge pay against responsibilities and not, for example, whether
+pay has kept pace with prices in general. In that sense, we can say there has
+been modest progress in aligning pay and responsibilities in the private sector
+and very little, if any, in the public sector.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+10
+
+Job satisfaction and pay
+
+CIPD Good Work Index 2024: Survey report
+
+4 Impact of work on mental
+and physical health
+
+Some 39% said work had a positive impact on their mental health and 31%
+said it had a positive impact on physical health. But a quarter of the workforce
+reported negative physical and mental health impacts from work.
+For mental health, there were no significant differences by gender or disability.
+Those most likely to report positive impacts were at opposite ends of the age
+spectrum: the under-25s at 56% and those over 55 at 45%. Rather surprisingly,
+those in atypical contracts were much more likely to report positive impacts
+on mental health (53%) than those on permanent contracts (36%). This may,
+however, be partly explained by the young being more likely to have an
+atypical contract.
+There were also significant differences by sector: only 31% of public sector
+workers reported a positive impact on mental health, compared with 41% of
+private and voluntary sector workers. Conversely, 32% of public sector workers
+reported a negative impact on mental health, compared with 24% of private
+sector workers.
+There has been no significant change since 2019 for most of these groups,
+though the share of under-35s reporting positive impacts of work on mental
+health has edged up to 43% in 2024, from 37% in 2019.
+The UK Government has recently launched a consultation over the increased
+incidence of inactive claimants of working age due to long-term sickness and
+a rapid rise in the welfare payments for those unable to work due to mental
+and physical illness and disability. We draw two broad conclusions from the
+survey that may be relevant.
+First, there has been no increase in the negative impact of work on either
+mental or physical health since 2019. The survey does not tell us whether
+the severity of that impact has increased over time, but it does not suggest
+that work is making people sicker than it was before the pandemic. Other
+indicators that might be related, such as the proportion reporting excessive
+workload, being under pressure or feeing exhausted at work, have not
+significantly changed. Nor, as we report later, can it have been caused by any
+increase in workplace conflict.
+Second, while it is true that work on average seems to be better for us than
+involuntary inactivity, it does not follow that all jobs have a positive impact
+on health and wellbeing, with 25% reporting adverse impacts, rising to 30%
+for those with a disability. It is not just a job that matters, but the quality of
+that work.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+11
+
+Impact of work on mental and physical health
+
+CIPD Good Work Index 2024: Survey report
+
+Figure 4: Impacts of work on mental health (%)
+60
+
+53
+
+52
+50
+
+43
+37
+
+37
+
+40
+28
+
+30
+
+27
+
+26
+
+24
+
+39
+
+36
+
+21
+
+25
+
+18
+
+20
+10
+0
+
+Under 35
+
+Over 35
+
+White
+
+Ethnic
+minority
+Positive
+
+Atypical
+
+Permanent
+
+All in work
+
+Negative
+
+Base: under 35 (n=1,450); over 35 (n=3,934); white (n=4,893); ethnic minority (n=382); atypical contract (n=246); permanent contract
+(n=4,535); all in work (n=5,384).
+
+5 Engagement and meaning
+How I feel about my job
+The survey also looked in detail at some positive and negative aspects of
+the job. About half of all respondents said that they are always or often
+enthusiastic, that time flies or they are immersed in their work. Relatively few
+said they rarely or never experienced these things. However, only 30% said
+they are always or often full of energy, and 26% said it is rare or never.
+
+The negative aspects were a mixed picture. Most people reported they are
+rarely or never lonely, miserable, or bored. But they were less positive when it
+came to being full of energy, under pressure or feeling exhausted.
+Indeed, between a fifth and a quarter reported they rarely or never feel full of
+energy and always or often suffer from excessive pressure, feel exhausted at
+work or have an excessive workload. None of these indicators have changed
+significantly since 2019.
+
+2
+
+3
+4
+
+5
+
+Table 3: How I feel about my job (%)
+
+Always/often
+
+Sometimes
+
+Rarely/never
+
+Enthusiastic
+
+51
+
+34
+
+16
+
+Time flies
+
+50
+
+38
+
+13
+
+Immersed
+
+49
+
+36
+
+14
+
+Full of energy
+
+30
+
+45
+
+26
+
+Lonely
+
+14
+
+26
+
+61
+
+Miserable
+
+13
+
+28
+
+60
+
+Bored
+
+16
+
+34
+
+50
+
+Excessive pressure
+
+21
+
+37
+
+41
+
+Exhausted
+
+24
+
+42
+
+33
+
+Base: all (n=5,496).
+
+12
+
+1
+
+Engagement and meaning
+
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Meaningful work
+Much has been written about whether people think their jobs contribute to
+an organisation or have a broader impact on society and the wider world.
+Overall, the large majority feel they do valuable work at the organisational
+level, but much fewer feel inspired by the organisation’s purpose. Around half
+think it serves a wider societal purpose and a quarter do not, but these are
+high bars that would be unrealistic to expect all jobs to meet.
+In terms of what people get out of their work, two-thirds agreed they get a
+sense of achievement. Just over half agreed that their work fits what they
+value in life, matches their interests, and contributes to their personal growth.
+However, only 41% said they feel inspired at work. Table 4 gives the details.
+Responses are very similar to previous years.
+Table 4: Value of work and what I get out of my job (%)
+
+Agree
+
+Disagree
+
+My work is important to the organisation
+
+82
+
+5
+
+My work makes a valuable contribution to the organisation
+
+78
+
+7
+
+My work is useful to the organisation
+
+73
+
+11
+
+I am inspired by the organisation’s purpose
+
+43
+
+25
+
+I am doing useful work for society
+
+51
+
+25
+
+My work serves a greater purpose
+
+49
+
+24
+
+My work makes the world a better place
+
+43
+
+26
+
+Sense of achievement
+
+67
+
+14
+
+Fits what I value in life
+
+55
+
+17
+
+Matches my interests
+
+54
+
+22
+
+Contributes to my personal growth
+
+51
+
+21
+
+Feel inspired at work
+
+41
+
+28
+
+Base: all (n=5,496); all who are not freelance workers (n=5,218).
+
+6 Task complexity and
+work–life balance
+
+Job tasks
+Most jobs are a mix of tasks, some monotonous, some interesting, and allow
+for learning new things. Most people said their work always or often involves
+solving unforeseen problems on their own. Other job features were more
+mixed, with just under half saying their job always or often involves complex
+or interesting tasks or provides opportunities for learning new things. In
+contrast, just under a fifth said their job rarely or never involves such tasks.
+However, nearly half said that their job involves monotonous tasks most or all
+of the time. It is hard to design a job that does not include some monotonous
+13
+
+Task complexity and work–life balance
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+tasks, but nonetheless, it is concerning that nearly half the workforce are
+reporting this as the norm. Figure 5 gives details. There has been no significant
+change in this and the other indicators since 2019.
+Figure 5: Task complexity (%)
+70
+
+64
+
+60
+49
+
+50
+
+47
+
+46
+
+44
+
+40
+30
+19
+
+20
+9
+
+10
+0
+
+Complex
+tasks
+
+Unforeseen
+problems
+
+18
+
+17
+
+13
+
+Monotonous
+tasks
+
+Interesting
+tasks
+
+Learning
+new things
+
+Little/never
+
+Always/often
+Base: all (n=5,496).
+
+Outside commitments and flexibility
+Over half said work did not affect their outside commitments (56%), with
+about a quarter (24%) disagreeing. In contrast, few people felt outside
+commitments make it harder to do their jobs properly and 77% said they
+don’t. There has been little change in these indicators since 2019.
+There was also considerable informal flexibility around people being able to
+take an hour or two off work to deal with a personal or family issue, with most
+people saying it would be easy to do so. Since 2019, there has been some
+improvement, with the proportion saying it would be easy increasing from
+64% to 70%, and the those saying it is hard falling from 22% to 17% (Figure 6).
+
+4
+
+80
+65
+
+64
+
+65
+
+70
+
+67
+
+65
+
+5
+
+60
+
+6
+
+50
+
+7
+
+40
+30
+
+22
+
+23
+
+20
+
+20
+
+21
+
+20
+
+8
+17
+
+9
+
+10
+0
+
+2
+
+3
+
+Figure 6: Easy or hard to take some time off (%)
+
+70
+
+1
+
+2019
+
+2020
+
+2021
+
+2022
+
+Easy
+
+Difficult
+
+2023
+
+2024
+
+10
+
+11
+
+Base: 2019 (n=5,136); 2020 (n=6,681); 2021 (n=6,257); 2022 (n=6,262); 2023 (n=5,139); 2024 (n=5,496).
+
+12
+14
+
+Task complexity and work–life balance
+
+CIPD Good Work Index 2024: Survey report
+
+7 Job security
+
+The survey asks two questions that are widely used in surveys to measure
+job security. The first asked people how likely they are to lose their job
+in the next six months. In 2024, 13% said it was likely and 65% said it was
+unlikely. The second asks how easy it would be to get another job with
+similar terms and conditions. To this, 34% said it would be easy, but 43%
+said it would be difficult.
+However, the second question has to be interpreted with care. Those most
+likely to say it would be difficult to get a job as good as the one they currently
+have were older workers in permanent, long-tenure jobs, and the least likely
+were younger workers with shorter tenures. For example, 34% of those with
+tenures of up to two years said it would be difficult to find a new job as good,
+compared with 53% of those with tenures of 10 years or more.
+The greater pessimism among longer-tenure workers is likely because many
+will have built up benefits, such as access to final salary pension schemes,
+which would be hard to match with a new employer. Some older workers may
+be concerned that they will suffer age discrimination. Some who have built up
+skills and experience specific to a company or sector may think they will not
+be easily transferable to new opportunities elsewhere in the labour market.
+Both measures showed a peak during the pandemic in 2021, but recovered
+quickly. The proportion saying they were unlikely to lose their job has
+increased somewhat from pre-pandemic levels, from 61% in 2019 to 65%
+in 2024. The proportion saying it would be easy to get a similar job has
+increased post-pandemic, from 29% in 2019 to 34%. Overall, these indicators
+suggest modest improvements in job security post-pandemic, perhaps
+reflecting increased availability of unfilled vacancies.
+Figure 7: Job security indicators (%)
+70
+
+66
+61
+
+62
+
+60
+
+1
+2
+
+3
+65
+
+65
+
+4
+
+59
+
+5
+50
+
+6
+40
+
+34
+29
+
+30
+
+35
+
+34
+
+29
+24
+
+8
+
+20
+
+9
+
+10
+
+10
+
+0
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Unlikely to lose job
+
+2019
+
+2020
+
+2021
+
+2022
+
+Easy to find similar job
+
+Base: 2019 (n=5,136); 2020 (n=6,681); 2021 (n=6,257); 2022 (n=6,262); 2023 (n=5,139); 2024 (n=5,496).
+
+15
+
+7
+
+Job security
+
+2023
+
+2024
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Quitting
+The UK labour market is dynamic, with large numbers of people moving
+each year between different jobs and industries, mostly on a voluntary
+basis. We found 20% of respondents saying they were likely to quit in the
+next 12 months, with 61% saying they were unlikely to leave and 18%
+saying neither. Apart from a pandemic-related fall in 2021, there has been very
+little change since 2019.
+The reasons why people leave their job are similar to previous surveys.
+The most commonly reported reasons were unsurprising – better pay and
+conditions, work–life balance, and job satisfaction. Some 17% said they
+wanted a different type of work. Less common were more flexible working
+hours, opportunities for promotion, better job security, to get training, and
+demand for remote working.
+However, unhappiness with senior management and leadership is also
+one of the most common reasons (22%). People can pick more than one
+reason, so perceived failings by senior managers may not be the only trigger.
+Nonetheless, how organisational leadership is perceived clearly matters
+for staff turnover. In addition, 11% reported conflict with line managers or
+colleagues, and 6% discrimination, bullying and harassment. Redundancy
+accounted for 15% of responses.
+Table 5: Why people left their last job (%)
+
+Reason (any three)
+Better pay and conditions
+
+27
+
+Conflict with line managers/colleagues
+
+11
+
+Work–life balance
+
+22
+
+Promotion opportunities
+
+10
+
+Unhappiness with senior managers
+
+22
+
+Better job security
+
+8
+
+Better job satisfaction
+
+19
+
+To get training/development
+
+7
+
+Different type of work
+
+17
+
+Discrimination, bullying, harassment
+
+6
+
+Made redundant
+
+15
+
+Remote working
+
+6
+
+Flexible working hours
+
+13
+
+Some other reason
+
+14
+
+Base: all (n=5,496).
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+16
+
+Job security
+
+CIPD Good Work Index 2024: Survey report
+
+8 Conflict in the workplace
+
+This section focuses on reported conflict in the workplace over the last
+12 months, including who is affected most and some of the associations
+between conflict and workplace performance, wellbeing and place of work.
+We start with a review of workplace relations across the workforce.
+Workplace conflict
+In the survey, conflict included:
+• being humiliated or undermined at work
+• heated arguments, being shouted at or verbally abused
+• discrimination by reason of sex, race, disability, age
+• intimidation
+• sexual harassment or assault
+• physical threat or assault.
+The survey showed that a quarter of people in work had experienced at least
+one of these forms of conflict or abuse in the last 12 months.
+What form does conflict take?
+The survey allowed people to report as many forms of conflict as they
+felt applied. The most common form of conflict was being humiliated or
+undermined at work (reported by 12%), followed by those who said they
+were involved in a heated argument or shouted at or who were verbally
+abused. Those who reported discrimination because of a protected
+characteristic (such as sex, race, sexuality, age, or disability) accounted for
+about 5%. Other forms of conflict, such as sexual harassment and assault and
+physical threat and assault, were relatively uncommon, typically reported by
+1–2%. These are shown in the left-hand column of Table 6. The table also
+shows the same results expressed as a share of those who reported conflict
+in the middle column.
+What was the most important conflict reported?
+The survey allowed respondents to make more than one response, so it’s
+possible that conflicts reported as discrimination may be understated. For
+example, someone may report a conflict as discrimination if someone
+undermined or shouted at them at work because of race, sexuality or
+disability and might therefore legitimately report both as a cause of conflict.
+A follow-up question asked people to identify the one reason they thought
+was the most important to them and to the organisation. However, the
+relative ranking of discrimination and most other reported conflicts did not
+greatly change on this measure (see right-hand column in Table 6).
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+17
+
+Conflict in the workplace
+
+CIPD Good Work Index 2024: Survey report
+
+Table 6: All reported conflicts and most important conflict (%)
+
+All reported
+conflicts
+
+All reported
+conflicts
+
+Most important
+conflict
+
+Proportion of all
+those in work
+
+Proportion
+reporting at least
+one conflict
+
+Proportion
+reporting at least
+one conflict
+
+Undermined/humiliated
+
+12
+
+48
+
+25
+
+Shouted at/heated argument
+
+9
+
+35
+
+15
+
+Verbal abuse or insult
+
+8
+
+34
+
+11
+
+Discriminatory behaviour
+
+5
+
+20
+
+11
+
+False allegations
+
+4
+
+18
+
+11
+
+Intimidation (non-sexual)
+
+3
+
+12
+
+6*
+
+Unwanted sexual attention
+
+2
+
+9
+
+2*
+
+Physical threat
+
+2
+
+8
+
+4*
+
+Physical assault (non-sexual)
+
+1*
+
+3*
+
+1*
+
+Other behaviours
+
+1*
+
+3*
+
+2*
+
+Sexual assault
+
+–
+
+2*
+
+1*
+
+Prefer not to say
+
+3
+
+–
+
+11
+
+Base: all (n=5,496).
+Note: * small sample size, n=<50.
+
+Who is most affected by conflict?
+As might be expected, those with protected characteristics reported more conflict,
+given that legislation recognises they may be more subject to victimisation.
+Women were more likely than men to report at least one form of conflict, as were
+ethnic minorities compared with those who were white, and those with some
+form of disability and those without. There were also marked differences by sexual
+orientation – a third of those who identified as non-heterosexual reported conflict,
+compared with 24% of those who identified as heterosexual. There were also
+some significant differences by age. Of those under 35, 32% reported some form of
+conflict, compared with 22% of those over 35 (see Figure 8).
+
+35
+30
+25
+
+29
+
+28
+
+25
+
+24
+
+22
+
+3
+
+5
+
+35
+
+33
+
+32
+
+2
+
+4
+
+Figure 8: Employees reporting conflict at work (%)
+40
+
+1
+
+23
+
+6
+24
+
+22
+
+7
+
+20
+15
+
+8
+
+10
+5
+
+9
+te
+hi
+
+c
+hn
+i
+
+Base: all (n=5,496); under 35 (n=1,499); over 35 (n=3,997); non-heterosexual (n=658); heterosexual (n=4,654); disabled (n=912);
+non-disabled (n=4,532); women (n=2,625); men (n=2,871); ethnic minority (n=398); white (n=4,982).
+
+18
+
+Conflict in the workplace
+
+10
+
+m
+
+W
+
+ity
+in
+or
+
+en
+M
+
+en
+om
+W
+
+sa No
+bl ned
+di
+
+ed
+bl
+D
+isa
+
+Et
+
+he
+
+te
+r
+
+os N
+ex on
+ua l
+H
+et
+er
+os
+ex
+ua
+l
+
+r3
+5
+ve
+O
+
+r3
+nd
+e
+U
+
+Al
+
+li
+
+n
+
+w
+
+or
+
+5
+
+k
+
+0
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Conflict by job contract, socioeconomic group and sector
+Of those in atypical contracts, 38% had experienced conflict, compared with
+26% of permanent employees. This in part is likely to be related to higher
+rates of reported conflict for under-35s, given that younger workers are
+much more likely to be in atypical work contracts. Reported conflict was also
+somewhat higher for those in C2DE socioeconomic groups (28%), compared
+with ABC1s (24%).
+Those in the public sector were more likely to report conflict (31%) than
+those in the private or voluntary sectors (24%). Within the private sector,
+there are significant differences between low-pay services (retail and
+hospitality), where 30% reported conflict, and high-pay services (information
+and communication, professional, scientific and technical services, finance
+and real estate), where 20% reported conflict, and production industries
+(manufacturing, construction, and energy and water), where 21% did so
+(see Figure 9).
+Figure 9: Any conflict, by contract, job and sector (%)
+40
+
+38
+
+35
+
+31
+
+30
+
+26
+
+30
+
+28
+24
+
+25
+20
+
+20
+
+21
+
+High-pay
+services
+
+Production
+industries
+
+15
+10
+5
+
+1
+
+0
+Atypical
+contract
+
+Permanent
+
+C2DE
+
+ABC1
+
+Public
+sector
+
+Low-pay
+services
+
+Base: atypical contract (n=253); permanent contract (n=4,627); C2DE (n=1,401); ABC1 (n=4,011); public sector (n=869); low-pay
+services (n=1,143); high-pay services (n=1,487); production industries (n=875).
+Note: Low-pay services are retail and hospitality. High-pay services are information and communication, professional, scientific and
+technical, and finance and real estate. Production is manufacturing, energy and water, and construction.
+
+2
+
+3
+4
+
+How conflicts are resolved
+The survey asked what had been done to resolve these conflicts, with people
+able to select more than one option. The most dominant answer by far was
+to just let it go (47% of all those in work said this). The next most common
+was to have a discussion with HR (29%), and more informal discussions, either
+with someone outside work, such as family or friends (21%), or with the other
+person involved (17%) (see Figure 10).
+However, exit was an option for a minority, with 9% saying they were looking
+for another job and 3% saying they had left the organisation. Moreover, a
+separate question in the survey showed that it was twice as common for
+those who reported conflict to say they were likely to leave over the next
+12 months (33%) than those who did not (16%).
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+19
+
+Conflict in the workplace
+
+CIPD Good Work Index 2024: Survey report
+
+Figure 10: How people try to resolve conflict (%)
+50
+
+47
+
+45
+40
+35
+29
+
+30
+25
+
+21
+
+20
+
+17
+
+15
+9
+
+10
+
+5
+
+5
+
+5
+
+5
+
+4
+
+3
+
+1
+
+l
+Tr
+
+ib
+u
+
+na
+
+n
+
+Le
+
+ft
+
+or
+
+M
+
+ga
+
+ed
+
+ni
+sa
+
+ia
+t
+
+tio
+
+io
+n
+
+er
+th
+O
+
+nc
+e
+va
+rie
+G
+
+er
+/H
+D
+R
+fa isc
+m u
+ily ss
+/fr w
+ie ith
+nd
+D
+s
+ot isc
+he u
+r p ss
+er wit
+so h
+n
+Lo
+ok
+fo
+rj
+D
+ob
+isc
+us
+s
+w
+ith
+re
+p
+
+ag
+an
+M
+
+Le
+
+ti
+tg
+
+o
+
+0
+
+Base: all who report having experienced any conflict in the last 12 months (n=1,365).
+
+Most people said their conflict was either fully or partially resolved (66%),
+but only 36% said it was fully resolved. It would, of course, be unrealistic to
+suggest that every source of conflict can be resolved to the full satisfaction of
+both parties. But over a third did say they had no resolution at all.
+Most organisational and media attention is likely to focus on more formal
+resolution procedures. This is understandable, given that they are likely to
+involve more serious cases which have wider implications for organisations,
+practitioners, individuals and policy-makers. However, they are not typical
+of the way the vast majority of workplace conflicts are resolved. It was
+comparatively rare to discuss it with a trade union representative, escalate it
+into a formal grievance or involve a trained mediator. Hardly any involved a
+case going to an employment tribunal.
+We cannot say from the survey why relatively few people escalate conflicts
+to the more formal stage. Some may have felt the incident, while distressing
+at the time, was not worth pursuing more formally, especially if it was seen
+as a one-off or that informal processes had addressed the issue sufficiently.
+However, some may have thought that formal procedures would be a waste
+of time or that they would be victimised for trying to invoke it. As we show
+below, there is some evidence that the former may be somewhat more
+common than the latter, but that is not conclusive.
+Impact of conflict on work
+Conflict can arise in the best-run workplaces, either with managers and
+supervisors or between co-workers. In this section, we also look at the
+association between reported incidence of conflict and indicators of
+performance, job security, and mental and physical wellbeing.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+20
+
+Conflict in the workplace
+
+CIPD Good Work Index 2024: Survey report
+
+Work centrality, job and pay satisfaction, and work pressures
+Earlier we reported on work centrality, measured by whether people thought a
+job is just for money or something they would enjoy even if they did not need
+cash. Experience of conflict does not appear to affect either of these.
+However, those who had experienced conflict were much less likely to say
+they thought their pay was appropriate given their responsibilities and much
+less likely to say they were satisfied with their job. Some 38% who reported
+conflict thought that their pay was appropriate, compared with 55% of those
+who did not. Similarly, 54% of those who reported conflict were satisfied with
+their job, compared with 77% of those who did not.
+Those who reported conflict were also more likely to be in a high-pressure
+job. They were much more likely to say that their workload is too high; that
+they feel under pressure most or all of the time; or that they feel exhausted
+most or all of the time. We cannot say from the survey whether this was
+because of a high-pressure work environment more generally or an individual
+struggling with pressure at work. Both are likely to be true. Those in conflict
+were also much more likely to report negative impacts on their mental and
+physical health. Table 7 gives details.
+Table 7: Conflict and satisfaction, workload and wellbeing (%)
+
+Any conflict
+
+None
+
+Satisfied with my job (% satisfied)
+
+54
+
+77
+
+My pay is appropriate given my responsibilities (% agree)
+
+38
+
+55
+
+Workload in a typical week (% too much)
+
+46
+
+24
+
+Feel exhausted at work (% always/often)
+
+42
+
+18
+
+Feel under pressure at work (% always/often)
+
+37
+
+15
+
+Impact of work on mental health (% positive)
+
+28
+
+43
+
+Impact of work on physical health (% positive)
+
+25
+
+32
+
+Base: all (n=5,496); all who report having experienced any conflict in the last 12 months (n=1,365).
+
+Management, teams and conflict
+We also looked at a wider range of questions asking about views on
+managers, supervisors and directors. It wouldn’t be a surprise if those involved
+in conflict with their workplace seniors, or who felt that managers and seniors
+were either unsympathetic to, or ineffectual in, resolving conflicts, viewed
+their performance and their treatment negatively. The survey confirms this
+association on most, but not all, measures.
+Those who reported conflict were significantly less likely to think that senior
+managers and directors had the right vision, that they were able, or that they
+could be trusted to act with integrity.
+However, the association between conflict and negative perceptions further
+down the ladder at workplace level is much weaker. Only a small minority
+of those who reported conflict also said that their relations with their line
+21
+
+Conflict in the workplace
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+manager were poor (15%), compared with 67% who reported it was good.
+Similar views were expressed about other managers.
+If the association between conflict and poor working relations with managers
+is weak, it is non-existent for colleagues. There were no significant differences
+between those who reported conflict and those who did not when it came
+to rating relations with colleagues in the team or with other colleagues.
+Managers who reported conflict gave similar responses on their working
+relations with staff as those who did not.
+This may be because people make a distinction between general working
+relations and specific actions: those who reported conflict were more likely
+to take a dimmer view of their manager’s performance when specific actions
+were mentioned than they were for working relations in general.
+Those who reported conflict were significantly less likely to say their manager
+treated them with respect, treated them fairly, and was supportive if they had
+a problem, compared with those who did not report conflict. Similarly, people
+who had experienced conflict were more likely to agree that their manager
+would hold a grudge against them if they made a mistake compared with
+those who experienced no conflict.
+Those who reported conflict were also more likely to agree that their team
+sometimes rejected others for being different. They were also less likely to
+agree that no one in their team would act to undermine efforts compared
+with those who did not report conflict.
+However, even with specific actions and behaviours, it was still the case that
+most people who reported conflict also had favourable opinions of their
+manager and teams. For example, around 60% of those who reported conflict
+also said their managers treated them with respect and treated them fairly.
+This is consistent with one interpretation: that at least some of these conflicts
+were one-offs or sufficiently low level and therefore did limited damage to
+people’s views of workplace relations.
+Conflict and discretionary effort
+There is only a weak association between indicators of discretionary effort
+and conflict. Of those who reported conflict, 48% agreed they would work
+harder than they needed to help their employer or organisation, compared
+with 53% who did not. Those who reported conflict were just as willing to
+volunteer to do things not formally required by the job, to help colleagues
+with workloads and overcome hurdles, and to make innovative suggestions to
+improve team quality as those who did not.
+Conflict and voice in the workplace
+There is a clearer association between conflict and lack of voice. For example,
+around a third of those who reported conflict thought their managers were
+good at responding to employee suggestions, seeking views and keeping them
+informed, compared with around half of those who did not report conflict.
+They were also much less likely to rate as ‘good’ the ability of employees to
+influence final decisions or be involved in pay negotiations (compared with
+those who did not report conflict) (see Table 8).
+22
+
+Conflict in the workplace
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Table 8: Conflict, working relations, behaviours, effort and voice (% who agree or said relations
+were good)
+
+Any conflict
+
+None
+
+% agree
+
+% agree
+
+Senior managers have a clear vision for the organisation
+
+46
+
+62
+
+I have confidence in senior managers/directors’ ability
+
+39
+
+57
+
+I trust senior managers/directors to act with integrity
+
+36
+
+60
+
+% good
+
+% good
+
+Team colleagues
+
+80
+
+81
+
+Staff I manage
+
+79
+
+83
+
+Other colleagues
+
+71
+
+73
+
+Line managers
+
+67
+
+86
+
+Other managers
+
+59
+
+75
+
+Senior management and directors
+
+Working relations with line managers and colleagues
+
+My line manager/supervisor…
+
+% agree
+
+% agree
+
+Respects me as a person
+
+63
+
+86
+
+Treats me fairly
+
+60
+
+86
+
+Is supportive if I have a problem
+
+60
+
+84
+
+Recognises when I have done a good job
+
+56
+
+77
+
+Is open and approachable on mental health
+
+53
+
+74
+
+Is successful in getting people to work together
+
+47
+
+67
+
+Leads by example
+
+46
+
+64
+
+Supports my learning and development
+
+46
+
+64
+
+Can be relied on to keep their promise
+
+45
+
+70
+
+Helps me perform well in my job
+
+45
+
+67
+
+Provides useful feedback on my work
+
+45
+
+64
+
+Supports long-term career development
+
+38
+
+55
+
+% agree
+
+% agree
+
+Teams reject people who are different
+
+36
+
+14
+
+Manager holds grudge for mistake
+
+34
+
+12
+
+No one undermines efforts
+
+50
+
+78
+
+% agree
+
+% agree
+
+Help with others’ workload and overcome hurdles
+
+72
+
+75
+
+Make innovative suggestions to improve team quality
+
+60
+
+62
+
+Volunteer to do more than formally required
+
+57
+
+57
+
+Work harder than needed in order to help employer
+
+48
+
+53
+
+% good
+
+% good
+
+Seek employee views
+
+36
+
+51
+
+Keep employees informed
+
+35
+
+51
+
+Respond to employee suggestions
+
+32
+
+50
+
+Allow influence on final decisions
+
+27
+
+42
+
+Recognise role in pay negotiations
+
+25
+
+41
+
+Workplace behaviours
+
+Discretionary effort
+
+Voice in the workplace – managers at my workplace…
+
+Base: all (n=5,496); all who report having experienced any conflict in the last 12 months (n=1,365).
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+23
+
+Conflict in the workplace
+
+CIPD Good Work Index 2024: Survey report
+
+Has conflict in the workplace risen or fallen?
+Our survey previously asked questions about conflict in 2019. Over the last
+five years, the proportion of the workforce reporting any conflict has fallen
+from 30% to 25%.
+The biggest falls were for male, white, non-disabled, over-35s from the higherskill socioeconomic group (ABC1s). There was also an above-average fall for
+non-heterosexual workers, albeit from an exceptionally high level in 2019.
+Those who experienced below-average falls were women, ethnic minorities,
+and disabled workers, those in C2DE socioeconomic groups, the under35s, and those in atypical work contracts (where there is a slight but nonsignificant rise). However, results for the young and those in atypical work
+should be treated with some caution, as they were underrepresented in the
+2019 survey (see Table 9).
+Table 9: Changes in reported workplace conflicts, by group
+
+2019 (%)
+
+2024 (%)
+
+% change
+
+All in work
+
+30
+
+25
+
+−5
+
+Male
+
+29
+
+22
+
+−7
+
+Over 35
+
+29
+
+22
+
+−7
+
+Non-heterosexual
+
+39
+
+33
+
+−6
+
+White
+
+30
+
+24
+
+−6
+
+Permanent employee
+
+32
+
+26
+
+−6
+
+Socioeconomic group ABC1
+
+30
+
+24
+
+−6
+
+Heterosexual
+
+29
+
+24
+
+−5
+
+Non-disabled
+
+28
+
+23
+
+−5
+
+Female
+
+31
+
+28
+
+−3
+
+Ethnic minority
+
+32
+
+29
+
+−3
+
+Disabled
+
+37
+
+35
+
+−2
+
+Socioeconomic group C2DE
+
+30
+
+28
+
+−2
+
+Under 35*
+
+33
+
+32
+
+−1
+
+Atypical employee contract*
+
+35
+
+38
+
++3
+
+Base: 2019 (n=5,136); 2024 (n=5,496).
+Note: *these results should be used with caution due to sample size issues.
+
+There was not a great deal of change in the types of conflicts being reported.
+In both 2019 and 2024, the most reported were: being undermined or
+humiliated at work, being shouted at or being in a heated argument, and
+verbal assault or insult. There was, however, a fall in reports of people being
+shouted at or being involved in a heated argument at work, from 13% down to
+9%. Incidents of other offensive or threatening behaviour also fell from 5% in
+2019 to 1% in 2024 (see Table 10).
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+24
+
+Conflict in the workplace
+
+CIPD Good Work Index 2024: Survey report
+
+Table 10: Types of conflict
+
+Conflict (all that apply)
+
+2019 (%)
+
+2024 (%)
+
+% change
+
+Undermined/humiliated
+
+14
+
+12
+
+−2
+
+Shouted at/heated argument
+
+13
+
+9
+
+−4
+
+Verbal abuse or insult
+
+11
+
+8
+
+−3
+
+Discriminatory behaviour
+
+6
+
+5
+
+−1
+
+False allegations
+
+6
+
+4
+
+−2
+
+Intimidation (non-sexual)
+
+6
+
+3
+
+−3
+
+Physical threat
+
+3
+
+2
+
+−1
+
+Unwanted sexual attention
+
+2
+
+2
+
+–
+
+Physical assault (non-sexual)
+
+2
+
+1*
+
+−1
+
+Other offensive/threatening behaviour
+
+5
+
+1*
+
+−4
+
+Sexual assault
+
+–
+
+–
+
+–
+
+Base: 2019 (n=5,136); 2024 (n=5,496).
+Note: * small sample (n=<50).
+
+Why has conflict fallen?
+A fall in conflict is welcome, even if it is unevenly distributed. However, rather
+than any underlying improvement in workplaces, the most important reason
+is probably the large increase in homeworking since 2019. In 2024, the more
+time people spend working at home, the less likely they are to report conflict
+(see Figure 11). For example, just 15% of those who spent 75% or more of their
+time at home reported conflict, compared with 30% of those who did no work
+at home or spent 25% or less time at home.
+Figure 11: Working at home and conflict (%)
+
+1
+
+35
+30
+
+29
+
+30
+24
+
+25
+
+25
+22
+
+2
+
+3
+
+20
+15
+
+15
+
+4
+
+10
+
+5
+
+5
+0
+None
+
+1–25%
+
+26–50%
+
+51–75%
+
+76% or more
+
+All in work
+
+Proportion of time homeworking in last 12 months
+Base: all (n=5,496).
+
+Why homeworking might lower conflict
+We only have sufficient sample numbers to look at homeworking by the most
+common forms of conflict. Only 4% of those who worked at least half their
+time from home reported being shouted at, compared with 11% who said they
+did no or little work at home. Similarly, only 3% said they had been verbally
+abused, compared with 12% of those who did little or no work at home. In
+contrast, homeworking made much less difference in whether people reported
+being undermined and humiliated at work or suffered discrimination.
+25
+
+Conflict in the workplace
+
+6
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Figure 12: Working at home, by type of conflict (%)
+16
+14
+12
+
+13
+
+12
+
+11
+
+10
+
+10
+8
+6
+
+5
+
+4
+
+4
+
+3
+
+4
+
+2
+0
+
+Shouted at
+
+Verbal abuse
+
+Undermined
+
+Discriminated
+
+50% or more working at home
+
+None/little working at home
+Base: all (n=5,496).
+Note: Little is 25% or less. All figures are over the last 12 months.
+
+Figure 12 could indicate a link between higher rates of homeworking and
+lower rates of conflict that require people to be in physical proximity, such
+as verbal abuse, being shouted at or getting into heated arguments. The
+underlying relationship between working at home and conflict is likely to
+be more complex, given that those who work at home a lot are also likely
+to be in occupational and age groups which report lower levels of conflict.
+Nonetheless, it is a plausible explanation of why more homeworking would
+lead to fewer conflicts being reported.
+
+9 Autonomy and control
+
+Our survey asked about the control and autonomy people have over their
+work. People had most control over how they did their work, with over 40%
+saying they had a lot of control and 23% saying they had little or no control.
+They had less control over the pace at which they did their work, and much
+less control over the tasks they had to do and start and finish times. For
+example, while 27% said they had a lot of control over start and finish times,
+45% said they had little or none (see Figure 13).
+
+50
+45
+38 39
+
+40
+35
+
+3
+4
+
+6
+
+41
+
+7
+
+36
+
+35 34
+30
+
+30
+25
+
+2
+
+5
+
+Figure 13: How much control people have over their work (%)
+45
+
+1
+
+27 28
+
+24
+
+8
+
+23
+
+9
+
+20
+15
+
+10
+
+10
+5
+0
+
+Tasks
+
+Pace
+
+A lot
+
+How work is done
+
+Some
+
+None/little
+
+Base: all who are not self-employed (n=4,928).
+
+26
+
+Autonomy and control
+
+Start/finish times
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Autonomy by sector
+People who work in the private or voluntary sector were more likely to say
+they have a lot of control over work tasks, the pace of work, and how work
+is done than people in the public sector. However, people who work in the
+public and voluntary sectors were more likely to say they have a lot of control
+over start and finish times than those in the private sector.
+The production sector (manufacturing, energy and water, and construction)
+and some high-wage private sectors (information and communication, and
+professional and scientific services) have above-average levels of autonomy
+on most measures, and the low-pay private sector industries (retail and
+hospitality) and public services have below-average levels. For example,
+while around 40% of people who work in high-pay services and production
+industries said they have a lot of control over the pace at which they work,
+this fell to around 30% in public and low-pay private services. Similarly, while
+about 50% of people who work in production and high-pay services said they
+have a lot of control over how they do their job, the figure was just 30% in
+low-pay services (Figure 14).
+In some ways, the public sector looks more like low-pay private services
+than the high-pay services or production when it comes to control over how
+work is done. One underlying reason may be that much of the public sector
+provides common services with common standards and procedures to the
+general population, and in some areas with centrally imposed targets. This in
+turn may limit how much autonomy can be given to individuals about the
+services they provide.
+Figure 14: Control over work, by sector (% who said ‘a lot’)
+
+1
+
+60
+49
+
+50
+40
+30 31
+
+30
+20
+
+29
+
+42
+
+40
+
+37
+
+34
+
+31
+
+2
+
+49
+
+29
+
+3
+31
+
+25
+20
+
+17
+
+5
+
+17
+
+10
+0
+
+4
+
+6
+Low-pay services
+Tasks
+
+Public sector
+Pace
+
+High-pay services
+
+How work is done
+
+Production
+
+Start/finish times
+
+7
+8
+
+Base: low-pay services (n=1,042); public sector (n=855); high-pay services (n=1,321); production (n=799).
+Note: Low-pay services are retail and hospitality; high-pay services are information and communication, professional, scientific
+and technical services, finance and real estate; production is manufacturing, energy and water, and construction. Autonomy
+measures are how work is done, the pace at which work is done, and choice over tasks.
+
+9
+10
+
+11
+12
+27
+
+Autonomy and control
+
+CIPD Good Work Index 2024: Survey report
+
+Autonomy by personal characteristics and socioeconomic group
+There is not a huge variation of these measures by personal characteristics
+such as gender, sexuality, age, disability, or by employment status or tenure.
+The main exception was between men and women, where men consistently
+reported higher levels of autonomy than women, most likely reflecting
+differences in the type of jobs they do. There is a strong association by
+socioeconomic group, with much higher levels of autonomy for those in the
+ABC1 socioeconomic group (Figure 15).
+Figure 15: Automony, by type of job (% who said ‘a lot’)
+50
+45
+
+45
+40
+
+37
+
+35
+25
+20
+
+32
+
+30
+
+30
+
+31
+
+25
+19
+
+17
+
+15
+10
+5
+0
+
+Tasks
+
+Pace
+
+How work is done
+ABC1
+
+Start/finish times
+
+C2DE
+
+Base: ABC1 (n=3,623); C2DE (n=1,225).
+
+Working at home and autonomy
+As shown in Figure 16, the survey confirms that those who work at home
+have significantly higher levels of autonomy than those who don’t. There is
+clearly an association between working at home and greater autonomy, and it
+is often seen as one of the big advantages of homeworking.
+Those who said they have never worked at home had much less autonomy
+than those who did. It didn’t greatly matter how much time people spent at
+home.
+However, we suggest that these differences are because of the sort of jobs
+homeworkers do, rather than homeworking itself. There has been no significant
+change in the level of autonomy reported since 2019 for all workers and for
+those in the ABC1 socioeconomic groups. And it is the ABC1 group which
+provides most homeworking and has driven the increase in homeworking since
+the pandemic. Put another way, had we not seen the pandemic-induced surge
+in homeworking, the results in the 2024 survey on autonomy would not have
+been very different. This is also likely to be true for most other measures of job
+quality, which also show little or no change since 2019.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+28
+
+Autonomy and control
+
+CIPD Good Work Index 2024: Survey report
+
+Figure 16: Homeworking and autonomy (% who said ‘a lot’)
+49
+
+50
+45
+
+41
+
+40
+
+37
+
+35
+30
+25
+20
+
+27
+
+28
+
+31
+
+20
+
+15
+
+13
+
+10
+5
+0
+
+Tasks
+
+Pace
+No work at home
+
+How work is done
+
+Start/finish times
+
+Any work at home
+
+Base: all who spent no time working from home in the last 12 months (n=2,103); all who spent some time working from home
+in the last 12 months (n=2,825).
+
+10 Skills and training in the
+workplace
+
+As in previous years, our survey asked people to assess whether their skills
+match the demands of their job and whether their qualifications correspond
+to their job. Skills and qualifications are different things, but both measures
+suggest a significant problem of underskilling and overqualification.
+In 2024, 35% of respondents thought they had the skills to do more than their job
+demands, compared with just 12% who thought they lacked the skills to do their
+job well (see Figure 17). Similarly, 31% of respondents thought their qualifications
+exceeded those required by the job, while just 5% said they were underqualified.
+There may be some caveats with these questions, as bodies such as the
+OECD have suggested that people tend to overstate what they can do with
+their existing skills and qualifications, and have published estimates based on
+more sophisticated measures.2 However, despite this, a significant underlying
+problem of skill and qualification mismatch remains and, worryingly, there has
+been no significant change since 2019.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+2
+
+29
+
+McGowan, M.A. and Andrews, D. (2015) Skill mismatch and public policy in OECD countries.
+Paris: Organisation for Economic Co-operation and Development.
+
+Skills and training in the workplace
+
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Figure 17: Skills and qualification mismatch (%)
+70
+
+64
+
+60
+
+53
+
+50
+40
+
+35
+
+31
+
+30
+20
+
+12
+
+10
+0
+
+5
+Overskilled
+
+Corresponds
+
+Underskilled
+
+Overqualified
+
+About right
+
+Underqualified
+
+Base: all (n=5,496).
+
+Most people thought they had the training and information they needed to
+do their job well or develop skills, and most managers agreed they had the
+training and information to manage their staff well. However, between a fifth
+and a quarter disagreed. Views on career advancement were less positive,
+with only 38% of people saying they agreed they had good opportunities at
+work, with nearly as many (35%) disagreeing. Since 2019, there have been
+improvements in all of these measures, as shown in Figure 18, and there was
+no significant change in the numbers who disagreed with these propositions.
+There was a significant increase in the proportion who said they had good
+career development prospects, from 29% to 38%.
+Figure 18: Skills, training and careers (% agree)
+
+1
+
+70
+60
+50
+
+59
+
+55
+50
+
+49
+
+54
+
+3
+
+38
+
+40
+
+4
+
+29
+
+30
+20
+
+5
+
+10
+
+6
+
+0
+
+Good opportunities
+for skills
+
+Good career
+prospects
+2019
+
+Training to manage
+staff well
+
+Training to
+do job well
+
+2024
+
+Base: 2019 (n=5,136); 2024 (n=5,496).
+
+Training received in 2024
+Most people said they received some sort of training in the last 12 months
+(74%). This was most likely to be either online learning (42%) or more informal
+forms of training and learning, such as on the job (46%) and learning from
+peers (23%). A tenth said they attended external conferences, events and
+workshops (see Figure 19).
+30
+
+2
+
+51
+
+Skills and training in the workplace
+
+7
+8
+
+9
+10
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Training and learning with a more formal element was less frequently
+mentioned, including blended learning, off-the-job training and in-house
+development, coaching, getting formal qualifications, and receiving
+secondment, job shadowing or job rotation opportunities. There was little
+mention of training or learning specifically about emerging technologies,
+such as AI or VR – just 2% – though possibly some of this might arise in other
+forms of learning.
+The vast majority said they found these forms of learning and training useful
+(typically over 90%). There was, however, somewhat less satisfaction with
+online learning, with 71% saying it was useful and 29% saying it wasn’t.
+The same question was asked in 2018, but some of the questions have
+changed so we can only do a partial comparison. The main change is a large
+increase in online learning, reported by 27% in 2018 and 42% in 20243 – likely
+reflecting both underlying growth and the impact of the pandemic. Most
+other forms of learning did not greatly change. We were, however, unable to
+compare on-the-job training due to different questions being asked in 2018.
+Figure 19: Forms of training and learning (all that apply) (%)
+50
+
+46
+
+45
+
+42
+
+40
+35
+30
+23
+
+25
+20
+
+1
+
+16
+13
+
+13
+10
+
+10
+
+8
+
+2
+
+6
+
+5
+
+5
+
+2
+
+3
+
+AI
+
+15
+
+4
+
+en
+t
+
+ns
+Se
+
+co
+
+nd
+m
+
+ca
+tio
+lifi
+
+in
+g
+
+ua
+Q
+
+Co
+ac
+h
+
+ve Inlo ho
+pm u
+en se
+Ex
+t
+te
+rn
+al
+ev
+en
+ts
+
+de
+
+O
+
+ff
+
+th
+
+e
+
+ar
+ni
+le
+d
+
+de
+en
+Bl
+
+jo
+b
+
+ng
+
+s
+er
+Pe
+
+g
+ar
+ni
+n
+
+O
+
+nl
+
+in
+e
+
+O
+n
+
+le
+
+th
+e
+
+jo
+b
+
+0
+
+Base: all (n=5,496).
+
+5
+6
+
+7
+8
+
+9
+10
+3
+
+31
+
+ he 2018 survey also included the category ‘learning on a mobile device’, which was not in the 2024
+T
+survey. It was, however, reported by only 3% of respondents and so is unlikely to greatly distort the
+results for learning online.
+
+Skills and training in the workplace
+
+11
+12
+
+CIPD Good Work Index 2024: Survey report
+
+11 Conclusion and
+
+recommendations
+Conflict in the workplace has a negative impact on almost every aspect of
+work measured in this survey. With 25% of the workforce surveyed reporting
+conflict in the last year, that extrapolates into over 8 million people at work
+who might be affected by it. Reducing conflict must be part of an overall
+strategy to improve work quality. It is especially important for those with
+protected characteristics, who have above-average incidence of conflict and
+have seen no improvement over the last five years.
+The main focus should be on the role of the line manager and the people
+function, because it is at the workplace level that most conflicts arise, where
+the impacts are felt, and where they are resolved or not. Thankfully, very few
+conflicts ever escalate to formal grievances, mediation, or industrial tribunal.
+Legislative reforms and improvements in how these more formal processes
+operate are helpful and can address the worst abuses, but our contention is
+that they are unlikely to greatly reduce the overall incidence of lower-level
+conflict in the workplace.
+Investing in line management training to deal with conflict effectively and
+address underlying causes, such as poor team practices, is likely to be more
+effective. The fact that working relations with line managers and colleagues
+seem fairly robust – even when conflicts arise – suggests a solid base that
+further support and development can be built on.
+In doing so, we are clear that reducing conflict as defined in this survey
+cannot be at the expense of suppressing healthy challenge or reconciling
+different viewpoints and perspectives that inevitably arise in workplaces and
+that often lead to better solutions and more productive outcomes.4
+
+Reducing conflict cannot, however, be done just by looking at process and
+management. Just as conflict leads to worse outcomes, poor work practices
+lead to more conflict. A successful workplace-based approach will seek
+to identify and address underlying causes of conflict, such as excessive
+workloads, exhaustion and pressure.
+A practical initiative the CIPD has advocated for some years is to provide
+locally delivered business support services to SMEs on HR and people
+management issues, through key stakeholders and established business
+networks. The CIPD’s People Skills pilots have shown that a limited amount
+of free ‘pump-priming’ HR consultancy support to small firms can not only
+build owner-manager confidence and people management capability, but also
+deliver positive outcomes for their staff.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+4
+
+32
+
+See for example: CIPD. (2020) Shifting the perception of workplace conflict. Podcast. 2 June.
+
+Conclusion and recommendations
+
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Overskilling and overqualification remain significant drags on realising the
+workforce’s full potential and show no sign of improvement. Increasing job
+demands so the skills that people already have are used better will help, but
+we also need to address broader questions about the supply of skills and
+qualifications. Successive governments have struggled to create a robust
+training infrastructure outside the university system, and it remains a longterm challenge for the next government.
+Some incremental changes could, however, be made relatively quickly to
+build on existing initiatives to improve skills investment for young people and
+older workers. Making the Apprenticeship Levy more flexible would give firms
+and organisations more scope to respond in ways that meet the needs of the
+business and learners more effectively.
+There has been growing concern at the increase in the economically inactive
+due to long-term sickness and the associated rise in welfare bills since 2019.5 Our
+survey suggests this has little to do with work making people sicker. However, the
+survey also shows that not all jobs are good for you: 25% of those in work report
+negative impacts on mental and physical health. A fully coherent policy response
+requires a revitalised good work policy building on previous government initiatives.
+The 2024 survey shows (as have all previous surveys) there has been little
+progress on raising job quality since the UK Government’s Good Work Plan
+was published in 2018, setting out a vision of the UK’s future labour market.
+There is a great deal of positive practice and outcomes to build on – most
+people have a good experience at work and have good relations with
+managers and colleagues – but for a large minority, there are significant
+shortcomings that are still to be addressed.
+
+12 About this report
+
+This survey report is based on the seventh annual UK Working Lives survey. The
+report’s central purpose is to set out how people work, what they think about it,
+and how that has changed over the last five years. It achieves this by capturing
+data on seven dimensions of work to define what good work looks like.
+The 2024 survey was conducted in January and February 2024 and provides
+a total sample of 5,496 (unweighted figure) workers. To make the samples
+representative of the UK as a whole, quotas were used to target the sample,
+and subsequent weights based on ONS figures were applied to the dataset. The
+sample is representative of the UK workforce in: the intersection of gender by
+full- or part-time work status; organisation size within sector; industry; and age.
+A subsample of approximately 1,000 of the 2019 respondents have since been
+resurveyed in 2020, 2021, 2022, 2023 and 2024, allowing us to observe how
+the quality of work evolves within jobs.
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+5
+
+Those of working age (16–64) who are not in work or actively seeking work. Gov.uk. (2024) Disability
+benefits system to be reviewed as PM outlines ‘moral mission’ to reform welfare. Press release. 19 April.
+
+33
+
+About this report
+
+12
+
+CIPD Good Work Index 2024: Survey report
+
+Table 11: Breakdown of sample, by country and region
+Region
+North England
+
+892
+
+Midlands
+
+666
+
+East England
+
+372
+
+London
+
+553
+
+South England
+
+994
+
+Wales
+
+505
+
+Scotland
+
+1,006
+
+Northern Ireland
+
+499
+
+1
+2
+
+3
+4
+
+5
+6
+
+7
+8
+
+9
+10
+
+11
+12
+34
+
+About this report
+
+The Chartered Institute of Personnel and Development
+151 The Broadway London SW19 1JQ United Kingdom
+T +44 (0)20 8612 6200 F +44 (0)20 8612 6201
+E cipd@cipd.co.uk W cipd.org
+Incorporated by Royal Charter (RC000758)
+Registered as a charity in England and Wales (1079797)
+Scotland (SC045154) and Ireland (20100827)
+Issued: June 2024 Reference: 8625 © CIPD 2024
+
+

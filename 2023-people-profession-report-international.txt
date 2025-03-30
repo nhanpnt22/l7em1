@@ -1,0 +1,2359 @@
+Report
+October 2023
+
+People
+Profession 2023
+International survey report
+
+The CIPD has been championing better work and
+working lives for over 100 years. It helps organisations
+thrive by focusing on their people, supporting our
+economies and societies. It’s the professional body for
+HR, L&D, OD and all people professionals – experts in
+people, work and change. With over 160,000 members
+globally – and a growing community using its research,
+insights and learning – it gives trusted advice and offers
+independent thought leadership. It’s a leading voice in
+the call for good work that creates value for everyone.
+
+People Profession 2023: International survey report
+
+Report
+
+People Profession 2023:
+International survey report
+Contents
+
+1
+
+1
+
+Foreword
+
+3
+
+2
+
+Introduction
+
+4
+
+3
+
+External factors influencing the current world of work
+
+6
+
+4
+
+The people profession 2023: An international comparison
+
+7
+
+5
+
+Conclusion
+
+26
+
+6
+
+Methodology
+
+27
+
+7
+
+Endnotes
+
+29
+
+People Profession 2023: International survey report
+
+Acknowledgements
+The CIPD would like to thank the 2,957 people professionals who participated
+in this international survey, as well as those who shared their views and
+experiences through the CIPD’s research panel, to inform this report.
+A huge thank you to the CIPD colleagues who shared their expertise in the
+creation of this report, specifically Mary Connaughton, Amy Bosely, Hayfa
+Mohdzaini, Sofia Oumlaz, Lynne Davidson and May Leng Kwok.
+The CIPD would also like to acknowledge the supportive partnerships with
+colleagues from CPHR Canada, Neha Mohan and Philippe de Villers, who
+provided the Canadian perspective report.
+Finally, a thank you to our colleagues at YouGov, Jane Rowe and Conor
+Cotton, for their continued support throughout this research programme.
+
+Author profile
+Rebecca Peters, CIPD Research Adviser, is the author of this report.
+
+Publication information
+Peters, R. (2023) People Profession 2023: International survey report. London:
+Chartered Institute of Personnel and Development.
+
+2
+
+People Profession 2023: International survey report
+
+1 Foreword
+
+Since our last report in 2022, the landscape of work has undergone significant
+change. Hybrid working is now much more entrenched and the emergence of
+technology like generative AI is expected to have a profound and continuing
+impact on jobs and industries globally. While the events of the world more
+broadly seem tumultuous, it has never been as important as it is now to
+ensure good and fair work, and to keep people at the forefront of business
+innovation and change.
+This year, our research provides an in-depth international view of the people
+profession, gathering valuable insights from practitioners in Asia-Pacific,
+the Middle East and North Africa, the UK and Ireland. We’ve also included a
+separate comparative perspective from Canada, based on research from CPHR
+Canada. It’s clear that there are shared challenges, but equally, the profession
+is united by its role in supporting employee wellbeing, managing workplace
+culture in a hybrid world and developing skills and talent across businesses.
+There are so many opportunities for the profession to be innovative, and to
+take the lead on transforming business and adopting new and beneficial ways
+of working.
+However, the role of the people professional is changing. With the rapidly
+evolving world of work, practitioners will need to prioritise their own learning
+and development to stay ahead of the curve. There is no doubt that the
+strategic importance of people teams is growing, and practitioners must
+ensure they are developing the capabilities and skills needed to be future-fit.
+Being a resilient business partner with a solid understanding of your business
+is critical to add real value, enabling change and good work, while also
+increasing the visibility of the people function.
+This report represents the CIPD’s commitment to give a voice to the people
+profession at an international level. While we see significant differences in
+cultural context, economic climate and political backdrop, we are also unified
+by the opportunities before us. Given that people teams are increasingly
+operating across regions, understanding the commonalities and contrasts of
+our colleagues is essential to navigating the ever-changing landscape of work.
+1
+2
+
+3
+4
+
+Peter Cheese
+CEO, CIPD
+
+5
+6
+7
+
+3
+
+Foreword
+
+People Profession 2023: International survey report
+
+2 Introduction
+
+As we settle into the post-pandemic ‘new normal’, we see significant shifts
+in the behaviours of workers and workplaces, which have brought new
+challenges and opportunities for the people profession across the world.
+Macro trends, including advancing technology and digital transformation,
+economic instability, the transition to net zero and new models of working,
+are driving constant change. It is under these conditions that businesses
+need to adapt or risk being left behind. It’s up to senior leaders and people
+teams to influence and shape current strategy and people practice to
+navigate this ever-changing landscape.
+
+Aims of this report
+This report gives a snapshot of the current HR landscape across different
+regions of the world: Asia-Pacific, the Middle East and North Africa, the UK
+and Ireland. It provides insights into how external factors are impacting
+current HR practices, and the challenges and opportunities these bring. It
+also explores how people professionals perceive their careers and working
+lives amidst these changes.
+This report explores how global issues are affecting regions differently. We
+investigate the following questions:
+• What are the key drivers of change for organisations?
+• What are the top workforce priorities for organisations?
+• What is the impact and value of people teams?
+• How is the role of the people professional changing?
+• What are essential skills for today’s people professionals?
+• How are people teams developing their capability and skills?
+• How are people management tasks being delegated?
+• What is the impact of hybrid working on people practice?
+• How are people professionals using evidence in practice?
+• What is HR’s role in the sustainability agenda?
+Our accompanying Asia-Pacific, Middle East and North Africa, UK and
+Ireland, and Canada reports give regional perspectives on the key trends
+influencing the world of work and offer recommendations on how people
+professionals can navigate the challenges they are facing.
+
+1
+2
+
+3
+4
+5
+6
+7
+4
+
+Introduction
+
+People Profession 2023: International survey report
+
+Survey participants
+Ireland
+164
+Canada*
+1,954
+United Kingdom
+Egypt
+(UK)
+154
+1,456
+
+Kingdom of
+Saudi
+Arabia (KSA)
+158
+
+United Arab
+Emirates (UAE)
+213
+
+* Canadian data was collected by CPHR Canada; participants were not part of the
+CIPD People Profession 2023 survey but a separate Canadian report is included
+for comparative purposes.
+
+Singapore
+204
+
+Hong Kong
+155
+Malaysia
+251
+
+Australia
+202
+
+Full details of the research methodology are included in the Methodology section.
+Sample demographics are included at the end of each regional report.
+
+A note on the survey findings
+• The findings are based on the perspectives of those who took part in
+the People Profession survey in April and May 2023.
+• We refer to the ‘people profession’ throughout this report, which includes
+a range of people-related roles, such as human resources (HR), learning
+and development (L&D), organisational development (OD), employee
+relations and other HR specialisms. It does not include people managers.
+• Our sample included those responsible for HR, both in-house and as
+independent consultants.
+• The data collection, carried out by the CIPD and YouGov, was
+conducted across nine countries: Australia, Egypt, Hong Kong, Ireland,
+the Kingdom of Saudi Arabia (KSA), Malaysia, Singapore, the United
+Arab Emirates (UAE) and the United Kingdom (UK). The sample is
+diverse, and each country will have different contextual factors
+influencing the findings. We make some international comparisons for
+interest and explore the data from each country in more detail within
+the accompanying regional reports.
+• The data collection for Canada was conducted and analysed by the
+Chartered Professionals in Human Resources Canada (CPHR Canada).
+Separate sample details are included within the accompanying
+Canada report.
+• Reported percentage figures are rounded up and therefore the total
+may be above 100%.
+5
+
+Introduction
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+• When we refer to the ‘global average’, we refer to the average
+percentage figure across all regions – that is, the entire sample of 2,957
+participants in most cases. We refer to this figure as ‘global’, in the sense
+of including all participant responses.
+• Further information on our sample can be found at the end of each
+regional report and in the Methodology section.
+• The previous international survey report was the People Profession
+2022: International survey report.
+
+3 External factors influencing
+the current world of work
+Technology and digital transformation
+Managing digital transformation and advancing technology is an ongoing
+trend influencing people’s working lives. Artificial intelligence (AI) has
+developed in leaps and bounds since the start of 2023, with generative AI able
+to create new content for mainstream users, given its user-friendly nature
+and accessibility. However, AI comes with many considerations, for example
+around workplace monitoring, workers’ autonomy and the call for more
+governance on its use. There’s also the question around equality and fairness.
+Data on ChatGPT search trends highlights that users tend to be based in
+countries with a more skilled population,1 suggesting a widening digital divide.
+AI will have a profound impact on people and people teams. Using AI will
+transform how HR is carried out, making policy development, recruitment
+and selection, and people data and analytics leaner and more efficient, which
+leaves people professionals to focus on other areas of value. However, CIPD
+research in the UK has found that HR is one of the least involved when it
+comes to implementing AI. As the people experts within business, this is an
+opportunity for HR to get involved, particularly where intelligent automation
+(or other technology) is expected to significantly impact people.
+We explore how digital transformation is changing the way people teams
+operate on page 8, and in more detail in our accompanying regional reports.
+
+Economic instability and the cost-of-living crisis
+Businesses continue to operate under a backdrop of economic instability,
+and many regions are experiencing a cost-of-living crisis.2 Typically, average
+global inflation sits between 3% and 5%,3 but the current average inflation sits
+at 9% worldwide, with economic pressures continuing to drive cost savings
+and restrain business spending. Businesses have a keen eye on measuring
+productivity and financial performance, and a key challenge in many markets
+is recruitment and upskilling the existing workforce to manage skills gaps. The
+countries included in this international report will be impacted differently by
+the economic crisis, with some affected disproportionately more than others.
+6
+
+External factors influencing the current world of work
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+Sustainability strategy and reaching net zero
+With over 70 countries committed to achieving net zero emissions by 2050,4
+the transition will be a defining trend that will impact the future workforce.
+It’s also an agenda that people professionals – who are values-led and
+people-centric – are well placed to lead on. Transition to a net zero economy
+will require large-scale changes, from global policy all the way through to
+individual responsibility. The CIPD UK report Putting people professionals on
+the road to net zero suggests that organisational change, workforce planning
+and skills development are key to this transition, all of which are highly
+dependent on people professionals.
+We explore HR’s involvement in the sustainability agenda on page 23.
+
+New models of working
+A global study in 2021 found that the vast majority of workers had a preference
+for hybrid working, but a year on, only 26% of CEOs said they have a strategy
+on future ways of working.5 In 2023, homeworking levels have somewhat
+stabilised, but remain higher than pre-pandemic levels. For example, recent
+data found that 40% of the UK working population had worked from home
+in 2023, compared with only 12% at the same time point in 2019.6 Flexible
+working models have introduced new opportunities and challenges for
+businesses and will require investment and insight to inform future hybrid
+solutions. People professionals will be at the very heart of this agenda and are
+expected to have their finger on the pulse in terms of understanding employee
+expectations and prioritising employee experience without compromising
+business operations and stakeholder demands – a tricky juggling act.
+We explore how hybrid working has impacted people management in
+different countries on page 18, and in more detail in our accompanying
+regional reports.
+The remainder of this report compares and contrasts findings across the
+nine countries included in this sample.
+
+4 The people profession
+2023: An international
+comparison
+What are the key drivers of change for organisations?
+Looking across our international sample, including respondents from AsiaPacific (APAC), the Middle East and North Africa (MENA), and the UK and
+Ireland, we can identify prominent trends that are impacting businesses across
+all regions. These include the following:
+7
+
+The people profession 2023: An international comparison
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+• Digital transformation and advancing technology: Regardless of region,
+business size, sector, strategic level or years of experience within the
+profession, for all people practitioners, the impact of digital change and
+advancing technology is perceived as a prevalent driver of change. While we
+found that respondents from the Kingdom of Saudi Arabia (KSA), Singapore
+and Australia were more likely to cite this trend, at least a fifth of respondents
+from each country highlighted this in their top three drivers of change.
+• Economic change: The impact of the changing economy on businesses
+is hitting regions differently. Our findings show that economic change and
+rising costs were particularly prominent in the UK, Ireland and Australia,
+whereas MENA and wider APAC countries were significantly less likely to
+cite this as a key disruptor.
+• Flexible, hybrid and new ways of working: This is here to stay and the
+old ways of working simply aren’t an option for businesses to thrive in the
+future. While respondents from Hong Kong and Singapore were most likely
+to cite this trend, it was ranked in the top five by most regions.
+Table 1: All regions perceive digital transformation and advancing technology as a key driver of
+business change				
+The top three drivers of change for businesses per region (ranked by number of cases)   	
+Rank APAC
+
+MENA
+
+UK and Ireland
+
+1
+
+Digital transformation and
+advancing technology
+
+Digital transformation and
+advancing technology
+
+Economic change and rising
+costs
+
+2
+
+Digital technology to enable
+remote working   
+
+Demands for flexible, hybrid
+and new ways of working
+
+Demands for flexible, hybrid
+and new ways of working
+
+3
+
+Economic change and rising
+costs
+
+Social media and content
+consumption
+
+Digital transformation and
+advancing technology
+
+Base: APAC (n=812); MENA (n=525); UK and Ireland (n=1,620).
+Question: Which of the following, if any, are drivers of change in your [client] organisation? Please tick up to three responses.
+
+Other prominent trends driving change in APAC and MENA countries include
+the following:
+• Social media and content consumption: We found proportionately more
+respondents in MENA countries (25%) and APAC countries (19%) cite social
+media as an important lever of change compared with the UK and Ireland (11%).
+• Changing employment relationships: This trend is more influential in
+MENA countries (23%) and APAC countries (18%) compared with the UK and
+Ireland (9%).
+• Globalisation and integrating international talent: This is driving change
+more in MENA and APAC countries. According to other research, global
+hiring has grown significantly in the APAC region, with Australia and
+Singapore ranked as two of the top three countries hiring remotely in 2022.7
+While these trends act as disruptors to businesses and the world of work, it’s
+critical for people professionals to understand the impact they will have for
+people practices in different regions.
+8
+
+The people profession 2023: An international comparison
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+What are the top workforce priorities for organisations?
+Perhaps in response to the increasing competition for talent, our findings
+show that the majority of countries are developing their existing talent and
+planning for their future workforce. Although recruitment and turnover
+remain a priority, we’re seeing less focus on recruitment and competing for
+talent, compared with the increased focus of developing talent internally and
+workforce planning solutions. Malaysia, Singapore, Australia and the United
+Arab Emirates (UAE) noted upskilling as their top workforce priority. Other
+CIPD research based on UK data found that upskilling existing employees was
+the most common response to recruitment difficulties for 60% of the sample.
+Separate research by CPHR Canada also found that Canadian organisations
+are experiencing recruitment challenges, with six in 10 of their survey
+respondents citing it as very or extremely difficult, so retention strategies are
+key in this region too.
+Table 2: Developing in-house talent, workforce planning and maximising performance are key
+people priorities for the majority		
+			
+The top three workforce priorities by country (ranked by number of cases)			
+APAC
+Rank Australia
+
+Hong Kong
+
+Malaysia
+
+Singapore
+
+Upskilling,
+reskilling
+1
+and building
+capability
+
+Workforce
+planning and
+management
+
+Upskilling,
+reskilling
+and building
+capability
+
+Upskilling,
+reskilling
+and building
+capability
+
+Engaging with
+2
+the workforce
+
+Developing
+leadership
+behaviours
+
+Measuring
+productivity
+and financial
+performance
+
+Measuring
+productivity
+and financial
+performance
+
+Workforce
+3 planning and
+management
+
+Engaging with
+the workforce
+
+Workforce
+planning and
+management
+
+Fostering
+innovation and
+adaptive ways
+of working
+
+KSA
+
+UAE
+
+Ireland
+
+UK
+
+Measuring
+productivity
+1
+and financial
+performance
+
+Measuring
+productivity
+and financial
+performance
+
+Upskilling,
+reskilling
+and building
+capability
+
+Measuring
+productivity
+and financial
+performance
+
+Engaging with
+the workforce
+
+Workforce
+2 planning and
+management
+
+Focusing on
+recruitment,
+mobility and
+turnover
+
+Engaging with
+the workforce
+
+Upskilling,
+reskilling
+and building
+capability
+
+Focusing on
+recruitment,
+mobility and
+turnover
+
+Managing
+industrial and
+3
+employment
+relations
+
+Upskilling,
+reskilling
+and building
+capability
+
+Workforce
+planning and
+management
+
+Focusing on
+recruitment,
+mobility and
+turnover
+
+Workforce
+planning and
+management
+
+MENA
+Rank Egypt
+
+UK and Ireland
+
+1
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204); Egypt (n=154); KSA (n=158); UAE (n=213); Ireland
+(n=164); UK (n=1,456).
+Question: Which, if any, of the following are your [client] organisation’s workforce priorities? Please tick up to three responses.
+
+2
+
+3
+4
+5
+6
+7
+
+9
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Productivity and performance measures are also important for businesses,
+with Ireland, KSA and Egypt noting this as their top priority area. Interestingly,
+despite citing economic change as a key disruptor, measuring productivity
+and performance is less of a priority for the UK and Australia, compared with
+the majority of the sample.
+CIPD evidence reviews on people performance, high-performing teams and
+productive meetings provide the latest recommendations on productivity and
+performance to support practice.
+We consider people priorities in more depth in our accompanying regional
+reports.
+
+What is the impact and value of people teams?
+Global research on senior leaders in the profession found that people teams
+are growing in terms of headcount and strategic importance, with 74% saying
+HR is more involved in their organisation’s strategic initiatives compared
+with before the COVID-19 pandemic.8 However, there is often an underlying
+tension between people teams’ strategic versus operational/transactional
+remit, the value that both aspects bring to the business, and where
+practitioners should prioritise their valuable time to best support business
+functions. People professionals’ perceptions on contribution and recognition
+of impact are shown in Figure 1.
+Figure 1: Respondents from APAC countries are the most positive about their team’s strategic
+impact and recognition by the business
+International views on strategic impact and recognition
+Do you agree that your
+people function makes a
+valued and strategic
+contribution to the
+business?
+
+Do you agree that your
+people team is
+acknowledged for their
+impact on the business?
+
+Do you agree that your
+people team is recognised
+by senior leaders for having
+an important impact on the
+business?
+
+66% APAC countries
+
+64% APAC countries
+
+62% APAC countries
+
+1
+
+64% UK and Ireland
+
+54% MENA countries
+
+56% UK and Ireland
+
+2
+
+57% MENA countries
+
+47% UK and Ireland
+
+53% MENA countries
+
+3
+4
+
+While similar proportions of APAC and MENA respondents felt their people
+teams make a strategic contribution and are acknowledged for it, in the
+UK and Ireland, we see a sizeable disparity between the perceived strategic
+value that HR brings to the business and the recognition of HR’s impact
+10
+
+The people profession 2023: An international comparison
+
+5
+6
+7
+
+People Profession 2023: International survey report
+
+(from both senior leaders and the wider business). Specifically, despite 64% of
+respondents from the UK and Ireland agreeing that their people teams bring
+strategic value to the table, less than half believed they are recognised for their
+impact by the business (47%). This very much echoes the anecdotal tensions
+that are felt within the profession by UK practitioners:
+
+“Within the public sector, HR is seen as the personnel
+department of days gone by. Despite many senior HR colleagues
+and those entering the profession bringing innovative and
+creative change to modern people practice and strategy,
+organisations still aren’t getting the value we add to the bottom
+line through positive stakeholder relations, and commercial and
+business acumen.” (Survey respondent)
+“My role is increasingly taking on a strategic leadership role
+within the organisation. [HR is] no longer seen merely as an
+administrative function but as a critical partner in shaping the
+overall business strategy. I contribute to the development of
+long-term plans, aligning the people plan with the organisational
+goals, and driving initiatives that enhance employee engagement,
+diversity and inclusion, talent development and organisational
+culture.” (Survey respondent: Head of people and culture)
+“HR has been rebranded to ‘People and Culture’ to denote the
+change in focus from transactional HR to people strategy.”
+(Survey respondent)
+The CIPD UK-based report The value of people expertise on corporate boards
+found that only a quarter of UK FTSE 350 boards have a member with HR
+experience, suggesting that many organisations fail to recognise peoplerelated risks at board level. This could lead to a lack of understanding on
+people issues and the value potential of the workforce. Just as financial risk
+is prioritised and discussed, boards require knowledge of people practices,
+policies and data to comprehensively inform their understanding of potential
+workforce risks.
+Professional credibility and accreditation can also influence strategic
+perceptions. Our data suggests that perceptions around strategic value
+differed significantly between CIPD members and non-members. Across the
+global sample, on average, 70% of CIPD members agreed that their people
+team contributes strategic value to the business, compared with 60% of nonmembers. For the UK sample, this difference was even more prominent, with
+73% of CIPD members agreeing, versus just 59% of non-members.
+
+1
+2
+
+3
+4
+5
+6
+7
+
+11
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+The CIPD Profession Map sets the international standards of the profession
+and the principles that govern how people professionals deliver value through
+their work. Our resources support people, teams and organisations to use the
+Profession Map to develop professional expertise and make an impact at work.
+More details on strategic human resource management can be found in the
+CIPD factsheet.
+
+How is the role of the people professional changing?
+People professionals’ opinions on how their roles are changing fell under
+several common themes.
+
+Using technology and digital solutions to improve
+HR processes, communication and efficiency
+“Digital platforms
+and analytics mean that
+change is demanded
+quicker; as learning
+specialists, we are
+required to adapt quickly
+to employee needs.”
+
+“Digital
+transformation is
+changing the service
+we offer.”
+
+“Access to
+digital solutions
+has eliminated
+unnecessary
+paperwork and freed
+up my time.”
+
+Using data analytics to inform practice
+and decision-making
+
+“Data is driving business,
+but people metrics are not
+often black and white and
+can be grey. I am spending a
+lot of time coaching leaders
+to interpret the data.”
+
+“My role is becoming more
+data-driven. I leverage people
+analytics to gain insights
+into various HR metrics, such
+as employee performance,
+turnover rates and workforce
+demographics.”
+
+1
+2
+
+3
+4
+5
+6
+7
+12
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Changing talent strategies
+“Employment is much
+more fluid now, so
+a different approach
+to staff retention and
+hiring is required.”
+
+Integrating wellbeing and equality, diversity and
+inclusion (EDI) across the employee lifecycle
+“EDI is coming
+to the forefront of
+the profession –
+we’re being asked
+to embed it into all
+areas of HR.”
+
+“CSR and EDI are
+taking prominence
+over traditional HR
+functions.”
+
+“We are focusing
+more on people wellbeing,
+but are mindful of costs.
+Mental health has become
+a much bigger topic and
+HR is leading on how to
+manage this.”
+
+“HR has become
+more socially
+aware than ever to
+include diversity
+conditions.”
+
+Managing employee expectations
+across a diverse workforce
+“Engagement is
+paramount, and L&D is
+a huge area of focus,
+especially as the younger
+workforce demands more
+from roles.”
+
+“Employees will demand
+more visibility on
+things like corporate
+responsibility and expect
+to have a greater hand in
+shaping their workplace
+and how it operates.”
+
+1
+2
+
+3
+4
+5
+6
+7
+
+13
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Managing the impact of external disruptors
+“People management used
+to be more conflict, more
+personal issues but, after
+COVID, there are significantly
+more wellbeing expectations
+– physical and mental –
+along with a number of
+different EDI topics.”
+
+The impact of organisational changes
+on HR roles and responsibilities
+
+Cost-cutting and
+economic pressures
+
+“The COVID crisis changed
+the job landscape for many
+businesses around the world.
+Mass layoffs, the rise in
+popularity of remote work and
+other factors have transformed
+the expectations that
+employers and their employees
+have for each other.”
+
+“Change at strategic
+levels has an impact
+on the direction
+and focus of OD
+and L&D work.”
+
+“Managing challenges
+around public sector
+budgeting and service demand,
+pay and conditions for staff
+due to the cost of living, and
+ensuring good trade union
+relationships [are key].”
+
+1
+
+Creating new policies and
+procedures in line with changing
+employment law and legislation
+
+“We’ve needed to
+develop new strategies
+and policies at pace
+to respond to postCOVID working
+environments.”
+
+2
+
+3
+4
+5
+6
+7
+
+14
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+What are essential skills for today’s people professionals?
+With the role of people professionals changing, new skills are needed.
+
+Business acumen
+
+Specialist skills
+
+“People professionals need to be
+resilient business partners who are
+responsive to the needs of the
+business.”
+
+People professionals should build
+capability in:
+
+Critical skills include:
+• a good understanding of business
+finances, risk management and a
+solid understanding of the
+operational context
+• strategic thinking
+• problem-solving.
+
+• talent management
+• business transformation
+• data analytics
+• organisational design tools and
+techniques
+• employment law.
+
+Interpersonal skills
+
+People manager support
+
+“Understand your people and what
+motivates and engages them."
+
+“Understand the role of the line manager and
+the role of HR – and keep the distinction
+clear."
+
+People professionals need:
+• influencing and negotiating skills
+• emotional intelligence
+• communication and active
+listening skills
+• curiosity
+• empathy
+• patience
+• respect.
+
+Critical skills to support line managers with
+people management include:
+• conflict-resolution skills and the ability to
+have difficult conversations
+• coaching, team facilitation and leadership
+development skills
+• an understanding of what motivates and
+engages people
+• an ability to develop and deliver
+management training that is bespoke to
+the unique challenges and culture of the
+organisation
+• provision of advice, support and coaching
+to line managers when needed.
+
+1
+2
+
+3
+4
+5
+6
+7
+
+15
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+How are people teams developing their capability and skills?
+Capabilities
+A consistent area of focus across all regions is working more collaboratively
+with colleagues across different functions. An integral part of people
+professionals’ roles is partnering across business functions and ensuring
+that the people strategy is closely aligned with the wider business goals.
+Working with peers in areas such as finance, marketing and data enables
+wider organisational change and ensures people management practices
+are embedded across departments. It also supports co-dependencies and
+knowledge-sharing. The CIPD’s effective cross-functional collaboration report
+gives examples of how people professionals and their peers across Europe and
+Asia-Pacific have worked closely together through crisis, including the key
+learnings from their experiences.
+As with previous years, we found that organisational development and change
+management skills are a key improvement area for people professionals across
+all regions. Given the turbulence people teams have been grappling with over
+the last few years, this is unsurprising. Looking across the entire sample, we
+note that only 15% of respondents identified organisational development,
+design or change management as their specialist area. However, 67% said they
+have some level of responsibility or decision-making within organisational
+development and 56% in organisational design. This suggests that the majority
+require some level of organisational development skills within their job role,
+and this is creeping into the skillset required by HR generalists.
+Interestingly, for the APAC and MENA regions, building more specialist
+expertise was a key improvement area, with respondents from Hong Kong,
+Malaysia and Australia more likely to cite this. At a global level, we found that
+a significant proportion of the sample have responsibilities and influence
+in specialist areas, for example workforce planning (68%), HR information
+systems/people analytics (63%), equality, diversity and inclusion (71%), reward,
+compensation and benefits (56%), organisational development (67%) and
+organisational design (56%). However, when asked about their main HR
+specialism, figures are much lower for the above people areas, suggesting that
+many people professionals have influence and decision-making responsibility
+for more than one specialist area, which may not be their main area of
+expertise or where their professional qualifications lie.
+Skills
+Although building skills and capability across the workforce was found to be a
+top priority for organisations, skills development within the people profession
+itself is somewhat varied across the global sample. For example, although
+the level of upskilling has remained consistent in the UK since 2022, we see
+much lower levels of UK people professionals’ upskilling, compared with other
+regions (see Figure 2).
+
+1
+2
+
+3
+4
+5
+6
+7
+
+16
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Hong Kong and the MENA countries were proportionately more likely to
+upskill, with the vast majority actively developing their HR skillset.
+HR capability and upskilling is covered in more depth in our accompanying
+regional reports.
+Figure 2: Respondents from Hong Kong were most likely to say they have upskilled in the last year
+Changes to HR skills in the last 12 months (% of respondents)
+Australia
+
+Egypt
+79
+
+Had to upskill
+Had to reskill
+
+78
+
+8
+
+No change
+
+85
+
+18
+
+13
+
+13
+
+4
+
+3
+
+Ireland
+
+KSA
+
+Malaysia
+
+Had to upskill
+Had to reskill
+
+Hong Kong
+
+60
+
+82
+
+5
+
+No change
+
+34
+
+Singapore
+Had to upskill
+
+9
+
+14
+
+9
+
+10
+
+UK
+
+UAE
+
+72
+
+Had to reskill
+
+13
+
+No change
+
+16
+
+76
+
+62
+
+79
+13
+
+5
+34
+
+8
+
+Base: Australia (n=202); Egypt (n=154); Hong Kong (n=155); Ireland (n=164); KSA (n=158); Malaysia (n=251); Singapore (n=204);
+UK (n=1,456); UAE (n=213).
+Question: Which of the following statements best describes how your HR skills have changed, if at all, in the last 12 months?
+
+How are people management tasks being delegated?
+For Australia, Ireland and the UK, supporting people managers is a key
+capability area for people professionals, with respondents in the UK most
+likely to cite this compared with the other regions. This has been a consistent
+priority since 2021. The CIPD’s Effective people managers evidence review
+draws on the best available evidence on why people managers are important
+for organisational success and how to develop them.
+Related to this, proportionately more UK and Ireland respondents said that
+their most basic recruitment and people management tasks are delegated
+to line managers (in comparison with APAC and MENA respondents) (see
+Figure 3). Given the higher proportions of line manager responsibility for
+people management tasks, this may explain why supporting line managers
+is higher on the agenda for UK and Ireland people teams, to ensure people
+management tasks are effectively carried out.
+
+1
+2
+
+3
+4
+5
+6
+7
+
+17
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Figure 3: Approving leave requests and interviewing candidates for roles were the most common
+people tasks delegated to line managers
+Delegation of HR to the line, by region (% of respondents)
+Approving their team
+members’ leave/time off
+
+48
+
+Interviewing candidates
+for the role
+
+Learning and personal
+development
+
+41
+
+Conflict management
+
+41
+
+35
+36
+
+Conducting exit interviews
+
+30
+28
+
+Posting job adverts
+
+32
+
+3
+3
+0
+
+41
+
+6
+
+3
+2
+
+Don’t know
+
+54
+
+39
+
+37
+None of these
+
+57
+
+51
+
+39
+
+22
+
+Payroll-related queries
+
+65
+
+47
+
+35
+
+71
+
+57
+
+46
+
+Sickness/absence
+management
+
+72
+
+53
+
+43
+
+Conducting performance
+management reviews
+
+74
+
+53
+
+4
+10
+
+20
+
+UK and Ireland
+
+30
+APAC
+
+40
+
+50
+
+60
+
+70
+
+80
+
+MENA
+
+Base: UK and Ireland (n=1,620); APAC (n=812); MENA (n=525).
+Question: Are line managers in your [client] organisation responsible for any of the following? (Please select all that apply.)
+
+What is the impact of hybrid working on people practice?
+When asked whether hybrid working has made people management easier or
+more challenging, we found a contrasting picture across the regions.
+
+1
+
+APAC and MENA respondents (with the exception of Singapore) were
+significantly more likely to say people practice has become easier due to
+hybrid working, compared with those in the UK and Ireland (see Figure 4 on
+page 20).
+
+2
+
+3
+4
+5
+6
+7
+
+18
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+MENA respondents were most likely to report that managing performance,
+ensuring good job quality and attracting and recruiting talent is easier
+to manage in a hybrid setting. There were also positive perceptions on
+communication and cutting costs:
+
+“[Hybrid working makes it] easier to communicate crossborder, easier to motivate people and easier to manage rental
+costs.” (KSA survey respondent)
+APAC country respondents (with the exception of Singapore) felt that
+supporting employee health and wellbeing and attracting and recruiting talent
+are easier through hybrid working:
+
+“Hybrid and remote working has made people management
+within the organisation easier because this style of working
+helps increase productivity, creates a sense of trust, improves
+work–life balance and promotes a more efficient use of time.”
+(Malaysian survey respondent)
+
+“Increased flexibility in scheduling and working arrangements
+can help accommodate employees’ needs and preferences.”
+(Malaysian survey respondent)
+However, some comments from APAC respondents highlighted the difficulties
+around building culture across a dispersed and remote workforce:
+
+“Driving culture when employees are remote is harder;
+building a sense of belonging when employees are remote is
+harder.” (Hong Kong survey respondent)
+“Building culture in the organisation is harder when there’s
+rarely more than a third of the workforce in the office on any
+given day.” (Australian survey respondent)
+
+1
+2
+
+3
+4
+5
+6
+7
+19
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Figure 4: Respondents from MENA countries were the most positive about the impact of hybrid
+working on people practice
+The impact of hybrid working on people practice (% who responded “has become easier”)
+Managing performance
+9
+Ensuring employees have
+good job quality (ie that jobs
+are well designed)
+Attracting, recruiting and
+retaining talent
+
+34
+
+18
+29
+
+10
+0
+
+5
+
+10
+
+MENA
+
+APAC
+
+15
+
+36
+
+30
+
+13
+
+Building organisational
+culture and values
+
+37
+
+31
+
+15
+
+Supporting employees’
+mental health and wellbeing
+
+37
+
+33
+
+20
+
+Contributing to
+organisational effectiveness
+
+38
+
+31
+
+14
+
+Supporting line managers to
+manage their teams effectively
+
+39
+
+31
+
+20
+
+25
+
+30
+
+36
+
+35
+
+35
+
+40
+
+UK and Ireland
+
+Base: MENA (n=525); APAC (n=812); UK and Ireland (n=1,620).
+Question: We are now going to ask you about some aspects of working as an HR/people professional. Please indicate how, if at all,
+these have changed due to the shift towards, ‘working from anywhere’, and hybrid working.
+
+In contrast, UK and Ireland respondents – and also those in Singapore –
+were significantly more likely to say that all areas of people management are
+more challenging within a hybrid context. The most difficult areas included
+supporting employee health and wellbeing, building organisational culture,
+attracting, recruiting and retaining talent, and managing performance. An HR
+practitioner in the UK noted:
+
+“The shift to hybrid work has impacted our organisational
+culture in unforeseen ways. The challenge lies in nurturing a
+cohesive culture that transcends physical boundaries. Efforts
+to foster a shared sense of purpose and identity among
+remote and onsite employees require creative approaches and
+proactive communication.” (UK survey respondent)
+Given that measuring performance is a key workforce priority area identified
+earlier in this report, it’s interesting to consider the perceived impact of hybrid
+working on performance:
+
+1
+2
+
+3
+4
+5
+6
+7
+
+20
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+“The hybrid work setup has necessitated a shift in our
+performance management strategies. We’re collaborating
+closely with managers to establish clear goals and
+expectations for employees working in diverse environments.
+Regular check-ins, transparent feedback mechanisms, and
+data-driven evaluations are pivotal in ensuring consistent
+performance across the hybrid model.” (UK HR practitioner)
+Differences within each region are explored in more detail within the
+respective accompanying reports.
+
+Spotlight focus: How are people professionals using
+evidence in practice?
+When making decisions, it is important to use as many sources
+of evidence as possible to inform your thinking. Our article
+Building an evidence-based people profession explores the
+importance of evidence-based practice and why practitioners should use
+the best available evidence in the chosen area, rather than relying on fads,
+outdated insights or so-called ‘best practice’. Taking an evidence-based
+approach to decision-making not only helps people professionals increase
+their influence with other business leaders, but also leads to a profession that
+is more respected and trusted, thanks to its strong body of knowledge.
+Unfortunately, evidence-based practice is in its relative infancy in HR and
+management, especially compared with professions like medicine and
+education, where it is more established.
+Attitudes towards using research to inform practice
+Well over half of our survey respondents believe that scientific research is an
+important way to improve practice across the profession, with proportionately
+higher agreement in APAC countries (62%). Respondents who agreed that
+research is important to improve practice are also more likely to actively
+engage with research summaries (68%) and published research (69%) on a
+frequent basis (once a week or more) than those who disagreed (9% and
+10% respectively). One of the core values in the CIPD Profession Map is to be
+evidence-based, and we found that CIPD members were more likely to agree
+that research is an important way to improve practice within the profession
+than non-members (64%, versus 53%).
+Of those who disagreed that research improves practice, 28% engage with
+research summaries and 30% engage with published research regularly,
+showing that a sizeable proportion of these still actively use research to
+support their decision-making. On the whole, this suggests that people
+professionals recognise the importance of being evidence-based, and of
+drawing on research to support and improve HR practice.
+
+1
+2
+
+3
+4
+5
+6
+7
+
+21
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+Barriers to engaging with research
+Despite recognising the importance of research to inform practice, on average
+40% of respondents felt they are too time-poor to keep abreast of the latest
+research. This was somewhat less for MENA respondents (31%).
+In terms of accessibility, 42% of the global sample believe that published
+research is too complex and technical, and this is higher for regions where
+English is not necessarily the respondent’s first language (45% in MENA
+countries and 52% in APAC countries). This has led the CIPD to produce
+accessible evidence reviews and bitesize research summaries.
+Types of evidence used to inform decision-making
+There are several types of evidence that can be used to inform decisionmaking, with some used more frequently than others. Figure 5 shows several
+evidence sources and how often our respondents use them in practice.
+Figure 5: Respondents are far more likely to engage with personal experience as an evidence
+source than published research
+Sources of evidence and engagement levels (% of respondents)
+92
+
+Personal experience
+
+63
+90
+
+Discussions with senior leaders
+
+48
+83
+
+People data
+
+41
+77
+
+Summaries of research evidence
+
+29
+76
+
+Published research
+
+26
+
+0
+
+10
+
+20
+
+30
+
+Net: At least once
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Net: Once a week or more
+
+Base: global (n=2,957).
+Question: How often do you actively use the following to inform your decisions as an HR/people professional?
+(Please select one on each row.)
+
+Globally, we find that practitioners are far more likely to rely on personal
+experience than on published or summarised research. For example, only a
+quarter of our global sample said they actively engage with published research
+on a weekly basis, compared with 63% who use personal experience. However,
+looking beyond the active users, more than three-quarters of respondents said
+they engage with published research at some point over the year.
+A minority said they have never engaged with published research (16%) and
+people data (9%) to inform their professional decision-making. Generalist HR
+professionals were more likely to say they have never engaged with research
+summaries (17%) or published research (18%) than the majority of the sample.
+When we consider HR specialisms, recruitment and resourcing professionals
+and reward and benefit specialists had engaged with research the least,
+compared with the other specialist roles.
+22
+
+The people profession 2023: An international comparison
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+At a regional level, we find that active engagement levels (ie engaging once a
+week or more frequently) vary significantly across regions. MENA respondents
+were considerably more consistent with how they engage with the various
+sources, although they were still least likely to engage with published research
+(out of the five sources).
+Usage among UK and Ireland respondents varied considerably. While 72%
+said they regularly use personal experience to inform their decision-making,
+only a fifth said they regularly engage with research summaries and published
+research on a weekly basis (see Figure 6).
+Figure 6: MENA respondents are fairly consistent with their engagement across the five sources of
+evidence, compared with UK and Ireland respondents
+Sources of evidence and engagement levels by region (% of respondents; net: once a week or more)
+80
+72
+70
+60
+50
+
+58
+49
+
+52
+
+56
+
+54
+
+50
+44
+38
+
+40
+
+37
+
+38
+30
+
+30
+
+25
+21
+
+21
+
+20
+10
+0
+
+Personal
+experience
+
+Discussions with
+senior leaders
+
+People data
+
+UK and Ireland
+
+MENA
+
+Summaries of
+research evidence
+
+Published
+research
+
+APAC
+
+Base: UK and Ireland (n=1,620); MENA (n=525); APAC (n=812).
+Question: How often do you actively use the following to inform your decisions as an HR/people professional?
+(Please select one on each row.)
+
+To start your journey towards making better decisions using evidence-based
+HR practice, see the CIPD’s practical guide. CIPD members also have access
+to over 200 HR, L&D, business and management journals through EBSCO, and
+CIPD evidence reviews are freely available.
+
+Spotlight focus: What is HR’s role in the sustainability
+agenda?
+According to a United Nations report, humans have been the
+main driver of climate change since 1800,9 which has resulted
+in serious calls to action for all countries to help combat climate
+change and slow its negative impact on our planet. The shared responsibility
+of taking action to reduce greenhouse gas emissions has led to 130 countries
+committing to net zero.10 As well as this intergovernmental and legally binding
+pledge, there is growing momentum for organisations to tackle climate action,
+23
+
+The people profession 2023: An international comparison
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+reflected in the increasing number of environmental, social and governance
+(ESG) committees in large UK organisations (CIPD, 2023) and the rise in chief
+sustainability officer roles.
+The transition to net zero is a defining trend that people professionals need
+to influence and lead on, especially given the importance of educating and
+upskilling the labour market. The CIPD report Putting people professionals
+on the road to net zero gives recommendations to policy-makers in the UK
+and people professionals everywhere on how to start their environmental
+sustainability journey.
+The prevalence of environmental sustainability strategies
+Across the global sample, an average of 59% said their organisation has a
+strategy for sustainability and environmental issues, with Australia (71%),
+Hong Kong (65%) and UAE (64%) most likely to say this. Singapore and
+Ireland respondents were least likely to have a sustainability strategy in place
+(see Figure 7).
+Across the global sample, we found that large businesses (with 250+
+employees) were more likely to have a strategy for sustainability and
+environmental issues (69%, compared with 52% of SMEs). We also found that
+public sector organisations were slightly more likely to have a strategy in place
+(63%), compared with private (58%) and voluntary (60%) sector businesses.
+Figure 7: Australian respondents are most likely to say their business has a sustainability strategy
+to tackle environmental issues
+Sustainability strategy responses across the sample (% of respondents)
+100
+90
+
+13
+
+19
+
+80
+70
+
+9
+
+3
+
+12
+
+15
+
+16
+
+13
+
+24
+
+22
+
+23
+
+29
+
+15
+
+17
+
+20
+
+33
+
+28
+
+30
+35
+
+60
+
+37
+
+50
+40
+30
+
+71
+59
+
+65
+
+64
+
+63
+
+61
+
+58
+
+56
+
+20
+
+48
+
+44
+
+2
+
+10
+0
+
+1
+
+Global
+
+Australia
+
+Hong
+Kong
+
+Yes
+
+UAE
+
+Malaysia
+
+Egypt
+
+UK
+
+No
+
+Don’t know
+
+KSA
+
+Singapore Ireland
+
+Base: global (n=2,957); Australia (n=202); Hong Kong (n=155); UAE (n=213); Malaysia (n=251); Egypt (n=154); UK (n=1,456); KSA
+(n=158); Singapore (n=204); Ireland (n=164).
+Question: As far as you are aware, does your [client] organisation have a strategy to tackle sustainability and environmental issues
+(eg adapting to net zero or focusing on green jobs/skills)?
+
+3
+4
+5
+6
+7
+
+24
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+The role of people professionals in sustainability strategies
+We found that in KSA, Australia and Malaysia, the HR function is consistently
+involved in the sustainability agenda, from developing the sustainability
+strategy to communicating and implementing it (see Figure 8). In Egypt,
+UAE, Singapore, Ireland and the UK, HR is less likely to be involved in
+developing the strategy compared with their involvement in communicating
+and implementing the strategy in practice. Overall, the UK was significantly
+less likely to have HR teams involved at all stages of sustainability strategy
+planning compared with the wider sample, despite more than a third of UK
+businesses having a chief sustainability officer in post. Comparatively, the UK
+and Ireland appear to be lagging behind when it comes to HR representation
+in the sustainability agenda.
+Across the global sample, we found that people teams from SMEs are
+significantly more likely to be very/fairly involved in the development (76%),
+communication (80%) and implementation (77%) of strategies compared with
+larger organisations (57%, 65% and 65% respectively). Looking across sectors,
+people professionals from public sector organisations were significantly less
+likely to be involved in this strategic agenda.
+Figure 8: Respondents from the UK are consistently the least likely to say their people teams are
+involved in their organisation’s sustainability strategy
+Respondents who said their HR team are very/fairly involved in each stage of the sustainability
+strategy (% net involved (very/fairly involved))
+100
+92
+90
+
+90 89
+
+89
+
+93
+
+92 92
+86 86 85
+
+88
+
+85
+
+90
+
+84
+
+90
+82
+
+87
+79 79
+
+80
+72
+
+72 74
+
+69
+
+70
+
+67
+
+60
+
+56 55
+48
+
+50
+40
+30
+20
+
+1
+
+10
+0
+
+2
+KSA
+
+Australia
+
+Malaysia
+
+Hong Kong
+
+Developing and setting the strategy
+
+Egypt
+
+UAE
+
+Communicating the strategy
+
+Singapore
+
+Ireland
+
+UK
+
+3
+
+Implementing the strategy
+
+Base: KSA (n=88); Australia (n=144); Malaysia (n=159); Hong Kong (n=100); Egypt (n=94); UAE (n=137); Singapore (n=98);
+Ireland (n=72); UK (n=1,456).
+Question: How involved, if at all, are HR in each of the following stages of this strategy?
+
+4
+5
+6
+7
+
+25
+
+The people profession 2023: An international comparison
+
+People Profession 2023: International survey report
+
+For more detailed regional analysis on these trends and others, plus
+recommendations on how people professionals can manage the
+challenges they are facing, see our accompanying Asia-Pacific, Middle
+East and North Africa, UK and Ireland, and Canada reports.
+
+5 Conclusion
+
+This international report compares how various regions are being impacted
+by current workplace trends and how the people profession is responding and
+adapting people practice in line with local workforce priorities.
+Here are some key reflections for people professionals:
+1. Practitioners need to prioritise their learning and development to stay
+ahead of the curve.
+The world of work is evolving at a rapid pace and the impact of technology
+and digital transformation on organisations, people teams and people
+professionals themselves will require practitioners to commit to continuous
+learning to build their skills and capabilities effectively. Our data suggests
+that the role of people professionals is being influenced not only by
+technology, but also by other external disruptors, diversifying workforce
+expectations and ongoing internal change. However, efforts to upskill vary
+considerably across the sample and we can’t afford for skills growth to stall.
+At a team level, it is critical that people professionals build their capability
+to work cross-functionally and increase their visibility by partnering
+with other business areas, so that they closely align people strategy with
+business objectives.
+2. Understanding the impact of hybrid working is critical for people
+management.
+Perceptions in some regions are that hybrid working has made people
+practice easier to deliver, but for others, it has surfaced challenges,
+particularly around supporting employee wellbeing, building culture,
+and attracting and retaining talent. Our data suggests that the impact of
+hybrid working is complex, particularly for organisations who operate
+across regions. Given that the demand for hybrid working is likely to
+remain higher than pre-pandemic levels, it’s important that we take stock,
+understand the potential risks by collecting data and consulting with
+employees, and adapt strategies and practice accordingly to minimise
+business and people risks.
+3. Practitioners should aspire to be more evidence-based in their
+decision-making.
+Our data suggests that many professionals recognise the importance of
+using research to inform practice. However, there is still some way to
+go. While many practitioners use professional experience to help inform
+decision-making, they shouldn’t rely on this alone. But our findings suggest
+
+26
+
+Conclusion
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+that there are barriers, such as lack of time and the complexity of using
+other sources of evidence. Professionals need to hone their critical thinking
+skills and be more confident when appraising research and data to drive
+their evidence-based decision-making forward.
+4. People teams can play a pivotal role in driving environmental
+sustainability strategies.
+With inter-governmental efforts to reach net zero targets being a defining
+trend over the next decade, there is an opportunity for practitioners to
+lead this people-focused agenda, by upskilling, educating and encouraging
+sustainable behaviours within the workplace. Currently, our research
+suggests that the involvement of people teams varies across the international
+sample, but it provides a baseline as we progress towards implementing
+more sustainable practices within the workplace. People professionals
+should assess whether they can do more to help their organisations develop,
+communicate and implement their sustainability strategies.
+Our accompanying Asia-Pacific, Middle East and North Africa, UK and Ireland,
+and Canada reports take a deeper dive into how these trends – and others –
+are affecting individual regions and provide recommendations on how people
+professionals can manage the challenges they are facing.
+
+6 Methodology
+
+The People Profession survey is a long-standing research programme that
+showcases the current views of people professionals’ working lives and
+careers. This survey has developed into an international snapshot of the
+profession and provides the latest insights on people practices across the
+globe. Our sample included CIPD members and non-members, and is a
+mix of in-house and independent professionals from a range of specialisms
+(including HR, learning and development (L&D), organisational development
+(OD) and others). Full demographic details of our sample can be found at the
+end of each of our acccompanying regional reports.
+
+Survey instrument and method
+Since 2018, the survey has been tested and refined, and what was originally
+a UK-based survey has become an international survey instrument that has
+now been piloted in over 14 countries through CIPD-led research, and in 20
+countries alongside our research partners: the WFPMA, SHRM and AHRI.
+This year, our data collection spans nine countries: Australia, Egypt, Hong
+Kong, Ireland, the Kingdom of Saudi Arabia, Malaysia, Singapore, the United
+Arab Emirates and the United Kingdom, with additional data from Canada,
+collected by the Chartered Professionals in Human Resources Canada (CPHR
+Canada). The findings are presented here in an international report that
+explores the collective sample, making comparisons across regions. This is
+accompanied by four regional reports (Asia-Pacific (APAC), the Middle East
+and North Africa (MENA), the UK and Ireland, and Canada), which draw on
+in-region comparisons.
+27
+
+Methodology
+
+1
+2
+
+3
+4
+5
+6
+7
+
+People Profession 2023: International survey report
+
+Commissioned by the CIPD, the data was collected by YouGov between
+18 April and 27 May 2023 via an online survey. The survey was translated
+into the official language of each country to ensure the questions
+were accessible and correctly interpreted within each region. The data
+analysis was conducted by the CIPD. We surveyed a total of 2,957 people
+professionals; the sample sizes for each region are shown in Table 3.
+The data is unweighted and therefore the sample of respondents is not
+representative of the total HR population within those regions. However,
+this data represents the perspectives of the 2,957 people professionals who
+participated in this survey.
+Table 3: Sample sizes of the countries surveyed in this report
+Country
+
+Sample size
+
+Australia
+
+202
+
+Egypt
+
+154
+
+Hong Kong
+
+155
+
+Ireland
+
+164
+
+Kingdom of Saudi Arabia
+
+158
+
+Malaysia
+
+251
+
+Singapore
+
+204
+
+United Arab Emirates
+
+213
+
+United Kingdom
+
+1,456
+
+The details of the CPHR Canada survey are included in the Canada report.
+CPHR Canada analysed this data and wrote the report.
+
+Survey questions
+Each year, the survey instrument is reviewed and refined where changes
+are appropriate, or where there are new research questions to be explored.
+For the 2023 survey, we added new questions that explore attitudes and
+behaviours around applying evidence and research in practice and people
+teams’ involvement in their organisation’s sustainability agenda.
+Where sample sizes are large enough, the data was cross-tabulated by business
+size and sector. We also explore other demographic variables such as age and
+experience within the profession throughout the reports, where significant
+differences are noted. Given the larger UK sample in comparison with other
+regions, the global average percentages will be skewed towards the UK findings.
+
+1
+
+Supplementary data
+
+2
+
+We have included qualitative data collected throughout the survey and
+through the CIPD’s research panel to provide some further context on the
+quantitative data. We would like to thank those participants who contributed
+their views and experience in relation to the key findings from the survey.
+If you are interested in being part of the CIPD’s research panel, please email
+customerresearch@cipd.co.uk
+
+3
+4
+5
+6
+7
+
+28
+
+Methodology
+
+People Profession 2023: International survey report
+
+7 Endnotes
+1
+
+Pahl, S. (2023) An emerging divide: Who is benefiting from AI? UNIDO
+Industrial Analytics Platform. February.
+
+2
+
+Dowson, N. (2023) Cost of living – who dunnit? New Internationalist. 12 January.
+
+3
+
+O, Neill, A. (2023) Global inflation rate from 2000 to 2028. Statista. 29 August.
+
+4
+
+United Nations Net Zero Coalition.
+
+5
+
+Smith, C., Pape, J-P., Ramirez, D. and Pienkowski, E. (2022) Work in progress:
+How the future of work depends on us. Accenture.
+
+6
+
+ONS. (2023) Characteristics of homeworkers, Great Britain: September 2022 to
+January 2023. Office for National Statistics.
+
+7
+
+Tan, J. (2023) APAC led strong global hiring trends in 2022. HRM Asia.
+20 February.
+
+8
+
+Herbert, C., Dorsey, M. and Quaadgras, T. (2023) Global study: HR executives
+and XM. Qualtrics XM Institute.
+
+9
+
+IPCC. (2023) Climate change 2023: Synthesis report. Contribution of Working
+Groups I, II and III to the Sixth Assessment Report of the Intergovernmental
+Panel on Climate Change. Geneva: IPCC.
+
+10
+
+Carver, D. (2021) Global net zero commitments. UK Parliament, House of
+Commons Library. 12 November.
+
+1
+2
+
+3
+4
+5
+6
+7
+29
+
+Endnotes
+
+The Chartered Institute of Personnel and Development
+151 The Broadway London SW19 1JQ United Kingdom
+T +44 (0)20 8612 6200 F +44 (0)20 8612 6201
+E cipd@cipd.co.uk W cipd.org
+Incorporated by Royal Charter
+Registered as a charity in England and Wales (1079797)
+and Scotland (SC045154).
+Issued: October 2023 Reference: 8461 © CIPD 2023
+
+

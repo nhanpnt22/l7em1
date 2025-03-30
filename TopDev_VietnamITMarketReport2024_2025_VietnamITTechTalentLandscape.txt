@@ -1,0 +1,8252 @@
+TABLE OF CONTENT
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+VIETNAM OVERVIEW:
+SOCIO-ECONOMICS
+INDICATORS
+
+IT JOBS MARKET IN VIETNAM:
+SALARIES & DEMANDS
+Developers’ salaries and demands
+Page 24
+
+Population, employment figures, labor
+force, trade, FDI & ICT Industry
+Page 4
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+VIETNAM TECH STARTUPS &
+INNOVATION LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Vietnam Startup Ecosystem, Innovations
+landscape
+Page 10
+
+DEVELOPER PERSONAS IN
+VIETNAM
+
+Developer demographic, interests &
+behaviors insights in daily life &
+workplace
+Page 16
+
+TECH HIRING LANDSCAPE
+IN VIETNAM:
+Tech hiring behaviors, trends &
+considerations
+Page 32
+
+TECH TALENT
+DEVELOPMENT
+TRENDS
+
+Tech hiring trends in 2024 - 2025
+Challenges in Talent management
+Page 40
+
+DATA, METHODOLOGY & REPORT FOUNDATION
+TOPDEV INTRODUCTION & SERVICE
+CONTACT
+Page 46
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+1
+
+FOREWORD
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Vietnam IT industry has experienced significant changes in recent years. Despite the global economic downturn and various
+external challenges that have attempted to hinder corporate growth, Vietnam IT market has continued to thrive. This report
+explores the factors driving this growth and provides insights into the market's future direction.
+Even amid global economic uncertainty, Vietnam IT market is unveiling new opportunities. Technologies such as digital
+transformation, cloud computing, and artificial intelligence are creating new opportunities for many companies, and
+Vietnam IT industry is actively embracing and advancing these innovations. Additionally, the influx of foreign capital and
+ongoing investments in startups are further solidifying the growth engine of the market. Vietnam is emerging as a key
+technology hub in the ASEAN region, and interest from foreign investors is expected to strengthen in the coming years.
+However, several challenges remain. Enhancing infrastructure, securing skilled professionals, and improving technology to meet
+global standards are critical barriers that the Vietnam IT market must address moving forward.
+The demand for experienced professionals in the job market is expected to increase. Companies prefer experienced
+professionals, which may reduce the proportion of new hires. Consequently, the importance of training programs for new
+employees will be greater than ever. Many companies in Vietnam are implementing various initiatives to quickly improve the
+capabilities of new employees, which will contribute to the ongoing growth of the Vietnam IT industry.
+
+https://topdev.vn
+
+This report provides an in-depth analysis of current market trends, highlighting both the opportunities and challenges that
+companies face. We aim to offer a range of information that can be practically useful to professionals and talent in the IT sector.
+The growth potential of the Vietnam IT market remains infinite. We hope this report serves as a vital compass for
+understanding the market and capturing new opportunities. We will continue our efforts to contribute valuable insights to
+the development of the Vietnam IT industry.
+
+Park JongHo
+CEO - TopDev
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+2
+
+EXECUTIVE SUMMARY
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+01
+
+04
+
+02
+
+05
+
+03
+
+06
+
+Vietnam's tech start-up ecosystem continues to thrive,
+underpinned by robust foreign direct investment and significant
+government support. A key trend is the increasing collaboration
+between local start-ups and international investors, positioning
+Vietnam as a growing hub for tech innovation in Southeast Asia.
+
+Vietnam is on the cusp of a major breakthrough in tech talent
+development, with a focus on upskilling and reskilling initiatives to
+meet the demands of a rapidly evolving digital economy. Key
+trends include the integration of AI and machine learning in educational
+curriculums and corporate training programs.
+
+Vietnam's socio-economic indicators reflect a strong economic
+Vietnam's developer landscape is marked by a vibrant and
+foundation with sustained GDP growth, increasing urbanization,
+youthful energy, with a majority of tech talent stemming from the
+and improving infrastructure, which are attracting substantial
+Gen Z and Millennial generations. These developers are not only
+foreign investments in the tech sector.
+adept at embracing cutting-edge technologies but are also keen on
+continual professional development, showcasing a strong potential for
+https://topdev.vn
+driving future innovations in the tech sector.
+
+Tech hiring in Vietnam is experiencing a transformative shift with
+an increasing demand for skills in emerging technologies such as
+AI, data & cloud computing. The high demand also highlights the
+talent shortage, particularly in specialized tech roles, presenting a
+challenge for sustainable growth.
+
+The IT job market in Vietnam shows promising growth, with
+competitive salaries and high demand for tech roles, driven by the
+digital transformation across industries especially Banking & Fintech.
+Many global R&D centers setup recently have created more
+opportunities for Tech talent also.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+3
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+1.VIETNAM
+OVERVIEW
+
+Vietnam
+Capital: Hanoi
+Land area: 331,236 sq km (2019)
+National language: Vietnamese
+Currency: Vietnam Dong (VND)
+Region: South East Asia
+
+Socio-economics indicators
+Population, employment figures, labor force, trade, FDI & ICT Industry
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+4
+
+SOCIO-ECONOMICS
+Median Age
+
+80+
+75-79
+
+Male
+
+99.46M(2022) 98.51M(2021)
+
+65-69
+
+50-54
+45-49
+40-44
+35-39
+30-34
+20-24
+10-14
+5-9
+0-4
+1%
+
+0%
+
+0%
+
+1%
+
+2%
+
+3%
+
+Vietnam is still in its “golden population period”
+with the proportion of the population aged
+15-64 accounting for about 67.4%. This period is
+forecast to last at least another 10 years.
+
+51.4M
+(6M/2024)
+
+51.3M
+51.0M
+
+(2023)
+(2022)
+
+2.05%
+
+2.35%
+
+Urban 2.68% - Rural 2.00% (6M/2024)
+Urban 2.73% - Rural 2.00% (2023)
+
+6.73%
+
+3.68%
+
+2.69%
+0.39%
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+(6M/2024)
+
+2.01%
+
+(2023)
+
+2.21%
+
+(2022)
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+6.72%
+
+5.92%
+
+5.22%5.03%
+
+4.48%4.72%
+
+https://topdev.vn
+2019
+2020
+EMPLOYED POPULATION AGED
+15 YEARS & OVERWORKING
+
+2.27%
+(6M/2024)
+
+4%
+
+7.72%
+6.79%
+
+5.66%
+
+5.47%
+
+6.93%
+6.70%
+6.00%
+
+4.14%
+3.32%
+
+Q4
+
+Q1
+
+Q2
+
+2021
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2022
+
+Q3
+
+Q4
+
+Q1
+
+2023
+
+Q2
+
+Q3
+(E)
+
+Q4
+(E)
+
+2024
+
+With the results in the first
+half, GDP growth for the
+whole year 2024 is forecast
+to achieve 6.55% - 6.95%.
+Vietnam has implemented
+economic
+reform
+&
+management solutions to
+disburse public investment
+capital - credit, increase
+labor productivity, business
+environment & national
+competitiveness.
+
+-6.02%
+
+VIETNAM GDP ANNUALLY GROWTH RATE & GDP PER CAPITA
+18.58%
+
+Annual GDP Growth rate %
+Core Inflation (%)
+GDP Per Capita (USD)
+
+3.6x
+
+Vietnam maintains high economic
+growth rates. The increasing
+proportion of service sector marks
+major shifts in the development
+potential of the economy.
+
+$4,700 (E)
+
+2%
+
+7.31%
+
+$4,284
+
+3%
+
+6.82%
+6.73%
+
+$4,110
+
+4%
+
+UNDEREMPLOYMENT RATE
+AT WORKING AGE
+
+(2022)
+
+According to IMF forecasts, by
+2025, Vietnam's GDP per capita
+will exceed the 5,000 USD mark.
+
+13.67%
+
+Quarterly GDP Growth rate (%)
+
+15-19
+
+UNEMPLOYMENT RATE
+OF LABOR FORCE
+(2023)
+
+$3,717 (2021)
+
+VIETNAM GDP QUARTERLY GROWTH RATE %
+
+25-29
+
+Increased by 0.1M compared to 2023
+
+2.28%
+
+$4,110 +(2022)
+
+$366B +2.55% (2021)
+
+$3,717
+
+(2023)
+(2022)
+
+$409B +8.12% (2022)
+
+$3,549
+
+52.4M
+52.1M
+
+$4,284 (2023)
+
+$430B +5.05% (2023)
+Vietnam's economic size in 2023 ranked 34th according to
+CEBR's rankings. The latest report from the World Bank (WB)
+assesses Vietnam as a global economic star with the fastest
+GDP growth rate in the world over the past 30 years.
+
+55-59
+
+5%
+
+GDP PER CAPITA
+
+$3,439
+
+LABOR FORCE AGED
+FROM 15 YEARS AND OVER
+
+60-64
+
+GDP
+
+Covid/ Lockdown
+
+Ranked 15 among the most populous
+countries in the world and 3rd in SEA
+(after Indonesia and Philippines).
+By Cities
+• Ho Chi Minh: 8.993M
+• Ha Noi: 8.053M
+• Da Nang: 988K
+By Gender & Urbanization:
+• 50.1% Female | 49.9% Male
+• 38.1% Urban | 61.9% Rural
+Other:
+• 112 Male births | 100 Female births
+• Total fertility rate in 2018-2023
+(children/ woman): 2.05 - 2.09 2.12 - 2.11 - 2.01 - 1.96
+
+Female
+
+70-74
+
+th
+
+(6M/2024)
+
+32.5
+
+AGE PYRAMID
+
+100.3M (Dec 2023)
+
+52.5M
+
+2024 - 2025 Vietnam IT Market Report
+
+8.02%
+7.02%
+5.05%
+
+$1,300
+
+POPULATION
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+6.0% (E)
+
+2023 GDP Contribution Portions by
+Economic Sectors
+Agriculture,
+forestry
+and fishery
+
+3.4% (E)
+Service
+
+2011
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 E
+
+42.54%
+
+Industry
+& construction
+
+37.12%
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+11.96%
+Product Tax
+
+8.38%
+
+5
+
+SOCIO-ECONOMICS
+S&P GLOBAL PMI VIETNAM
+MANUFACTURING PMI
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+[Region I, unit: million dong/ month]
+
+Covid-19 Period
+
+50
+45
+
+2024
+
+2022/
+23
+
+2021
+
+2020
+
+2019
+
+https://topdev.vn
+217,700
+172,600
+
+35
+
+The rate of expansion in the Vietnamese
+manufacturing sector accelerated sharply at the end
+of the second quarter.
+New orders rose at one of the fastest rates on record,
+prompting firms to ramp up production and
+purchasing activity, and increase staffing levels for the
+first time in three months.
+
+8.01%
+7.06%
+
+3.98%
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2.29%
+
+2.19%
+
+New establishment & Re-operated
+Dissolution & Temporary closed
+
+'12 '13 '14 '15 '16 '17 '18 '19 '20 '21 '22 '23 '24
+
+Decree 74/2024/NĐ-CP
+
+Decree 157/2018/NĐ-CP
+
+Decree 141/2017/NĐ-CP
+
+Decree 182/2013/NĐ-CP
+
+[unit: company unit]
+
+40
+
+'11
+
+Youth Unemployment Rate
+
+8.78%
+
+ENTERPRISE REGISTRATION STATUS
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+
+2019
+110,300
+
+55
+
+It can be seen that the regional minimum wage has increased
+gradually over the years.
+
+119,600
+
+60
+
+2016
+
+[>50 = increase compared to previous month]
+
+2015
+
+PMI EMPLOYMENT INDEX
+
+4.42
+
+The difficult business situation with an average of about 18.4
+thousand businesses withdrawing from the market in the
+first 6 months of the year is the main reason for the increase
+in unemployment rate in the second quarter.
+In the second quarter of 2024, production and business
+activities of many industries and fields have improved but
+are still facing difficulties. Enterprises are facing low and
+unstable domestic and international market demand, input
+material prices are higher than output goods prices,
+difficulties in accessing capital, etc., which have affected the
+unemployment situation of workers.
+Unemployment Rate
+
+2014
+
+2012
+
+Decree
+108/2010/
+NĐ-CP
+
+2024
+
+2011
+
+2023
+
+Decree
+70/2011/NĐ-CP
+
+1.35
+
+32
+
+2013
+
+2.00
+
+36
+
+Decree 103/2012/NĐ-CP
+
+2.35
+
+40
+
+Decree 103/2014/NĐ-CP
+
+2.70
+
+2018
+
+44
+
+Decree 122/2015/NĐ-CP
+
+3.10
+
+3.75
+Decree 156/2016/NĐ-CP
+
+3.50
+
+4.42
+
+Decree 38/2022/NĐ-CP
+(Jul 2022 - Jun 2024)
+
+3.98
+
+52
+
+2022
+
+4.18
+
+Decree 90/2019/NĐ-CP
+(2020 - Jun 2022)
+
+(From Jul 2024)
+
+48
+
+4.96
+
+4.68
+
+2017
+
+56
+
+2021
+
+[unit: %]
+
+4,960,000 VND
+
+[>50 = increase compared to previous month]
+
+2020
+
+VIETNAM UNEMPLOYMENT RATE
+
+VIETNAM MINIMUM WAGES
+
+2024 6M
+
+Production, business and export activities are showing signs of
+recovery, creating new business opportunities in the second half
+of 2024 thanks to signs of recovery from the global economy,
+especially in major economies such as the US, China, South Korea
+and ASEAN.
+
+2020
+
+2021
+
+2022
+
+2024
+
+The labor market has not improved much in terms of labor
+quality when the number of informal workers doing
+precarious and unstable jobs still accounts for a large
+proportion, about more than three-fifths of the total number
+of employed workers in the country.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+2023
+
+6
+
+SOCIO-ECONOMICS
+EXPORT & IMPORT OF GOODS
+
+$178.5B (6M/2024)
+
++15.6%
+
++17.2%
+
+Compared to 6M/2023
+
+REGISTERED CAPITAL
+
+Trade Surplus
+
+16
+
+332.25
+328.3
+
+262.4
+
+253.0
+
+35.46
+
+243.5
+
+264.2
+
+2018
+
+2019
+
+2020
+
+2021
+
+EVFTA
+
+371.85
+
+354.7
+
+377
+
+2022
+
+2023
+
+2024 (E)
+
+39.0
+36.6
+31.2
+
+27.7
+
+20.0
+
+19.7
+
+22.3
+
+23.2
+
+24.0
+
+https://topdev.vn
+2018
+
+2019
+
+6.2
+
+2020
+
+2021
+
+2022
+
+3,046
+
+3,883
+
+2,523
+
+1,738
+
+2,036
+
+3,188
+
+1,538
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024 6M
+
+FDI REGISTERED CAPITAL
+BY COUNTERPART (TOP 5) Total FDI Registered Capital
+(Contribution Ratio - Time)
+
+Singapore
+
+South Korea Japan
+
+China
+
+Hong Kong
+
+$5.58B
+
+$1.41B
+
+$1.73B
+
+$1.3B
+
+$1.73B
+
+$6.8B
+
+$4.4B
+
+$6.57B
+
+$4.47B
+
+$4.68B
+
+$6.46B
+
+$4.88B
+
+$4.78B
+
+$2.52B
+
+$2.22B
+
+(36.7% - 6M/2024)
+
+2023
+
+2024 (E)
+
+RCEP
+
+In the first 6 months of 2024, TOP 5 TRADING PARTNERS 2023
+the trade balance of goods is
+97
+US
+estimated to have a trade
+13.8
+surplus of 11.63 billion USD. Of
+61.2
+China
+110.6
+which,
+the
+domestic
+economic sector had a trade
+43.7
+EU
+14.9
+Export (bil USD)
+deficit of 12.35 billion USD;
+Import (bil USD)
+32.6
+the foreign-invested sector Asean
+40.9
+(including crude oil) had a
+South
+23.5
+trade surplus of 23.98 billion Korea
+52.5
+USD.
+
+6.3
+
+4.4
+
+336.25
+281.5
+
+6.1
+
+Implemented capital
+
+38.02
+
+20.37
+
+5.8
+
+Compared to 6M/2023
+
+361
+19.1
+
+5.9
+
++8.2%
+
+28.5
+
+360.65
+
+$10.8B (6M/2024)
+
++13.1%
+
+Registered capital
+
+8.8
+
+IMPLEMENTED CAPITAL
+
+$15.2B (6M/2024)
+
+Import turnover of goods
+
+Average project value (mil USD)
+
+Number of projects
+
+Compared to 6M/2023
+
+Compared to 6M/2023
+
+Export turnover of goods
+
+236.5
+
+NEWLY REGISTERED FDI PROJECTS
+
+[unit: bil USD]
+
+IMPORT
+
+$190.1B (6M/2024)
+
+2024 - 2025 Vietnam IT Market Report
+
+FOREIGN DIRECT INVESTMENT
+
+[unit: bil USD]
+
+EXPORT
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+(18.6% - 2023)
+(23.3% - 2022)
+
+Vietnam experienced robust FDI growth, solidifying its
+position as a leading investment destination in Southeast Asia.
+The period saw consistent inflows across various sectors, with
+manufacturing and processing continuing to dominate due to
+Vietnam's competitive labor costs and favorable trade
+agreements.
+Foreign investors' confidence in Vietnam's economy is very
+positive, many corporations and businesses have expressed
+their desire to continue investing in Vietnam. It is expected
+that FDI attraction for the whole year of 2024 could reach
+about 39-40 billion USD, equivalent to or higher than in 2023.
+
+(9.3% - 6M/2024)
+(12.0% - 2023)
+(17.6% - 2022)
+
+(11.4% - 6M/2024)
+(17.9% - 2023)
+(17.3% - 2022)
+
+(8.6% - 6M/2024)
+(12.2% - 2023)
+(9.1% - 2022)
+
+(12.8% - 2023)
+(6.6% - 2022)
+
+Vietnam has increasingly become ideal destination for
+FDI, moreover, countries like South Korea, the USA have
+prospected to put enormous investment into Vietnam
+for the near future with 2 national visits by the South
+Korean president and the US president.
+In recent years, there has been a notable shift towards
+high-tech industries, with increasing investments in
+electronics, software development, and R&D centers.
+Real estate and infrastructure projects also attracted
+significant FDI, driven by urbanization and the
+government's focus on modernizing transport networks.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+(11.3% - 6M/2024)
+
+7
+
+ICT & DIGITAL ECONOMY
+ICT REVENUE 2016 - 2024
+
+$142B
+
+(2023)
+
+Compared to 2022
+
+In which:
+
+HARDWARE
+
+SOFTWARE + IT SERVICE
+
+↓4.90%
+
+↓5.14%
+
+Compared to 2022
+
+Compared to 2022
+
+$129B (2023) $13B (2023)
+
+ICT Revenue first 6 months [unit: bil USD]
+136.1
+Software & IT Services
+124.7
+Businesses
+102.9
+
+148
+
+142
+
+140
+
+65,000
+Digital
+technology firms
+
+5,097
+
+18,162
+
+Hardware
+
+Software +
+IT Services
+
+Source: http://makeinvietnam.mic.gov.vn/ | Date August 24 2023
+
+In the national digital transformation, as of June 18,
+more than 1.39 billion transactions were conducted by
+the national government service platform.
+In addition, more than 849,290 enterprises
+participated in the small and medium enterprises
+support programme fro digital transformation
+(SMEdx), or 106.1 per cent of the 2023 plan.
+20%
+
+GMV (bil USD)
+
+$43B
+
+23,865
+
+$190 - 200B
+
+(2024E)
+
+(2030E)
+
+20%
+
+43
+
+19%
+
+36
+
+38%
+
+33%
+
+25
+
+18,408
+
+2018
+
+2019
+
+2020
+
+65.0
+
+77.0
+
+69.0
+
+86.9
+
+2021
+
+2022
+
+2023 2024 (E)
+
+In 2023, the digital technology industry has made strong
+progress. The revenue of the sector reached 142 billion USD
+with the proportion of Vietnamese value accounting for 28.7%.
+About 1,500 digital technology enterprises have revenue from
+foreign markets (an increase of nearly 4% compared to 2022).
+In 2023, due to the impact of the economic recession and the
+Russia-Ukraine conflict, export turnover of the IT industry only
+reached 127 billion USD, down 4.9% compared to 2022. The
+bright spot of the Vietnamese IT market is that the software
+export sector still maintains double-digit growth in the
+Japanese market and the Asia-Pacific region (APAC).
+
+12
+
+2019
+
+16
+
+https://topdev.vn
+18
+
+2020
+
+2021
+
+2022
+
+2023 2024E
+
+2025E
+
+Source: eConomy SEA 2023 Report by Google, Temasek & Bain
+
+According to calculations by the Ministry of
+Information and Communications, in 2020, Vietnam's
+digital economy contributed 12% of GDP. But by 2023,
+the digital economy contributed 16.5% of GDP and
+grew at a rate of over 20% per year.
+
+78.44M (Jan 2024)
+
+95.7% (Jan 2024)
+
+119.5 (Jan 2024)
+
+84.45% (Jan 2024)
+
+Internet Users (79.1% population) Population owns mobile phone
+Indexed Internet Adoption
+vs. Global Average
+
+Vietnam’s IT Services market is expected to generate $2.07B in
+2024, with IT Outsourcing dominating the sector. A CAGR of
+11.51% is projected for 2024-2026, indicating a market value of
+$3.2B by 2028. Foreign export market revenue contributes about
+80% of total revenue of Vietnamese digital technology
+enterprises.
+Business Process Outsourcing
+
+0.89
+
+IT Consulting & Implementation
+
+0.81
+
+IT Outsourcing
+Other IT Services
+
+0.55
+
+0.46
+0.35
+0.4
+
+0.59
+
+0.51
+
+0.67
+0.7
+
+0.74
+
+0.83
+
+0.98
+
+1.13
+
+1.28
+
+0.4
+
+0.47
+
+0.53
+
+0.6
+
+0.67
+
+0.73
+
+0.78
+
+0.84
+
+2021
+
+2022
+
+2023
+
+2024E
+
+2025E
+
+2026E
+
+2027E
+
+2028E
+
+Web Traffic by Mobile Phones
+(51.1% - 2021)
+
+1. Regulatory & Tax transformation and compliance:
+Companies face challenges in complying with updated
+regulations and tax laws, including tax, anti-money laundering
+and data privacy.
+2. Shift towards profitability: As interest rates rise, investors
+prioritize with a focus on profitability instead of growth.
+Financial & human resource considerations will become a
+higher priority for management.
+3. Capability building for digital transformation: With the
+digital transformation trend across sectors, there is a shortage
+of specific skills in the market such as: PMO, Data Analytics,...
+4. Data center growth: Cloud adoption, 5G rollout, and
+tightening data privacy regulations create a significant growth
+opportunity for data centers in Vietnam. This growth will require
+effective data center deployment strategies.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+0.94
+
+EMERGING THEMES
+
+30
+
+12.5%
+
+2017
+
+[unit: bil USD]
+
+In which:
+
+60.9
+
+2016
+
+IT SERVICES REVENUE BY SEGMENT
+
+INTERNET ECONOMY GROWTH RATE
+
+27,798
+
+112.5
+
+78.9
+
+2024 - 2025 Vietnam IT Market Report
+
+ICT TECHNOLOGY FIRMS
+
+↓4.0%
+
+ICT Revenue whole year [unit: bil USD]
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+8
+
+LIFESTYLE & SOCIETY
+751
+731
+
+736
+
+729
+713
+
+7.066
+
+5.94
+
+5.227
+
+5.14
+
+4.38
+
+686
+
+7.729
+
+2,586,860
+
+1,538,802
+
+1.64
+
+1.298
+
+1.156
+
+0.949
+
+0.74
+
+395,290
+
+USE OF ONLINE FINANCIAL SERVICES
+Among internet users aged 16 to 64
+
+Use a banking, investment or insurance
+website/ mobile app each month
+
+19.4%
+
+GTCI 2023
+
+Below consuming class (<$11 per day)
+Entry-level consuming class ($11-30 per day)
+Established consuming class ($30 -70 per day)
+Higher consuming class (>$70 per day)
+
+2
+
+4
+
+1
+14
+
+18
+
+36
+
+11.7%
+
+(Jan 2024)
+
+Own any form of
+cryptocurrency
+
+72
+
+58
+
+2010
+
+2020
+
+2030
+
+The burgeoning middle class is driving domestic demand
+and is expected to be a significant driver of Vietnam’s
+economic growth in the coming decades. By 2030, Vietnam
+is projected to have an additional 23.2 million people joining
+the middle class, ranking among the nations with the highest
+middle class population growth.
+
+https://topdev.vn
+
+*The middle class is defined as those who spend between $11 and $110 a day
+
+GDP GROWTH FORECAST
+OF ASEAN COUNTRIES [unit:%]
+Vietnam
+
+5.1
+
+Malaysia
+
+Philippines
+
+Thailand
+
+Singapore
+
+5.9
+
+6.2
+
+6.4
+
+6.6
+
+6.5
+
+2024E
+
+2025E
+
+2026E
+
+2027E
+
+2028E
+
+(Jan 2024)
+
+Use a mobile payment service each month
+
+The number of customers using Fintech payment services is
+growing strongly, along with the increasing transaction
+value, also the decline in the amount of cash in circulation.
+
+2023
+
+in 80th, the Philippines in 84th,
+behind Singapore in 2nd, Brunei in
+41st, Malaysia in 42nd.
+
+Ranks 2nd among the 37
+lower-middle-income group
+economies.
+
+HDI 2022
+
+HCI 2022
+
+0.726
+
+0.69
+
+Human Capital Index
+
+The quality of Vietnam's population has improved in many aspects.
+Vietnam's Human Development Index (HDI) reached 0.726 and is
+among the countries with a high level of human development.
+
+27
+2000
+
+Global Innovation Index
+
+/132
+/132
+75
+46
+In SEA, Thailand in 79 , Indonesia Vietnam climbed 2 places.
+
+Human Development Index
+
+57
+74
+
+Global Talent Competitiveness
+Index
+
+GII 2023
+
+th
+
+751,316
+
+As of the end of June, the total number of domestic
+investors' securities accounts was approximately 8 million.
+Of which, individual investors had more than 7.98 million
+accounts, equivalent to 8% of Vietnam's population. The
+stock market capitalization as of June 28, 2024 reached
+more than VND 7,066 trillion, up +19% compared to the end
+of last year; equivalent to 69.1% of estimated GDP in 2023.
+
+(Jan 2024)
+
+POPULATION BY INCOME GROUP
+(DAILY SPENDING)
+
+1
+5
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+/6M
+
+21.0%
+
+2024 - 2025 Vietnam IT Market Report
+
+[unit: million people, 2011 purchasing power parity (PPP)]
+
+2.87
+
+3.96
+
+639
+
+662
+
+672
+
+680
+
+694
+
+688
+
+Stock Market Capitalization
+Number of listed companies
+New Securities Account
+
+724
+
+STOCK MARKET [unit: million billion VND]
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+Among ASEAN Countries, Vietnam is projected to achieve
+highest GDP growth rate during period 2023 - 2028.
+Source: ADB, EIU, Euromonitor, BPS Indonesia, NESDC Thailand, Singstat Singapore,
+DOSM Malaysia, PSA Philippines, GSO, WTO Center
+
+GLOBAL INVESTORS EXPAND VIETNAM
+PRESENCE
+In 2023, FDI expanded investment in over 20 sectors,
+mostly manufacturing & processing, followed by
+real estate, power production & distribution, finance/
+banking. In Q4/2023, 60% of European businesses
+considered Vietnam within their top 10 investment
+destinations. 57% of Japanese firms in Vietnam plans
+to expand business in Vietnam in the next 1-2 years.
+A COMMITMENT TO INCREASE INVESTMENT IN
+TRADE THANKS TO FTAS
+In 35 years, Vietnam has attracted significant FDI
+projects: Samsung’s export turnover reached an
+impressive $65 billion in 2022, representing 8.9%
+Vietnam’s total exports. To further attract FDI, the
+Vietnamese government is actively enhancing
+policies related to corporate income tax,
+import-export tax, land use incentives and
+preferential loans.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+9
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+2.VIETNAM TECH
+STARTUPS & INNOVATION
+LANDSCAPE
+Explores the vibrant ecosystem of Vietnamese startups, highlighting
+key innovations and challenges within the tech industry and detailing
+support from government and private sectors
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+10
+
+OVERVIEW
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+70%
+
+79%
+
+81.534
+
+83.833
+
+87.968
+
+91.713
+
+Urban population (%)
+Internet users ratio on total population (%)
+Population (million)
+
+97.583
+
+VIETNAM BACKGROUND FOR
+REMARKABLE GROWTH
+
+100.3
+
+2024 - 2025 Vietnam IT Market Report
+
+31%
+
+INVESTMENT BY ECONOMIC SECTORS
+
+[unit: billion VND]
+
+Startups Globally
+
+12
+
+13
+
+1,919,670
+
+12
+
+12
+
+58
+
+56
+
+54
+59
+2020
+
+59
+2021
+
+2022
+
+Regional Ranking in APAC
+
+2023
+
+2024
+
+Global Ranking
+
+Ho Chi Minh
+
+https://topdev.vn
+
+Government sector
+Private sector
+FDI
+953,596
+
+550,204
+
+2010 2011
+
+12 Startups in APAC
+st Globally in number
+Best Country for
+31
+of startups accepted
+Startups in SEA
+th Best Country for
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+The urbanization rate in Vietnam continues to be strong due to
+population migration from rural to urban areas and the expansion of
+administrative boundaries of urban areas. Vietnam's urban population
+ratio in 2023 is about 38.1%.
+
+1. State and Government
+
+to Y Combinator
+
+13
+
+2%
+
+2002
+
+56
+5th
+
+th Best Country for
+
+38.1%
+
+25%
+
+VIETNAM STARTUP ECOSYSTEM
+
+VIETNAM STARTUP ECOSYSTEM
+RANKING
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+Total social investment capital in 2023 at current prices is estimated at
+VND 3,423.5 trillion, up 6.2% over the previous year, of which the State
+sector increased by 14.6%, the non-State sector increased by 2.7%, and
+the foreign direct investment sector increased by 5.4%.
+The non-State sector maintained its growth rate over the years despite
+the unfavorable economic context domestically and globally.
+
+• Top 100 cities globally in 4 industries: Fintech, Edtech,
+Ecommerce & Retail, Transportation.
+• Top 100 Emerging Ecosystem Rankings (GSER 2023
+Startup Genome)
+
+Ha Noi & Da Nang
+
+• Among Top 1000 cities global for startups
+Vietnam is now home to as many as 3000 startups, making it
+the third largest startup ecosystem in Asia. It recently jumped
+12 places to 47th among 127 economies on the Global
+Innovation Index 2017 with only Singapore and Malaysia
+ranked higher in the region.
+While micro-communities of tech enthusiasts are popping up
+all over the country and in particular in Da Nang and Dong
+Thap, the main startup hubs are centered around the capital
+city of Hanoi in northern Vietnam, and Ho Chi Minh City
+(HCM) in the south.
+Source: Startup Ecosystem Report 2024 by Startup Blink
+
+Project 844 (2016) “Supporting the National Innovation Startup
+Ecosystem By 2024”, Law on Small and Medium Enterprise Support
+2018), Decree No. 38/2018/NĐ-CP. The government’s plans place
+responsibility to build an ecosystem to the development of startups
+via application & technology transfer, training, information,
+commercialization, investing.
+
+2. Angel Investors
+The number of angel investors in Vietnam is still small, but it is
+increasing, including local and foreign early-stage angel investors
+with small investments.
+Some active larger angel investors in Viet Nam include: Vietnam
+Silicon Valley Accelerator, CLAS Expara Vietnam Accelerator (CEVA),
+Vietnam Startup Acceleration Fund (VIISA)
+
+3. Venture Capital
+Besides well-known funds 500 Startups, Dragon Capital, Mekong
+Capital, IDG, CyberAgent..., many Vietnamese corporations have
+established investment funds: Vina
+173
+Capital Ventures, FPT Ventures, Viettel
+137
+Venture, CMC Innovation Funds...There
+129
+108
+are also regional VCs that are active in
+100
+Vietnam, in particular appetite from
+Korean VCs.
+55
+Number of funds
+investing in
+Tech Startups
+in Vietnam
+
+17
+2014
+
+29
+
+31
+
+35
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2022
+
+2023
+
+4. Incubators and Accelerators
+The National Innovation Center (NIC) under the Ministry of Planning
+and Investment (MPI) was established in 2019 and is now in operation.
+Major incubators include: CNC Incubator, Ho Chi Minh City CNC
+Business Incubator, DNES, BSSC, and Hanoi Incubator for Information
+Technology Innovation.
+
+5. Universities and Research Institutes
+Universities & research institutes in cooperation with local authorities
+& ministries, have set up units to support startups within universities
+and organize startup events for students to promote the culture of
+entrepreneurship among young people.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+2021
+
+11
+
+TECH INVESTMENT LANDSCAPE
+$529M WAS FUNNELED INTO VIETNAM’S
+STARTUP ECOSYSTEM IN 2023 165
+134
+
+Capital invested (US$M)
+
+42
+9
+15
+
+2013
+
+122
+
+1,442
+
+59
+31
+
+21
+
+874
+
+30
+443
+
+46
+
+45
+
+105
+
+48
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+634
+
+451
+
+2019
+
+2020
+
+2021
+
+2022
+
+529
+
+2023
+
+In 2023, the total capital invested in Vietnamese tech startups
+amounted to $529M, marking a 17% decrease from the preceding
+year. Meanwhile, the deal count stayed relatively stable, experiencing
+only a slight 9% decrease, resulting in a total of 122 deals closed
+during the year. These figures highlight a continuing trend affected
+by challenging global economic conditions which tends to heavily
+affected later-stage deals value since the highs in 2021.
+
+DEALS DONE BY SERIES
+
+Pre A
+
+1
+5
+
+A
+2
+4
+3
+12
+
+B
+
+C+
+3
+6
+
+33
+
+5
+6
+20
+
+1
+3
+9
+17
+
+4
+6
+12
+37
+
+7
+12
+40
+
+10
+8
+25
+
+3
+5
+
+5
+6
+21
+
+3
+8
+15
+
+28
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020 2021
+
+2022
+
+2023
+
+22/23
+Change
+
+12
+
+10
+
+1
+
+29
+
+10
+
+100
+
+300
+
+101
+
+450
+
+30
+
+-
+
+-100%
+
+1
+
+15
+
+1
+
+18
+
+15
+
+105
+
+195
+
+83
+
+469
+
+204
+
+33
+
+-84%
+
+-
+
+0.0
+
+0.2
+
+0.1
+
+0
+
+1
+
+3
+
+36
+
+4
+
+3
+
+10
+
+305%
+
+1
+
+-
+
+0.1
+
+-
+
+7
+
+6
+
+16
+
+26
+
+29
+
+10
+
+1
+
+-89%
+
+-
+
+0.0
+
+1
+
+2
+
+0.0
+
+3
+
+40
+
+25
+
+61
+
+214
+
+149
+
+-30%
+
+-
+
+-
+
+0.1
+
+-
+
+0.0
+
+1
+
+60
+
+18
+
+55
+
+15
+
+9
+
+-39%
+
+0.2
+
+0.1
+
+4
+
+2
+
+0.2
+
+4
+
+5
+
+10
+
+4
+
+4
+
+-
+
+-100%
+
+-
+
+1
+
+0.4
+
+4
+
+1
+
+5
+
+23
+
+9
+
+4
+
+0.2
+
+3
+
+1320%
+
+0.2
+
+3
+
+6
+
+1
+
+5
+
+53
+
+32
+
+8
+
+55
+
+32
+
+67
+
+107%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0.3
+
+9
+
+6
+
+175
+
+10
+
+13
+
+31%
+
+-
+
+-
+
+0.3
+
+1
+
+-
+
+5
+
+58
+
+4
+
+8
+
+10
+
+0
+
+-98%
+
+-
+
+-
+
+0.1
+
+-
+
+0.2
+
+0.2
+
+12
+
+3
+
+37
+
+37
+
+184
+
+391%
+
+-
+
+-
+
+0.1
+
+-
+
+-
+
+-
+
+1
+
+2
+
+10
+
+5
+
+9
+
+73%
+
+6
+
+7
+
+30
+
+1
+
+6
+
+3
+
+15
+
+2
+
+-
+
+1
+
+1
+
+-53%
+
+-
+
+0.2
+
+-
+
+-
+
+-
+
+0.0
+
+-
+
+1
+
+7
+
+1
+
+-
+
+-100%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+29
+
+-
+
+42
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0.2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+33
+
+59
+
+51
+
+-13%
+
+VIETNAM ACHIEVED THE THIRD-HIGHEST RANK IN SOUTHEAST ASIA FOR BOTH THE
+VALUE AND NUMBER OF DEALS [Source: DO Ventures x NIC]
+
+https://topdev.vn
+
+SHARE OF DEAL COUNT BY COUNTRY
+[unit: %]
+
+2017
+
+65
+
+19
+
+2018
+
+67
+
+18
+
+2019
+
+102
+
+96
+
+64
+
+2021
+
+41
+
+33
+
+2022
+
+44
+
+27
+
+3
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+Malaysia
+
+Thailands
+
+Philippine
+
+2017
+
+30
+
+34
+
+2018
+
+30
+
+32
+
+8
+16
+
+2019
+
+23
+
+2020
+
+26
+
+36
+
+17
+
+2021
+
+24
+
+40
+
+19
+
+8
+
+2022
+
+26
+
+39
+
+16
+
+9
+
+2023
+
+8
+13
+
+56
+
+23
+Singapore
+
+9
+
+14
+
+67
+
+Indonesia
+
+2
+
+23
+
+19
+
+52
+
+2020
+
+2023
+
+106
+75
+
+Payments
+Retail
+Employment
+Real estate and infrastructure
+Financial Services
+Business Automation
+Local Services
+Travel and hospitality
+Education
+Entertainment / Gaming
+Logistics
+Healthcare
+Entertainment / Non-Gaming
+Advertising/ Marketing Tech
+Comms & Communities
+Multi-vertical
+Others
+
+2013
+
+SHARE OF DEAL VALUE BY COUNTRY
+[unit: %]
+
+[unit: deal - Source: DO Ventures x NIC]
+In 2023, the total capital invested
+in Vietnamese tech startups
+amounted to $529M, marking a
+17% decrease from the preceding
+year. Meanwhile, the deal count
+stayed in 2021.
+
+In 2023, the Healthcare sector
+witnessed high investment
+amounts,
+soaring
+by
+a
+remarkable YOY growth of
+391%, making it the most
+funded sector.
+Education also experienced a
+record- breaking investment
+level, boasting a 107% YoY
+increase.
+Employment
+and
+Travel/
+Hospitality
+also
+saw
+a
+significant surge in capital
+invested during this period.
+
+[unit: million USD - Source: DO Ventures x NIC]
+
+105
+
+# of deals
+
+2024 - 2025 Vietnam IT Market Report
+
+CAPITAL INVESTED BY SECTOR
+
+[Source: DO Ventures x NIC]
+
+126
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+Vietnam
+
+12
+
+52
+
+18
+Indonesia
+
+20
+
+34
+
+Singapore
+
+Malaysia
+
+Thailands
+
+Philippine
+
+Vietnam retained its third place ranking in terms of deal count and climbed back to the third place in terms of deal value. Singapore took
+the lead in both deal value and deal count, with Indonesia following closely behind.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+Vietnam
+
+12
+
+TECH INVESTMENT LANDSCAPE
+Vietna m
+
+Singapore
+
+Korea
+
+N America
+
+Japan
+
+Others
+
+Others - Asia Others - SE Asia
+
+SINGAPORE & KOREA LED AS THE MOST ACTIVE INVESTORS
+[unit: investors with investment in Vietnam, # of funds- Source: DO Ventures x NIC]
+In 2023, Singapore took the lead as the most active investor in
+Vietnam’s tech sector, with Vietnam coming in second in terms
+of investment activities. Notably, there was a decline in the total
+number of funds investing in Vietnam, falling below the level
+seen in 2020. This reflected investors’ growing cautious
+approach during this period.
+
+13
+
+Japan
+
+Singapore
+Others
+
+Korea
+
+N.America
+
+Others-Asia
+
+Others - SEA
+
+14
+10
+
+29
+17
+5
+9
+3
+
+2014
+2014
+
+7
+4
+4
+
+7
+
+2015
+2015
+
+31
+
+35
+2
+4
+
+2
+2
+7
+2
+6
+
+6
+
+2016
+2016
+
+4
+7
+3
+11
+
+4
+10
+
+7
+7
+6
+10
+
+2017
+2017
+
+2018
+2018
+
+5
+6
+
+21
+
+12
+
+108
+
+9
+11
+28
+
+18
+
+19
+
+17
+
+21
+
+20
+
+19
+
+19
+
+20
+
+21
+
+2019
+2019
+
+2020
+2020
+
+2023 ACTIVE INVESTORS | BY # OF INVESTMENTS
+LOCAL
+FUNDS
+
+137
+
+5
+10
+7
+7
+
+19
+
+55
+
+21
+
+129
+
+8
+
+Vietnam
+
+173
+
+15
+
+99
+
+10
+
+4
+10
+
+19
+
+34
+
+13
+29
+
+13
+5
+16
+8
+22
+
+28
+
+30
+
+2021
+2021
+
+2022
+2022
+
+21
+
+2023
+2023
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+The World Bank in 2020 ranked Vietnam 70 among 190 economies in terms of
+ease of doing business. However, TMF Group noted in their Global Business
+Complexity Index that Vietnam’s ranking has improved due to reducing the effort
+to start a business and do business filings. The bureaucracy that startups still
+have to navigate can be daunting, and the recent corruption scandals in the real
+estate and financial markets have made investors uneasy in committing
+long-term to the market. This has led many Vietnamese startups to domicile in
+neighboring Singapore not only for better legal transparency but also to get
+funding from VCs.
+On the global scale, English is the lingua franca of the business world. While
+Vietnam has improved its ranking in English proficiency, the nation still ranks
+58th out of 113 non-native English-speaking countries. This poses difficulties
+for Vietnamese startups looking to expand regionally or globally. The lack of
+English skills also limits non-Vietnamese from launching a startup in Vietnam
+when compared to fellow SEA nations Malaysia and the Philippines, where English
+is readily understood.
+However, Vietnam is forecast to become an emerging Unicorn Country. Much
+like China of two decades ago, the country is undergoing a massive
+transformation. Trends from broadening digitization to a healthy talent supply to
+a rising middle class ensure that Vietnam will have a robust startup ecosystem for
+years to come.
+
+TOP ACTIVE INVESTORS IN 2023, BY # OF DEALS
+
+https://topdev.vn
+
+In the past year, nearly 100 investors showed a keen interest in Vietnam,
+making substantial investments in the country’s thriving tech sector.
+These investments have been instrumental in fueling the growth of
+Vietnam’s tech ecosystem, supporting startups, and fostering
+innovation.
+Note: Data on deal volume is sourced from funds that contribute
+information for this report. This dataset may not encompass all
+investment funds active in the market during 2023, as some may have
+chosen not to disclose their data.
+
+FOREIGN
+FUNDS
+
+Source: ‘Vietnam Innovation & Tech Investment Report 2023-2024’ by
+Do Ventures, NIC, and Cento Ventures Research
+
+5+ Deals in 2023
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+13
+
+MARKET DRIVERS
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+VIETNAM’S COMPREHENSIVE STRATEGIC PARTNERS
+
+VIETNAM GOVERNMENT SUPPORT
+
+To date, Vietnam has established comprehensive strategic partnerships with six countries, including China, Russia, Japan, India, South
+Korea, and the United States.
+In September 2023, US President Joe Biden visited Vietnam and
+elevated the bilateral relationship to a Comprehensive
+Strategic Partnership.
+• Cooperation in Digital cooperation, science, technology and
+innovation: promote cooperation in science, technology, and
+innovation in the digital field. At the same time, the United States
+is committed to increasing support for Vietnam in training and
+developing a high-tech workforce.
+• Cooperation in the Semiconductor industry: announced the
+launch of human resource development initiatives in the
+semiconductor field, in which the US Government will provide an
+initial seeding grant worth $2M.
+
+In December 2022, Vietnam and South Korea upgraded their
+relationship to 'Comprehensive Strategic Partnership'.
+• In July 2023, the president of the Republic of Korea (RoK) Yoon
+Suk Yeol's visit to Vietnam, accompanied by more than 200
+Korean corporate and business owners, demonstrated robust
+potential for bilateral economic, trade, and investment
+cooperation between the two nations.
+• The two sides agreed to increase bilateral trade turnover in a
+stable and balanced direction, striving to achieve a two-way
+trade turnover of 100 billion US dollars quickly and aiming for a
+goal of 150 billion US dollars by 2030.
+
+Free Trade Agreement - FTAs
+15 bilateral, multilateral, and next-generation free
+trade agreements with 60+ partners allow Vietnam
+to gain access to major markets such as US, UK,
+Europe, China, India, ASEAN, etc.
+
+ECONOMIC EXPANSION
+Support Stock Market | Significant Growth of the Public Market | VN-Index grew from 100 points to 1,130 points by the end of 2023
+The VN Index demonstrated significant growth, rising from 100 points in 2000 to an impressive 1,130 points by 2023. Throughout this period,
+it experienced three notable peaks in 2006, 2017, and 2021, followed by substantial adjustments. Altogether, the VN Index surged over
+11-fold over the span of 23 years, underscoring its enduring upward trajectory. The government is also strengthening the stock market
+governance mechanisms via policies & regulations.
+Source: Vietstock
+
+https://topdev.vn
+
+1.600
+1.600
+1.400
+1.400
+1.200
+1.200
+1.000
+1.000
+800
+800
+600
+600
+
+Early Years (2000 - 2009)
+Steady growth, global
+financial crisis in 2008 cased
+the VN-index to plummet
+
+Recovery & Growth (2010 - 2019)
+Experienced a period of consolidation with
+fluctuations between 400 and 600 points.
+Broke through & reach new high in 2018
+
+Recent years (2020 - 2023)
+Despite Covid-19, the VN-index
+continued to grow & reach new highs.
+
+400
+400
+200
+200
+-
+
+2000
+2000-12 2001
+2001-12 2002
+2002-12 2003
+2003-12 2004
+2004-12 2005
+2005-12 2006
+2006-12 2007
+2007-12 2008
+2008-12 2009
+2009-12 2010
+2010-12
+/12
+/12
+/12
+/12
+/12
+/12
+/2
+/12
+/12
+/12
+/12
+
+2011
+2011-12
+/12
+
+2012
+2012-12
+/12
+
+2013
+2013-12
+/12
+
+2014
+2014-12 2015
+2015-12
+/12
+/12
+
+2016
+2016-12
+/12
+
+2017
+2017-12
+/12
+
+Vietnam to adopt IFRS nationwide by 2025
+The MOF outlined a plan in its Decision 345/QĐ-BTC
+to adopt the International Financial Reporting
+Standard (IFRS) in Vietnam with compulsory practice
+from 2025 onwards. Benefits of IFRS: Transparency,
+Global comparability, Stakeholder confidence
+boost, Fund accessibility enhancement.
+Data Privacy continues to grow in importance
+Decree No. 13/2023/NĐCP on Personal Data
+Protection, took effect from 01 July 2023 providing
+more detailed data protection and cybersecurity
+obligations with respect to personal data processing
+activities.
+
+2018
+2018-12 2019
+2019-12 2020
+2020-12 2021
+2021-12 2022
+2022-12 2023
+2023-12
+/12
+/12
+/12
+/12
+/12
+/12
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+14
+
+AI & GENAI STARTUP
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+GLOBAL ARTIFICIAL INTELLIGENCE (AI) & GENERATIVE AI
+MARKET SIZE WORLDWIDE 2020 - 2030
+[unit: billion USD - Source: Statista]
+
+2020
+
+2021
+
+826.73
+356.1
+
+281.9
+
+215.4
+
+156.9
+
+3,027
+
+AI researches from
+Institutions in Vietnam
+
+2,614
+
+[unit: publications]
+
+https://topdev.vn
+2028 2029 2030
+
+The market size in the Generative AI market is projected to reach US$36.06bn in
+2024. The market size is expected to show an annual growth rate (CAGR
+2024-2030) of 46.47%, resulting in a market volume of US$356.10bn by 2030. In
+global comparison, the largest market size will be in the United States (US$11.66bn
+in 2024).
+In a significant projection for the Vietnamese digital landscape, Generative Artificial
+Intelligence (GenAI) is poised to make a significant contribution, estimated at a
+staggering VND 14 trillion (US$574.83 million) by 2030.
+
+AI software development
+Contributions to public AI projects and
+project impact
+
+95
+
+VC investments in AI
+in Vietnam
+[unit: million USD]
+
+70
+
+[unit: AI projects impact indicator]
+
+2005
+
+2010
+
+2015
+
+2020
+
+2023
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+GLOBAL CORPORATION INVESTMENT
+Google partnered with the Vietnam National Innovation Center (NIC) to launch: (1)
+"Build for the AI Future": offering 40,000 scholarships with essential AI skills, (2)
+"Google for Startups Accelerator Southeast Asia: Vietnam, AI-focused": provides
+startups with access to up to $350,000 in Google Cloud credits.
+From 2019, Qualcomm has started “Qualcomm Vietnam Innovation Challenge” to
+identify and nurture innovative startups operating in Vietnam's potential technology
+sector. The program includes technical assistance, business coaching, and intellectual
+property knowledge training.
+The AWS Generative AI Accelerator program will add 80 early-stage startups around
+the world that are using generative AI to solve complex problems.
+GenAI Fund is a US$10-million fund. We invest between US$50,000 to US$1 million per
+startup.
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+Top IT Jobs For Developers
+
+(2023)
+
+1,285
+
+2000
+
+2027
+
+39
+
+(2022)
+
+Decision No. 127/QĐ-TTg on January 26 2021 about “National Strategy on research, development and
+application of artificial intelligence (AI) until 2030” which serves as a foundation for the development of
+the domestic AI industry and sets the target of having 100% of the national data centres, regional data
+centres and national centres for large data storage and high performance computing across the country
+Source: OECD.AI data
+guaranteed to connect successfully.
+
+415.61
+103.5
+
+320.14
+62.72
+
+243.72
+36.06
+
+184.04
+
+2023 2024 2025 2026
+
+55
+
+(2021)
+
+GOVERNMENT STRATEGIES
+
+529.23
+2022
+
+135.93
+
+124.79
+
+93.27
+
+202.59
+
+Generative AI
+AI
+
+62
+
+The Vietnamese Government ranked 39th out of 193 countries in terms of artificial intelligence (AI)
+readiness on a 2023 report by the UK-based Oxford Insights.
+
+667.74
+
+The market for artificial intelligence grew beyond 184 billion U.S.
+dollars in 2024, a considerable jump of nearly 50 billion compared
+to 2023. This staggering growth is expected to continue with the
+market racing past 826 billion U.S. dollars in 2030.
+
+VIETNAM RANK IN THE GOVERNMENT AI
+READINESS INDEX 2021 - 2023
+
+15
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+3. DEVELOPER
+PERSONAS
+IN VIETNAM
+Analyze the diverse demographics of developers, including age,
+gender, and background. It explores their interests in technology and
+continuous learning, as well as their behaviors in daily life and the
+workplace.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+16
+
+DEVELOPER PERSONAS
+The majority of developers
+are from Gen Z & Millennial
+generations.
+Employers should consider the
+age, interests, and preferences
+of these groups when adjusting
+their hiring strategies to align
+with current multi-generational
+recruitment trends.
+These generations prioritize
+work-life
+balance,
+healthy
+lifestyles & transparency about
+the
+company.
+Valuable
+involvement in the business
+process,
+contribution
+to
+personal growth are also their
+concerns.
+
+2024 - 2025 Vietnam IT Market Report
+
+The age group dominating in market now is
+from 20 to 34 years old. The highest ratio
+group is 25 - 29 years old (29.3%), followed
+by 20 - 24 age group (28.8%).
+At present, the number of developers in
+Vietnam at a young age accounts for the
+majority with 58.1% aged 20 - 29 years old.
+
+AGE
+29.3%
+
+28.8%
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+YEARS OF EXPERIENCE
+
+28.80%
+22.10%
+
+15.8%
+
+18.40%
+10.2%
+
+11.70%
+
+7%
+
+7.9%
+
+5.3%
+2.2%
+
+15 - 19
+
+20 - 24
+
+25 - 29
+2022
+
+LOCATION
+
+30 - 34 35 - 39 40 - 44 45 - 49
+2023
+
+Nearly 95% of developers are locating in 2 biggest cities
+of Vietnam: Ho Chi Minh 59% & Ha Noi 35%. Da Nang one of cities in central Vietnam - is also a place for 4% of
+developers.
+
+2%
+
+0-1
+
+50+
+
+2024
+
+Ho Chi Minh
+City
+
+6-7
+
+8-9
+
+2022
+
+2023
+
+2024
+
+https://topdev.vn
+
+Others
+
+59%
+
+4-5
+
+Males still dominates the gender of developers or people
+working in the technology sector with 89.1%. Females constitute
+a minor number of 10.5% but keep increasing through the years.
+
+10.5%
+Female
+
+35%
+Ha Noi
+
+2-3
+
+10-11
+
+3.00%
+
+2.10%
+
+12-15
+
+16+
+
+LEVEL OF QUALIFICATIONS
+
+0.4% N/A
+
+Da Nang
+
+6.00%
+
+1.4%
+
+GENDER
+
+4%
+
+After years of rapid development,
+the
+current
+ratio
+between
+programmers with 3 years or more
+experience and those with less
+than 3 years is approximately 1:1,
+demonstrating the maturity of the
+IT labor market in Vietnam.
+
+89.1%
+Male
+
+Recently, more & more
+opportunities have opened
+for females to start their
+career as a developer
+coming from the STEM
+education programs as well
+as social & technological
+encouragement with the
+popular term “Women In
+Tech”.
+
+2022
+
+34%
+
+2023
+
+2024
+
+30%
+18%
+
+12%
+
+6%
+Fresher
+
+Junior
+
+Middle
+
+Senior
+
+Leader or
+higher
+
+More than 45% of developers are from fresher to junior
+level, followed by 30% of middle developers. Senior
+developers only account for nearly 18% of total IT personnel
+while that of leader & higher level is just 6%.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+17
+
+TECH STACK PREFERENCE
+Javascript
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Python
+
+Java
+
+.NET/ C#
+
+1. Bun
+
+64.30%
+
+1. Spring Boot
+
+45.20%
+
+1. Django
+
+35.10%
+
+1. .Net core
+
+2. NodeJS
+
+48.20%
+
+2. Hibernate
+
+7.00%
+
+2. Pandas
+
+31.00%
+
+3. Angular
+
+45.10%
+
+3. Struts
+
+1.20%
+
+3. Flask
+
+4. ReactJS
+
+36.0%
+
+4. Vaadin
+
+1.20%
+
+4. PyTorch
+
+5. Typescript
+
+32.9%
+
+6. Vue
+
+31.4%
+
+DevOps
+
+1. Laravel
+
+60.50%
+
+2. ASP.Net core 37.00%
+
+2. Symfony
+
+24.70%
+
+19.10%
+
+3. .Net framework 29.00%
+
+3. CodeIgniter
+
+17.10%
+
+16.90%
+
+4. ASP.Net MVC 16.50%
+
+4. Yii
+
+4.50%
+
+5. Xaramin
+
+5. CakePHP
+
+4.00%
+
+5. TensorFlows 11.40%
+Mobile Development
+
+PHP
+
+Database technologies
+
+46.20%
+
+0.70%
+
+Cloud Platform
+
+1. Java
+
+50.20%
+
+1. MySQL
+
+78.00%
+
+1. AWS
+
+38.30%
+
+1. Linux
+
+76.50%
+
+2. Swift
+
+30.50%
+
+2. SQL Server
+
+59.90%
+
+2. Microsoft Azure
+
+25.20%
+
+2. Docker
+
+52.70%
+
+3. Flutter
+
+19.10%
+
+3. MongoDB
+
+36.10%
+
+3. VMWare
+
+17.10%
+
+3. Bash
+
+11.90%
+
+4. React Native 10.20%
+
+4. PostgreSQL
+
+31.40%
+
+4. Firebase
+
+14.60%
+
+4. Kubernetes
+
+10.30%
+
+5. Kotlin
+
+5. Redis
+
+21.90%
+
+5. Google Cloud Platform 8.60%
+
+https://topdev.vn
+
+3.80%
+
+• JavaScript is the most popular language together with other IT skills. New “Bun” introduced in 2023 has quickly become a phenomenon attracting many users, stealing the crown of the previous
+Top 3 - Nodejs, Angular & ReactJS.
+• Top choice to work with Java is Spring Boot/ Spring then Hibernate & Struts respectively.
+• There hasn't been much change in .NET/C# list in which .NET Framework, .NET Core & ASP.NET Core top the list.
+• Laravel remains the most popular framework in the PHP tech stack with more than 75%, followed by CodeIgniter & Symfony.
+• Django, Pandas & Flask are top 3 choices related to Python stack
+• MySQL keeps leading the SQL tech stack with more than 78%.. Regarding mobile development, Java/ Swift & Flutter are main choices.
+• Among cloud technology options, AWS still dominates with more than 35% and followed by Azure, VMWare, Firebase & GCP.
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+18
+
+TOOLS PREFERENCE
+OPERATING SYSTEM (OS)
+
+2024 - 2025 Vietnam IT Market Report
+
+POPULAR GENAI TOOLS FOR DEVELOPERS
+
+IDES & CODE EDITORS
+
+Windows
+
+44.5%
+
+MacOS
+
+36.0%
+
+Linux-based
+
+36.0%
+
+Others
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+0.20%
+
+Windows remains as the most popular operating
+system followed by MacOS and Linux with same
+ratio.
+
+Visual Studio Code
+
+56.6%
+
+Eclipse
+
+47.7%
+
+Android Studio
+
+47.7%
+
+Vim
+
+31.3%
+
+Atom
+
+20.9%
+
+Xcode
+
+19.4%
+
+PyCharm
+
+ChatGPT
+
+14.9%
+
+Sublime Text
+
+8.9%
+
+NetBeans
+
+8.9%
+
+IntelliJ IDEA
+
+4.5%
+
+PhpStorm
+
+4.5%
+
+WebStorm
+
+4.5%
+
+Poe Quora AI
+
+AI-Powered Pair Programmes have changed the way & the speed of your
+coding workload. In which, GitHub Copilot is the most popular one as a
+cloud-based artificial intelligence tool developed by GitHub and OpenAI.
+
+https://topdev.vn
+
+GENERATIVE AI APPLICATION IN DAILY JOB
+Yes - 60.5%
+No - 15.5%
+
+• Version Control Systems (VCS): Git in conjunction with GitHub, GitLab, or Bitbucket...
+
+No but maybe in future - 24.0%
+
+• Package Managers: npm (for JavaScript), pip (for Python), and Maven (for Java)...
+• Communication and Collaboration Tools: Slack, Microsoft Teams, and Discord for real-time
+communication, and platforms like Jira, Trello, or Asana for task management and project tracking.
+• Code Review Tools: GitHub's pull request system, Gerrit, and Crucible
+• Bug Tracking Systems: Popular bug tracking tools include Jira, Bugzilla, and YouTrack
+• Continuous Integration and Deployment (CI/CD) Tools: Jenkins, Travis CI, and CircleCI
+
+Very actively using
+
+7.50%
+
+Actively using
+
+32%
+
+Normal using
+
+40.50%
+
+Not actively using
+
+15%
+
+Not very actively using
+
+Developers quickly apply genAI to their
+daily work with diverse usage needs:
+• Writing Code/ Code Completion
+• Search for Information/ Answer
+• Writing Prompts
+• Debugging
+• Code Review
+• Learning Code Base
+• Testing Code
+• Translation Document
+• Image/Video/Rich Media Generation
+
+5%
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+You.com
+
+POPULAR AI DEVELOPER TOOLS
+
+DAILY WORKING TOOLS
+
+• Documentation Tools: Swimm, Notion, Confluence, GitBook, Docusaurus
+
+Google Bard
+
+Developers often rely on platforms and libraries that provide comprehensive
+resources, documentation, and examples for AI-related tasks. Apart from
+above tools, developers also use some other platforms: Microsoft AI
+Platform, Google AI Developer, OpenAI Documentation...
+
+Top 3 IDE are Visual Studio Code, Eclipse &
+Android Studio.
+
+• Virtualization and Containerization Tools: Docker and Kubernetes
+
+Bing AI
+
+19
+
+EMPLOYMENT BEHAVIOR
+EMPLOYMENT STATUS
+
+Full-time
+
+Question: On a scale of 0 - very hard to 5 - very easy, how do you think you can
+change jobs as a developer?
+Compared to last year report, it was reported that it was harder to find a new IT job
+recently. Less than half (3.5/10) feel confient while that of last year was 6/10). More than
+20% respondents feels insecure & lack of confidence of changing job this year (while
+that of last year was 13% only).
+
+70.80%
+13.50%
+
+Part-time
+
+5.60%
+
+Student with Full-time Internship
+
+1.50%
+
+2024 - 2025 Vietnam IT Market Report
+
+LEVEL OF CONFIDENCE WHEN FINDING A JOB
+
+Which current employment status are you?
+
+Freelancer
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+Very easy
+Quite easy
+
+Student with Part-time Internship
+
+0.80%
+
+Neutral
+
+Self-employed
+
+1.80%
+
+Very hard
+
+Not employed, looking for jobs
+N/A
+
+2%
+4%
+
+3%
+10%
+
+7%
+15%
+
+22%
+28%
+
+Quite hard
+
+45%
+54%
+
+3.30%
+
+43%
+
+Only 7 / 10 developers are taking part
+in official labor force.
+
+2.70%
+
+Only 70.8% of developers are employed with a full-time job, which is lower than that number of
+2022 (72.5%) & keeps decreasing from 2021. Apart from being impacted by some lay-off waves,
+freeze hires & competitive labor market 2022 - 2024 have been main reasons to lead this.
+
+25%
+19%
+
+15%
+
+2022
+
+2023
+
+8%
+
+2024
+
+https://topdev.vn
+TECH LAYOFFS SITUATION
+
+How is your career affected by lay-off phenomenon?
+
+WORKING METHOD
+
+Which working method is applying in your current job?
+100% onsite (working at office) is still the major working method for developers in the Tech field
+while jobs with remote working option only accounts for 2.0% of jobs in the market, which has
+been less applied recently.
+What developers prefer
+
+88.20%
+
+100% In Office
+52.00%
+
+What companies actual apply
+
+Hybrid
+
+100% remotely
+
+9.80%
+30.00%
+2.00%
+18.00%
+
+The requirement for upskilling and reskilling, as reported by 33% of the respondents,
+underscores a critical insight: ongoing education and adaptation are becoming
+indispensable in maintaining employability in the rapidly evolving tech landscape.
+36%
+
+Unaffected
+
+33%
+
+Upskill & reskill required
+
+28%
+
+Reduce job opportunities
+
+25%
+
+Job insecurity
+
+15%
+
+Income adjustment
+
+9%
+
+Unemployment
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+20
+
+LEARNING BEHAVIOR
+EDUCATIONAL BACKGROUND IN TECHNOLOGY
+52%
+
+2022
+
+2023
+
+2024
+
+22%
+16%
+9%
+1%
+College
+University
+(Computer (Computer
+Science major) Science
+Major)
+
+Intensive coding
+course
+(less than 24M
+- offline)
+
+Vocational
+Education
+Training
+
+Coding Course/
+Training Program
+(Online only)
+
+Top 2 educational background of developers are from Universities
+(52%) & Colleges (22%) having IT-related & computer science majors.
+Other methods of coding learning have been increasingly popular
+with high demand of Tech talents in the market.
+
+TECH NEWS UPDATE CHANNELS
+To keep updated with latest tech trends & news, 75% developers read
+tech blogs & 42% follow tech fanpages. Following megatrends of
+video market, video channels on YouTube & Podcast are bringing many
+new ways of tech news to developers via video & engaged format.
+Tech News Websites & Blog
+
+75%
+
+Social Media (pages)
+
+42%
+
+Social Media (groups)
+
+38%
+
+Podcasts and YouTube Channels
+
+28%
+
+Newsletters
+Developers community
+Tech Events
+
+23%
+18%
+12%
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+NEW TECHNOLOGY APPROACH
+
+How have developers learnt new programming language/ technology?
+Official Documentation
+AI/ ChatGPT
+YouTube / How-to videos
+Video-based Online courses
+Personal projects
+Tech books
+Open-source projects
+Interactive Online courses
+Offline courses
+Coding contests
+
+62%
+43%
+40%
+38%
+18%
+12%
+9%
+3%
+2%
+2%
+
+Tech books, open-source projects, interactive online courses, offline
+courses and coding contests are other methods to learn new technology
+but the popularity & applicability are considered as not good as others.
+
+TOP CHOICE OF
+LEARNING NEW TECHNOLOGIES
+• Mobile App Development: React Native is particularly popular due to
+its ability to streamline mobile app development, blending web and
+native app capabilities.
+• DevOps Practices: DevOps is gaining traction due to its emphasis on
+collaboration, automation & continuous improvement.
+• Machine Learning and AI: AI and machine learning are being applied
+across various sectors, including finance, healthcare, and e-commerce,
+to drive innovations such as fraud detection, personalized services, and
+supply chain optimization
+• Blockchain Development: The applications are broad, ranging from
+financial services to supply chain management, making skills in
+blockchain development highly valued
+• Cloud Computing and Data Science: Skills in these areas enable
+developers to manage large datasets effectively and leverage cloud
+resources to scale applications dynamically (AppGenie).
+
+https://topdev.vn
+
+More than 60% of developers use official
+documentation as the main way of
+learning & approaching new technologies.
+The disruptive presence of AI/ ChatGPT
+has changed the learning pattern with
+43% responding that they learned new
+things with ChatGPT.
+
+TOP WAY OF LEARNING
+ENGLISH FOR WORKING
+• Online Learning Platforms: Coursera,
+Udemy offer courses for business
+English (presentations, email writing,
+and professional interactions)
+• Corporate Training Programs: Many
+companies in Vietnam invest in English
+training for their employees
+• Private Tutoring:
+private
+tutors
+one-on-one lessons focusing on
+improvement & communication
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+21
+
+VIETNAM DEVELOPERS WORKFORCE
+TECH/ DIGITAL LABOR FORCE
+WORKING IN
+COMPUTER SCIENCE
+& IT-RELATED SECTORS
+
+ANNUAL STUDENTS
+ENROLLMENT
+(COMPUTER SCIENCE
+& IT-RELATED MAJOR)
+
+560,000
+
+55,000 - 60,000
+
+Based on the estimated ratio (1.1%+) of
+Tech & IT- related sectors labor force on
+total labor force from 15 years & above.
+
+Based on official enrollment information
+posted from key universities/colleges
+specializing in information technology
+and annual reports from the MOET on
+annual enrollment targets.
+
+IT PERSONNELS DEMAND IN VIETNAM 2018 - 2026
+(COMPUTER SCIENCE & IT-RELATED SECTORS ONLY)
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+750,000
+220,000
+
+550,000
+150,000
+
+2020
+
+530,000
+150,000
+
+2019
+
+450,000
+
+350,000
+
+2018
+
+400,000
+
+320,000
+
+Lack
+
+700,000
+200,000
+
+Need
+
+650,000
+170,000
+
+The shortage of IT personnel is always the most difficult problem for the IT
+market. Although the salary and bonuses have been increasing remarkably for
+this industry, it is predicted that from 2023 - 2026, Vietnam will still have a
+shortage of 150,000 to 200,000 developers/engineers annually.
+
+VIETNAMESE DEVELOPERS’
+COMPETENCY
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+VIETNAM: OUTSOURCING DESTINATION
+UNESCO STATISTICS
+
+Top 10
+
+SKILLVALUE
+
+Countries That Produce The Most Engineers after Russia, USA,
+Iran, Japan, South Korea, Indonesia, Ukraine, Mexico & France.
+
+After USA, UK, France.... in World
+Rank of Best Developers Survey
+
+KEARNEY’S GLOBAL
+SERVICE LOCATION INDEX
+
+TOP 10
+
+6th
+
+Among the top countries for software outsourcing services (2021)
+
+SKILLVALUE
+
+TOP 2
+
+Only after USA in World rank of
+Best Freelancers Survey
+
+ACCELERANCE
+
+Top 2
+
+Vietnam was one of the two leading software
+outsourcing destinations in SEA (2022 Global Software
+Outsourcing Trends and Rates Guide)
+
+HACKERRANK
+
+AI READINESS INDEX VIETNAM 2021 - 2023
+
+Worldwide in Developer Skills
+Charts of HackerRank’s
+Report 2016
+
+The Vietnamese Government ranked 39th out of 193
+countries in terms of artificial intelligence (AI) readiness
+on a 2023 report by the UK-based Oxford Insights.
+
+https://topdev.vn
+23rd
+
+39th
+
+VIETNAM: ABUNDANT AND POTENTIAL WORKFORCE BUT MANY BIG
+CHALLENGES IN IMPROVING LABOR PRODUCTIVITY AND SKILL LEVELS
+2026
+
+In addition, with huge investment projects in chip manufacturing in Vietnam
+from foreign corporations, training engineers to serve the semiconductor chip
+manufacturing industry has become an important goal. Vietnam aims to train
+25,000 engineers by 2025 and 100,000 engineers by 2030 for the
+semiconductor chip research and manufacturing industry.
+
+The highly skilled workers make up only 11.67%, almost unchanged from three years ago. Soft skills, including
+foreign language skills, are increasingly important in most professions, even in technically inclined fields such as
+manufacturing & information technology. However, according to the Vietnam Total Workforce Index 2022, the
+proportion of Vietnamese workers who are proficient in English accounts for only 5% of the total
+workforce. The rate is quite low compared to other non-English speaking countries in the region such as
+Indonesia (10%), Malaysia (21%), and Thailand (27%). Vietnam's labor productivity growth in recent years has not
+been fast enough to close the big gap with other countries in the region such as the Philippines, Indonesia,
+Thailand, Malaysia, South Korea and Singapore.
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+Top IT Jobs For Developers
+
+22
+
+TECH COMMUNITY & EVENTS
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Vietnam Blockchain
+Summit
+VINASA
+
+Vietnam ICTComm
+Adpex
+
+Industry 4.0 Summit
+IEC Group
+
+Vietnam Venture Summit
+NIC
+
+TalentX
+VINASA
+
+Vietnam AI Summit
+(AI4VN)
+VinAI
+
+DevDay
+GDG
+
+Vietnam Security Summit
+IEC Group
+
+Smart City Asia
+Exporum
+
+Vietnam DX Summit
+VINASA
+
+GM Vietnam
+Kyros Venture
+
+OpenInfra Days Vietnam
+VIETOPENINFRA
+
+DevFest
+GDG
+
+Vietnam Innovators
+Summit
+Vietcetera
+
+VNNIC Internet
+Conference
+VNNIC
+
+Tech in Asia Saigon
+Summit
+Tech In Asia
+
+TechDay
+FPT
+
+Vietnam Innovation
+Summit
+InnoLab Asia
+
+Zalo AI Summit
+VNG Corp
+
+Global Game Jam Vietnam
+Gamegeek Asia
+
+Vietnam Cloud &
+Datacenter Convention
+W.Media
+
+FossAsia Summit
+FossAsia
+
+Google I/O Extend
+GDG
+
+hackhcmc
+Angelhack
+
+Vietnam GameVerse
+VNExpress
+
+Vietnam Web Summit
+TopDev
+
+Vietnam Mobile Summit
+TopDev
+
+Techfest Vietnam
+MOIT
+
+InnoEx
+BSSC
+
+Vietnam Fintech Summit
+NIC
+
+https://topdev.vn
+
+The multitude of tech-focused events
+listed in the image underscores Vietnam's
+burgeoning role as a key player in the
+global
+technology
+landscape,
+with
+potential impacts ranging from economic
+growth to innovation and education.
+• Innovation Acceleration: Exchange of
+ideas and the latest technological
+advancements, provide platforms for
+startups to showcase innovative
+products and for established companies
+to unveil new technologies.
+• Skill Development and Education:
+Workshops, seminars, and keynotes
+from leading industry experts, providing
+valuable
+learning
+opportunities,
+enhance the skill set of the local
+workforce.
+• Networking and Collaboration: Allow
+professionals to connect with peers,
+mentors, and potential investors
+• Brand Vietnam as a Tech Hub:
+Consistently hosting a variety of
+technology events helps position
+Vietnam not just as a participant but as a
+leader in the global tech arena. This
+branding is crucial for attracting future
+events,
+international
+talent,
+and
+investments.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+23
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+4. IT JOBS MARKET
+IN VIETNAM
+SALARIES & DEMANDS
+Examines the evolving IT job market in Vietnam, focusing on salary
+trends and demand for various roles.
+
+Top IT Jobs For Developers
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+24
+
+DEVELOPER SALARY OVERVIEW
+AVERAGE SALARY [unit: USD - Gross Salary]
+
+In a volatile economic and industry environment, average salaries have not changed much.
+As a consequence of global economics situation, most of businesses have been in hard situations
+with many issues related to cash flow, business expansion & growth. Together with marketing &
+operation cost, labor cost has been continued to manage tightly than ever, in which focusing on
+increasing productivity, streamlining workflow & making process lean to secure business efficiency
+& financial stability. However, compared to other industries, salary of IT-related positions have been
+greater than that of levels in other industries. More than 70% of IT-related positions receive the
+salary from $1,000. (Note: USD exchange rate fluctuations 2023 - 2024)
+14.0%
+
+9.3%
+
+7.4%
+
+27.49%
+
+Ha Noi
+
+5.14%
+
+33.20%
+
+7.14%
+
+$1,600 - $2,000
+33.30%
+
+15.77%
+
+41.11%
+
+11.11%
+
+38.10%
+
+$3
+
+$300
+- $500
+
+$600
+- $1,000
+
+$1,100
+- $1,500
+
+$1,600
+- $2,000
+
+$2,100
+- $2,500
+
+$2,500+
+
+Ratio of JDs 2022
+
+3.1%
+
+34.2%
+
+34.8%
+
+17.1%
+
+8.2%
+
+2.8%
+
+Ratio of JDs 2023
+
+4.8%
+
+32.9%
+
+32.8%
+
+15.8%
+
+10.6%
+
+3.1%
+
+Ratio of JDs 2024
+
+6.2%
+
+30.9%
+
+35.6%
+
+14.8%
+
+9.0%
+
+3.4%
+
+11.99% 4.34%
+5.80%
+11.90%
+
+14.29%
+
+20.63%
+
+AVERAGE SALARY BY LEVEL & LOCATION
+
+[unit: average salary in USD per each level/ each location]
+For Fresher & Junior, there is not much difference in salary between cities. For positions
+requiring higher level of experience, there is a clear difference between cities.
+
+Location
+
+Fresher
+
+Junior
+
+Middle
+
+Senior
+
+Leader/
+Manager
+
+Director/
+Architect
+
+Ho Chi Minh
+
+$390
+
+$815
+
+$1,216
+
+$1,708
+
+$2,083
+
+$2,771
+
+Ha Noi
+
+$380
+
+$808
+
+$1,128
+
+$1,482
+
+$1,652
+
+$2,200
+
+Da Nang
+
+$380
+
+$805
+
+$1,126
+
+$1,327
+
+$1,550
+
+No data
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+$2,500+
+
+13.57%
+
+59.52%
+
+21.43%
+
+3.17% 12.70%
+
+$2,100 - $2,500
+
+1.4%
+
+$ 1,897
+
+0.1%
+
+1.2%
+
+0.2%
+
+0.7%
+
+https://topdev.vn
+
+0.1%
+
+0.5%
+
+2.2%
+
+Others
+
+2.8%
+0.4%
+
+0.6%
+
+$1,100 - $1,500
+
+7.10%
+
+$ 1,126
+
+3.7%
+
+4.0%
+1.1%
+
+$600 - $1,000
+
+Ho Chi Minh
+
+Da Nang
+
+2.0%
+
+2.1%
+
+1.1%
+
+1.0%
+
+$300 - $500
+
+00
+$4
+00
+$5
+00
+$6
+00
+$7
+00
+$8
+00
+$9
+0
+$1 0
+,0
+0
+$1 0
+,1 0
+$1 0
+,2
+0
+$1 0
+,3
+0
+$1 0
+,4
+0
+$1 0
+,5
+0
+$1 0
+,6
+0
+$1 0
+,7
+0
+$1 0
+,8
+0
+$1 0
+,9
+0
+$2 0
+,0
+0
+$2 0
+,10
+$2 0
+,2
+0
+$2 0
+,3
+0
+$2 0
+,4
+0
+$2 0
+,5
+0
+$2 0
+,6
+0
+$2 0
+,7
+0
+$2 0
+,8
+0
+$2 0
+,9
+0
+$3 0
+,0
+0
+$3 0
+,10
+0
+
+0.0%
+
+Salary Range
+
+[unit: ratio of JD in each location %]
+Each city showcases a unique pattern, reflecting the local economic environments
+and job markets.
+• Ho Chi Minh: The most common salary range is $1,100-$1,500 (33.30%). Salaries
+between $600-$1,000 also account for 27.49%. Higher salary ranges ($1,600 and
+above) have a combined share of approximately 32.10%.
+• Ha Noi: The dominant salary range is also $1,100-$1,500 (41.11%). Salaries between
+$600-$1,000 make up 33.20%. The $1,600-$2,000 range is slightly lower than in Ho
+Chi Minh City, representing 20.55%.
+• Others include other cities/ provinces in Vietnam, overseas & remote.
+
+$ 1,221
+
+2.3%
+
+4.0%
+
+2024 - 2025 Vietnam IT Market Report
+
+SALARY DISTRIBUTION BY LOCATION
+
+$ 1,351
+
+3.7%
+
+6.0%
+
+4.4%
+
+5.1%
+
+6.9%
+
+8.0%
+
+7.0%
+
+8.3%
+
+10.0%
+
+8.9%
+
+12.0%
+
+2.0%
+
+$1,317 (2024)
+$1,311 (2023)
+
+2024
+
+11.8%
+
+2023
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+25
+
+SALARY BY LEVEL
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+TRANSITION IN LEVEL OF QUALIFICATIONS REQUIRED
+
+[unit: ratio of JD on each level %]
+Notable shift in the distribution of IT jobs across job levels from 2022 - 2024.
+• Middle - Senior level: Proportions are increasing over the years, indicating a
+consistent demand for experienced IT professionals.
+• Leader/ Manager level shows an increase, expresses a growing need for
+individuals with leadership and managerial skills in the IT industry.
+• It would be harder for new graduates with fewer Intern/ Fresher
+opporunities in the market.
+Intern/
+Fresher
+
+2022
+
+Junior
+1-2 years
+
+Middle
+3-4 years
+
+19.80%
+
+Senior
+5+ years
+
+Leader/
+Manager
+
+Director/
+Architect
+
+52.10%
+
+[unit: average salary in USD per each level]
+
+There is a clear upward trend in both the salary range and average salary as experience levels increase.
+This reflects typical career progression in technical fields, where greater experience brings higher
+responsibility and compensation.
+• The variability in salaries also increases with experience level. Higher roles have more variability in pay,
+likely due to differences in company size, industry, and individual negotiation skills.
+• As a Fresher in IT market, it is expected to get the salary from $415 to $510 with average at $480.
+• After 2 years working in IT industry, the speed of salary increase seems faster than in the first 2 years
+while developers have obtained more working experience.
+
+20.10%
+
+2023
+
+20.48%
+
+36.98%
+
+31.50%
+
+2024
+
+20.20%
+
+38.40%
+
+31.70%
+
+FRESHER
+(less than 1 year)
+
+[unit: average application per job post]
+Not only has there been an increase in positions requiring higher levels of
+experience, the market has also seen a significant increase in competition as the
+average number of applications per position is much higher than before.
+2022
+
+2023
+
+2024
+
+$415
+
+$510
+$780
+
+JUNIOR
+(1 - less than 3 years)
+
+$586
+
+$950
+$1,176
+
+https://topdev.vn
+MIDDLE
+
+$1,005
+
+(3 - less than 5 years)
+SENIOR
+(From 5 years)
+
+$1,521
+
+3 - 4 years
+
+50
+
+$1,651
+
+5 years
+
+6 years +
+
+Average
+
+$2,019
+$2,140
+
+$1,995
+
+DIRECTOR/ ARCHITECT
+(Technical Orientation)
+
+25
+
+$1,927
+$1,800
+
+120
+80
+
+0 - No
+1 - 2 years
+requirements
++ All levels
+
+$1,427
+$1,700
+
+LEADER/ MANAGER
+(Technical Orientation)
+125
+
+Average Amount
+
+Min & Max Range
+
+$480
+
+COMPETITIVENESS OF JOB MARKET 2024
+
+330
+
+DEVELOPER SALARY BY YEARS OF EXPERIENCE
+
+$0
+
+$500
+
+$1,000
+
+$1,5 00
+
+$2,000
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+$2,590
+
+$2,500
+
+26
+
+SALARY BY TECH STACK
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+DEVELOPER SALARY BY TECHNOLOGIES
+Min & Max Range
+
+[Unit: USD]
+Note: All salary data stated in this page refers to monthly gross salary before tax
+and excludes other benefits like overtime, bonuses, etc.
+
+Average Amount
+
+Magento
+
+875
+
+Wordpress
+
+Angular
+
+Cloud
+
+Azure
+
+GCP
+
+AWS
+
+Unity
+
+Objective-C
+
+Ruby
+
+Flutter
+
+Kotlin
+
+1,171
+
+1,207
+
+1,685
+
+1,450
+
+1,155
+
+1,200
+
+Swift
+
+989
+
+1,244
+
+Android
+
+1,538
+1,191
+
+1,278
+900
+
+Tensorflow
+
+Kubernetes
+
+Vvue
+
+https://topdev.vn
+Nodejs
+
+Reactjs
+
+Javascript
+
+HTML
+
+Golang
+
+React Native
+
+Scala
+
+C++
+
+Java
+
+C#
+
+.Net
+
+PHP
+
+1,000
+
+Python
+
+1,545
+
+1,800
+1,320
+
+1,377
+
+966
+
+1,274
+
+1,222
+
+1,403
+1,184
+
+1,340
+1,121
+
+1,283
+
+1,188
+
+1,197
+
+1,053
+
+1,311
+
+2,000
+
+1,500
+
+1,925
+
+2,500
+
+Most of IT positions start the career with level of salary without outstanding difference in first 2 years. After that, the salary pattern follows different way regarding the technology which
+can be affected a lot by the job market, economics situation & emerging business requirements.
+In general, most of fundamental tech stacks like Java, Python, .Net, C++ & PHP have been still considered well-paid consistently years by years. New high-tech skills like Cloud/ AI/ ML/ DevOps-related
+are increasingly being invested in, with a higher pay pattern with huge impact of real-world applications these days of Cloud computing, Generative AI & modern development process.
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+27
+
+SALARY BY POSITION (1)
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+DEVELOPER SALARY BY POSITIONS IN IT INDUSTRY
+
+[unit: USD, All salary data stated in this page refers to monthly gross salary before tax and excludes other benefits like overtime, bonuses, etc.]
+The average salary might vary considerably with wide spectrum influenced by factors such as geographical location, industry, and company size. High or low outliers often reflect exceptional
+circumstances rather than the norm.
+
+Position
+
+Range
+
+Median
+
+Position
+
+Software Developer/ Engineer
+
+$1,130 - $1,990
+
+$1,350
+
+Data Engineer
+
+$1,230 - $2,060
+
+$1,410
+
+Front-end Developer
+
+$1,100 - $1,950
+
+$1,300
+
+Systems Engineer
+
+$960 - $1,770
+
+$1,140
+
+Back-end Developer
+
+$1,120 - $2,010
+
+$1,340
+
+Cloud Engineer
+
+$1,460 - $2,370
+
+$1,680
+
+Full-stack Developer
+
+$1,320 - $2,250
+
+$1,540
+
+AWS Cloud Engineer
+
+$1,470 - $2,380
+
+$1,710
+
+Mobile Application Developer
+
+$1,020 - $1,830
+
+$1,200
+
+Azure Cloud Engineer
+
+$1,400 - $2,320
+
+$1,660
+
+iOS Developer
+
+$1,040 - $1,910
+
+$1,250
+
+Google Cloud (GCP) Engineer
+
+$1,120 - $2,080
+
+$1,380
+
+Android Developer
+
+$1,020 - $1,890
+
+$1,220
+
+JavaScript Developer
+
+$1,080 - $2,000
+
+$1,280
+
+React Native Developer
+
+$1,010 - $1,840
+
+$1,220
+
+$950 - $1,690
+
+$1,140
+
+Flutter Developer
+
+$1,060 - $1,820
+
+$1,230
+
+Integration Engineer
+
+$920 - $1,610
+
+$1,050
+
+Kotlin Developer
+
+$1,010 - $1,880
+
+$1,220
+
+Firmware Developer
+
+$840 - $1,840
+
+$1,090
+
+DevOps Engineer
+
+$1,300 - $2,260
+
+$1,540
+
+Blockchain Developer
+
+$1,250 - $2,240
+
+$1,490
+
+Software Architect
+
+$1,880 - $2,450
+
+$2,030
+
+Salesforce Developer
+
+$1,090 - $1,950
+
+$1,390
+
+Embedded Systems Developer
+
+$1,130 - $2,150
+
+$1,400
+
+ERP Developer
+
+$1,070 - $1,650
+
+$1,160
+
+C++ Developer
+
+$1,010 - $1,970
+
+$1,270
+
+SAP Developer
+
+$1,090 - $1,640
+
+$1,220
+
+Game Developer
+
+$1,010 - $1,850
+
+$1,270
+
+Oracle Developer
+
+$990 - $1,910
+
+$1,220
+
+https://topdev.vn
+API Developer
+
+Range
+
+Median
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+28
+
+SALARY BY POSITION (2)
+Position
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Range
+
+Median
+
+Position
+
+Range
+
+Median
+
+Low-Code/ No-Code Developer
+
+$1,000 - $1,930
+
+$1,180
+
+DATA & ANALYTICS
+
+Algorithm Engineer
+
+$1,540 - $2,610
+
+$1,890
+
+Data Scientist
+
+$1,490 - $2,310
+
+$1,640
+
+Unity Developer
+
+$970 - $1,900
+
+$1,220
+
+Data Analyst
+
+$1,130 - $1,860
+
+$1,230
+
+HTML5 Developer
+
+$880 - $1,640
+
+$1,050
+
+Machine Learning Engineer
+
+$1,480 - $2,380
+
+$1,680
+
+Cocos Developer
+
+$890 - $1,600
+
+$1,150
+
+AI Engineer
+
+$1,110 - $2,060
+
+$1,360
+
+IT Presales
+
+$750 - $1,520
+
+$1,010
+
+Business Intelligence (BI) Developer
+
+$1,470 - $2,390
+
+$1,660
+
+IT Consultant
+
+$1,090 - $1,830
+
+$1,230
+
+Big Data Engineer
+
+$1,210 - $2,260
+
+$1,480
+
+Solution Architect
+
+$1,850 - $2,810
+
+$2,060
+
+Data Governance Specialist
+
+$1,140 - $2,380
+
+$1,480
+
+Technical Architect
+
+$2,150 - $2,750
+
+$2,290
+
+Data Visualization Engineer
+
+$730 - $1,260
+
+$1,000
+
+Data Architect
+
+$1,430 - $2,590
+
+$1,760
+
+PRODUCT & PROJECT MANAGEMENT
+
+Staff Engineer
+
+$2,330 - $2,880
+
+$2,350
+
+Principal Engineer
+
+$2,360 - $2,960
+
+$2,540
+
+Product Manager
+https://topdev.vn
+
+QUALITY ASSURANCE
+
+$1,640 - $2,450
+
+$1,800
+
+Product Owner
+
+$1,230 - $2,150
+
+$1,410
+
+Product Designer
+
+$1,000 - $1,840
+
+$1,200
+
+QC Engineer
+
+$910 - $1,640
+
+$1,060
+
+Business Analyst
+
+$950 - $1,710
+
+$1,110
+
+QA Engineer
+
+$1,040 - $1,750
+
+$1,180
+
+Project Manager
+
+$1,450 - $2,350
+
+$1,670
+
+Tester
+
+$840 - $1,530
+
+$980
+
+Scrum Master
+
+$1,150 - $2,090
+
+$1,360
+
+Automation Test Engineer
+
+$1,190 - $2,070
+
+$1,390
+
+Bridge Software Engineer (BrSE)
+
+$1,370 - $2,400
+
+$1,630
+
+Manual Test Engineer
+
+$920 - $1,610
+
+$1,050
+
+IT Communicator
+
+$660 - $1,240
+
+$770
+
+Security Test Engineer
+
+$1,030 - $1,710
+
+$1,170
+
+[Unit: USD] Note: All salary data stated in this page refers to monthly gross salary before
+tax and excludes other benefits like overtime, bonus, etc.
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+Top IT Jobs For Developers
+
+29
+
+SALARY BY POSITION (3)
+Position
+
+Range
+
+Median
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Position
+
+Range
+
+Median
+
+DATABASE MANAGEMENT
+
+USER EXPERIENCE & DESIGN
+UI/UX Designer
+
+$840 - $1,490
+
+$980
+
+Database Administrator (DBA)
+
+$1,030 - $1,910
+
+$1,300
+
+Product Designer
+
+$1,000 - $1,840
+
+$1,200
+
+Data Warehouse Engineer
+
+$1,320 - $2,150
+
+$1,450
+
+UX Researcher
+
+$970 - $1,730
+
+$1,140
+
+$1,610 - $2,430
+
+$1,710
+
+Game Artist
+
+$1,140 - $1,930
+
+$1,510
+
+ETL Developer (Extract, Transform,
+Load)
+Data Modeler
+
+$800 - $1,700
+
+$1,030
+
+Game Designer
+
+$980 - $1,490
+
+$1,210
+
+Virtual Reality (VR) Developer
+
+$1,450 - $2,350
+
+$1,600
+
+Robotic Process Automation (RPA)
+Developer
+
+$700 - $1,380
+
+$880
+
+Natural Language Processing (NLP)
+Engineer
+
+$1,630 - $2,320
+
+$1,850
+
+$1,500 - $2,000
+
+$1,400
+
+SUPPORT & MAINTENANCE
+Site Reliability Engineer (SRE)
+
+$1,650 - $2,590
+
+$1,930
+
+Technical Support Engineer
+
+$810 - $1,330
+
+$880
+
+IT Helpdesk
+
+$620 - $1,020
+
+$680
+
+SECURITY
+
+EMERGING AND NICHE ROLES
+
+Edge Computing Engineer
+https://topdev.vn
+
+Security Engineer
+
+$1,030 - $1,710
+
+$1,170
+
+Penetration Tester
+
+$1,260 - $2,230
+
+$1,560
+
+Cybersecurity Engineer
+
+$940 - $1,700
+
+$1,070
+
+Vulnerability Analyst
+
+$1,500 - $2,200
+
+$1,500
+
+DevSecOps Engineer
+
+$1,660 - $2,540
+
+$1,840
+
+[Unit: USD] Note: All salary data stated in this page refers to monthly gross salary before
+tax and excludes other benefits like overtime, bonus, etc.
+As predicted by the previous reports, highest-paying positions require specialized skills like
+Data Analyst, Cloud, DevOps, Machine Learning or AI. In the urge for business digital
+transformation, the importance of Cloud Servics & DevOps has played a critical role in
+maintaining & developing the business. Therefore, there has experienced dramatic growth in
+demand for Cloud/ DevOps engineers which is reflected in the increasing salary base for
+those positions.
+
+Please note that the salary figures presented in this table are indicative and subject to variability based on factors such as geographic location, experience level, industry demand, and individual
+qualifications. They are intended to provide a general overview of the IT job market and should be used as a guide rather than a definitive benchmark. We encourage readers to consider these salaries
+in the context of specific circumstances and market conditions when making career or hiring decisions.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+30
+
+ROADMAP
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+FRONT-END DEVELOPER
+
+BACKEND DEVELOPER
+
+DATA SCIENTIST
+
+DEVOPS ENGINEER
+
+Foundations:
+• HTML, CSS, JavaScript
+• Responsive Design
+• Version Control (Git)
+
+Foundations:
+• Programming Languages (Node.js, Java,
+Python, Ruby, PHP, C#/.Net, Go etc.)
+• Database Management (SQL, NoSQL)
+• RESTful APIs, GraphQL
+Core Skills:
+• Authentication & Authorization
+• ORM (Object-Relational Mapping)
+• Server Management (Linux, Nginx)
+Advanced:
+• Microservices Architecture
+• Caching Strategies (Redis, Memcached)
+• CI/CD Pipelines
+
+Foundations:
+• Mathematics & Statistics
+• Programming (Python, R)
+• Data Wrangling (Pandas, NumPy)
+
+Foundations:
+• Operating Systems (Linux, Windows)
+• Networking Concepts
+• Scripting (Bash, Python)
+
+Core Skills:
+• Data Visualization (Matplotlib, Seaborn)
+• Machine Learning (Scikit-learn, TensorFlow)
+• SQL & NoSQL Databases
+Advanced:
+• Deep Learning (Keras, PyTorch)
+• Big Data Tools (Hadoop, Spark)
+• Model Deployment
+
+Core Skills:
+• CI/CD Tools (Jenkins, GitLab CI)
+• Containerization (Docker, Kubernetes)
+• Cloud Platforms (AWS, Azure, GCP)
+Advanced:
+• Infrastructure as Code (Terraform, Ansible)
+• Monitoring & Logging (Prometheus, ELK Stack)
+• Security Best Practices
+
+Core Skills:
+• Frameworks (React, Angular, Vue.js)
+• State Management (Redux, Vuex)
+• Build Tools (Webpack, Babel)
+Advanced:
+• Testing (Jest, Cypress)
+• Performance Optimization
+• Progressive Web Apps (PWA)
+
+MOBILE DEVELOPER
+
+CYBERSECURITY ANALYST
+
+AI/ML ENGINEER
+
+CLOUD ENGINEER
+
+NETWORK ENGINEER
+
+Foundations:
+• Core Programming Languages
+(Swift, Kotlin, Java)
+• UI/UX Design Principles
+• Version Control (Git)
+Core Skills:
+• Cross-Platform Tools (React
+Native, Flutter)
+• API Integration
+• Performance Tuning
+
+Foundations:
+• Networking (TCP/IP, VPN)
+• Operating Systems Security
+• Scripting (Python, PowerShell)
+
+Foundations:
+• Programming (Python, R)
+• Mathematics & Algorithms
+• Data Wrangling
+
+Foundations:
+• Networking Basics (TCP/IP, DNS)
+• Routing & Switching (Cisco, Juniper)
+• Network Security
+
+Core Skills:
+• Threat Analysis
+• Penetration Testing (Metasploit,
+Burp Suite)
+• SIEM Tools (Splunk, ELK)
+
+Advanced:
+• AR/VR Development
+• Advanced Networking
+(WebSockets, Bluetooth)
+• Security & Encryption
+
+Advanced:
+• Incident Response
+• Forensics & Malware Analysis
+• Security Architecture
+
+Core Skills:
+• Machine Learning Models
+(Supervised, Unsupervised)
+• Neural Networks & Deep Learning
+• NLP (Natural Language
+Processing)
+Advanced:
+• Reinforcement Learning
+• AI Ethics & Bias
+• Model Deployment & Monitoring
+
+Foundations:
+• Networking Basics
+• Scripting (Python, Bash)
+• Virtualization & Containers
+(Docker)
+Core Skills:
+• Cloud Services (AWS, Azure, GCP)
+• Infrastructure as Code (Terraform,
+CloudFormation)
+• Security & Compliance
+Advanced:
+• Serverless Architecture (Lambda,
+Azure Functions)
+• Multi-cloud Management
+• Cost Optimization
+
+Advanced:
+• Software-Defined Networking (SDN)
+• Cloud Networking
+• High Availability (HA) & Disaster
+Recovery
+
+https://topdev.vn
+
+Core Skills:
+• Wireless Networks
+• Network Monitoring Tools
+• VPNs & Firewalls
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+31
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+5. TECH HIRING
+LANDSCAPE
+IN VIETNAM
+Explores the current landscape of tech hiring in Vietnam, highlighting
+trends in recruitment strategies and candidate preferences. It
+examines the skills in high demand, the impact of remote work, and
+the competitive nature of the market.
+
+Top IT Jobs For Developers
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+32
+
+TECH HIRING IN VIETNAM
+TECH TALENTS TARGET TO HIRE
+
+[unit: % of companies with target hiring in 2024]
+Nearly 90% companies plan to hire less than 50 developers this year. Nearly 30%
+companies stopped hiring developers in 2023-2024 compared to 2022.
+Many high-growth tech companies hired too aggressively during& after pandemic to meet the
+unprecedented demand for digital goods and services. Companies had hired full-time workers
+with inflated salaries and compensation packages until worldwide economics decline since end
+of 2022. Compared to previous period, most of companies have narrowed down their hiring
+plan from 2023 and the situation continued in 2024 with decrease in number of new vacancies.
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+TIME TO FILL A POSITION IN TECH INDUSTRY
+Due to the high competitiveness in IT labor market, it takes a shorterperiod to find candidates to
+fulfill recent vacancies. Also, developers responded that they had to join more interviews before
+the offer than previous period.
+2022
+
+AVERAGE
+
+32 days
+
+2023
+
+58.40%
+
+2024
+
+9.90%
+2022
+
+7.20%
+
+11-50
+
+51-100
+
+2.00%
+
+101-200
+
+2023
+
+Together with decreasing hiring demand, hiring
+budget for this year 2024 also was affected a lot,
+while only 6% of companies said that they
+increased hiring budget, 70% maintained same
+volume and 24% companies decided to reduce.
+Although there is not much growth, compared
+to the 2022-2023 period, the current period is
+more stable than before.
+
+2024
+
+32 days
+
+LOCATION
+
+[unit: ratio of JD]
+
+Ho Chi Minh
+
+Ha Noi
+
+2022
+1.20%
+
+201-500
+
+61%
+
+32%
+
+https://topdev.vn 59%
+
+34%
+
+0.40%
+
+Over 500
+
+More budget
+6%
+
+TECH HIRING BUDGET IMPACT
+
+2.89%
+
+38 days
+
+(*) Include all the process from job announcement, screening to interview &
+onboard, exclude Executives/High-level via Headhunt services.
+
+30.80%
+
+0-10
+
+51 days
+
+2023
+
+2024
+35%
+
+58%
+
+Others
+
+Ho Chi Minh still plays important
+role as a Tech Hub in Vietnam where
+more than 55% developers/ IT
+population are locating here & 58%
+openings in labor market.
+
+COMPANY TYPE
+
+Less than
+24%
+
+[unit: ratio of JD]
+
+Product
+Same budget
+70%
+
+Outsource
+Others
+
+3.8%
+
+36.5%
+
+59.7%
+
+Among Product companies, industries related to
+eCommerce, Banking & Fintech, Data Center & Cloud
+faces less impact than other industries in the period of
+economic downturns, vice versas positively boosted by
+global trend.
+Top 2 foreign nations hiring most developers in 2024 in
+Vietnam are Japan & South Korea, then USA & Singapore.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+33
+
+TECH HIRING IN VIETNAM
+TOP HIRING TECH POSITIONS VS
+MOST POPULAR POSITIONS AMONG IT INDUSTRY
+The majority of employers said they mostly need all the time Back-end,
+Full-stack and Front-end Developers. The dominance of trending web
+technologies has pushed the number of Web Developers much higher.
+Meanwhile, demands on these positions have experienced some
+significant switch when HR really focuses more on Mobile Developers,
+Product & especially DevOps Specialist.
+60.0%
+
+Back-end Developer
+47.6%
+
+Full-stack Developer
+
+41.6%
+
+Front-end Developer
+22.6%
+
+Android Developer
+
+Scrum Master
+
+21.3%
+43.5%
+13.7%
+36.5%
+
+Data Analyst/ Engineer
+24.5%
+
+31.2%
+
+AI/ML Engineer
+Security Engineer
+IT Support/ Helpdesk
+UX/UI Designer/ Writer
+Cloud Engineer
+
+Java
+
+79.0%
+
+13.2%
+8.6%
+16.3%
+18.9%
+
+Position by Job
+Position by Application
+
+TOP HIRING
+EDUCATIONAL BACKGROUND
+Most of employers in Vietnam (88.4%) prefer tech talents
+with academic tech background (universities/ colleges &
+above). On the other side, only 5.8% employers open to
+hire non-tech background candidates for positions in
+Tech industry.
+Candidates completing vocational education training or
+obtaining professional training certificate are preferred
+with 13.1% & 12.8% respectively.
+
+19.3%
+
+PHP
+
+Vocational
+education
+training
+
+47.6%
+24.8%
+4.0%
+1.8%
+11.5%
+
+4.3%
+Ruby
+https://topdev.vn
+19.9%
+
+Go
+Scala
+
+19.3%
+
+DevOps Engineer
+
+80.0%
+
+C++
+
+9.4%
+
+System Administration
+
+Javascript
+
+Objective
+
+Tester/QA/QC
+Database Administration
+
+Despite some changes to the overall popularity of
+specific tech stacks in Vietnam & region, top 5 IT
+skills which companies are looking for have
+remained similar to previous years: Javascript,
+Java, PHP, C#/.Net & Python. Nearly 80% of
+companies are looking for JavaScript developers.
+
+Swift
+29.2%
+
+Business Analyst
+Project Manager
+
+TOP HIRING TECH STACKS VS
+MOST POPULAR TECH STACKS
+
+Python
+
+21.4%
+
+Product Manager
+
+2024 - 2025 Vietnam IT Market Report
+
+C#/.Net
+
+16.4%
+
+iOS Developer
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+Academic
+tech background
+(university/ college &
+above)
+
+88.40%
+
+13.10%
+
+Professional
+Training
+Certificate (*)
+
+12.80%
+
+0.9%
+
+Kotlin
+
+6.2%
+
+Flutter
+
+6.3%
+
+Non-tech background
+
+Position by Job
+Position by Application
+
+5.8%
+
+(*) Include Certificate issued by global/ local institutions, online/
+offline coding/ training courses
+
+With modern tech hiring model, it is expected that more
+& more non-tech background as well as alternatives
+beyond academic background can have chance to join
+the Tech labor market without lack of recognition.
+28% of job descriptions require Technical Test in
+recruitment process.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+34
+
+TECH HIRING IN VIETNAM
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+FOREIGN LANGUAGES PREFERENCE
+
+Question: Which foreign language & level of competence do you require the most for tech positions in your companies? (choose up to 3)
+The majority of employers expect developers to possess at least a basic and
+limited level of proficiency in their technical roles. These companies, which
+have both management levels and customers who frequently use English,
+emphasize the importance of English proficiency.
+Japanese and Korean have emerged as two popular foreign language
+requirements in recent job descriptions. Employers from Japan and Korea,
+who seek developers with foreign language skills, typically insist on a
+professional working level. Similar requirements are also applicable to other
+foreign languages such as French, Chinese, and Russian.
+Ratio of jobs in the market requires Japanese accounts for 3.5 - 4.0% & less
+than 1.0% for Korean but mostly requires “Professional working” level where
+developers use Japanese/ Korean for both working & daily communication.
+Popular positions requires this level of foreign languages fluency includes IT
+Comtor, Project Coordinator, Project Manager, Bridge Engineer (BrSE),
+Business Analyst.
+
+SOFTSKILLS PREFERENCE FOR INTERVIEW ASSESSMENT
+
+The average salary of job descriptions (JDs) requiring professional working proficiency in English is 27%
+higher than average of all JDs, while that level of Japanese or Korean is at least 38% higher than average.
+
+English - Basic working
+
+55%
+
+The English level of Vietnamese developers was ranked 13th in
+Asia and 65th globally according to the EF Education First
+English Proficiency Index. The requirement for English skills of
+software developers in Vietnam is shifting from “nice-to-have”
+to “must-have,” which will require developers to consider more
+seriously practicing their English skills.
+
+English - Limited
+working
+
+37.5%
+
+English
+Profession
+al working
+
+12.0%
+
+https://topdev.vn
+
+Question: Which softskills do you require the most from developers? (choose up to 3)
+
+60.5%
+Accountability
+& Work Ethic
+
+Assessing a candidate's
+sense of responsibility,
+reliability & dedication
+towards their work,
+evaluate their willingness to
+take ownership of tasks,
+meet deadlines & maintain a
+strong work ethic.
+
+55.5%
+Communication
+Ability to effectively convey
+information, ideas, and
+thoughts to others which is
+crucial for successful
+collaboration,
+problem-solving, and
+relationship building in the
+workplace.
+
+50.5%
+Problem Solving
+Ability to identify, analyze &
+solve problems effectively.
+It assesses their critical
+thinking skills, creativity &
+logical reasoning in
+approaching complex or
+challenging situations.
+
+Languages | 35.0%
+Collaboration | 43.5%
+Growth Mindset | 37.3%
+Upskill & Reskill | 25.8%
+Adaptability | 15.9%
+
+In addition to technical skills, soft skills have
+become an important criteria in the process
+of HR/ recruiters evaluating IT candidates.
+Top 3 important soft skills for developers
+include: Accountability & Work Ethic,
+Communication & Problem Solving .
+Upskilling & Reskilling requirements has
+risen recently due to tighter recruitment
+budgets as well as the pressure of
+optimizing current enterprise resources.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+35
+
+IT JOB SEARCH BEHAVIOR
+JOB SEARCHING TIMELINE
+
+25.80%
+
+Question: Where you usually find new jobs (choose up to 2)
+Among 10 developers, nearly 7 find their new jobs via online job sites, followed by social
+media (Facebook, LinkedIn) (32.8%) then Referral/ Network (28.1%). Other sources like
+Company career page, IT Communities/ Blog & Recruitment agencies are alternative job
+search channels for developers.
+
+Currently
+looking for
+new job
+
+35.10%
+
+Having a plan to
+move/ find new jobs
+in next 6 - 12 months
+
+20.20%
+
+Not until 1 more year
+working at same
+company
+Not until 2 more years
+working at same
+company
+
+15.60%
+3.3
+%
+
+Not until 3 more years
+working at same
+company
+
+Job sites
+
+67.50%
+
+Social media (Facebook/ LinkedIn)
+
+32.80%
+
+Referral/ Network
+
+28.10%
+
+Recruitment agencies
+
+18.20%
+
+IT Communities/ Blog
+
+12.90%
+
+Company page
+
+7.50%
+
+https://topdev.vn
+CHALLENGES IN FINDING IT JOBS IN 2024
+
+TOP REASONS NEW JOB SEARCHING
+Being impacted by worldwide economic
+recession, there have been much fewer
+career choice for developers than last
+year.
+Besides
+common
+reasons
+for
+developers to consider new jobs, this
+year 2024 we acknowledged higher
+ratio of ‘Company stability’ than ever
+before, showing more concerns of
+Developers in their career recently.
+
+2024 - 2025 Vietnam IT Market Report
+
+CHANNELS OF FINDING IT JOBS
+
+Question: When do you think about finding a new job?
+With “the lack of confidence” of
+developers looking for new jobs at this
+time of year, 60.9% developers
+consider to find new jobs in next 12
+months.
+• 25.8% of developers are actively
+looking for a new job
+• 35.1% plan to move or find a new job
+in the next 6-12 months
+• 39.1% of developers answered that
+they would spend at least one more
+year at their current company.
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+Less relevant opportunities
+
+Higher compensation
+
+30.50%
+
+Company stability (Financial/ People)
+
+28.30%
+
+Company culture/ environment
+
+22.60%
+
+Personal & career growth
+
+16.00%
+
+Dissatisfaction with current
+
+13.50%
+
+Make a change
+
+8.90%
+
+Longer job search duration
+More interviews before offer
+
+70.50%
+40.20%
+38.80%
+
+Biggest challenges this year
+was
+“Less
+relevant
+opportunities” & “Longer
+job search duration”, as a
+consequence of highly
+competitive labor market
+and tight hiring plan in 2024.
+
+Less acceptance rate 27.30%
+No jobs match expectation 17.30%
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+36
+
+CAREER MOTIVATION
+Question: Apart from salaries, choose top 3 main reasons
+considering a job offer
+
+43%
+
+Scope of work & responsibility
+
+40%
+
+Product/ system scale
+
+32%
+
+Review from network
+
+30%
+
+Social & health benefits
+
+25%
+
+Hybrid working option
+
+15%
+
+Company culture and values
+
+13%
+
+Training opporuntities
+
+13%
+
+Promotion opportunities
+
+10%
+
+TOP REASONS WHY DEVELOPERS
+REJECT JOB OFFERS
+
+Question: Choose top 3 main reasons staying current
+position & workplace
+56%
+
+Company financial stability
+
+2024 - 2025 Vietnam IT Market Report
+
+REASONS FOR DEVELOPERS TO STAY
+AT CURRENT POSITION
+
+WHAT MATTERS MOST TO THE DEVELOPER
+WHEN CONSIDERING A JOB OFFER?
+
+Compatible tech stack
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+#1
+
+Unsuitable offer (role, responsibilities & salary)
+
+Company financial stability
+
+40%
+
+#2
+
+Company compensations & benefits
+
+Current salary
+
+38%
+
+#3
+
+Company business situation
+
+#4
+
+Recruitment process experience
+
+Great benefits
+
+35%
+
+Leaders & Managers
+
+23%
+
+Colleagues & Workplace
+Promotion/ Growth
+Interesting products
+
+22%
+18%
+17%
+
+https://topdev.vn
+
+The top 2 factors for developers to consider new offer are
+‘Company’s technical stack’ (56%) & ‘Company financial
+stability’ (43%). ‘Company financial stability’ has become
+more important for candidates when considering a new offer
+during this challenging period.
+
+Based on the answers from developers participating in the
+survey. The top factors that help the company retain IT
+talents in this situation have changed a lot, including
+‘company finanicial stability’, ‘current salary’ & ‘great
+benefits’.
+
+Regarding monetary benefits, salary for participation in
+social insurance, 13th-month bonus and other bonuses like
+signing bonus, performance bonus are key considerations of
+developers.
+
+In which: 40% of the responses mentioned company
+finanical stability; followed by Current salary with 38%,
+35% is Great benefits, 23% is Leaders & Managers.
+
+#5
+
+Difference in career orientation
+
+#6
+
+Inconvenient location & tranportation
+
+#7
+
+Lack of growth/ contribution opportunities
+
+#8
+
+Counter offers
+
+Top 3 reasons why developers reject a job offer: Unsuitable
+offer (role, responsibilities and salary), compensations and
+benefits policy and company business situation.
+
+WHAT DO YOU DISLIKE ABOUT THE
+RECRUITMENT PROCESS?
+#1
+
+Being approached with irrelevant jobs (skill, salary)
+
+#2
+
+Irrelevant technical interview assessment
+
+#3
+
+Recruiter without tech knowledge/ product/ project
+
+#4
+
+Poor interview experience
+
+#5
+
+Lack of notice about interview process or result
+
+#6
+
+Offer negotiation
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+37
+
+COMPETITIVE MARKET
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+The tech job market is currently navigating a dynamic phase, reflecting significant trends and shifts as viewed from both employer and employee perspectives.
+• Employers are grappling with an increasing number of applications per job opening, influencing their strategies for filling positions swiftly and efficiently.
+• On the flip side, employees are experiencing longer job search durations, adjusting their expectations and increasingly considering contract or freelance work.
+This evolving landscape underscores the need for both sides to adapt strategies and expectations to effectively connect talent with opportunity in a competitive environment.
+
+EMPLOYER SIDE
+Metric
+
+Compare with previous period
+
+Higher number of applications per job opening
+Job Vacancy Rates
+Same number of applications per job opening
+vs. Application
+Rates
+Less number of applications per job opening
+Shorter time-to-fill
+Time-to-Fill Open
+Same time-to-fill
+Positions
+Longer time-to-fill
+Average Number
+of Interviews
+Before Job Offer
+
+Salary Increasing
+Speed
+
+EMPLOYEE SIDE
+Ratio of
+respondents
+
+Compare with previous period
+
+60%
+30%
+10%
+
+Average Job
+Search Duration
+
+50%
+30%
+20%
+
+Application-toInterview Ratio
+
+https://topdev.vn
+
+Higher number of interviews
+
+65%
+
+Same number of interviews
+
+25%
+
+Less number of interviews
+
+10%
+
+Faster Increase
+
+5%
+
+Same Increase
+
+40%
+
+Slower Increase
+
+55%
+
+More vacancies
+
+10%
+
+Opportunities for
+Same vacancies
+Fresher positions
+Less vacancies
+
+Metric
+
+20%
+70%
+
+Job Offer Rate
+
+Salary
+Expectations vs.
+Actual Offers
+Freelancing/
+Contract Work
+Application
+
+Ratio of
+respondents
+
+Longer job search duration
+
+60%
+
+Same job search duration
+
+30%
+
+Less job search duration
+
+10%
+
+Less ratio
+
+50%
+
+Same ratio
+
+25%
+
+Higher ratio
+
+25%
+
+Less rate
+
+55%
+
+Same rate
+
+30%
+
+Higher rate
+
+15%
+
+Larger gap
+
+50%
+
+Same gap
+
+40%
+
+Smaller gap
+
+10%
+
+Applied
+
+20%
+
+Consider
+
+30%
+
+No applied
+
+50%
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+38
+
+VIETNAM LABOR REGULATION
+GOVERNMENT AGENCIES
+
+SALARY
+
+SOCIAL, HEALTH AND
+UNEMPLOYMENT INSURANCE
+(SHUI)
+
+SI/HI/UI
+CONTRIBUTION
+
+• Ministry of Labour - Invalids and Social Affairs
+(MOLISA)
+• Vietnam Social Security
+• General Department of Taxation
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+• Employee’s typical monthly salary package includes their gross salary and mandatory insurance contributions. In some cases, the gross
+salary may also include overtime pay, allowances and bonuses, as well as additional benefits.
+• Personal income taxes (PIT) will be levied on the balance after mandatory insurance contributions have been deducted.
+• Vietnamese employees must receive compensation in Vietnamese Dong, even if they work for foreign companies.
+• The probation period applies only once for each job and does not exceed 60 days with the wage during the probation period being at least
+equal to 85% of the wage for the job.
+Vietnamese employees
+Employee portion Employer portion
+
+Foreign employees
+Employee portion Employer portion
+
+Compulsory insurance in Viet Nam comprises of:
+• Social Insurance (SI)
+• Health insurance (HI)
+• Unemployment insurance (UI)
+which are jointly shared by both the employer and
+employee. Vietnamese employees and foreign
+employees have the same insurance rates.
+
+Social Insurance
+Health Insurance
+Unemployment
+Insurance
+
+8%
+1.5%
+1%
+
+17.5%
+3%
+1%
+
+8%
+1.5%
+-
+
+17.5%
+3%
+-
+
+Total
+
+10.5%
+
+21.5%
+
+9.5%
+
+20.5%
+
+EMPLOYMENT CONTRACTS
+
+Indefinite term
+
+A labor contract must contain provisions such as the
+scope of work, working hours, rest breaks, wages,
+job location, term of the contract, occupational
+safety and hygiene conditions and social insurance.
+
+https://topdev.vn
+
+A contract in which two parties do not determine the term and
+the time for its termination
+
+Maximum compulsory
+social insurance salary
+from July 1 2024
+20 times x basic salary
+(2,340,000VND/ month)
+= 46,800,000VND
+
+Definite term
+
+Two parties determine the term as a period not exceeding 36
+months and the time for its termination. The definite contract can
+only be renewed once.
+
+RECRUITMENT REQUIREMENTS IN VIETNAM FOR FOREIGN EMPLOYEES
+
+A temporary work permit, also known as a TRC, must be applied for via the regional Labor Department if a foreign national desires to work in Vietnam. To apply for a TRC the employee must have a
+sponsorship letter from their employer to start the process.
+• Work Permit: For foreigners who work in Vietnam for a longer period, usually 3 months or more, a work permit is required. This permit typically lasts for 2 years and can be renewed if necessary.
+• Business Visa: A business visa is required only when a foreign worker stays in Vietnam for less than three months. Applicants are usually high-skilled contractors needed for short-term projects,
+especially in infrastructure and IT. A letter of invitation from a Vietnamese business partner who requires a high-skilled foreign employee is required for the business visa application.
+• Temporary Residency Card – TRC: Apart from the work permit, all foreign employees must also obtain a TRC, also known as a Temporary Residence Card, which will allow them to travel within the
+country, as well as enter and exit the country legally. With the help of a trusted and experienced recruitment outsourcing provider, your Vietnam market entry process becomes risk-free and
+hassle-free.
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+39
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+6. TECH TALENT
+DEVELOPMENT
+TRENDS
+
+Analyzes the latest trends in the development of tech talent, focusing
+on training and upskilling initiatives. It explores the rise of online
+learning platforms, mentorship programs, and corporate training
+strategies
+
+Top IT Jobs For Developers
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+40
+
+GLOBAL TECHNOLOGY HUB
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+VIETNAM’S GROWING ROLE AS A GLOBAL TECHNOLOGY HUB
+
+Vietnam is increasingly establishing itself as a key player in the global technology landscape, with Ho Chi Minh City emerging as a pivotal center for artificial intelligence (AI) on a global scale. The
+establishment of AI centers is part of a broader initiative to integrate AI into various sectors, driving innovation and economic growth. This effort aligns with Vietnam's strategy to expand AI integration,
+aiming to boost the country's GDP by 12% by 2030.
+
+VIETNAM AS A DESTINATION FOR
+GLOBAL CORPORATIONS TO SETUP
+TECH HUBS/ R&D CENTERS
+The most highlighted companies outsourcing to
+Vietnam include:
+• US: Qualcomm, Microsoft, Google, Intel, etc.
+• EU: Airbus, Discovery, Unilever Networks Europe,
+Continental, etc.
+• South Korea: LG, Samsung, Shinhan Bank, SmileGate,
+LG Electronics, Ricoh, etc.
+• Japan: Uchida, Hitachi, DNP, VINX, Mitsubishi
+Electric, NTT Data, Toshiba, etc
+• Southeast Asia: URC, Central Group, Friso, etc.
+• Others: HCL Technologies (India), Bosch (German),
+mgm technology (Australia), NAB (Australia), Endava
+(Australia), NashTech (UK), Elca (Switzerland), Zuhlke
+Engineering (Switzerland), CBTW (Belgium)...
+
+ADVANCEMENTS IN AI AND HIGH-TECH
+SECTORS
+
+In collaboration with Google, the National Innovation Center
+has launched an initiative expected to provide 40,000 AI
+training scholarships across Vietnam. Additionally, FPT's
+partnership with NVIDIA involves a $200 million investment
+to construct an AI factory that aims to make Vietnam a global
+AI hub.
+
+VIETNAM IT OUTSOURCING MARKET
+HAVE ATTRACTED MORE FOREIGN
+COMPANIES.
+
+Even during global economics downturn in 2023, 80%
+outsourcing companies kept hiring more Developers in
+2023
+Based on Job Site data, among the Top 1200 IT
+Companies hiring the most developers in Vietnam from
+2021 – 2023
+• 40% Outsourcing companies (in which 42% Vietnam
+Companies, 58% FDI companies)
+• Top FDI counterparts (based on total hirings 2021 –
+2023): Japan > USA > German > Korea > France >
+Singapore
+Despite global economic challenges in 2023, hiring
+demand decreased overall. However, most FDI
+outsourcing companies continued to hire throughout
+the year.
+
+https://topdev.vn
+
+DEVELOPMENT OF TECH CITIES AND
+INNOVATION DISTRICTS
+
+Hoa Lac Hi-Tech Park, among others, is being developed as a
+prime destination for high-tech investments. The
+government’s focus here is to create an ecosystem that
+attracts significant R&D investments and fosters innovation
+in sectors critical to technological advancement.
+
+PROVEN TECHNICAL CAPACITY OF
+VIETNAMESE TECH WORKFORCE
+
+Vietnam Biggest IT Outsourcing Company – FPT
+Software – reach 1.0 bil USD from Outsourcing to
+global market with average 30% growth rate per year
+• High-quality customer base: Continuoysly increase
+in numbers of big deal size from 1.0 mil USD through
+the years
+• Expansion: Setup FPT Korea in 2023, generated more
+than 50.0 mil USD revenue
+• FPT Japan nominated in Top 30 IT companies in
+Japan with 2,900 employees (700 Japanese)
+• M&A USA companies Landing AI, Intertec
+International, Cardinal Peak & French AOSIS for
+increasing technical capcity & expand expert in
+semiconductor, automotive, AI
+
+DEVELOPMENT OF DATA CENTERS
+
+Recognizing the importance of robust digital infrastructure,
+Vietnam is experiencing significant growth in its data center
+market. This growth is driven by the increasing demand for
+data storage and management solutions, fueled by the
+expanding digital economy and the strategic push towards
+localized data processing facilities.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+41
+
+DX IN BANKING & FINTECH SECTOR
+VIETNAM MARKET
+
+[Source: https://vietnam.worldfis.com/]
+
+$41.76B
+
+$3.8B
+
+95%
+
+79.1%
+
+200+
+
+49
+
+Forecasted fintech market by 2029
+
+Banks actively adopting the
+latest technologies
+
+Fintech firms in Vietnam
+
+Digital financial services revenue by 2025
+
+Population with internet access
+
+Banks in Vietnam
+
+FROM CASH TO DIGITAL PAYMENT:
+VIETNAM FINTECH TRANSFORMATION
+Cashless transactions in 2023 were valued at 23 times the Vietnam’s GDP,
+estimated at US$9,890 billion, while the Vietnam’s GDP reached
+approximately US$430 billion (State Bank of Vietnam).
+
+2024 - 2025 Vietnam IT Market Report
+
+HIRING TRENDS IN
+DEVELOPER ROLES
+
+EXPANSION OF FINTECH
+SERVICES
+
+Vietnam's banking and fintech sectors
+have significantly expanded their
+demand for skilled developers from
+2021 to 2024. Banks and fintech
+companies are increasingly focusing on
+developing robust digital platforms and
+mobile applications, prompting a rise in
+hiring campaigns for tech talents
+specializing in software development,
+AI, and data analytics
+
+The expansion of fintech services has
+been marked by the emergence of
+numerous startups and the introduction
+of innovative financial products. These
+developments have not only enhanced
+the consumer banking experience but
+also created a competitive market that
+demands
+continuous
+technological
+advancements and solutions.
+
+GOVERNMENT POLICIES AND
+REGULATORY FRAMEWORK
+
+POTENTIAL OF TECH
+CAREERS IN BANKING AND
+FINTECH
+
+https://topdev.vn
+
+Vietnam Fintech is predominantly driven by payments and mobile wallets. By the end of 2023,
+Vietnam Fintech had 32.77 million active e-wallets. Additionally, the average number of payment
+transactions via Internet and mobile channels grew annually by 52% and 103.3%, respectively,
+between 2021 and 2023. The number and value of payments via QR codes surged by over 170%.
+While Singapore leads Southeast Asia in the total count of operational fintech firms (1580 firms
+by 3rd quarter of 2022), Vietnam’s fintech landscape offers substantial growth prospects. As per
+UOB, the number of fintech enterprises has quadrupled over the past few years, from 39
+companies at the end of 2015 to more than 200 firms in 2022, showcasing rapid growth and
+evolution in the sector. (United Overseas Bank, 2022)
+Projections paint an exciting picture: the Vietnam fintech market is on the brink of substantial
+expansion, with transaction values expected to skyrocket from USD 39.02 billion in 2024 to an
+impressive USD 72.24 billion by 2029, showcasing a remarkable CAGR of 13.11% during the
+forecast period. (Mordor Intelligence , 2023)
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+The Vietnamese government has played a
+crucial role in fostering the growth of the
+fintech sector through supportive
+policies and a favorable regulatory
+environment. Recent initiatives include
+the establishment of a regulatory
+sandbox to encourage innovation while
+ensuring consumer protection and
+financial stability. These measures have
+made Vietnam an attractive market for
+both local and international fintech
+investors
+
+There is a growing need for professionals
+with expertise in cybersecurity, data
+privacy, and compliance with financial
+regulations. Additionally, the shift towards
+digital banking and e-commerce has
+created opportunities in areas such as
+user
+experience
+design,
+cloud
+computing, and mobile app development.
+Tech professionals can have more
+opportunities to develop solutions that
+drive financial inclusion and innovation.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+42
+
+FUTURE OF SKILLS
+TOP 10 SKILLS OF 2025 (BY WORLD ECONOMIC FORUM)
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+While the loss of certain job roles may seem alarming, it’s not all doom and gloom. In fact,
+if you’re working in a role likely to be affected by the impact of automation, digitization and
+the changing world of work, there are plenty of skills you can work on right now to help you
+reskill and stay relevant, ranging from technical skills to problem solving and soft skills.
+
+Analytical thinking and innovation
+Active learning and learning strategies
+Complex problem-solving
+Critical thinking and analysis
+Creativity, originality and initiative
+Leadership and social influence
+Technology use, monitoring and control
+Technology design and programming
+
+ENGLISH IS THE KEY
+
+Vietnam's English proficiency index in 2023 reached 505/800 points, ranked 58th out of 113
+countries and territories, and among group with average proficiency level.
+A recent ManpowerGroup Vietnam report found that Vietnam has a much smaller percentage of
+workers with English language skills for work than other countries in APAC, like Indonesia (10%),
+Malaysia (21%), or Thailand (27%), with only 5% of local workers meeting the foreign language
+requirements for the job.
+At surveyed enterprises, workers’ English skills are a worrying problem. Up to 24% of businesses
+revealed that their proportion of workers who can use English skills proficiently is lower than 50%.
+30% of businesses acknowledged that under 10% of their workers have sufficient English skills to
+work.
+
+CAREER FLYWHEEL
+The cycle begins with "Skill" acquired through learning and practice, which leads to "Experience"
+& "Opportunity Advancement”. The diagram emphasizes that continuous improvement and a
+proactive approach are essential for career success and personal development.
+
+Learn
+Practice
+
+Continuous
+development
+Growth mindset
+
+Problem-solving
+
+Working with people
+
+Self-management
+
+Technology use and development
+
+Compatibility
+Excellence
+Long-term
+career success
+
+Resilience, stress tolerance and flexibility
+Reasoning, problem-solving and ideation
+
+Skill
+
+https://topdev.vn
+
+Leadership
+Career Growth
+
+Opportunity
+Advancement
+
+Experience
+
+Achievement
+Contribution
+
+Competitiveness
+Proactivity
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+Top IT Jobs For Developers
+
+43
+
+TECH HIRING TRENDS IN VIETNAM
+
+1.
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+5.
+
+TALENT FLYWHEEL
+SKILLS-BASED HIRING AND
+UPSKILLING
+
+Employers are placing more emphasis on skills rather
+than solely relying on traditional qualifications.
+Skills-based hiring involves assessing candidates
+based on their practical skills, demonstrated
+experience, and ability to adapt to new technologies.
+Companies are also investing in upskilling and reskilling
+programs to develop the existing workforce and bridge
+the skills gap.
+
+2.
+
+Hiring
+Better hires
+
+Easier sourcing
+
+Brand
+
+AI-DRIVEN RECRUITMENT
+TOOLS
+
+AI-powered tools and platforms are increasingly being
+used in the tech hiring process. These tools help
+streamline candidate sourcing, resume screening, and
+candidate assessment by leveraging machine learning
+algorithms and natural language processing. AI-driven
+recruitment tools aim to improve efficiency, reduce
+bias, and identify the best-fit candidates.
+
+3.
+
+CV / Conversion rate
+Cost per hire | Time-to-fill
+
+SOFT SKILLS AND
+CULTURAL FIT
+
+While technical skills remain important, employers are
+also placing a greater emphasis on soft skills and
+cultural fit. Effective communication, teamwork,
+problem-solving, adaptability, and leadership abilities
+are highly valued in tech professionals.
+
+Awareness
+Employee Adocacy
+NPS
+
+4.
+
+Performance
+
+KPI/ OKR
+Seniority
+
+Talent success
+Company success
+
+https://topdev.vn
+
+DATA-DRIVEN DECISION
+MAKING
+
+Companies are leveraging data analytics and insights to
+make informed hiring decisions. They are using data to
+identify trends, optimize recruitment processes, and
+evaluate the effectiveness of their hiring strategies.
+Savvy hiring teams use data to drive their decisions. Having
+measurable proof points helps when building a business
+case for new technology, new processes or requesting
+additional funding for much-needed projects. In 2023, with
+businesses cutting down on unnecessary spending, every
+decision will need to be backed by clear supporting data.
+
+AUTOMATION OF
+RECRUITMENT PROCESSES:
+
+• Streamlined Job Posting & Distribution: Automated
+platforms enable employers to create, customize, and
+distribute job postings across multiple job boards and
+social media channels, increasing visibility and
+reaching a wider pool of candidates.
+• Applicant Tracking Systems (ATS): ATS software
+automates
+candidate
+tracking,
+managing
+applications, scheduling interviews, and storing
+applicant data in a centralized database. This
+streamlines
+the
+hiring
+workflow,
+improves
+collaboration among hiring teams, and enhances data
+management.
+• Video Interviews & Assessments: Virtual interviews
+and assessments allow employers to remotely
+evaluate candidates’ skills, communication abilities,
+and cultural fit. This saves time, reduces costs
+associated
+with
+in-person
+interviews,
+and
+accommodates remote candidates.
+
+6.
+
+GIG ECONOMY AND
+FREELANCE WORK
+
+The gig economy is gaining traction in the tech industry.
+Companies are increasingly engaging freelancers or
+independent contractors to fulfill short-term projects or
+specialized tasks. This allows organizations to access
+specific expertise and scale their workforce as needed.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+44
+
+TALENT MANAGEMENT LANDSCAPE
+MULTI-GENERATIONAL
+WORKFORCE
+By 2025, Generation Z is expected to make
+up 30% of the labor force in Vietnam.
+
+As Vietnam’s population is aging and its
+workforce is becoming more diverse, the issue
+of
+multi-generational workforce is more
+important & challenging:
+• To manage the expectations and needs of
+employees from different generations: older
+workers - expectations around job security
+and stability,
+younger workers prioritize
+opportunities for career growth and
+development
+• To
+manage
+potential
+conflicts
+or
+misunderstandings due to differences in
+communication styles or work habits
+• To address the issue of age discrimination in
+the workplace
+
+Microlearning
+
+Purpose-Driven Culture
+
+Diversity and Inclusion
+Sustainability
+
+Mental Health
+
+Technology-Driven
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+JOB LOYALTY
+
+AI & AUTOMATION
+
+Vietnam has seen rising employee
+turnover rates, particularly in
+sectors like technology,
+manufacturing, and services, where
+competition for skilled workers is
+intense.
+
+Applying AI and automation can
+significantly improve efficiency,
+decision-making, and the overall employee
+experience.
+
+•
+The
+high turnover rate among employees in Vietnam
+•
+also has broader societal implications that extend
+•
+beyond
+the immediate impact on businesses:
+• Increased Recruitment Costs: High turnover
+• necessitates continual hiring and training, which
+can be costly and time-consuming.
+•
+• Loss of Expertise: Frequent employee departures
+can lead to a loss of institutional knowledge and
+expertise, affecting overall productivity and
+performance.
+• Reduced Morale: Constant turnover can negatively
+impact the morale of remaining employees,
+potentially leading to a further decline in job
+satisfaction and loyalty.
+
+• 40% increase in employee productivity for
+companies adopting AI across HR functions
+(Accenture)
+• Reduce the time spent on hiring by 30-50%,
+allowing recruiters to focus on higher-value
+tasks (Deloitte)
+• 20-30% cost savings due to reduced manual
+labor (McKinsey & Company)
+• Employee Retention increases by 15-20%
+(PwC)
+
+https://topdev.vn
+
+Competitive Job Market
+
+Skills Gap
+
+Salary Expectations
+
+Career Advancement
+
+Generational Shifts
+
+Changing Work Values
+
+TECHNOLOGY IN TALENT
+MANAGEMENT
+• Human Resource Information Systems (HRIS):
+Tools for managing employee data, payroll,
+and benefits.
+• Applicant Tracking Systems (ATS): Software to
+streamline the recruitment process.
+• Learning Management Systems (LMS):
+Platforms for delivering, tracking, and
+managing training programs.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+45
+
+DATA & REPORT FOUNDATION (1)
+METHODOLOGY
+
+• TopDev conducted a survey & research to find out more about developers’ demographic,
+skills, work experience and job search behaviour as well as IT Recruitment Market in Vietnam.
+A total of 45,015 people took part in survey and more than 90,000 IT jobs data analyzed
+separately from Jan 2022 to July 2024 via TopDev & partners ecosystem, in which 9.3% data
+were invalid & removed due to irrelevant experience or low credibility in the IT industry.
+• Data was collected anonymoulsy (no personal identifiable information) in accordance with
+GDPR guidelines & Decree 13 of Personal Data Privacy and only used for reports analysis.
+Percentages may not always add to 100% due to multiple choices & different responses.
+• All salary data stated in this report refers to monthly gross salary before tax and excludes
+other benefits like overtime, bonus, 13th bonus, performance bonus, sign-on bonus, etc.
+Exchange rate applied: $1 = 25,000 VND
+
+45,000+
+IT Candidates
+
+DEVELOPERS
+ENGINEERS
+IT-RELATED
+
+EMPLOYERS
+HR-RELATED
+
+90,000+
+analyzed job data
+
+1,500+
+IT Employers
+
+Full-time Developers
+
+69%
+
+IT Students
+
+11%
+
+Unemployed
+
+4%
+
+Freelancer/ Self-employed
+
+12%
+
+Part-time Developers
+
+4%
+
+HR/ Talent Acquisiton/ Recruiter/ Sourcer
+
+60%
+
+HR/ Talent Acquisiton (Leader/ Manager)
+
+10%
+
+HR General/ HRBP
+
+25%
+
+Employer Branding
+
+3%
+
+Admin/ Office Staff
+
+2%
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+REFERENCE DOCUMENTS:
+
+• Press release: Socio-Economic situation of the second quarter and the first six months of
+2024 (June 29, 2024) by the Vietnam General Statistics Office
+• 2020-2021 White Paper on Information and Technology of Ministry of Information and
+Communications
+• Vietnam Innovation & Tech Investment Report 2023 by NIC & DO Ventures
+• Vietnam Innovation & Tech Investment Report 2024 by NIC & DO Ventures
+• Vietnam 2024 Outlook | The Investor’s Guide to Growth by KPMG
+• e-Conomy SEA 2023 by Google, Temasek & Bain & Company
+• IMF Vietnam Data 1980 - 2029
+• Statistical Yearbook of Vietnam 2023 by General Statistics Office
+• Taking Stock Digital Vietnam The Path to Tomorrow by The World Bank
+• 30 Years of FDI in Vietnam by Ministry of Planning & Investment (1988 - 2018)
+• S&P Global Vietnam Manufacturing PMI® published Jul 1 2024
+• Vietnam Economic Magazine VnEconomy.vn No. 35, Aug 26, 2024
+• Digital Vietnam 2024 Report by We Are Social & Meltwater
+• Asian Productivity Organization (APO) Productivity Report 2023
+• The Global Startup Ecosystem Report 2024 by Startup Genome
+• Vietnam’s Ecosystem For Technology Startups by Asian Development Bank
+
+REFERENCE LINKS:
+
+• https://ssc.gov.vn/webcenter/portal/ubck/pages_r/m/thngtinthtrng/thngkthtrng
+• https://tapchinganhang.gov.vn/kha-nang-su-dung-dich-vu-tai-chinh-so-cua-nguoi-trung-nien-tai-viet-nam-cach-t
+iep-can-tu-dan-tri-tai.htm
+• https://tapchitaichinh.vn/ung-dung-cong-nghe-tai-chinh-trong-thanh-toan-tai-viet-nam.html
+• https://www.gso.gov.vn/du-lieu-va-so-lieu-thong-ke/2024/01/tinh-hinh-von-dau-tu-thuc-hien-toan-xa-hoi-nam
+-2023/
+• https://vnea.com.vn/tin-tuc/nang-suat-lao-dong-viet-nam-thap-do-dau
+• https://www.vietnam-briefing.com/news/vietnams-investment-surge-in-2024-key-trends-and-opportunities.html/
+• https://www.statista.com/forecasts/1474143/global-ai-market-size
+• https://en.vietnamplus.vn/genai-to-contribute-14-trillion-vnd-to-vietnams-digital-economy-by-2030-official-post275729.vnp
+• https://www.statista.com/outlook/tmo/artificial-intelligence/generative-ai/worldwide
+• https://vneconomy.vn/tang-truong-kinh-te-nam-2024-se-can-dich.htm
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+Top IT Jobs For Developers
+
+46
+
+DATA & REPORT FOUNDATION (2)
+REFERENCE LINKS (CONTINUE)
+
+• https://www.gso.gov.vn/du-lieu-va-so-lieu-thong-ke/2024/06/bao-cao-tinh-hinh-kinh-te-xa-hoi-quy-ii-v
+a-sau-thang-dau-nam-2024/
+• https://www.gso.gov.vn/bai-top/2023/12/bao-cao-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2023/
+• http://makeinvietnam.mic.gov.vn/ThongKeBaoCao/DoanhNghiep
+• https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=184702
+• https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=193165
+• https://vneconomy.vn/thanh-pho-ho-chi-minh-co-trung-tam-toan-cau-ve-ai.htm
+• https://dientuungdung.vn/data-center-mo-vang-ty-do-trong-thoi-dai-ai
+• https://vnbusiness.vn/cong-nghe/cac-ga-khong-lo-cong-nghe-ban-ron-len-ke-hoach-xay-trung-tam-d
+u-lieu-tai-viet-nam-1100482.html
+• https://cafef.vn/them-mot-ong-lon-cong-nghe-mo-trung-tam-rd-tai-viet-nam-da-co-120-nhan-su-dukien-tuyen-them-15-moi-nam-188240607100410427.chn
+• https://www.startupblink.com/startup-ecosystem/vietnam
+• https://startupuniversal.com/country/vietnam/
+• https://www.sourceofasia.com/start-up-in-vietnam-a-promising-and-favorable-ecosystem/
+• https://www.adb.org/sites/default/files/publication/807121/viet-nam-ecosystem-technology-startups.pdf
+• https://www.cgpvietnam.com/market-insights/vietnams-startup-ecosystem-a-rising-star-in-southeastasia/
+• https://thitruongtaichinhtiente.vn/du-bao-gdp-nam-2024-viet-nam-co-the-dat-6-95-60031.html#:~:text
+=Vi%E1%BB%87n%20nghi%C3%AAn%20c%E1%BB%A9u%20qu%E1%BA%A3n%20l%C3%BD,th%E1%BB
+%83%20%C4%91%E1%BA%A1t%206%2C95%25.
+• https://dx.gov.vn/
+• https://www.gso.gov.vn/du-lieu-va-so-lieu-thong-ke/2023/12/thong-cao-bao-chi-ve-tinh-hinh-dan-so-la
+o-dong-viec-lam-quy-iv-va-nam-2023/
+• https://vietnam.vnanet.vn/english/long-form/vietnam-republic-of-korea-comprehensive-strategic-partne
+rs-335264.html
+• https://www.ciem.org.vn/tin-tuc/9258/vien-nghien-cuu-quan-ly-kinh-te-trung-uong-to-chuc-hoi-thao-k
+inh-te-viet-nam-6-thang-dau-nam-va-trien-vong-ca-nam-2024-dong-luc-moi-cho-tang-truong-co-ch
+at-luong?newsgroup=Tin%20t%E1%BB%A9c%20-%20s%E1%BB%B1%20ki%E1%BB%87n%09
+• https://www.pmi.spglobal.com/Public/Home/PressRelease/ccca16446329452fa014c686a171a8cf
+• https://congly.vn/doanh-thu-cua-doanh-nghiep-cong-nghe-so-viet-nam-huong-den-10-ty-usd-418794.html
+• https://en.baochinhphu.vn/son-doong-named-among-worlds-10-most-incredible-caves-111230106100129416.htm
+• https://oxalisadventure.com/cave/son-doong-cave/
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+IMAGES CREDITS TO:
+
+• https://oxalisadventure.com/uploads/2022/11/4-1500x1000__6380461668889588
+72.jpg
+• https://oxalisadventure.com/uploads/2023/02/4-1000x1500__6381289205272788
+02.jpg
+• https://oxalisadventure.com/uploads/2023/02/15-1000x1500__638128920915364
+552.jpg
+• https://oxalisadventure.com/uploads/2022/11/vnsd-1500x1000__63794088140151
+4049__638046831958805417.jpg
+• https://oxalisadventure.com/uploads/2023/02/16-1000x1500__638128954365817
+101.jpg
+• https://oxalisadventure.com/uploads/2023/02/19-1500x1000__6381289212551091
+99.jpg
+• https://oxalisadventure.com/uploads/2023/02/20-1500x1000__638128921299240
+970.jpg
+• https://oxalisadventure.com/uploads/2023/02/21-1500x1000__638128921399546
+027.jpg
+• https://oxalisadventure.com/uploads/2023/02/9-1500x1000__6381289207814808
+67.jpg
+• https://oxalisadventure.com/uploads/2022/11/1500x1000-05__638041979131648
+020.jpg
+• https://oxalisadventure.com/uploads/2020/03/hangen_13_1500x1000__63719493
+9062155680.jpg
+• https://unsplash.com/photos/a-view-of-a-cave-k2e2bH28X14 [Unsplash/
+Andrew Svk]
+• https://unsplash.com/photos/a-person-siing-on-a-rock-yk3APr19I5E
+[Unsplash/Andrew Svk]
+• htps://urszihlmann.com/story/son-doong/#&gid=1&pid=19
+• htttps://unsplash.com/photos/a-waterfall-with-a-mountain-in-the-background6vbEhUuA4dU [Unsplash/ Andrew Svk]
+• https://unsplash.com/photos/person-walking-towards-cave-ymPtFTBz1zA
+[Unsplash/ Lê Tân]
+Special thanks to Oxalis Adventure for incredibly beautiful photos of Son
+Doong Cave (https://oxalisadventure.com/)
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+47
+
+ABOUT REPORT PUBLISHER
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Via Job Opportunity
+Top IT Jobs For Developers
+
+with
+Service/ Feature
+for employers & job
+seekers
+
+TopDev is an online IT job platform dedicated to connecting IT
+professionals with exciting job opportunities. Our vision to streamline the IT
+talent acquisition process, making it easier for both job seekers and
+employers via convenient service & feature to find the perfect career match.
+With strong expertise in IT Recruitment & Vietnam IT market insight's via
+nearly 10 years of operation, we have started to publish IT market Reports
+since 2016 with citation & certification from many global & local
+organizations, businesses & governments.
+
+we create
+Career Match
+
+OUR MISSION
+
+MAKE IT VIETNAM BETTER
+• Connect developers with the best IT career opportunities from verified
+companies
+• Supply companies with the best & largest sources of Tech talents to build
+great products
+• Accelerate IT workforce in Vietnam in both quality & quantity via
+thoughtful insights & community activities
+Business name: Applancer JSC, tax code: 0313032338
+Operated from 2015, invested by Saramin (KOSDAQ 143240) in 2020.
+
+1,000,000+
+monthly
+traffic
+
+250,000+
+mobile app
+downloads
+
+750,000+
+members
+signup
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+48
+
+SERVICE FOR EMPLOYER
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+All-in-one Recruitment Platform
+From
+Attract
+Talent
+Headhunting
+For High-level Hiring
+• Extensive networks and
+databases of highly skilled
+and experienced
+professionals
+• Deep industry knowledge and
+understand the specific skill
+sets, qualifications required
+for various roles
+• Dedicated Account Manager
+• Recruitment Report & Preferential Rate
+
+Branding
+For Sustainability Strategy
+Job Posting & CV Search
+For Immediate Hiring
+• Instant access to a large pool of
+qualified IT professionals actively
+seeking job opportunities.
+• Advanced search filters to
+shortlist candidates based on
+specific skills, experience, and
+location
+• Job Posting Performance: Average 100
+Applications per 30-day job post
+• Price per CV Search starts from 80,000 VND
+
+• Showcase the company's
+culture, values, and career
+opportunities.
+• Enhanced visibility and
+reputation among IT job seekers
+to attract top talent in a
+competitive market.
+• Exclusively-designed branding campaign
+• ROI & Performance Monitoring
+
+To
+Retain
+Talent
+https://topdev.vn/recruit
+Request to hire >
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+49
+
+SERVICE FOR DEVELOPER
+TopDev CV & Auto
+Convert Tool Powered by
+OpenAI
+Make world-class CV for Developers
+just with one click
+• Standard CV chosen by top tech
+enterprises: Microsoft, Google,
+AWS...
+• Simple usage, 1-click conversion or
+apply to job after information fill
+Top Developer
+Solution Architect
+02862733496 -
+
+topdeveloper@topdev.vn
+
+Giới Thiệu Bản Thân
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+Workplace
+Personality Test
+
+TopDev
+Mobile Application
+Search For IT Jobs anywhere anytime
+• Job Search, Save & Easy Apply
+• CV & Application Management
+• Swift Left & Right for Job
+Recommendation
+• CV Online & Personality Test
+
+Understand your personality in
+working environment
+• 60 multiple-choice questions in 20
+minutes
+
+Tech Interview Question
+Library
+2,000+ interview questions with
+suggested answer
+• Equip job-seekers for better
+preparation to join Technical interviews
+
+I am a dynamic, creative sociable and curious guy. My ambition is to find and overcome challenges in my life. I believe
+that the most effective method to relieve the monotony of daily life is experiencing unfamiliar things with an optimistic
+outlook. Seeking a demanding job to employ engineering understandings to a real project. The next step is to employ
+sustainability and project management to handle a successful project.
+
+Kỹ Năng Chuyên Môn
+Technical Skill : PHP , Swift, Android, iOS, Java, C#, MySQL, Python, HTML , Objective-C, C/C++, Windows, MacOS,
+Windows.
+Soft skills: Objective programming
+,
+Self-studying, read English Documents, communicate basically with people in English.
+
+Kinh Nghiệm Làm Việc
+Simpson Strong-Tie | 10/2015 - 07/2017
+CIVIL ENGINEER
+Trách nhiệm
+My 1-year project is to draw an algorithm to analysis Moment Frames (a steel structure) using finite element method
+(FEM) software, namely OpenSees. Our expectation is to speed up analyzing time and reduce annual SAP2000
+license fee. The 1st version is released in late 2018.
+Another project is to employ OpenSees for FRP analysis. The expected output is to check FRP refined components’
+deflection under cyclic load. A highlight of this project is to employ parallel computing or even GPUs algorithms to
+speed up calculation and reduce hardware cost.
+I have more understandings of MATLAB, Excel and learn more about programming languages such as Python, C++.
+Also, I have chances to work with a multidiscipline team to complete this project.
+Công nghệ sử dụng:
+VBA,Matlab
+
+Unicons, VN | 06/2014 - 09/2014
+PROJECT ENGINEER INTERNSHIP
+Trách nhiệm
+Monitored on-site progress of a typical floor in a commercial building.
+Review on-site work to ensure it meet quality standards and customer’s quality expectation.
+This internship helped me to get exposed to a construction site environment in which I worked with vendors,
+subcontracts and other engineers.
+
+Tech Blog & Salary
+Converter
+• More than 3,000 programming articles
+for upskill/ reskill, case studies, expert
+talks, career tips, problem-solving...
+• Gross - Net Salary Convert Tool
+
+Học Vấn
+Arizona State University | 08/2017 - 08/2018
+Ngành Học: Sustainable Engineering
+Degree: MASTER OF SCIENCE
+Gpa: 3.3/4.0
+Description:
+Being an active member in International Facility Management Association (IFMA), Phoenix Chapter and DesignBuild Institute of America, ASU chapter.
+Received a sponsorship from Zcash to attend the biggest blockchain submit in the world, namely Concensus 2018
+with over 8000 attendees in New York City.
+
+CV By TopDev 1/2
+
+Top IT Jobs For Developers
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+
+50
+
+SON DOONG EXPLANATION
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+The largest cave in the world
+The parallels between these two ecosystems - the natural and the professional - highlight the need for a holistic, exploratory,
+and forward-thinking approach to unlocking their full potential. The comparison helps illustrate the unique value and the
+complex challenges inherent in both domains.
+Unique and vast potential:
+
+• Both the Son Doong Cave and Vietnam's tech talent pool represent remarkable, one-of-a-kind resources that are still largely unexplored and whose
+full potential remains to be uncovered. Just as the sheer scale and untapped wonders of the cave captivate explorers, the depth and diversity of
+tech skills in Vietnam hold immense yet enigmatic promise.
+
+Mysterious and complex:
+
+• The inner workings of the Son Doong Cave ecosystem, with its own microclimate and hidden interconnections, mirror the nuanced and often
+opaque nature of Vietnam's tech talent landscape. Both represent environments that are not easily understood or quantified from the outside.
+
+Sustainability challenges:
+
+• Just as the long-term viability of Son Doong's delicate ecosystem
+is uncertain, Vietnam faces the challenge of cultivating and retaining its tech
+https://topdev.vn
+talent in the face of global competition for skilled professionals. Addressing these sustainability concerns is crucial for both.
+
+Future-shaping potential:
+
+• Breakthrough discoveries within the Son Doong Cave have the power to transform our scientific understanding of the world. Similarly, Vietnam's
+ability to harness and develop its tech talent could have far-reaching implications for the country's economic and technological future.
+•
+•
+•
+•
+•
+•
+
+Located in the core zone of Phong Nha – Ke Bang National Park, Tan Trach Commune, Bo Trach District, Quang Binh Province
+Total length of nearly 9 km long and the volume is up to 38.5 million cubic metres
+Was discovered by accident in 1990 by Ho Khanh and was only explored by the The British Vietnam Caving Expedition Team in 2009
+April 30, 2013- Guinness Book of World Records “ The largest cave in the world”
+In 2020, the Cave was voted by Business Insider as one of the 20 outstanding natural wonders.
+On April 14, 2022, Google Doodle honoured Hang Son Doong Cave on its search page in 18 countries around the world.
+
+Vietnam IT & Tech Talent Landscape Report © 2024 TopDev All Rights Reserved
+Top IT Jobs For Developers
+
+51
+
+VIETNAM
+IT & TECH TALENT LANDSCAPE
+
+2024 - 2025 Vietnam IT Market Report
+
+REGARDING COPYRIGHT AND INTELLECTUAL PROPERTY:
+
+In case of any organization or individual uses part or all of the information and data in this report (exclude
+stated public information used in the official documents) for any personal, non-profit or commercial
+purposes, please cite the source and mention in full and detail the report name & publisher as following:
+• Vietnamese: “Báo Cáo Thị Trường IT Việt Nam 2024-2025 | Vietnam IT & Tech Talent Landscape" do
+TopDev (https://topdev.vn) phát hành
+• English: "Vietnam IT Market Report 2024-2025 | Vietnam IT & Tech Talent Landscape" published by
+TopDev (https://topdev.vn).
+Any use without specifying the source, recording incorrect copyright information, intentionally removing or
+blurring the watermark of publishing unit will be considered a copyright violation and will be handled
+according to regulations.
+Disclaimer:
+• All forms requiring personal information to access reports not under the https://topdev.vn domain are not
+under the control and management of the TopDev publishing team. You can access TopDev original reports
+via https://topdev.vn/page/bao-cao-it-viet-nam or https://topdev.vn/get-report.
+• Please be cautious when filling out forms on platforms/websites other than https://topdev.vn.
+• Please contact the information below in case of suspicion of copyright issues or theft of personal
+information (if any) related to this report.
+Thank you for your interest in our this year report &
+information. We hope our works can contribute to our
+mission to “Make IT Vietnam Better”.
+
+https://topdev.vn
+
+CONTACT US
+APPLANCER JOINT STOCK COMPANY - TopDev
+
+Level 12A, AP Tower, 518B Dien Bien Phu Street, Ward 21, Binh Thanh, Ho Chi Minh City
+https://topdev.vn
+
+For more comprehensive outlook of
+the Vietnam IT Market, please follow other TopDev’s
+reports HERE or scan the QR code.
+https://topdev.vn/page/vietnam-it-market-reports
+
+For interview/ information inquiries:
+
+For inquires of hiring Tech Talents:
+
+Park JongHo (Mr.) | CEO
+park@topdev.vn
+
+Hotline: 028.6273.3496
+Email: contact@topdev.vn
+Post job here: https://topdev.vn/recruit
+
+Nhu Truong (Ms.) | COO
+nhu@topdev.vn
+(84) 33 884 7836
+
+

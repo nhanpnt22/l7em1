@@ -1,0 +1,2690 @@
+Report
+October 2023
+
+People
+Profession 2023
+Asia-Pacific survey report
+
+The CIPD has been championing better work and
+working lives for over 100 years. It helps organisations
+thrive by focusing on their people, supporting our
+economies and societies. It’s the professional body for
+HR, L&D, OD and all people professionals – experts in
+people, work and change. With over 160,000 members
+globally – and a growing community using its research,
+insights and learning – it gives trusted advice and offers
+independent thought leadership. It’s a leading voice in
+the call for good work that creates value for everyone.
+
+People Profession 2023: Asia-Pacific survey report
+
+Report
+
+People Profession 2023:
+Asia-Pacific survey report
+Contents
+1
+
+2
+
+1
+
+Introduction
+
+3
+
+Aims of this report
+
+3
+
+Survey participants 
+
+4
+
+Asia-Pacific findings
+
+5
+
+What are the key drivers of change for organisations? 
+
+5
+
+What are the top workforce priorities for organisations? 
+
+6
+
+How are people management tasks being delegated? 
+
+7
+
+How is digital transformation changing the way people teams
+operate? 
+
+10
+
+What is the impact of hybrid working on people practice? 
+
+10
+
+How does people professionals’ work affect their wellbeing? 
+
+14
+
+How are practitioners developing their skills and capability? 
+
+16
+
+How do people professionals feel about their career prospects
+and progression? 
+
+18
+
+Sample demographics 
+
+20
+
+3
+
+Methodology
+
+23
+
+4
+
+Endnotes
+
+25
+
+People Profession 2023: Asia-Pacific survey report
+
+Acknowledgements
+The CIPD would like to thank the 812 people professionals in Australia, Hong
+Kong, Malaysia and Singapore who participated in this survey, as well as those
+who shared their views and experiences to inform this report.
+A huge thank you to the CIPD colleagues who shared their expertise in the
+creation of this report, especially Amy Bosely, Sofia Oumlaz and May Leng
+Kwok. We’d also like to acknowledge Louisa Pattison for her contribution to
+the data analysis for this research.
+Finally, a thank you to our colleagues at YouGov, Jane Rowe and Conor
+Cotton, for their continued support throughout this research programme.
+
+Author profile
+Rebecca Peters, CIPD Research Adviser, is the author of this report.
+
+Publication information
+Peters, R. (2023) People Profession 2023: Asia-Pacific survey report. London:
+Chartered Institute of Personnel and Development.
+
+2
+
+People Profession 2023: Asia-Pacific survey report
+
+1 Introduction
+
+As we settle into the post-pandemic ‘new normal’, we see significant shifts
+in the behaviours of workers and workplaces, which have brought new
+challenges and opportunities for the people profession.
+Macro trends, including advancing technology and digital transformation,
+economic instability, the transition to net zero and new models of working,
+are driving constant change. It is under these conditions that businesses need
+to adapt or risk being left behind. It’s up to senior leaders and people teams
+to influence and shape current strategy and people practice to navigate this
+ever-changing landscape.
+
+Aims of this report
+This report gives a snapshot of the current HR landscape in the Asia-Pacific
+region, specifically in Australia, Hong Kong, Malaysia and Singapore. It
+provides insights into how external factors are impacting current HR practices,
+and the challenges and opportunities these bring. It also explores how people
+professionals perceive their careers and working lives amidst these changes.
+We investigate the following questions and give recommendations on how
+people professionals can navigate the challenges they are facing:
+• What are the key drivers of change for organisations?
+• What are the top workforce priorities for organisations?
+• How are people management tasks being delegated?
+• How is digital transformation changing the way people teams operate?
+• What is the impact of hybrid working on people practice?
+• How does people professionals’ work affect their wellbeing?
+• How are practitioners developing their skills and capability?
+• How do people professionals feel about their career prospects and progression?
+Our accompanying international survey report explores how global issues
+are affecting regions differently by comparing findings in nine countries
+across Asia-Pacific, the Middle East and North Africa, the UK and
+Ireland. In addition to the questions above, it also looks at how people
+professionals across the world perceive:
+• the impact and value of people teams
+• how the role of people professionals is changing
+• how people professionals are using evidence in practice
+• the role of HR in the sustainability agenda.
+As well as this Asia-Pacific report, we also provide individual reports for
+the Middle East and North Africa region, the UK and Ireland, and Canada.
+
+1
+2
+
+3
+4
+3
+
+Introduction
+
+People Profession 2023: Asia-Pacific survey report
+
+Survey participants
+
+Sample
+size 202
+
+Sample
+size 155
+
+Sample
+size 251
+
+Sample
+size 204
+
+Australia
+
+Hong Kong
+
+Malaysia
+
+Singapore
+
+Full details of the research methodology are included in the Methodology
+section.
+Sample demographics are included at the end of Section 2.
+A note on the survey findings
+• The findings are based on the perspectives of those who took part in
+the People Profession survey in April and May 2023.
+• We refer to the ‘people profession’ throughout this report, which
+includes a range of people-related roles, such as human resources
+(HR), learning and development (L&D), organisational development
+(OD), employee relations and other HR specialisms. It does not include
+people managers.
+• Our sample included those responsible for HR, both in-house and as
+independent consultants.
+• The data collection, carried out by the CIPD and YouGov, was
+conducted across Australia, Hong Kong, Malaysia and Singapore. The
+sample is diverse, and each country will have different contextual
+factors influencing the findings.
+• Reported percentage figures are rounded up and therefore the total
+may be above 100%.
+• Further information on our sample can be found at the end of Section 2
+and in the Methodology section.
+
+1
+2
+
+3
+4
+4
+
+Introduction
+
+People Profession 2023: Asia-Pacific survey report
+
+2 Asia-Pacific findings
+
+The Asia-Pacific (APAC) countries included in this sample vary significantly in
+their cultural context, economic climate and political backdrop. This also plays
+out in the variations within the people profession itself and people practices
+generally. However, given the geographical proximity and the likelihood
+that businesses (and people teams) operating in these regions will have
+professional relationships with their neighbouring markets, it is useful to have
+a closer comparison of the differences and commonalities between them.
+In certain instances, it is useful to see how the Asia-Pacific region compares
+with the global sample surveyed (see our accompanying People Profession
+2023: International survey report). Where there are significant similarities or
+contrasts, this may be referenced.
+
+What are the key drivers of change for organisations?
+In terms of the levers that are driving change for businesses within these
+markets, Table 1 shows the top-ranked trends. As with the global sample
+in our accompanying international survey report, the impact of economic
+change, digital transformation and flexible ways of working are commonly
+cited by people professionals as prominent drivers. Evidence of these trends
+is supported by in-region policy changes. For example, the minimum wage
+increased by 5.75% in Australia in July 2023, to help workers with the rising
+costs of living.1
+However, there are some standout differences where particular regions are
+being impacted by different challenges.
+For example, in Australia, digital transformation was ranked as the top trend,
+suggesting that the impact of technology is disproportionately higher than the
+global sample (37%, compared with the global sample average of 28%).
+In Hong Kong, people professionals were significantly more likely than
+the global sample and the other APAC respondents to cite drivers such as
+demands for flexible ways of working, industrial change and organisational
+agility, changing employment relationships, responsible business and social
+impact, and globalisation.
+For Malaysian people professionals, social media and content consumption
+was perceived as particularly influential, compared with the global sample.
+Practitioners from Singapore were most likely to rank changing workforce
+demographics and digital technology platforms as a top trend influencing
+change, compared with the global sample.
+1
+2
+
+3
+4
+5
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+Table 1: Businesses in the APAC region are being impacted by economic change, digital
+transformation and flexible ways of working						
+The top five drivers of change in APAC country organisations (ranked by number of cases)
+Rank
+
+Australia
+
+Hong Kong
+
+Malaysia
+
+Singapore
+
+1
+
+Digital transformation
+and advancing
+technology
+
+Demands for flexible,
+hybrid and new ways
+of working
+
+Economic change
+and rising costs
+
+Digital technology
+platforms
+
+2
+
+Economic change
+and rising costs
+
+Industrial change
+and organisational
+agility
+
+Digital
+transformation
+and advancing
+technology
+
+Digital
+transformation
+and advancing
+technology
+
+3
+
+Digital technology
+platforms
+
+Demand for
+responsible business
+and social impact
+
+Digital technology
+platforms
+
+Demands for flexible,
+hybrid and new ways
+of working
+
+4
+
+Changing workforce
+demographics
+
+Changing workforce
+demographics
+
+Industrial change
+and organisational
+agility
+
+Changing workforce
+demographics
+
+5
+
+Demands for flexible,
+hybrid and new ways
+of working
+
+Changing
+employment
+relationships
+
+Social media
+and content
+consumption
+
+Economic change
+and rising costs
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+Question: Which of the following, if any, are drivers of change in your [client] organisation? (Please tick up to three responses.)
+
+What are the top workforce priorities for organisations?
+Despite APAC countries using remote hiring strategies,2 evidence suggests
+that recruitment remains a challenge. For example, in one survey, nearly
+half of employers in Australia cited it as a key concern3 and another report
+demonstrated that over half of businesses across the APAC region currently
+rely on a contingent workforce to support talent shortages.4
+With persistent recruitment challenges, employers and people teams
+are turning to their current workforce to plug the skills gaps and build a
+workforce that can sustain and grow their businesses. In this survey, we found
+that respondents from Australia, Malaysia and Singapore are focusing on
+developing and building skills as a top priority area, significantly more than
+the rest of the global sample. Other research also supports this finding, with
+56% of senior HR leaders saying employee training and development is an
+important area of focus in 2023.5
+Additionally, we also found workforce planning to be a core focus area in
+Australia, Hong Kong and Malaysia. This is a key strategy for managing talent
+and addressing skills gaps and associated business and operational risk. Unlike
+the global sample, the majority of APAC countries have less of a focus on
+recruitment, with the exception of Singapore.
+Across all countries, engaging with the workforce is a unanimous priority area.
+This suggests that, for many of our APAC respondents, a cultural reset is needed
+to focus on employee experience, engagement and building culture in a postpandemic workplace.
+
+1
+2
+
+3
+4
+
+6
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+Table 2: Upskilling, reskilling and building capability is the top workforce priority in Australia,
+Malaysia and Singapore
+The top five workforce priorities in APAC country organisations (ranked by number of cases)
+Rank
+
+Australia
+
+Hong Kong
+
+Malaysia
+
+Singapore
+
+1
+
+Upskilling, reskilling
+and building
+capability
+
+Workforce planning
+and management
+
+Upskilling, reskilling
+and building
+capability
+
+Upskilling, reskilling
+and building
+capability
+
+2
+
+Engaging with the
+workforce
+
+Measuring
+Measuring
+Developing leadership
+productivity and
+productivity and
+behaviours
+financial performance financial performance
+
+3
+
+Workforce planning
+and management
+
+Engaging with the
+workforce
+
+Workforce planning
+and management
+
+Fostering innovation
+and adaptive ways of
+working
+
+4
+
+Measuring
+productivity and
+financial performance
+
+Sustainability and
+responsible business
+
+Engaging with the
+workforce
+
+Engaging with the
+workforce
+
+5
+
+Prioritising health and
+safety
+
+Fostering innovation
+and adaptive ways of
+working
+
+Focusing on
+Developing
+recruitment, mobility
+leadership behaviours
+and turnover
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).			
+Question: Which, if any, of the following are your [client] organisation’s workforce priorities? (Please tick up to three responses.)
+
+How are people management tasks being delegated?
+Delegation to line managers
+Out of the four APAC markets surveyed, Hong Kong people professionals
+were most likely to delegate people management tasks to line managers, in
+particular learning and development, absence management, interviewing
+candidates and posting job adverts (see Figure 1).
+However, on average, the APAC region is less likely to delegate to the line
+compared with those in the UK and Ireland, but more likely to than those in
+the Middle East and North Africa (MENA) region. Where delegation to the line
+is more common, it is critical that people teams provide support, advice and
+training to line managers to ensure effective people operations are carried out
+and that managers feel equipped to do so.
+
+1
+2
+
+3
+4
+7
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+Figure 1: Hong Kong people professionals are more likely to delegate HR tasks to line managers
+than those in other APAC countries
+Tasks delegated to line managers (% of respondents)
+63
+
+47
+48
+48
+
+Learning and personal development
+
+Interviewing candidates for the role
+
+52
+
+45
+Sickness/absence management
+41
+
+56
+
+59
+
+44
+45
+55
+
+Conducting performance
+management reviews
+
+54
+
+59
+59
+
+55
+
+27
+
+Payroll-related queries
+
+60
+
+41
+
+45
+52
+
+Approving their team members’
+leave/time off
+
+61
+
+49
+51
+50
+
+30
+
+Posting job adverts
+
+37
+
+Conflict management
+34
+
+38
+
+50
+
+44
+
+46
+
+34
+34
+
+Conducting exit interviews
+
+41
+
+47
+
+1
+2
+3
+4
+
+None of these
+
+1
+Don’t know
+
+4
+4
+0
+
+6
+
+10
+
+Hong Kong
+
+20
+Singapore
+
+30
+
+40
+Malaysia
+
+50
+
+60
+
+70
+
+Australia
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+Question: Are line managers in your [client] organisation responsible for any of the following? (Please select all that apply.)
+
+Outsourcing of HR functions
+Hong Kong people teams outsource more HR functions than other countries
+in this region, including project management, basic HR advice, specialist
+and complex advice, as well as strategic support (see Figure 2). Given the
+higher levels of delegation to the line and outsourcing, this finding identifies
+a potential risk when it comes to generalist skills within Hong Kong’s talent
+pipeline. For example, the CIPD HR talent trends report, based on insights
+from people professionals in Singapore, Malaysia and Brunei, highlights that
+business partnering is a critical skill that supports career progression into more
+senior roles. However, 33% of respondents in Hong Kong said they outsource
+8
+
+Asia-Pacific findings
+
+1
+2
+
+3
+4
+
+People Profession 2023: Asia-Pacific survey report
+
+business partnering and strategic support. Without the breadth of generalist
+knowledge, progression into such roles could become more difficult for junior
+professionals in the future.
+Malaysian respondents are most likely to outsource their administrative HR
+duties. This finding is also supported by the CIPD HR talent trends report,
+which found that people teams in Asia are increasingly shifting away from
+perceptions of being a supportive function, and moving towards becoming
+a strategic partner that influences business decisions. To support this
+transition, outsourcing offers additional resource to alleviate transactional HR
+responsibility, such as administrative duties.
+In contrast, a third of the Singapore sample said they don’t outsource any HR
+function, which is a similar level to the UK.
+Figure 2: Hong Kong people teams are more likely to outsource a variety of HR functions
+Outsourced HR functions in APAC countries (% of respondents)
+Project management
+
+17
+
+25
+
+Payroll
+28
+Specialist advice, eg reward
+
+32
+
+39
+
+35
+
+37
+
+22
+
+15
+
+Basic (first-level) advice
+
+45
+
+27
+
+20
+37
+
+24
+
+12
+10
+
+36
+Administrative
+
+20
+
+Complex advice, including line
+manager contact
+
+Complex advice, including case
+management
+
+34
+25
+
+17
+
+Strategic support,
+eg business partner
+
+26
+
+19
+
+13
+
+34
+
+23
+20
+29
+
+15
+
+21
+
+34
+
+20
+1
+
+Don’t know
+
+4
+4
+
+0
+Other 0
+1
+0
+
+33
+
+27
+
+12
+
+Not applicable – we don’t outsource
+any function of HR
+
+44
+
+8
+
+Hong Kong
+Malaysia
+Singapore
+
+2
+
+Australia
+10
+
+20
+
+30
+
+40
+
+50
+
+Base: Australia (n=157); Hong Kong (n=131); Malaysia (n=233); Singapore (n=193).
+Question: Which elements of your HR function do you outsource, if any? (Please select all that apply.)
+
+9
+
+Asia-Pacific findings
+
+1
+2
+
+3
+4
+
+People Profession 2023: Asia-Pacific survey report
+
+How is digital transformation changing the way people teams operate?
+Our research shows that the impact of digital change on HR operations is
+particularly influential in Australia, Malaysia and Singapore, compared with the
+global sample. In these countries, the vast majority (69–77%) agreed that digital
+transformation and new technology is changing how people teams deliver
+HR to the wider business (see Figure 3). Considering that our sample consists
+of both large organisations and SMEs (for example, the Australia sample was
+70% SMEs), this highlights that the digital influence is widespread, even within
+smaller organisations and people teams, where investment in new technology
+and building digital skills is likely to be lower than in larger businesses.
+Malaysia and Singapore respondents were most likely to say that their HR
+operating models are changing significantly (or are currently being reviewed),
+compared with the wider sample. Despite 77% of Australian respondents
+agreeing that digital change is transforming people team operations, and
+62% agreeing that individual roles are evolving, substantially less believed the
+operating models of people teams are also being reviewed or significantly
+disrupted (55%). This suggests some disparity between the proportion of
+people roles changing while operating models appear less disrupted.
+Figure 3: Australian people professionals are most likely to agree that digital change and
+technology is transforming people operations
+How APAC HR teams and practitioners are evolving (% of net agree)
+Digital change and advancing technology
+is transforming the way HR teams
+operate and deliver to the business
+
+77
+
+52
+
+My role as a ‘people professional’ is
+changing significantly
+
+50
+
+The way HR/people functions operate
+throughout the business is being
+reviewed or is changing significantly
+
+50
+
+0
+
+10
+Australia
+
+20
+
+30
+
+40
+
+Hong Kong
+
+50
+
+72
+69
+62
+
+55
+58
+55
+61
+60
+60
+
+Malaysia
+
+70
+
+80
+
+90
+
+Singapore
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+Question: To what extent do you agree or disagree with the following statements about your [client’s] HR function?
+(Please select one option on each row.)
+
+What is the impact of hybrid working on people practice?
+Compared with the global sample, Australian practitioners were generally most
+likely to say that hybrid working has impacted people management positively
+and, specifically, that it makes people objectives easier to deliver (see Figure 4).
+In comparison, Singapore respondents more commonly said that hybrid
+working has made HR delivery more difficult – this is generally in line with UK
+people professionals’ views. Respondents have found particular challenges in
+supporting employees’ mental health and wellbeing, and attracting, recruiting
+and retaining talent (39% for both). Comments from Singaporean survey
+respondents identified several challenges around managing people and
+monitoring performance and work tasks.
+10
+
+Asia-Pacific findings
+
+1
+2
+
+3
+4
+
+People Profession 2023: Asia-Pacific survey report
+
+“It’s harder to communicate, harder to directly manage and
+measure performance, harder to bring about a ‘human touch’
+within the company.” (Survey respondent)
+“Some of the biggest challenges of hybrid work include culture,
+connectedness and communication, productivity, motivation,
+stress management and balance.” (Survey respondent)
+Other respondents highlighted that supportive line managers are critical when
+considering the impact on people management:
+
+“Both employees and managers need to be supported in how
+to manage hybrid working – the culture needs to evolve to
+build trust. Many leaders and managers cannot comprehend
+the positives of hybrid working and actually don’t want to.”
+(Australian survey respondent: People and culture director)
+Figure 4: Australian respondents were the most likely to say that hybrid working makes people
+objectives easier to deliver
+Respondents who said hybrid working makes people objectives easier to deliver (% who responded
+“has become easier”)
+60
+
+50
+
+40
+
+49
+
+49
+
+47
+
+45
+
+43
+
+40
+33
+
+31
+
+28
+
+30
+
+15
+
+44
+39
+
+38
+33
+
+20
+
+48
+
+42
+
+41
+
+37
+33
+
+30
+
+29
+
+27
+
+12
+
+13
+
+13
+
+13
+
+Supporting
+Supporting line
+employees'
+managers to
+mental health manage their
+and wellbeing
+teams
+effectively
+
+Attracting,
+recruiting and
+retaining
+talent
+
+Ensuring
+employees
+have good job
+quality
+
+Managing
+performance
+
+11
+
+11
+
+Contributing
+to
+organisational
+effectiveness
+
+Building
+organisational
+culture and
+values
+
+10
+
+0
+
+Australia
+
+Hong Kong
+
+Malaysia
+
+Singapore
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+Question: We are now going to ask you about some aspects of working as an HR/people professional. Please indicate how, if at all,
+these have changed due to the shift towards ‘working from anywhere’ and hybrid working.
+
+There are significant differences in perceptions of hybrid working when we
+account for age and years of experience within the profession. For example,
+younger people professionals (18–34 years) were more likely to perceive
+people management as easier to deliver in a hybrid context (see Figure 5).
+11
+
+Asia-Pacific findings
+
+1
+2
+
+3
+4
+
+People Profession 2023: Asia-Pacific survey report
+
+Early-career people professionals (those with up to five years’ experience
+within the profession) were also more likely to believe hybrid working makes
+people management easier.
+It’s likely that people professionals with more years of experience are more
+aware of the strategic challenges associated with hybrid and new ways of
+working. However, the contrast in view brings into question whether working
+preferences, adaptability and openness to change are factors that also affect
+views of hybrid working. Are leaders and managers ready to embrace the
+potential opportunities created by new ways of working?
+Figure 5: Younger people professionals were significantly more likely to believe that hybrid
+working makes people management operations easier
+The impact of hybrid working on people practices by age, APAC respondents only (% who
+responded “has become easier”)
+Supporting employees’
+mental health and wellbeing
+
+17
+
+Attracting, recruiting and
+retaining talent
+
+Managing performance
+
+19
+
+10
+18–34
+
+35–44
+
+42
+
+24
+
+41
+
+23
+
+12
+0
+
+42
+
+23
+
+16
+
+Building organisational
+culture and values
+
+43
+
+25
+
+15
+
+Contributing to
+organisational effectiveness
+
+43
+
+27
+
+14
+
+Supporting line managers to
+manage their teams
+effectively
+
+45
+
+26
+
+18
+
+Ensuring employees have
+good job quality (ie that jobs
+are well designed)
+
+47
+
+26
+
+20
+
+30
+
+40
+
+50
+
+45+
+
+Base: APAC (n=812).
+Question: We are now going to ask you about some aspects of working as an HR/people professional. Please indicate how, if at all,
+these have changed due to the shift towards ‘working from anywhere’ and hybrid working.
+
+Our findings highlight the cultural nuances and contrasting perceptions of
+flexible and hybrid ways of working and its impact on business functioning.
+The impact of hybrid working is also likely to be different across industries and
+job roles, given that some roles and industries will be less flexible in nature.
+1
+2
+
+3
+4
+12
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+Recommendations
+Flexible working strategies
+Hybrid, flexible and new ways of working are here to stay and will have
+implications for people and business strategies. Therefore, understanding
+how they impact people management is critical for people teams and
+people managers. Recommendations for businesses operating across
+APAC regions include the following:
+• Be aware of the range of flexible working options available to determine
+what your business can offer employees. Flexible working practices
+include part-time working, compressed hours, flexi-time, job-sharing,
+term-time hours, hybrid and remote working, and other practices.
+• Be data-driven to inform how hybrid working may impact different
+geographies and internal and external stakeholders. Our findings suggest
+there are likely to be differences across markets and employee groups.
+• Ensure leaders are aligned in their thinking across markets (and
+between functions). It’s crucial to have a consistent approach to
+dealing with the challenges and opportunities created by hybrid and
+flexible working. Are leaders aligned and aware of the perceptions,
+challenges and opportunities within their market?
+
+Recommendations
+Flexible working practices and supporting line managers
+The role of the line manager is key to ensuring effective ways of working.
+The following tips should help develop hybrid working practices and
+support line managers:
+• Engage with teams in establishing or revisiting hybrid ways of working
+so that they feel they have an active voice. Agreed processes should
+include how to communicate as a team and key principles that
+everyone can work to.
+• Ensure line managers are familiar with the organisation’s policies and
+procedures for hybrid working.
+• Ensure that line managers have regular one-to-one time with their
+team, either online or face-to-face, or a mixture of both.
+• Talk about wellbeing with employees and help people meaningfully
+disconnect and manage their technology and work–life balance.
+Act as a good role model with your own working practices. If you
+work outside of traditional working hours, be clear that your working
+arrangement does not set expectations for others to respond or action
+work that is sent out of hours.
+
+1
+2
+
+3
+4
+13
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+• Line managers need to set clear objectives and performance measures.
+They should focus on desired results and outcomes as the main
+measure for performance. It is always good practice to have wellwritten objectives and provide regular feedback.
+• Prioritise social connection, collaboration and innovation when
+meeting colleagues onsite. This can include face-to-face meetings,
+development events and social activities. You can also create online
+social spaces for informal conversations and sharing when colleagues
+are working remotely.
+• If you are working in a hybrid way yourself, don’t forget to be clear
+with your team about how to get in touch with you – and always
+provide opportunities for employees to speak with you one-to-one.
+For more advice, see our guide for people managers on supporting hybrid
+working.
+
+How does people professionals’ work affect their wellbeing?
+Nearly two-fifths of Australian respondents said their work “very positively”
+impacts their mental health (39%, compared with the global average of 16%)
+and physical health (38%, compared with the global average of 14%). This is
+significantly more positive than other APAC countries and is at odds with
+research on the wider workforce being prone to stress.6
+Interestingly, we found that 42% of Singapore practitioners feel ambivalent
+about the impact of work on their mental health, in that their wellbeing was
+neither positively nor negatively impacted. This was the highest proportion
+across the sample. In addition, we also found that significantly fewer
+practitioners reported a positive impact of work on their mental health. Other
+global research suggests that only 52% of Singapore workers feel able to have
+open conversations about their mental health at work,7 which could provide
+some explanation for the high levels of neutral responses.
+In line with other research, the CIPD HR talent trends report (covering
+perspectives from Brunei, Malaysia and Singapore) found burnout to be a
+prevalent issue among people teams, evidenced by lower engagement and
+wellbeing results. This has stemmed from raised expectations and pressures,
+particularly in dealing with talent retention issues and supporting the wider
+workforce through the disruption of the pandemic. This suggests that the
+longer-term impact of the pandemic and ongoing talent challenges has
+influenced, and will likely continue influencing, people professionals’ health
+and wellbeing.
+We also note that, in Hong Kong, 15% did not answer these questions and
+responded as “prefer not to say”, the highest proportion of this response. This
+may suggest that wellbeing at work is a taboo subject or, at the very least, a
+topic which practitioners feel less able to disclose an opinion on.
+
+1
+2
+
+3
+4
+
+14
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+Figure 6: Australian people professionals are the most positive about how work affects their
+mental health
+Impact of work on mental health (% of respondents)
+Australia
+
+67
+
+Hong Kong
+
+9
+
+61
+
+Malaysia
+
+9
+
+52
+
+Singapore
+
+15
+
+34
+0
+
+10
+
+Net: positively
+
+21
+20
+
+30
+
+40
+
+Net: negatively
+50
+
+60
+
+70
+
+80
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204). Excludes ‘neither positively nor negatively’,
+‘don't know’ and ‘prefer not to say’ responses.
+Question: To what extent does your work positively or negatively affect the following? Your mental health.
+
+Figure 7: Australian people professionals are the most positive about how work affects their
+physical health, with Singapore people professionals being the least positive
+Impact of work on physical health (% of respondents)
+Australia
+
+64
+
+Hong Kong
+
+9
+
+58
+
+Malaysia
+
+7
+
+53
+
+Singapore
+
+11
+
+33
+0
+
+10
+
+Net: positively
+
+26
+20
+
+30
+
+40
+
+Net: negatively
+50
+
+60
+
+70
+
+80
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204). Excludes ‘neither positively nor negatively’,
+‘don't know’ and ‘prefer not to say’ responses.
+Question: To what extent does your work positively or negatively affect the following? Your physical health.
+
+Recommendations
+Given that health and wellbeing affects many work-related and personal
+outcomes, senior leaders of the profession should:
+• Consider the impact of work on their people teams to protect against
+burnout. This is not only for the sake of the sustainability, retention
+and performance of their HR functions, but also for individuals’
+engagement, job quality and overall health. Leaders should consider a
+holistic approach of flexible working options, progression opportunities
+and setting clear boundaries between supporting the business and
+looking after their personal needs.
+• Take an evidence-based approach to understand the context and
+current climate around health and wellbeing in different regions and
+areas of the business, especially given the number of variables that
+could be impacting on wellbeing outcomes.
+
+1
+2
+
+3
+4
+
+15
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+• Help line managers to understand and better support those
+experiencing stress and mental health issues.
+Our guide on supporting mental health at work gives best practice
+advice on promoting good mental health across the whole lifecycle of
+employment, from recruitment, through managing mental health at
+work, to supporting people returning to work after a period of absence.
+
+How are practitioners developing their skills and capability?
+For the majority of our APAC sample, improving their skills has been a focus,
+with 77% on average saying that they have upskilled within the last 12 months.
+Hong Kong respondents were most likely to say this (85%). Upskilling levels
+across the APAC region are significantly higher than in the UK and Ireland,
+where only 61% engaged in some form of upskilling.
+On average, just over one in 10 said they have needed to reskill in new or
+different areas of work. Additionally, only a small minority (11% on average)
+said they haven’t upskilled in the last 12 months, compared with 23% of the
+global average.
+Key areas of capability improvement include:
+• people data and analytics skills (especially in Malaysia and Singapore)
+• facilitating more flexible people operations (especially in Hong Kong), which
+supports the previous finding that exploring innovative, adaptive ways of
+working is a key priority for the workforce
+• building commercial knowledge (especially in Hong Kong)
+• automating HR work (especially in Singapore and Australia)
+• critical thinking skills (especially in Singapore) and understanding research
+to inform decision-making (especially in Australia); as both of these
+capability areas are core skills for evidence-based practice, it’s encouraging
+to see this feature as a priority area.
+
+1
+2
+
+3
+4
+16
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+Figure 8: Building specialist expertise is a priority area for people professionals from Hong Kong,
+Malaysia and Australia
+Capability improvement areas across HR functions in APAC countries (% of respondents)
+22
+
+30
+
+Building specialist HR expertise
+
+36
+
+30
+
+Specialist
+HR capability
+
+Building better people analytics skills
+
+18
+
+Organisational development and
+change management skills
+
+18
+16
+
+21
+28
+
+13
+
+7
+
+Focusing on gaining investment and
+buy-in from business leaders
+
+15
+
+12
+12
+
+17
+
+14
+14
+
+Critical skills to inform decision-making
+13
+
+22
+27
+
+19
+
+16
+
+11
+
+Building commercial business
+knowledge
+
+19
+
+18
+17
+
+15
+
+Understanding the research evidence to
+inform decision-making
+
+27
+
+15
+
+13
+14
+
+Developing business leaders
+for the future
+
+17
+
+26
+
+13
+
+13
+
+Automating HR work
+
+30
+
+26
+
+21
+
+Challenging and/or influencing other
+areas of the business
+
+28
+
+24
+23
+
+Working collaboratively with colleagues
+throughout the organisation
+
+Critical
+business
+skills
+
+22
+
+17
+
+Supporting line managers in their
+people management
+
+Interacting
+with the
+business
+
+27
+26
+
+Reorganising
+work
+
+26
+17
+
+22
+25
+26
+
+Facilitating more flexible people
+operations across the business
+
+32
+
+19
+
+0
+
+5
+
+Singapore
+
+10
+
+15
+
+Malaysia
+
+20
+
+25
+
+30
+
+Hong Kong
+
+35
+
+40
+Australia
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204). Excludes ‘not applicable’, ‘don’t know’ and
+‘other’ responses.
+Question: In your opinion, which of the following, if any, are priority areas for improvement across the HR capability in your [client]
+organisation? (Please tick up to three responses.)
+
+1
+2
+
+3
+4
+17
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+How do people professionals feel about their career prospects and
+progression?
+On average, 78% of APAC people professionals felt their career progression
+had either met or exceeded their expectations. This was especially so for
+Australian respondents (86%), the highest in our global sample.
+While other research (on the wider workforce) suggests that over a third of
+Singapore employees expect to be promoted in the next year,8 we found a
+fifth of respondents felt their progression had failed to meet their expectations
+(19%). They were the least satisfied across the global sample.
+In terms of aspects that support career progression, skills development
+remains firmly at the top (see Figure 9) and is reported as a key enabler by
+three-quarters of Malaysian respondents. Compared with the global sample,
+career sponsorship was more often cited across the APAC respondents, except
+for Singapore professionals. Similarly, mentors are also a key enabler for
+respondents from Hong Kong and Australia.
+Figure 9: Skills development is seen as the top career enabler, especially in Malaysia
+Career enablers that support progression in HR (% of respondents)
+57
+59
+
+Skills development
+
+75
+
+56
+43
+Personal network
+32
+
+48
+47
+48
+
+Professional
+qualifications/certifications
+
+48
+
+40
+
+51
+
+57
+54
+55
+53
+
+Support from manager
+
+Career sponsorship from a more
+senior colleague in the organisation
+
+34
+
+17
+
+Mentors
+10
+
+Australia
+
+20
+
+30
+
+Hong Kong
+
+47
+
+38
+39
+
+31
+
+25
+0
+
+44
+
+40
+Malaysia
+
+50
+
+60
+
+70
+
+80
+
+Singapore
+
+Base: Australia (n=174); Hong Kong (n=122); Malaysia (n=186); Singapore (n=151) (all whose career progression has met/exceeded
+their expectations).
+Question: If your career progression to date has met or exceeded your expectations, which of the following, if any, have helped
+you to achieve career advancement? (Please tick all that apply.)
+
+In terms of barriers to progression, we found this varied widely across the
+APAC region. The most prevalent barriers in-region are as follows:
+• Hong Kong: line manager relationships (28%).
+
+1
+2
+
+3
+4
+
+18
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+• Malaysia: organisational politics (18%). Interestingly, around half of the
+respondents said they are very likely or somewhat likely to leave their
+current organisation within the next 12 months and 70% will start looking
+for new opportunities.
+• Singapore: a lack of opportunities with their current employer (20%), higher
+than the global average of 14%. This contributes insight to the previous
+finding around the higher levels of dissatisfaction with career progression.
+Additionally, around half the sample said they are very likely, or somewhat
+likely, to leave their current organisation within the next 12 months and 59%
+will start to look for new opportunities externally.
+• Australia: a lack of experience (21%), significantly higher than the global
+average of 6%.
+Barriers to career progression are very nuanced across the APAC region,
+and these findings provide some insight to the perceived hurdles for people
+professionals in those countries. For Malaysia and Singapore, we also found a
+significant proportion of respondents who are at flight risk (that is, at a high
+risk of leaving their current organisation in the near future).
+
+Recommendations
+Line manager quality can have a big impact on the people they manage.
+Given the significant flight risk of people professionals in certain regions,
+HR leaders should:
+• Emphasise the importance of ongoing performance and development
+conversations to staff. For those with line management responsibility,
+build performance metrics into their objectives, so they are recognised
+for prioritising performance and the development of their staff.
+• Ensure professionals with line management responsibility feel
+confident to have performance and development conversations with
+their direct reports. Where line managers need more support, consider
+training options and providing clear information to encourage goodquality development conversations with their team. The CIPD’s latest
+evidence review on effective people managers provides evidencebased insight on developing good managers.
+• Find creative solutions to strengthen the employee experience,
+especially if cost pressures mean that it is hard to compete against
+external remuneration offers. This could include boosting career
+development and skills through job rotations and secondments, and
+upskilling practitioners through online learning, on-the-job training and
+by supporting professional qualifications and certification (see the CIPD
+HR talent trends report, based on insights of people professionals in
+Singapore, Malaysia and Brunei, for further advice).
+
+1
+2
+
+3
+4
+19
+
+Asia-Pacific findings
+
+People Profession 2023: Asia-Pacific survey report
+
+For more detailed analysis on how the Asia-Pacific region compares with
+the overall global sample, see our accompanying People Profession 2023:
+International survey report.
+For analysis of trends in other regions, see our accompanying Middle
+East and North Africa, UK and Ireland, and Canada reports.
+
+Asia-Pacific countries: Sample demographics
+How would you best describe your gender? (%)
+Australia
+
+Hong Kong
+
+41
+
+Malaysia
+
+79
+
+Singapore
+
+59
+
+49
+
+21
+
+41
+
+59
+
+51
+
+Female
+
+Male
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+What is your current age?
+
+59%
+
+Australia
+
+Hong Kong
+
+Malaysia
+
+52%
+
+49%
+39%
+
+17%
+18–34 35–44
+
+Singapore
+
+30%
+
+24%
+
+22%
+
+28%
+
+35% 37%
+
+9%
+45+
+
+18–34 35–44
+
+45+
+
+18–34 35–44
+
+45+
+
+18–34 35–44
+
+45+
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+How many years of work experience do you have in the HR/people profession? (%)
+Australia
+
+Hong Kong
+
+Malaysia
+
+6
+
+10
+
+13
+
+69
+
+33
+
+Singapore
+15
+
+40
+
+41
+
+26
+
+1
+43
+
+47
+
+56
+
+0–5 years
+
+6–15 years
+
+3
+
+16+ years
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+20
+
+4
+
+Approximately how many people are employed by your company/employer
+in the country you live in? Asia-Pacific findings
+Australia
+
+Hong Kong
+
+2
+
+Malaysia
+
+Singapore
+
+26
+
+People Profession 2023: Asia-Pacific survey report
+
+43
+
+47
+
+56
+
+16+ years
+
+6–15 years
+
+0–5 years
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+Approximately how many people are employed by your company/employer
+in the country you live in?
+Hong Kong
+
+Australia
+
+Malaysia
+
+69%
+
+56%
+
+46%
+20%
+Fewer 250+
+than 250
+
+Don’t
+know
+
+25%
+
+Fewer 250+
+than 250
+
+Don’t
+know
+
+44%
+
+39%
+
+36%
+18%
+
+11%
+
+Singapore
+
+19%
+
+Fewer 250+
+than 250
+
+17%
+
+Don’t
+know
+
+Fewer 250+
+than 250
+
+Don’t
+know
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+What kind of organisation do you work for? (%)
+Australia
+
+Hong Kong
+
+28
+
+9
+
+6
+
+Malaysia
+
+Singapore
+
+27 3
+
+23
+
+6
+
+85
+
+22
+
+72
+
+70
+
+50
+
+Third/voluntary sector
+
+Public sector
+
+Private sector
+
+Base: Australia (n=157); Hong Kong (n= 131); Malaysia (n=233); Singapore (n=193). Excludes “don’t know”,
+“not applicable” and “other” responses.
+
+Which, if any, of the following areas reflect your role, decision-making or the
+services you provide? (Please tick one option on each row.)
+Australia
+
+Hong Kong
+
+Malaysia
+
+90%
+
+85%
+
+80%
+
+Singapore
+
+62%
+22%
+
+15%
+
+15%
+
+8%
+
+7%
+
+5%
+
+5%
+
+5%
+
+An in-house professional employed by and working in one organisation
+An independent/self-employed professional working as an external
+consultant for one client organisation or more
+A professional who works both in-house and independently
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+1
+
+In which of the following industries do you work? (%)
+(Top 10 industries represented in this survey.)
+Australia
+
+4
+
+3
+
+Hong Kong
+
+Malaysia
+
+9 1
+
+6
+
+9 3
+
+15
+
+5
+
+21
+
+20
+27
+
+7
+
+9
+
+11
+
+2
+
+5
+
+5
+
+4
+
+15
+
+19
+
+11
+
+12
+5
+
+3
+
+8
+
+12
+
+Asia-Pacific findings
+
+5
+8
+
+10
+
+6
+
+6
+
+6
+
+2
+
+Singapore
+
+6
+
+6
+
+5
+
+16
+
+3
+11
+7
+
+3
+7
+
+8
+
+15%
+
+15%
+
+8%
+
+7%
+
+5%
+
+5%
+
+5%
+
+An in-house professional employed by and working in one organisation
+
+People Profession 2023: Asia-Pacific survey report
+
+An independent/self-employed professional working as an external
+consultant for one client organisation or more
+A professional who works both in-house and independently
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+In which of the following industries do you work? (%)
+(Top 10 industries represented in this survey.)
+Australia
+
+Malaysia
+
+9 1
+
+6
+
+3
+
+4
+
+Hong Kong
+
+9 3
+
+15
+
+5
+
+Singapore
+10
+
+6
+
+6
+20
+
+6
+
+15
+
+19
+
+5
+8
+9
+
+2
+
+11
+
+11
+
+12
+
+5
+
+5
+
+5
+
+Finance, insurance or real estate
+Education
+Government, public
+administration or military
+
+6
+
+6
+
+16
+
+3
+11
+
+27
+
+7
+
+8
+
+12
+
+5
+
+3
+
+7
+
+Health care, pharmaceutical and
+emergency services
+Construction
+
+Retail trade
+
+Manufacturing
+
+Other
+
+8
+
+7
+
+Professional, scientific or
+technical services
+
+Administrative support and services
+Base: Australia (n=157); Hong Kong (n=131); Malaysia (n=233); Singapore (n=193).
+
+Please indicate which one of the HR/people profession areas listed most
+accurately reflects your decision-making responsibilities. (%)
+Australia
+
+5
+
+32
+
+1
+
+Hong Kong
+
+5
+6
+
+2
+
+Malaysia
+
+61
+
+7
+22
+
+25
+
+9
+
+25
+10
+
+11
+13
+
+4 2
+
+8
+
+16
+
+51
+
+14
+
+3
+
+9
+
+7
+
+Singapore
+
+9
+
+4
+9
+3
+
+12
+
+6
+
+22
+
+12
+10
+
+22
+
+17
+
+5
+
+12
+16
+
+10
+
+Reward and benefits
+
+Generalist HR (includes payroll
+and administrative duties)
+Recruitment and resourcing
+
+Learning and talent
+management
+HR information systems/
+people data and analytics
+HR business partner
+Organisational development,
+design and change
+
+6
+
+Equality, diversity and inclusion
+
+Employee relations and employee
+experience
+Health and wellbeing
+
+Other
+
+Base: Australia (n=202); Hong Kong (n=155); Malaysia (n=251); Singapore (n=204).
+
+What is the approximate ratio of HR/people department staff to employees in
+your organisation?
+Australia
+
+Hong Kong
+
+47%
+
+48%
+
+Malaysia
+
+Singapore
+
+37% 36%
+25%
+17%
+
+1:20 1:50
+or less
+
+36%
+
+27%
+
+27%
+
+20%
+
+17%
+
+11%
+
+1:100 Don’t
+or know
+more
+
+1:20 1:50
+or less
+
+1:100 Don’t
+or know
+more
+
+1:20 1:50
+or less
+
+1:100 Don’t
+or know
+more
+
+Base: Australia (n=157); Hong Kong (n=131); Malaysia (n=233); Singapore (n=193).
+
+22
+
+Asia-Pacific findings
+
+1
+11%
+
+9%
+
+5%
+
+26%
+
+1:20 1:50
+or less
+
+1:100 Don’t
+or know
+more
+
+2
+
+3
+4
+
+People Profession 2023: Asia-Pacific survey report
+
+3 Methodology
+
+The People Profession survey is a long-standing research programme that
+showcases the current views of people professionals’ working lives and
+careers. This survey has developed into an international snapshot of the
+profession and provides the latest insights on people practices across the
+globe. Our sample included CIPD members and non-members, and is a
+mix of in-house and independent professionals from a range of specialisms
+(including HR, learning and development (L&D), organisational development
+(OD) and others). Full demographic details of our Asia-Pacific sample can be
+found at the end of Section 2.
+
+Survey instrument and method
+Since 2018, the survey has been tested and refined, and what was originally
+a UK-based survey has become an international survey instrument that has
+now been piloted in over 14 countries through CIPD-led research, and in 20
+countries alongside our research partners: the WFPMA, SHRM and AHRI.
+This year, our data collection spans nine countries: Australia, Egypt, Hong
+Kong, Ireland, the Kingdom of Saudi Arabia, Malaysia, Singapore, the United
+Arab Emirates and the United Kingdom, with additional data from Canada,
+collected by the Chartered Professionals in Human Resources Canada (CPHR
+Canada). The findings are presented in a series of reports, including:
+• the People Profession 2023: International survey report, which explores the
+collective sample and makes comparisons across regions
+• this report, the People Profession 2023: Asia-Pacific survey report, which
+details the findings in Australia, Hong Kong, Malaysia and Singapore and
+draws on in-region comparisons
+• the People Profession 2023: Middle East and North Africa survey report,
+which details the findings in Egypt, the Kingdom of Saudi Arabia and the
+United Arab Emirates and draws on in-region comparisons
+• the People Profession 2023: UK and Ireland survey report, which details the
+findings in the United Kingdom and the Republic of Ireland and draws on
+comparisons between the two
+• the People Profession 2023: A Canadian perspective, which draws on
+data and analysis from a separate survey conducted by the Chartered
+Professionals in Human Resources Canada (CPHR Canada), and gives a
+comparable view of the opportunities and challenges faced by people
+professionals in Canada.
+Commissioned by the CIPD, the data was collected by YouGov between
+18 April and 27 May 2023 via an online survey. The survey was translated
+into the official language of each country to ensure the questions
+were accessible and correctly interpreted within each region. The data
+analysis was conducted by the CIPD. We surveyed a total of 2,957 people
+professionals; the sample sizes for each region are shown in Table 3.
+
+1
+2
+
+3
+4
+
+23
+
+Methodology
+
+People Profession 2023: Asia-Pacific survey report
+
+The data is unweighted and therefore the sample of respondents is not
+representative of the total HR population within those regions. However,
+this data represents the perspectives of the 2,957 people professionals who
+participated in this survey.
+Table 3: Sample sizes of the countries surveyed in this report
+Country
+
+Sample size
+
+Australia
+
+202
+
+Egypt
+
+154
+
+Hong Kong
+
+155
+
+Ireland
+
+164
+
+Kingdom of Saudi Arabia
+
+158
+
+Malaysia
+
+251
+
+Singapore
+
+204
+
+United Arab Emirates
+
+213
+
+United Kingdom
+
+1,456
+
+The details of the CPHR Canada survey are included in the Canada report.
+This data has been analysed and written by CPHR Canada.
+
+Survey questions
+Each year, the survey instrument is reviewed and refined where changes are
+appropriate, or where there are new research questions to be explored. For the
+2023 survey, we added new questions that explore attitudes and behaviours
+around applying evidence and research in practice and people teams’
+involvement in their organisation’s sustainability agenda. The findings from
+these questions can be found in the People Profession 2023: International
+survey report.
+Where sample sizes are large enough, the data was cross-tabulated by
+business size and sector. We also explore other demographic variables such
+as age and experience within the profession throughout the reports, where
+significant differences are noted. Where we compare with the global sample,
+given the larger UK sample in comparison with other regions, the global
+average percentages will be skewed towards the UK findings.
+
+Supplementary data
+We have included qualitative data collected throughout the survey and
+through the CIPD’s research panel to provide some further context on the
+quantitative data. We would like to thank those participants who contributed
+their views and experience in relation to the key findings from the survey.
+If you are interested in being part of the CIPD’s research panel, please email
+customerresearch@cipd.co.uk
+
+1
+2
+
+3
+4
+24
+
+Methodology
+
+People Profession 2023: Asia-Pacific survey report
+
+4 Endnotes
+1
+
+Liew, S. (2023) Australia to raise minimum wage by 5.75% from July. HRM
+Asia. 5 June.
+
+2
+
+Tan, J. (2023) APAC led strong global hiring trends in 2022. HRM Asia.
+20 February.
+
+3
+
+AHRI. (2023) AHRI quarterly Australian work outlook: June quarter 2023.
+Australian HR Institute.
+
+4
+
+PERSOLKELLY. (2022) Building agility with a contingent workforce: Workforce
+insights report. March. PERSOLKELLY.
+
+5
+
+Herbert, C., Dorsey, M. and Quaadgras, T. (2023) Global study: HR executives
+and XM. Qualtrics XM Institute.
+
+6
+
+Richardson, N. and Antonello, M. (2023) People at work 2023: A global
+workforce view. ADP Research Institute.
+
+7
+
+Ibid.
+
+8
+
+Ibid.
+
+1
+2
+
+3
+4
+25
+
+Endnotes
+
+The Chartered Institute of Personnel and Development
+151 The Broadway London SW19 1JQ United Kingdom
+T +44 (0)20 8612 6200 F +44 (0)20 8612 6201
+E cipd@cipd.co.uk W cipd.org
+Incorporated by Royal Charter
+Registered as a charity in England and Wales (1079797)
+and Scotland (SC045154).
+Issued: October 2023 Reference: 8461 © CIPD 2023
+
+

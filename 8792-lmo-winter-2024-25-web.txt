@@ -1,0 +1,3922 @@
+LABOUR MARKET
+
+OUTLOOK
+VIEWS FROM EMPLOYERS
+
+Winter 2024–25
+
+The CIPD has been championing better work and
+working lives for over 100 years. It helps organisations
+thrive by focusing on their people, supporting our
+economies and societies. It’s the professional body for
+HR, L&D, OD and all people professionals – experts in
+people, work and change. With over 160,000 members
+globally – and a growing community using its research,
+insights and learning – it gives trusted advice and offers
+independent thought leadership. It’s a leading voice in
+the call for good work that creates value for everyone.
+
+Report
+
+Labour Market Outlook
+Winter 2024–25
+
+Contents
+
+1
+
+1
+
+Foreword from the CIPD
+
+2
+
+2
+
+Key points
+
+3
+
+3
+
+Recruitment and redundancy outlook
+
+4
+
+4
+
+Job vacancies
+
+15
+
+5
+
+Pay outlook
+
+18
+
+6
+
+Recommendations for employers and people practitioners
+
+19
+
+7
+
+Survey method
+
+19
+
+8
+
+Appendix 1
+
+21
+
+Labour Market Outlook Winter 2024–25
+
+1 Foreword from the CIPD
+The quarterly CIPD Labour Market Outlook (LMO) provides an early indication of
+future changes to the labour market around recruitment, redundancy and pay
+intentions. The findings are based on a survey of more than 2,000 employers.
+Employer confidence, signified by the net employment balance, is at its lowest on
+record outside of the pandemic. It had its second largest quarter-on-quarter fall since
+we began collecting this metric in 2014, the largest being the onset of the pandemic.
+It fell across all sectors and, apart from in 2020, is at its lowest level in the private
+sector on record.
+The change in the net employment balance is being driven by the rise in employers
+who expect a decrease in their total staff levels in the next three months. Last quarter
+11% of employers were expecting a decrease, but this figure now stands at 16%. One
+in four (25%) employers are planning to make redundancies in the three months to
+March 2025, another record high outside of 2020.
+Between quarters we have seen a major fiscal event, the Autumn Budget 2024.
+Two-fifths of employers believe changes to National Insurance (NI), announced by
+Chancellor Rachel Reeves, will increase their employment costs to a large extent.
+These tax hikes, to fund increases in spending in public services, are likely to
+have inflationary and employment effects, echoed by the recent Bank of England
+Monetary Policy Report. Forty-two per cent of employers in our survey plan to raise
+prices because of these increased employment costs, with 68% of retailers and
+59% of employers in hospitality opting for this response. The impact on hiring can
+be seen by the third of employers who plan to reduce the number of employees
+through redundancies and/or recruiting fewer workers, because of these increased
+employment costs. Employers also plan to reduce the amount of overtime/bonuses
+and reduce the hours worked by staff.
+Troublingly, one in four employers expect to cancel or scale down plans for investing
+in or expanding their business. This is particularly pertinent among private sector
+SMEs. One in five organisations also plan to cut back on training expenditure. Lack
+of investment in business goes against the UK Government’s
+growth agenda, and low investment in people and skills is
+likely to have longer-lasting impacts, creating skills gaps
+and making the UK a less attractive place to invest. Our data
+suggests, however, that the investment in public services may
+ease recruitment and retention difficulties in the longer term.
+Read on for our latest labour market data and analysis on
+employers’ recruitment, redundancy and pay intentions this
+winter.
+
+1
+2
+3
+4
+5
+
+James Cockett, CIPD
+Senior Labour Market
+Economist
+
+6
+7
+
+8
+
+2
+
+Foreword from the CIPD
+
+Labour Market Outlook Winter 2024–25
+
+2 Key points
+
+• The net employment balance suffered
+the heaviest fall on record outside of the
+pandemic – from +21 last quarter to +13 this
+quarter. This measures the difference between
+employers expecting there will be an increase
+in staff levels and those expecting there will be
+a decrease in the next three months.
+
+• The net employment balance fell sharply in
+the private sector from +24 last quarter to +16
+this quarter. Apart from in 2020, this is the
+lowest net employment balance in the private
+sector since the time series began in 2014.
+
++22
+
++19
+
++18
+
++21
++13
+
+Winter
+2023/24
+
+Spring
+2024
+
+Summer
+2024
+
+Autumn
+2024
+
+Winter
+2024/25
+
+Net employment balance
+
+Private sector confidence plummets
+
+• One in four (25%) employers are planning to
+make redundancies in the next three months.
+This is the highest level recorded in a decade,
+with the exception of the pandemic.
+One in four plan redundancies
+
+• Many employers believe measures in the
+Budget will be costly for them – two in five
+employers believe the increase in the rate of
+National Insurance contributions (NICs), and
+the reduction in the ‘secondary threshold’,
+will increase their employment costs to a
+large extent.
+
+Costs
+
+Employment cost spike expected by many
+
+• In response to increased employment
+costs, 42% of employers who report their
+organisation will be impacted plan to raise
+prices. A third (32%) of employers plan to
+reduce the number of employees through
+redundancies and/or recruiting fewer
+workers.
+
+1
+2
+Price increases and redundancies planned
+
+3
+4
+
+• The median expected basic pay increase
+remains at 3%. Expected pay awards in the next
+12 months are also stable in the private and
+voluntary sectors (both at 3%) but have fallen
+in the public sector from 4% to 2.5%.
+
+5
+
+£
+
+3%
+
+Median basic pay increase remains at 3%
+
+6
+7
+
+8
+
+3
+
+Key points
+
+Labour Market Outlook Winter 2024–25
+
+3 Recruitment and
+
+redundancy outlook
+The net employment balance – the difference between employers expecting there
+will be an increase in staff levels and those expecting there will be a decrease in staff
+levels in the next three months – has fallen from +21 last quarter to +13 this quarter.
+This represents the largest quarterly fall in over a decade outside of the pandemic.
+Since the previous quarter we have had the Autumn Budget 2024. This major fiscal
+event has had a notable impact on employer confidence.
+Despite the proposed £70bn a year injection into the public sector, the net
+employment balance remains low at +3. While employment intentions are lowest in
+the public sector, they have fallen sharply in the private sector from +24 last quarter
+to +16 this quarter. This too was the lowest on record, with the exception of the
+pandemic. This sharp fall was also evident in the voluntary sector, which fell from +21
+last quarter to +6 this quarter.
+
+Net employment balance suffers largest fall outside of the pandemic
+Figure 1: Net employment balance, by broad sector
+45
+
+35
+
+Net employment balance
+
+25
+
+15
+
+16
+13
+
+5
+
+6
+3
+
+0
+
+1
+
+–5
+Total
+Public sector
+Private sector
+Voluntary sector
+
+–15
+
+–25
+
+2
+3
+4
+5
+
+Sp
+Su rin
+m g
+Au me 201
+W tum r 20 4
+in n 1
+te 2 4
+r
+0
+Sp 20 14
+Su rin 14/
+m g 15
+Au me 201
+W tum r 20 5
+in n 1
+te 2 5
+r
+0
+Sp 20 15
+Su rin 15/
+m g 16
+Au me 201
+W tum r 20 6
+in n 1
+te 2 6
+r
+0
+Sp 20 16
+Su rin 16/
+m g 17
+Au me 201
+W tum r 20 7
+in n 1
+te 2 7
+r
+0
+Sp 20 17
+Su rin 17/
+m g 18
+Au me 201
+W tum r 20 8
+in n 1
+te 2 8
+r
+0
+Sp 20 18
+Su rin 18/
+m g 19
+Au me 201
+W tum r 2 9
+0
+in
+te n 19
+r 20
+Sp 201 19
+Su rin 9/
+m g 20
+Au me 202
+W tum r 20 0
+in n 2
+te 2 0
+r
+0
+Sp 202 20
+Su rin 0/
+m g 21
+Au me 202
+W tumr 2 1
+in n 02
+te 2 1
+r
+0
+Sp 202 21
+Su rin 1/
+m g 22
+Au me 202
+W tum r 2 2
+in n 02
+te 2 2
+r
+0
+Sp 202 22
+Su rin 2/
+m g 23
+2
+Au me 02
+W tum r 2 3
+in n 02
+te 2 3
+r
+0
+Sp 202 23
+Su rin 3/
+m g 24
+Au me 202
+W tu r 2 4
+in mn 02
+te
+4
+r 2 20
+02 24
+4/
+25
+
+–35
+
+Quarter
+
+6
+7
+
+Base: winter 2024/25, all employers (total: n=2,019; private: n=1,509; public: n=360; voluntary: n=150).
+
+8
+
+4
+
+Recruitment and redundancy outlook
+
+Labour Market Outlook Winter 2024–25
+
+There is a rise in employers who expect a decrease in their total staff levels in the
+next three months. Last quarter 11% of employers expected a decrease, but this figure
+now stands at 16%. There has also been a fall in employers who expect an increase
+in staff levels, from 32% to 29%. Half of all employers believe their staff levels will be
+maintained in the next three months (Figure 2).
+
+Rate of employers expecting a decrease in staff levels rises
+Figure 2: Composition of employment intentions (%)
+100
+
+5
+
+6
+
+6
+
+6
+
+7
+
+7
+
+6
+
+4
+
+4
+
+5
+
+5
+
+4
+
+5
+
+5
+
+41
+
+39
+
+38
+
+37
+
+36
+
+35
+
+47
+
+51
+
+51
+
+52
+
+46
+
+49
+
+10
+
+10
+
+10
+
+8
+
+9
+
+10
+
+5
+
+5
+
+5
+
+5
+
+30
+
+31
+
+32
+
+29
+
+55
+
+51
+
+52
+
+50
+
+11
+
+12
+
+11
+
+24
+
+80
+
+27
+
+36
+
+40
+
+43
+
+43
+
+42
+
+33
+
+70
+60
+50
+
+44
+
+40
+
+50
+50
+
+30
+
+46
+
+45
+
+47
+
+46
+
+8
+
+6
+
+6
+
+6
+
+47
+
+20
+
+25
+02
+
+4/
+
+20
+n
+
+r2
+
+m
+W
+
+in
+
+te
+
+tu
+Au
+
+16
+
+24
+
+24
+20
+
+24
+er
+
+20
+Su
+
+m
+
+m
+
+g
+
+3/
+
+rin
+Sp
+
+02
+r2
+
+W
+
+in
+
+te
+
+tu
+Au
+
+24
+
+23
+20
+
+23
+m
+
+n
+
+20
+
+23
+er
+
+Su
+
+m
+
+m
+
+g
+rin
+Sp
+
+te
+W
+
+in
+
+20
+
+23
+2/
+02
+
+r2
+
+n
+m
+tu
+
+Au
+
+m
+
+m
+
+er
+
+g
+
+20
+
+20
+
+22
+
+22
+
+7
+
+22
+20
+
+1/
+
+rin
+Sp
+
+Su
+
+21
+W
+
+in
+
+te
+
+tu
+
+m
+
+r2
+
+n
+
+20
+
+20
+
+21
+Su
+
+m
+
+m
+
+er
+
+20
+
+21
+g
+
+0/
+
+rin
+Sp
+
+02
+
+te
+in
+W
+
+Au
+
+tu
+
+m
+
+r2
+
+n
+
+20
+
+20
+
+0
+
+21
+
+9
+
+02
+
+15
+
+22
+
+25
+
+10
+
+Au
+
+Composition of employment intentions
+
+90
+
+Quarter
+Decrease total staff level
+
+Maintain total staff level
+
+Increase total staff level
+
+Don’t know
+
+Base: winter 2024/25, all employers (total: n=2,019).
+
+Figure 3 shows that for all types of employer, the proportion expecting a decrease in
+staff levels has risen, most notably among SMEs and large private sector employers.
+Last quarter, just 7% of SMEs said they expected a decrease in their staff levels over
+the next three months. This has almost doubled to 13% this quarter. For large private
+sector employers, that proportion rose from 12% last quarter to 17% this quarter. One
+in five (20%) public sector employers expect a decrease in staff levels over the next
+three months, the highest of all types of employer. Notably the proportion of SMEs
+who expect an increase in staff levels has also fallen, from 28% to 24%.
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+5
+
+Recruitment and redundancy outlook
+
+Labour Market Outlook Winter 2024–25
+
+All employer types expect a decrease in staff levels at a higher rate
+Figure 3: Composition of employment intentions, by employer type (%)
+100
+
+8
+
+7
+
+23
+
+23
+
+6
+
+5
+
+4
+
+3
+
+40
+
+39
+
+Composition of employment intentions
+
+90
+80
+
+28
+
+24
+
+70
+60
+50
+40
+
+51
+
+50
+60
+
+58
+44
+
+30
+
+41
+Don’t know
+
+20
+10
+0
+
+Decrease total staff level
+17
+
+20
+7
+
+Autumn
+2024
+
+Winter
+2024/25
+
+All public sector
+
+Autumn
+2024
+
+13
+
+12
+
+Winter
+2024/25
+
+Autumn
+2024
+
+Private sector
+SME (2–249)
+
+17
+
+Maintain total staff level
+Increase total staff level
+
+Winter
+2024/25
+
+Private sector
+large (250+)
+
+Sector and employment size
+Base: winter 2024/25 (public sector: n=360; private sector SME: n=996; private sector large (250+): n=513).
+
+The net employment balance has fallen in a number of industries this quarter, with
+the retail sector hardest hit.
+Each of the following industries suffered a significant fall in the net employment balance,
+driven by a rise in the proportion of employers who believe their staff levels will decrease:
+• retail: +23 to +1
+• arts, entertainment and recreation: +10 to +2
+• hotels, catering and restaurants (hospitality): +18 to +7
+• transport and storage: +28 to +11
+• administrative and support service activities and other service activities: +29 to +15
+• primary and utilities: +37 to +22
+• construction: +43 to +27.
+Last quarter, just 1% of employers in construction believed their staff levels would
+decrease in the next three months. Despite the UK Government outlining largescale housing and infrastructure plans in the last quarter, one in 10 employers in
+construction now believe there will be a fall in staff levels over the coming period.
+As per previous quarters, the net employment balance remains below zero (−4)
+among public administration and other public sector employers. There is a low net
+employment balance in both education categories. It is +4 among employers in
+compulsory education, which includes primary and secondary education, and 0
+among non-compulsory education, which includes vocational and higher education
+institutions. This means the same proportion of employers believe their staff levels
+will increase as believe levels will decrease in the next three months.
+
+6
+
+Recruitment and redundancy outlook
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+Net employment balance falls in a number of industries
+Figure 4: Net employment balance, by industry
+33
+31
+
+Healthcare and social work
+Legal, accounting, consultancy
+and activities of head offices
+
+23
+
+Industry
+
+Construction
+
+27
+43
+
+27
+
+Information and communication
+
+22
+
+Other professional, scientific
+and technical activities
+
+23
+
+Primary and utilities
+
+22
+
+Finance and insurance
+
+14
+
+Administrative and support
+service activities and other
+service activities
+
+15
+
+Wholesale, retail and real estate
+
+15
+
+Manufacturing
+
+11
+
+Transport and storage
+
+29
+26
+
+28
+16
+18
+
+7
+
+Compulsory education
+(including pre-primary)
+
+3
+
+Arts, entertainment and
+recreation
+
+2
+
+Retail
+
+1
+
+Non-compulsory education
+
+37
+
+15
+
+7
+
+Hotels, catering and restaurants
+
+28
+
+16
+
+11
+
+Voluntary
+
+26
+
+4
+10
+23
+7
+
+0
+
+Autumn 2024
+Winter 2024/25
+
+Public administration and other –7
+–4
+public sector
+–10
+
+–5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Net employment score
+Base: Industries with base sizes of less than 50 have been excluded. For a breakdown of base sizes, see Table 3.
+
+Recruitment
+Sixty-four per cent of employers plan to recruit in the next three months, down
+from 67% in the previous quarter. Recruitment intentions have fallen across all
+sectors. They remain highest in the public sector at 76%. Sixty-one per cent of
+employers in the private sector plan to recruit in the next three months, down from
+65% in the previous quarter (Figure 5).
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+7
+
+Recruitment and redundancy outlook
+
+Labour Market Outlook Winter 2024–25
+
+Recruitment intentions fall across all sectors
+Figure 5: Recruitment intentions, by broad sector (%)
+
+% of employers planning to recruit in the next three months
+
+90
+
+80
+76
+70
+64
+61
+61
+
+60
+
+50
+Total
+Public sector
+Private sector
+Voluntary sector
+
+40
+
+Au
+W tum
+in n
+te 2
+r 2 01
+Sp 01 6
+6
+Su rin /17
+m g2
+m
+Au e 017
+r
+W tum 201
+in n 7
+te 2
+r 2 01
+Sp 01 7
+Su rin 7/18
+m g2
+Au me 018
+r
+W tum 201
+in n 8
+te 2
+r 2 01
+Sp 01 8
+8
+Su rin /19
+m g2
+m
+Au e 019
+r
+W tum 20
+1
+in
+te n 2 9
+r 2 01
+Sp 01 9
+9
+Su rin /2
+m g2 0
+m
+Au e 020
+r
+W tum 202
+in n 0
+te 2
+r 2 02
+Sp 02 0
+0
+Su rin /2
+m g2 1
+m
+Au e 021
+r
+W tum 20
+in n 21
+te 2
+r 2 02
+Sp 02 1
+Su rin 1/2
+m g2 2
+Au me 022
+r
+W tum 20
+in n 22
+te 2
+r 2 02
+Sp 02 2
+2
+Su rin /2
+m g2 3
+m
+Au e 023
+r
+W tum 20
+in n 23
+te 2
+r 2 02
+Sp 02 3
+Su rin 3/2
+m g2 4
+Au me 024
+tu r 2
+Au mn 024
+W tum 20
+in n 24
+te 2
+r 2 02
+02 4
+4/
+25
+
+30
+
+Quarter
+Base: winter 2024/25, all employers (total: n=2,019; private: n=1,509; public: n=360; voluntary: n=150).
+
+Redundancies
+Overall, a quarter of employers plan to make redundancies in the three months to
+March 2025 (see Figure 6). This is a significant increase from 21% last quarter and is
+the highest level recorded in a decade, with the exception of the pandemic. It rose
+sharply in the private sector from 22% last quarter to 27% this quarter – the highest
+of all sectors. It also rose in the public sector, from 20% to 23%, and in the voluntary
+sector, from 14% to 20%.
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+8
+
+Recruitment and redundancy outlook
+
+Labour Market Outlook Winter 2024–25
+
+Redundancy intentions rise sharply
+Figure 6: Redundancy intentions, by broad sector (%)
+
+% planning redundancies in the next three months
+
+40
+
+35
+Total
+Public sector
+Private sector
+Voluntary sector
+
+30
+25
+
+27
+25
+23
+20
+
+20
+15
+
+10
+5
+
+Au
+t
+W um
+in n
+te 20
+r2 1
+Sp 01 6
+6
+Su ring /17
+m 2
+m 01
+Au er 7
+t
+2
+W um 01
+in n 7
+te 2
+r 2 01
+Sp 01 7
+7
+Su ring /18
+m 2
+m 01
+Au er 8
+t
+2
+W um 01
+in n 8
+te 2
+r 2 01
+Sp 01 8
+8
+Su ring /19
+m 2
+m 0
+Au er 19
+W tum 201
+in
+9
+te n 2
+r 2 01
+Sp 01 9
+9
+Su ring /20
+m 2
+m 02
+Au er 0
+t
+2
+W um 02
+in n 0
+te 2
+r 2 02
+Sp 020 0
+Su ring /21
+m 2
+m 0
+Au er 21
+W tum 202
+in n 1
+te 2
+r 2 02
+Sp 02 1
+1
+r
+Su ing /22
+m 2
+m 02
+Au er 2
+t
+W um 202
+in n 2
+te 2
+r 2 02
+Sp 02 2
+2
+Su ring /23
+m 2
+m 02
+Au er 3
+W tum 202
+in n 3
+te 2
+r 2 02
+Sp 02 3
+3
+Su ring /24
+m 2
+m 02
+Au er 4
+W tum 202
+in n 4
+te 2
+r 2 02
+02 4
+4/
+25
+
+0
+
+Quarter
+Base: winter 2024/25, all employers (total: n=2,019; private: n=1,509; public: n=360; voluntary: n=150).
+
+Autumn Budget 2024
+Much of the change in employment intentions detailed above can be attributed to
+the measures introduced in the Autumn Budget 2024 affecting employers, which
+are set to come into force in April this year. Changes to employer National Insurance
+Contributions (NICs) were announced, alongside changes to the National Living
+Wage (NLW) and business rates, among other measures.
+From April 2025, the employer rate of NICs will rise from 13.8% to 15%. The rate at
+which an employer has to pay NICs on employee earnings will also decrease from
+£9,100 to £5,000. This is what is known as the ‘secondary threshold’. Almost nine
+in 10 employers believe their employment costs will increase because of these two
+measures. Forty-three per cent of employers believe the increase in the rate of NICs
+will increase their employment costs to a large extent. Forty per cent of employers
+believe the reduction in the ‘secondary threshold’ will increase their employment
+costs to a large extent.
+As expected, there was also an announcement regarding an increase to the NLW.
+One in four (24%) employers believe their employment costs will increase to a large
+extent due to the rise in NLW to £12.21. In our autumn 2024 LMO, when the NLW
+was expected to rise to £12.10, 20% believed it would increase their employment
+costs to a large extent.
+Fifty-seven per cent of employers say their employment costs will increase due to
+the changes in business rates, with 18% of employers reporting this will be to a large
+
+9
+
+Recruitment and redundancy outlook
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+extent. This is higher among employers in transport and storage (35%), hospitality
+(34%) and retail (28%), with the latter two industries having their rate of relief reduced
+from 75% to 40% up to a maximum discount of £110,000 per business. Relief to these
+firms was introduced to mitigate the effect of the pandemic.
+
+Budget measures set to increase employment costs
+Figure 7: Impact of key Budget measures on employment costs (%)
+100
+
+4
+
+90
+80
+
+23
+
+6
+
+5
+
+7
+
+6
+14
+
+13
+
+70
+60
+
+26
+18
+
+32
+
+34
+
+50
+40
+
+15
+30
+24
+
+30
+20
+10
+0
+
+17
+
+Not at all
+
+43
+
+40
+24
+
+Don’t know
+
+To a small extent
+18
+
+To some extent
+To a large extent
+
+Increase in
+NLW to £12.21
+
+Change in
+secondary threshold
+
+Increase in
+NICs rate
+
+Changes to
+business rates
+
+Budget measure
+Source: CIPD Winter 2024/25 Labour Market Outlook
+Base: winter 2024/25, all employers (total: n=2,019).
+
+In addition, the eligibility threshold for employers to benefit from the Employment
+Allowance, which previously was set at £100,000, will be removed. Fifty-two per
+cent of small firms believe these measures will reduce their employment costs,
+but 5% say it will decrease them to a large extent. As stated in the Employment
+Allowance statistics, the vast majority of firms who benefit are micro employers (2–9
+employees).1 Among these micro firms, a third (33%) said these changes would not
+reduce their employment costs.
+
+1
+2
+3
+4
+5
+
+6
+7
+1 H
+ M Revenue & Customs. (2023) Employment Allowance take-up statistics: 2022 to 2023 tax year estimate. 27 June.
+GOV.UK.
+
+10
+
+Recruitment and redundancy outlook
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+Half of small firms expect Employment Allowance changes to decrease
+employment costs
+Figure 8: Impact of changes to Employment Allowance on employment costs, by firm size (%)
+All small firms
+(2–49 employees)
+
+5
+
+2 to 9 employees
+
+5
+
+10 to 49 employees
+
+5
+
+23
+
+24
+
+18
+
+25
+
+27
+
+0
+
+19
+
+33
+
+18
+
+23
+25
+
+To a large extent
+
+29
+
+To some extent
+
+24
+
+21
+
+50
+To a small extent
+
+75
+Not at all
+
+100
+Don’t know
+
+Base: winter 2024/25, all small firms (total: n=867; 2–9 employees: n=404; 10–49 employees: n=463).
+
+We regularly ask how employers will deal with increased employment costs due
+to the rises in the NLW. Commonly, employers in low-wage sectors opt for raising
+prices, absorbing higher costs through lower profits, increasing productivity (such as
+requiring staff to take on extra tasks) or employing fewer people.
+As a result of the Budget measures, 42% of employers who report their organisation
+will be impacted to some extent by additional employment costs plan to raise prices.
+In its initial forecast, the Office for Budget Responsibility (OBR) estimated that Budget
+policies will increase CPI inflation by 0.4 percentage points in 2025–26. In the tax
+year, it assumes firms pass on 60% of the higher costs to workers and consumers, via
+lower wages and higher prices, leaving 40% to be absorbed by the employer in lower
+post-tax profits. Our data suggests only 22% of employers plan to absorb the costs
+and take lower profits. The OBR plans to deliver revised forecasts for the UK economy
+on 26 March.
+The next most common response to increased employment costs (by 37% of
+employers) is planning to improve efficiency and raising productivity. The impact on
+hiring and labour demand because of these increased employment costs can be seen
+by the third (32%) of employers who plan to reduce the number of employees through
+redundancies and/or recruiting fewer workers . Employers also plan to reduce the
+amount of overtime/bonuses (23%) and reduce the hours worked by staff (14%).
+One in four (24%) employers expect to cancel or scale down plans for investing in
+or expanding their business. This is particularly pertinent among private sector SMEs
+(29%). Employers also plan to cut back on future employee costs by reducing the rate
+of basic pay growth (21%) and other aspects of the reward package (16%).
+As a result of the Budget, one in five (19%) firms plan to cut back on training
+expenditure, something which is evidenced to have positive productivity effects,
+particularly important in a time of skills shortages.
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+11
+
+Recruitment and redundancy outlook
+
+Labour Market Outlook Winter 2024–25
+
+Budget measures set to have inflationary and employment impacts
+Figure 9: Employers’ planned responses to increased employment costs due to the Budget (%)
+Raise prices
+
+42
+
+Improve efficiency/raise productivity
+
+37
+
+Reduce number of employees through redundancies
+and/or recruiting fewer workers
+Cancel/scale down plans for investing
+in/expanding the business
+
+32
+24
+
+Reduce the amount of overtime/bonuses
+
+23
+
+Take lower profits/absorb costs/accept
+higher overheads
+Reduce the rate of basic pay growth for the
+rest of the workforce
+
+22
+21
+
+Introduce or increase automation
+
+21
+
+Cut back on training expenditure
+Reduce other aspects of the reward package (such as
+paid breaks or premium pay rates and other benefits
+and perks eg free lunch)
+
+19
+16
+14
+
+Reduce hours worked by staff
+Recruit more apprentices
+
+11
+
+Hire more younger workers
+
+10
+
+Increase share of workforce on atypical employment
+contracts eg zero-hour contracts
+
+10
+
+Cut back on pension contributions
+
+6
+
+Not applicable – I do not anticipate that we will do
+anything to manage these additional employment costs
+
+6
+4
+
+Don’t know
+3
+
+Other (please specify)
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+Base: winter 2024/25, all firms who anticipate increased employment costs due to the Budget (total: n=1,869).
+
+Figure 9 disguises the responses that employers in different industries are planning
+to take. For example, over two-thirds of retailers (68%) and a large proportion of
+employers in construction and hospitality (61% and 59% respectively) plan to raise
+prices. As highlighted by the Bank of England, this is likely to have inflationary effects.
+Employers in construction (54%) and manufacturing (52%) plan to improve efficiency
+and raise productivity at the highest rate. Employers in retail (34%) and hospitality
+(33%), whose employment costs are set to disproportionately rise due to the changes
+announced, plan to improve efficiency and raise productivity at a rate closer to the
+average for all employers (37%). Three in 10 (29%) employers in retail and hospitality
+(34%) are planning to cancel or scale down plans for investing in or expanding the
+business as a result of these increased employment costs.
+Due to the higher rate of hard-to-fill vacancies (see Figure 12), employers in
+construction are less likely to be taking steps to reduce staff levels. Just 17% of
+employers plan to reduce the number of employees through redundancies and/
+or recruiting fewer workers in this industry, compared with 45% of employers in
+
+12
+
+Recruitment and redundancy outlook
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+hospitality. In addition, only 7% of employers in construction plan to reduce the
+number of hours worked by staff, compared with 46% of firms in hospitality.
+Instead, firms in construction (31%) and manufacturing (34%) plan to introduce or
+increase automation at a higher rate than average (21%). They also plan to recruit
+more apprentices (30% and 19% respectively).
+Public sector employers, such as those in compulsory education, are restricted in
+their ability to respond by raising prices and changing investment plans. Instead, a
+higher proportion plan to reduce the number of employees through redundancies
+and/or recruiting fewer workers (39%) and cutting back on training expenditure
+(32%). These responses are also more common in other types of education, including
+higher education. Firms who could utilise recent advances in generative AI to
+introduce or increase automation, for example those in compulsory education, do
+not plan to do so at a notable rate (9%).
+See Appendix 1 for the full set of responses by industry.
+Retailers likely to increase prices, hospitality likely to reduce hours worked by staff
+Figure 10: Employers’ planned responses to increased employment costs due to the Budget, by
+selected industries (%)
+
+80
+
+70
+
+68
+
+61
+
+59
+
+60
+
+55
+52
+
+54
+
+50
+46
+
+45
+42
+
+40
+
+39
+
+39
+
+37
+
+34
+
+34 33
+
+32
+
+30
+
+32
+
+31
+
+30
+
+30
+
+2929
+27
+24
+
+24
+22
+
+20
+
+19
+
+21
+
+19
+
+19
+
+17
+
+16
+
+14
+11 11
+
+10
+
+15
+
+14
+
+11 11
+
+12
+
+11
+9
+
+1
+
+14
+
+14
+8
+
+2
+
+5
+
+0
+
+1
+
+Raise prices
+
+Total
+
+Improve
+efficiency/raise
+productivity
+
+Retail
+
+Reduce
+Cancel/scale
+number of
+down plans
+employees
+for investing
+through
+in/expanding
+redundancies the business
+and/or recruiting
+fewer workers
+
+Hotels, catering and restaurants
+
+Introduce or
+increase
+automation
+
+Cut back on
+training
+expenditure
+
+Reduce hours
+worked
+by staff
+
+2
+
+Recruit
+more
+apprentices
+
+4
+5
+
+Manufacturing
+
+Construction
+
+Compulsory education (including pre-primary)
+Base: winter 2024/25, all firms who anticipate increased employment costs due to the Budget (total: n=1,869; retail: n=61; hotels,
+catering and restaurants: n=73; manufacturing: n=163; construction: n=138; compulsory education: n=159).
+
+13
+
+3
+
+Recruitment and redundancy outlook
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+The reason given for the increase in taxation was to allow the UK Government to
+invest in public services. The public sector is acutely aware of the recruitment and
+retention challenges it faces, and some of this funding is designed to ease these
+difficulties. Looking forward to the next three years, 58% of public sector employers
+believe this additional funding will help improve recruitment difficulties, with a similar
+proportion (56%) reporting it will help with retention difficulties. Seven per cent of
+public sector employers believe it will improve recruitment and retention difficulties
+to a large extent going forward.
+
+Recruitment and retention difficulties in public sector set to ease due to
+investment in public services
+Figure 11: Extent to which extra funding for public sector set to ease recruitment and retention
+difficulties over the next three years (%)
+
+Recruitment
+
+7
+
+28
+
+24
+
+27
+
+15
+
+Retention
+
+7
+
+26
+
+22
+
+29
+
+16
+
+0
+
+25
+
+Extra money from Budget will
+improve the following areas
+over the next three years
+
+50
+Proportion of employers
+To a large extent
+Not at all
+
+To some extent
+
+75
+
+100
+To a small extent
+
+Don’t know
+
+Base: winter 2024/25, all public sector employers (total: n=360).
+
+Further reading and practical guidance
+• CIPD | Investment in technology
+A practical guide on choosing the right technology for your business to
+enhance job quality and drive success.
+• CIPD | Redundancy
+Learn how to manage redundancies effectively in your organisation with a
+selection of practical resources and insights.
+• CIPD | Strategic workforce planning
+Explore our guidance for approaching workforce planning with practical
+frameworks and strategies.
+
+1
+2
+3
+
+• CIPD | Change management
+Embed change effectively with our interactive tools and actionable stages.
+
+4
+5
+
+6
+7
+
+8
+
+14
+
+Recruitment and redundancy outlook
+
+Labour Market Outlook Winter 2024–25
+
+4 Job vacancies
+Official data published in mid-January 2025 showed that overall vacancy levels have
+fallen each month for the past two and a half years.2 Figure 11 shows the proportion
+of employers with hard-to-fill vacancies has fallen slightly over this time period.
+Among the surveyed respondents, a third had hard-to-fill vacancies in the latest
+quarter. Hard-to-fill vacancies are significantly higher in the public sector (45%) than
+the private sector (31%).
+
+Employers continue to have hard-to-fill vacancies
+Figure 12: Employers with hard-to-fill vacancies (%)
+50
+
+Proportion of employers
+
+45
+40
+
+42
+
+44
+41
+38
+
+37
+
+37
+
+35
+
+36
+
+33
+
+30
+25
+20
+15
+10
+5
+0
+
+Spring Summer Autumn Winter Spring Summer Autumn Winter
+2023
+2023
+2023 2023/24 2024
+2024
+2024 2024/25
+Quarter
+
+Base: winter 2024/25, all employers (total: n=2,019).
+
+Figure 12 shows how prevalent hard-to-fill vacancies are across different industries.
+Half (49%) of employers in compulsory education and 46% of employers in
+construction currently have hard-to-fill vacancies. More than two-fifths of employers
+have hard-to-fill vacancies in other professional, scientific and technical activities
+(43%), transport and storage (42%) and in public administration and other public
+sector (41%).
+
+1
+2
+3
+
+4
+5
+
+6
+7
+2 Office for National Statistics. (2025) Vacancies and jobs in the UK: January 2025. 21 January. GOV.UK.
+
+15
+
+Job vacancies
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+Hard-to-fill vacancies exist across the economy
+Figure 13: Employers with hard-to-fill vacancies, by industry (%)
+49
+
+9 1
+
+Construction
+Other professional, scientific and
+technical activities
+
+45
+
+20
+
+43
+
+18
+
+1
+
+38
+
+Transport and storage
+
+42
+
+20
+
+0
+
+38
+
+Public administration and other public sector
+
+41
+
+Non-compulsory education
+
+40
+
+29
+
+0
+
+28
+
+Information and communication
+
+39
+
+31
+
+1
+
+30
+
+Manufacturing
+
+36
+
+21
+
+1
+
+42
+
+22
+
+3
+
+40
+
+Industry
+
+Compulsory education (including pre-primary)
+
+Healthcare and social work
+
+34
+31
+
+15
+
+Finance and insurance
+
+31
+
+20
+
+Wholesale, retail and real estate
+
+29
+
+26
+
+Voluntary
+
+27
+
+Primary and utilities
+
+27
+
+Hotels, catering and restaurants
+
+27
+
+Administrative and support service
+activities and other service activities
+
+26
+18
+
+Arts, entertainment and recreation
+
+17
+
+1
+
+33
+
+9 1
+
+Legal, accounting, consultancy
+and activities of head offices
+
+Retail
+
+41
+
+13
+
+3
+
+50
+3
+
+46
+1
+
+45
+
+3
+
+56
+
+32
+12
+
+49
+
+0
+
+1
+
+60
+
+19
+25
+
+40
+
+1
+
+54
+
+0
+
+32
+
+57
+2
+
+49
+
+Proportion of employers
+Hard-to-fill vacancies
+
+Yes
+
+No
+
+Don’t know
+
+N/A – no vacancies
+
+Base: Industries with base sizes of less than 50 have been excluded. For a breakdown of base sizes, see Table 3.
+
+Currently, 17% of employers are anticipating significant problems in filling vacancies
+in the next six months (see Figure 13).
+
+Some employers still anticipate significant problems in filling roles
+Figure 14: Expectation for vacancies in the next six months (%)
+
+1
+All employers
+
+17
+0
+
+Expectation
+for vacancies
+
+25
+
+38
+
+40
+
+50
+Proportion of employers
+
+75
+
+6
+
+Yes, we anticipate significant problems
+
+No, we do not anticipate any problems
+
+Yes, we anticipate minor problems
+
+Don’t know
+
+100
+
+3
+4
+5
+
+Base: winter 2024/25, all employers (total: n=2,019).
+
+Anticipated problems with hard-to-fill vacancies have remained higher in publicsector-dominated industries for the past couple of years. This quarter, 31% of
+employers in compulsory education and 26% in healthcare and social work are
+anticipating significant problems in filling vacancies in the next six months.
+
+16
+
+2
+
+Job vacancies
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+Problems in filling vacancies most prevalent in education
+Figure 15: Expectation for vacancies in the next six months, by industry (%)
+Compulsory education (including pre-primary)
+
+31
+
+Healthcare and social work
+
+26
+
+36
+
+31
+
+Non-compulsory education
+
+25
+
+38
+
+34
+
+Finance and insurance
+
+23
+
+Public administration and other public sector
+
+22
+
+Information and communication
+
+21
+
+44
+
+22
+
+34
+
+3
+7
+3
+
+38
+
+5
+24
+
+47
+32
+
+7
+
+44
+
+3
+
+20
+
+27
+
+20
+
+30
+
+43
+
+6
+
+Transport and storage
+
+17
+
+43
+
+36
+
+4
+
+Manufacturing
+
+16
+
+41
+
+39
+
+4
+
+Hotels, catering and restaurants
+
+12
+
+Retail
+
+12
+
+Construction
+
+12
+
+Wholesale, retail and real estate
+
+10
+
+Administrative and support service
+activities and other service activities
+
+10
+
+39
+
+Primary and utilities
+
+8
+
+42
+
+Voluntary
+
+5
+
+Arts, entertainment and recreation
+
+5
+
+Industry
+
+Legal, accounting, consultancy
+and activities of head offices
+Other professional, scientific and
+technical activities
+
+45
+
+36
+
+8
+
+44
+
+29
+
+8
+
+49
+
+10
+
+47
+
+39
+
+31
+
+2
+
+53
+
+5
+
+42
+
+10
+
+44
+
+43
+
+43
+
+35
+
+6
+9
+
+57
+
+3
+
+Proportion of employers
+Expectation
+for vacancies
+
+Yes, we anticipate significant problems
+
+No, we do not anticipate any problems
+
+Yes, we anticipate minor problems
+
+Don’t know
+
+Base: Industries with base sizes of less than 50 have been excluded. For a breakdown of base sizes, see Table 3.
+
+Further reading and practical guidance
+• CIPD | Resourcing and talent planning
+Explore insights into resourcing and talent planning challenges and find
+support in navigating today’s powerful megatrends and resultant labour
+market shortages.
+• CIPD | Employer brand
+
+2
+3
+4
+
+Discover what employer brand is, why it matters, and how to build a strong
+brand aligned with your organisation’s values. Read our step-by-step guide for
+insights on attracting a more diverse talent pool.
+• CIPD | Support for people managers
+Resources on how people professionals can help people managers support the
+health, wellbeing and engagement of their team.
+
+17
+
+1
+
+Job vacancies
+
+5
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+5 Pay outlook
+Among employers looking to increase, decrease or freeze pay in the next 12 months, the
+median expected basic pay increase for the next 12 months remains at 3% overall, for
+the third consecutive quarter. Expected pay awards held at a historic high of 5% between
+winter 2022/23 and autumn 2023, before falling to 4% in winter 2023/24 and spring 2024.
+Expected pay awards in the public sector, for the year ahead, have fallen to 2.5% this
+quarter. They had risen sharply in the public sector from 2.5% in our summer 2024
+report to 4% in our autumn 2024 report. This was due to Chancellor Rachel Reeves’
+announcement of pay rises for a number of public sector workers in late July. This was
+in part to settle ongoing pay disputes, for example in the NHS.
+Median expected pay awards remain at 3% in the private sector overall and among both
+SMEs and larger private sector organisations. This rate is the same as in the voluntary sector.
+To put the median expected pay awards into context, the Consumer Prices Index
+including owner occupiers’ housing costs (CPIH), the Office for National Statistics’
+(ONS) preferred measure of inflation, currently stands at 3.5%. The Consumer Prices
+Index (CPI), which the Bank of England benchmarks against, stands at 2.5%.
+It should be noted that the average basic pay award covered in this analysis is only one
+component of pay growth. Many people will also benefit from incremental progression
+or promotion, bonuses or a pay bump when switching jobs.
+
+Average expected pay awards remain at 3%, but fall to 2.5% in the public sector
+Figure 16: Median basic pay increase expectations – median employer
+6.0
+
+5.0
+
+XX
+
+Overall net
+
+X
+
+4.0
+
+Public sector
+Private sector
+Voluntary sector
+
+X
+
+X
+
+X
+
+XXX
+
+3.0
+
+X
+
+3.0
+
+X X X 3.0
+3.0
+
+2.5
+
+2.0
+
+X
+
+X
+X
+
+X
+1.0
+
+XXXX
+
+XXXXXXXXX
+
+X X
+
+XXXX
+X
+
+X
+
+XXX
+
+X
+XXXX
+
+XX
+
+X
+
+X
+
+X
+
+X
+
+1
+2
+3
+4
+5
+
+S
+Su prin
+m g
+Au me 20
+W tum r 2 12
+in n 01
+te
+r 2 2
+S 20 01
+Su prin 12 2
+m g /13
+Au me 20
+W tu r 2 13
+in m 01
+te n 3
+r 2
+S 20 01
+Su prin 13 3
+m g /14
+m
+Au e 20
+W tu r 2 14
+in m 01
+te n 4
+r 2
+S 20 01
+Su prin 14 4
+m g /15
+Au me 20
+W tu r 2 15
+in m 01
+te n 5
+r 2
+S 20 01
+Su prin 15 5
+m g /16
+Au me 20
+W tum r 2 16
+in n 01
+te 2 6
+r
+S 20 01
+Su prin 16 6
+m g /17
+Au me 20
+W tu r 2 17
+in m 01
+te n 7
+r 2
+S 20 01
+Su prin 17 7
+m g /18
+Au me 20
+W tu r 2 18
+in m 01
+te n 8
+r 2
+S 20 01
+Su prin 18 8
+m g /19
+20
+m
+A
+W utu er 2 19
+in m 0
+te n 19
+r 2
+S 20 01
+Su prin 19 9
+m g /20
+Au me 20
+W tu r 2 20
+in m 02
+te n 0
+r 2
+S 20 02
+Su prin 20 0
+m g /21
+A m 20
+W utu er 2 21
+in m 0
+te n 21
+r 2
+S 20 02
+Su prin 21 1
+m g /22
+Au m 20
+W tu er 2 22
+in m 02
+te n 2
+r 2
+S 20 02
+Su prin 22 2
+m g /23
+A m 20
+W utu er 2 23
+in m 0
+te n 23
+r 2
+S 20 02
+Su prin 23 3
+m g /24
+m
+20
+A
+W utu er 2 24
+in m 0
+te n 24
+r 2 20
+02 24
+4/
+25
+
+0.0
+
+Quarter
+Base: winter 2024/25, all employers expecting and able to estimate a pay award in the next 12 months (total: n=824;
+private: n=612; public: n=137; voluntary: n=75).
+
+18
+
+Pay outlook
+
+6
+7
+
+8
+
+Labour Market Outlook Winter 2024–25
+
+Further reading and practical guidance
+• CIPD | Pay, performance and transparency 2024
+Understand the factors driving pay decisions in the UK workplace and get
+recommendations for pay transparency.
+• CIPD | Pay fairness and pay reporting
+Find out what fair pay can mean, what pay information UK employers must
+disclose by law, and the opportunities pay narratives bring.
+• CIPD | After recent claims, where next for equal pay?
+Explore how you can pay people fairly, while protecting yourself as an employer.
+
+6 Recommendations for
+employers and people
+practitioners
+
+ Take a long-term approach to decision-making and avoid knee-jerk reactions
+
+to acute trends and developments. Aligning with your business objectives, take
+a proactive approach to workforce planning and assess both your current and
+future skills needs, revising your strategy as necessary.
+
+ Invest in developing your workforce and prioritise continuous learning and
+
+training to enhance adaptability, productivity and employee retention, particularly
+if your organisation has to make do with less.
+
+ Take advantage of technology and use it to empower your workforce. Leverage
+automation and digital tools including AI to improve efficiency, streamline
+processes and operations, to augment and extend the capability of your
+workforce.
+
+ If downsizing is unavoidable, follow our best practice redundancy guidance,
+ensuring fairness, legal compliance and alternative solutions, such as
+redeployment, job-sharing, short-time working, and so on, where possible.
+
+7
+
+Survey method
+All figures, unless otherwise stated, are from YouGov Plc. The total sample size
+was 2,019 senior HR professionals and decision-makers in the UK. Fieldwork was
+undertaken from 6–31 January 2025. The survey was conducted online. The figures
+have been weighted and are representative of UK employment by organisation size,
+sector and industry.
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+19
+
+Survey method
+
+Labour Market Outlook Winter 2024–25
+
+Weighting
+Rim weighting is applied using targets on size and sector drawn from the BEIS
+Business population estimates for the UK and regions 2023. The following tables
+contain unweighted counts.
+Table 1: Breakdown of the sample, by
+number of employees in the organisation
+
+Table 4: Breakdown of sample, by region
+
+Count
+
+Region
+
+Count
+
+2–9
+
+404
+
+Scotland
+
+123
+
+10–49
+
+463
+
+Wales
+
+71
+
+50–99
+
+188
+
+Northern Ireland
+
+37
+
+100–249
+
+210
+
+Northwest England
+
+168
+
+250–499
+
+179
+
+Northeast England
+
+66
+
+500–999
+
+144
+
+Yorkshire and Humberside
+
+107
+
+1,000 or more
+
+431
+
+West Midlands
+
+133
+
+East Midlands
+
+100
+
+Channel Islands
+
+1
+
+Employer size band
+
+Table 2: Breakdown of sample, by sector
+
+Eastern England
+
+116
+464
+161
+
+Sector
+
+Count
+
+London
+
+Private sector
+
+1,509
+
+Southwest England
+
+Public sector
+
+360
+
+Southeast England
+
+264
+
+Third/voluntary sector
+
+150
+
+All of the UK
+
+208
+
+Table 3: Breakdown of sample, by industry
+Industry
+
+Count
+
+Administrative and support service activities and other service activities
+
+185
+
+Arts, entertainment and recreation
+
+71
+
+Compulsory education (including pre-primary)
+
+159
+
+Construction
+
+138
+
+Finance and insurance
+
+136
+
+Healthcare and social work
+
+195
+
+Hotels, catering and restaurants
+
+73
+
+Information and communication
+
+127
+
+Legal, accounting, consultancy and activities of head offices
+
+123
+
+Manufacturing
+
+163
+
+Non-compulsory education
+
+90
+
+Other professional, scientific and technical activities
+
+117
+
+Police and armed forces
+
+21
+
+Primary and utilities
+
+59
+
+Public administration and other public sector
+
+94
+
+Retail
+
+75
+
+Transport and storage
+
+63
+
+Voluntary
+
+53
+
+Wholesale and real estate
+
+77
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+20
+
+Survey method
+
+Labour Market Outlook Winter 2024–25
+
+8 Appendix 1: Employers’
+
+planned responses to
+increased employment
+costs due to budget, by
+industry
+
+1
+2
+3
+4
+5
+
+6
+7
+
+8
+
+21
+
+Appendix 1
+
+Administrative
+Arts,
+and support
+entertainment
+service activities and recreation
+and other service
+activities
+Raise prices
+Improve
+efficiency/raise
+productivity
+Reduce
+number of
+employees
+through
+redundancies
+and/or
+recruiting
+fewer workers
+Cancel/scale
+down plans for
+investing in/
+expanding the
+business
+Reduce the
+amount of
+overtime/
+bonuses
+Take lower
+profits/
+absorb costs/
+accept higher
+overheads
+Reduce the
+rate of basic
+pay growth for
+the rest of the
+workforce
+Introduce
+or increase
+automation
+Cut back
+on training
+expenditure
+Reduce other
+aspects of the
+reward package
+(such as paid
+breaks or
+premium pay
+rates and other
+benefits and
+perks eg free
+lunch)
+Reduce hours
+worked by staff
+Recruit more
+apprentices
+Hire more
+younger
+workers
+Increase share
+of workforce
+on atypical
+employment
+contracts e.g.
+zero-hour
+contracts
+Cut back
+on pension
+contributions
+Don’t know
+Other (please
+specify)
+Not applicable
+– I do not
+anticipate that
+we will do
+anything to
+manage these
+additional
+employment
+costs
+Net: Any
+
+22
+
+Care, social
+work and other
+healthcare
+activities
+
+Compulsory
+education (inc.
+pre primary)
+
+Construction
+
+Finance and
+insurance
+
+Hotels, catering
+and restaurants
+
+Human health
+activities
+(healthcare)
+
+Information and
+communication
+
+Legal,
+Manufacturing
+accounting,
+consultancy and
+activities of head
+offices
+
+Non-compulsory Other
+education
+professional,
+scientific and
+technical
+activities
+
+Primary and
+utilities
+
+Public
+Transport and
+administration
+storage
+and other public
+sector
+
+Wholesale, retail
+and real estate
+
+43
+
+55
+
+40
+
+14
+
+61
+
+35
+
+59
+
+22
+
+39
+
+56
+
+55
+
+25
+
+54
+
+31
+
+10
+
+43
+
+57
+
+34
+
+39
+
+22
+
+19
+
+54
+
+34
+
+33
+
+38
+
+46
+
+33
+
+52
+
+40
+
+35
+
+28
+
+47
+
+37
+
+32
+
+32
+
+24
+
+16
+
+39
+
+17
+
+33
+
+45
+
+26
+
+23
+
+28
+
+30
+
+40
+
+22
+
+34
+
+41
+
+35
+
+37
+
+24
+
+26
+
+24
+
+11
+
+11
+
+30
+
+29
+
+27
+
+16
+
+25
+
+22
+
+28
+
+27
+
+25
+
+16
+
+30
+
+30
+
+26
+
+17
+
+16
+
+13
+
+17
+
+28
+
+36
+
+28
+
+23
+
+19
+
+19
+
+13
+
+19
+
+21
+
+17
+
+25
+
+29
+
+23
+
+18
+
+22
+
+10
+
+16
+
+22
+
+28
+
+24
+
+20
+
+32
+
+17
+
+16
+
+38
+
+26
+
+11
+
+25
+
+26
+
+20
+
+20
+
+19
+
+6
+
+17
+
+30
+
+27
+
+27
+
+17
+
+29
+
+19
+
+20
+
+23
+
+16
+
+5
+
+28
+
+27
+
+25
+
+28
+
+1
+
+9
+
+31
+
+28
+
+11
+
+22
+
+24
+
+24
+
+34
+
+25
+
+26
+
+18
+
+22
+
+22
+
+10
+
+19
+
+17
+
+18
+
+32
+
+15
+
+20
+
+27
+
+20
+
+20
+
+20
+
+16
+
+25
+
+18
+
+12
+
+19
+
+17
+
+13
+
+17
+
+9
+
+16
+
+4
+
+13
+
+26
+
+18
+
+24
+
+15
+
+23
+
+12
+
+12
+
+16
+
+12
+
+13
+
+23
+
+18
+
+14
+
+17
+
+4
+
+14
+
+8
+
+6
+
+46
+
+15
+
+7
+
+8
+
+14
+
+9
+
+7
+
+8
+
+6
+
+12
+
+23
+
+7
+
+5
+
+7
+
+12
+
+30
+
+8
+
+2
+
+15
+
+14
+
+7
+
+19
+
+14
+
+6
+
+12
+
+10
+
+16
+
+3
+
+11
+
+7
+
+1
+
+14
+
+22
+
+10
+
+19
+
+12
+
+20
+
+4
+
+14
+
+6
+
+7
+
+13
+
+8
+
+5
+
+4
+
+14
+
+11
+
+6
+
+3
+
+10
+
+11
+
+22
+
+23
+
+16
+
+5
+
+7
+
+9
+
+6
+
+12
+
+5
+
+10
+
+4
+
+8
+
+4
+
+5
+
+5
+
+2
+
+7
+
+5
+
+7
+
+8
+
+10
+
+5
+
+8
+
+11
+
+8
+
+3
+
+9
+
+3
+
+3
+
+3
+
+4
+
+7
+
+2
+
+7
+
+1
+
+5
+
+3
+
+4
+
+3
+
+4
+
+2
+
+5
+
+6
+
+9
+
+6
+
+2
+
+1
+
+3
+
+7
+
+1
+
+2
+
+1
+
+3
+
+–
+
+4
+
+2
+
+2
+
+5
+
+2
+
+4
+
+3
+
+2
+
+6
+
+8
+
+14
+
+12
+
+4
+
+4
+
+3
+
+9
+
+3
+
+2
+
+1
+
+7
+
+3
+
+9
+
+15
+
+3
+
+6
+
+91
+
+90
+
+82
+
+81
+
+94
+
+90
+
+96
+
+86
+
+94
+
+94
+
+96
+
+90
+
+95
+
+87
+
+79
+
+89
+
+89
+
+Appendix 1
+
+Chartered Institute of Personnel and Development
+151 The Broadway London SW19 1JQ United Kingdom
+T +44 (0)20 8612 6200 F +44 (0)20 8612 6201
+E cipd@cipd.co.uk W cipd.org
+Incorporated by Royal Charter (RC000758)
+Registered as a charity in England and Wales (1079797)
+Scotland (SC045154) and Ireland (20100827)
+Issued: February 2025 Reference: 8792 © CIPD 2025
+
+
