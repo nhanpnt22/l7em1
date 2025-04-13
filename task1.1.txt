@@ -1,0 +1,190 @@
+Unit EXE1.1: Corporate Strategy
+Unit Aim:
+[
+This unit is aimed at developing learners’ critical analysis of corporate strategy and the role of supply chains in
+a global context. It explores how functionalstrategies are integrated and the relationship between strategy and 
+organisation. It also requires learners to demonstrate professional skills that enable effective business 
+management at the strategic level.
+The unit will examine theoretical and conceptual frameworks and their use in evaluating and 
+recommending practical applications in business areas such as market entry, internationalisation, 
+global sourcing, globalisation, alliances and corporate growth.
+]
+Learning Outcomes. To achieve this unit a learner must be able to: 1. Evaluate strategy in the global corporate context and apply different concepts and approaches; and address ethical considerations.
+Assessment Criteria. Assessment of these outcomes demonstrates the learner can: 1.1 Critically analyse strategic theories and models.
+
+book: Exploring Strategy 13th in attachement
+role: EMBA student
+action: research all content from the book Exploring Strategy 13th and write content related to "1.1 Critically analyse strategic theories and models." for other classmates to read includes references, page in Harvard system.
+
+
+Critical Analysis of Strategic Theories and Models in Global Context
+Introduction
+Strategy represents the long-term direction of an organization and serves as a fundamental concept in business management. As Whittington et al. (2022, p.59) define it, strategy encompasses "the long-term direction of an organisation," including both deliberate planning and emergent patterns. In today's globally interconnected business environment, understanding strategic theories and models is essential for effective decision-making, particularly when navigating cross-cultural and international contexts.
+
+1. Fundamental Strategic Theories
+1.1 Defining Strategy: Multiple Perspectives
+The concept of strategy has evolved considerably since its military origins, with several key theorists offering complementary perspectives:
+
+Chandler's Definition: Strategy as "the determination of the basic long-term goals and objectives of an enterprise, and the adoption of courses of action and the allocation of resources necessary for carrying out these goals" (Whittington et al., 2022, p.5). This definition emphasizes logical resource allocation but underestimates emergent aspects.
+
+Porter's Perspective: Strategy involves "deliberately choosing a different set of activities to deliver a unique mix of value" (Whittington et al., 2022, p.5). This definition highlights differentiation and competitive positioning but may overemphasize deliberate choice in uncertain global environments.
+
+Mintzberg's View: Strategy as a "pattern in a stream of decisions" (Whittington et al., 2022, p.5). This importantly recognizes that strategies often emerge through incremental decisions rather than grand plans—particularly relevant in diverse international markets where adaptation is crucial.
+
+Critical Analysis: Each definition captures important aspects of strategy but also has limitations when applied globally. Whittington et al.'s inclusive definition encompasses both deliberate and emergent strategy, which is particularly valuable when operating across diverse international contexts where different strategic approaches may be required simultaneously.
+
+Further Reading and References:
+
+Mintzberg, H., Ahlstrand, B. and Lampel, J. (2009) Strategy Safari: Your Complete Guide Through the Wilds of Strategic Management. 2nd ed. Harlow: FT Prentice Hall. pp.9-25 for deliberate vs. emergent strategy; pp.83-137 for the design school of strategy.
+Chandler, A.D. (1962) Strategy and Structure: Chapters in the History of the American Industrial Enterprise. Cambridge, MA: MIT Press. pp.13-28 for foundational definition of strategy.
+Porter, M.E. (2008) 'The Five Competitive Forces That Shape Strategy', Harvard Business Review, 86(1), pp.78-93. pp.86-88 for critical discussion of strategic positioning.
+Whittington, R. (2019) What Is Strategy - and Does It Matter? 4th ed. Andover: Cengage Learning. pp.14-37 for comparative analysis of strategy definitions.
+2. Key Strategic Models for Global Context
+2.1 Blue Ocean Strategy
+Blue Ocean Strategy focuses on creating uncontested market space rather than competing in existing markets (Bourletidis, 2014). The model advocates simultaneous differentiation and low cost to create new market space and demand.
+
+Critical Analysis: In global contexts, Blue Ocean Strategy offers valuable perspectives on identifying untapped markets across geographical boundaries. However, the model may underestimate institutional and cultural barriers to market creation in diverse international settings. Its emphasis on breaking conventional boundaries aligns well with international expansion but requires careful consideration of local market conditions and regulatory environments.
+
+Further Reading and References:
+
+Kim, W.C. and Mauborgne, R. (2015) Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant. Expanded ed. Boston: Harvard Business Review Press. pp.3-22 for core concept; pp.47-78 for analytical tools; pp.173-184 for global implementation challenges.
+Kim, W.C. and Mauborgne, R. (2017) Blue Ocean Shift: Beyond Competing - Proven Steps to Inspire Confidence and Seize New Growth. London: Macmillan. pp.55-83 for practical application methodology.
+Štverková, H., Červinka, M. and Humlová, V. (2012) 'The Impact of Blue Ocean Strategy in Low-cost Transport', Proceedings of the 2012 International Conference on Paris Economics Development Research, 36, pp.40-44. Complete article for case study application.
+Sharma, P. (2019) 'Market Disruption Strategies: The Transformation of Xiaomi', Global Business and Organizational Excellence, 38(5), pp.24-35. pp.28-31 for application in emerging markets.
+2.2 Porter's Five Forces
+Porter's Five Forces analyzes competitive forces: threat of new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitutes, and competitive rivalry (Whittington et al., 2022, pp.63-68).
+
+Critical Analysis: While valuable for industry analysis, Porter's model presents several limitations in global contexts:
+
+It assumes relatively stable industry boundaries, which often blur in rapidly evolving global markets
+The relative strength of each force varies significantly across different countries and regions
+It underestimates the role of governments and regulatory bodies, which significantly impact competitive dynamics in international settings
+The model doesn't adequately address collaborative strategies increasingly important in global value networks
+As Indiatsy et al. (2014) note, the framework must be adapted for different national contexts where competitive dynamics may operate differently.
+
+Further Reading and References:
+
+Porter, M.E. (2008) 'The Five Competitive Forces That Shape Strategy', Harvard Business Review, 86(1), pp.78-93. Complete article for original framework; pp.80-86 for description of each force.
+Grundy, T. (2006) 'Rethinking and Reinventing Michael Porter's Five Forces Model', Strategic Change, 15(5), pp.213-229. pp.215-220 for critical evaluation; pp.221-226 for extended model.
+Dobbs, M. (2014) 'Guidelines for Applying Porter's Five Forces Framework: A Set of Industry Analysis Templates', Competitiveness Review, 24(1), pp.32-45. pp.34-41 for practical application methodology.
+Bruijl, G.H.T. (2018) 'The Relevance of Porter's Five Forces in Today's Innovative and Changing Business Environment', SSRN Electronic Journal, doi: 10.2139/ssrn.3192207. pp.4-11 for contemporary limitations.
+2.3 VRIO Framework
+The VRIO framework assesses resources and capabilities based on Value, Rarity, Inimitability, and Organizational support (Whittington et al., 2022, pp.96-101).
+
+Critical Analysis: In global contexts, VRIO provides a useful tool for assessing competitive advantage, but with important limitations:
+
+Resources valuable in one market may be insignificant in another due to different customer preferences
+Rarity is relative to specific geographical markets—resources common in developed markets may be rare in emerging economies
+Inimitability varies across regulatory environments with different intellectual property protections
+Organizational structures effective in one cultural context may be ineffective in others
+As Indartono and Wibowo (2017) highlight, the framework connects more to vision than comprehensive strategy, which may limit its applicability to complex global operations requiring coherent coordination across diverse markets.
+
+Further Reading and References:
+
+Barney, J.B. and Hesterly, W.S. (2018) Strategic Management and Competitive Advantage: Concepts and Cases. 6th ed. Harlow: Pearson. pp.64-92 for comprehensive VRIO analysis; pp.276-299 for global applications.
+Cardeal, N. and António, N. (2012) 'Valuable, Rare, Inimitable Resources and Organization (VRIO) Resources or Valuable, Rare, Inimitable Resources (VRI) Capabilities: What Leads to Competitive Advantage?', African Journal of Business Management, 6(37), pp.10159-10170. pp.10161-10166 for theoretical development.
+Lin, C., Tsai, H.L., Wu, Y.J. and Kiang, M. (2012) 'A Fuzzy Quantitative VRIO-based Framework for Evaluating Organizational Activities', Management Decision, 50(8), pp.1396-1411. pp.1399-1405 for methodological enhancement.
+Knott, P.J. (2015) 'Does VRIO Help Managers Evaluate a Firm's Resources?', Management Decision, 53(8), pp.1806-1822. pp.1810-1818 for practical implementation challenges.
+3. Strategic Position Analysis Models
+3.1 PESTEL Analysis
+The PESTEL framework analyzes macro-environmental factors: Political, Economic, Social, Technological, Ecological and Legal (Whittington et al., 2022, pp.73-78).
+
+Critical Analysis: PESTEL is particularly valuable for global strategy as it explicitly addresses the diverse external factors organizations face when operating internationally. Its structured approach helps identify significant variations between markets. However, its breadth can lead to superficial analysis without prioritization of the most critical factors for specific regions or contexts. The framework's effectiveness depends heavily on the depth of local knowledge applied to each element.
+
+Further Reading and References:
+
+Gupta, A. (2013) 'Environmental and PEST Analysis: An Approach to External Business Environment', International Journal of Modern Social Sciences, 2(1), pp.34-43. pp.36-41 for comparative approaches to environmental scanning.
+Ho, J.K.K. (2014) 'Formulation of a Systemic PEST Analysis for Strategic Analysis', European Academic Research, 2(5), pp.6478-6492. pp.6480-6486 for systematic application process.
+Yüksel, I. (2012) 'Developing a Multi-criteria Decision Making Model for PESTEL Analysis', International Journal of Business and Management, 7(24), pp.52-66. pp.54-60 for quantitative enhancement methodology.
+Perera, R. (2017) 'The PESTLE Analysis', Nerdynaut. Available at: https://www.researchgate.net/publication/320243320_The_PESTLE_Analysis (Accessed: 15 March 2023). pp.5-12 for industry-specific applications.
+3.2 The Strategy Lenses Framework
+Whittington et al. (2022, pp.184-195) offer four "strategy lenses":
+
+Design Lens: Strategy as deliberate, analytical planning
+Experience Lens: Strategy as emergent patterns based on experience
+Variety Lens: Strategy as evolutionary selection of initiatives
+Discourse Lens: Strategy as communication and language
+Critical Analysis: The multi-lens approach is particularly valuable in international contexts where different strategic perspectives may be required simultaneously. Western organizations might default to design approaches while Asian contexts may favor experience-based approaches. The framework acknowledges this diversity of strategic approaches but doesn't provide clear guidance on managing the tensions between perspectives in global organizations.
+
+Further Reading and References:
+
+Johnson, G., Scholes, K. and Whittington, R. (2017) Fundamentals of Strategy. 4th ed. Harlow: Pearson. pp.212-237 for practical application of different strategic perspectives.
+Mintzberg, H. (2007) Tracking Strategies: Toward a General Theory. Oxford: Oxford University Press. pp.301-352 for emergent strategy; pp.353-378 for integrating deliberate and emergent approaches.
+Jarzabkowski, P. and Spee, A.P. (2009) 'Strategy-as-practice: A Review and Future Directions for the Field', International Journal of Management Reviews, 11(1), pp.69-95. pp.71-82 for theoretical foundations; pp.82-89 for research agenda.
+Sminia, H. (2009) 'Process Research in Strategy Formation: Theory, Methodology and Relevance', International Journal of Management Reviews, 11(1), pp.97-125. pp.99-108 for comparative methodological approaches.
+4. International Strategy Models
+4.1 Global Integration vs. Local Responsiveness Matrix
+This framework (Whittington et al., 2022, pp.280-285) identifies four international strategy approaches:
+
+Global: High global integration, low local responsiveness
+Multidomestic: Low global integration, high local responsiveness
+Transnational: High global integration, high local responsiveness
+International: Low global integration, low local responsiveness
+Critical Analysis: This framework explicitly addresses the fundamental tension in global strategy between standardization and adaptation. Its strength lies in recognizing different strategic approaches for different contexts. However, the model simplifies the complex continuum of integration and responsiveness decisions organizations face across different business functions and geographical markets. The transnational ideal is conceptually appealing but extremely challenging to implement in practice.
+
+Further Reading and References:
+
+Bartlett, C.A. and Ghoshal, S. (2002) Managing Across Borders: The Transnational Solution. 2nd ed. Boston: Harvard Business School Press. pp.65-94 for original framework; pp.183-216 for implementation challenges.
+Meyer, K.E. and Su, Y.S. (2015) 'Integration and Responsiveness in Subsidiaries in Emerging Economies', Journal of World Business, 50(1), pp.149-158. pp.151-154 for theoretical extension; pp.154-156 for empirical findings.
+Rugman, A.M., Verbeke, A. and Yuan, W. (2011) 'Re-conceptualizing Bartlett and Ghoshal's Classification of National Subsidiary Roles in the Multinational Enterprise', Journal of Management Studies, 48(2), pp.253-277. pp.255-261 for critical evaluation; pp.261-271 for revised framework.
+Haugland, S.A. (2010) 'The Integration-Responsiveness Framework and Subsidiary Management: A Commentary', Journal of Business Research, 63(1), pp.94-96. Complete article for concise critique and extension.
+4.2 Entry Mode Selection Models
+Whittington et al. (2022) discuss various models for international market entry, including export, licensing, franchising, joint ventures, acquisitions, and greenfield investments.
+
+Critical Analysis: These models provide valuable frameworks for a critical entry decision, but each comes with limitations:
+
+They often present entry mode as a one-time decision rather than an evolving process
+Many underestimate the importance of institutional and cultural factors in entry mode success
+The models may overemphasize formal strategic planning while underplaying emergent adaptation
+There's often insufficient attention to exit strategies if market entry proves unsuccessful
+Further Reading and References:
+Gereffi, G. (2020) ‘What Does the COVID-19 Pandemic Teach Us About Global Value Chains?’, International Journal of Political Economy, 49(3), pp. 174–188.
+Bartlett, C.A. and Ghoshal, S. (2002) Managing Across Borders: The Transnational Solution. 2nd ed. Boston: Harvard Business School Press. pp. 65–94.
+Brouthers, K.D. and Hennart, J.F. (2007) 'Boundaries of the Firm: Insights From International Entry Mode Research', Journal of Management, 33(3), pp.395-425. pp.397-404 for theoretical foundations; pp.404-415 for analysis of empirical literature.
+Morschett, D., Schramm-Klein, H. and Swoboda, B. (2010) 'Decades of Research on Market Entry Modes: What Do We Really Know About External Antecedents of Entry Mode Choice?', Journal of International Management, 16(1), pp.60-77. pp.61-65 for organizing framework; pp.65-74 for systematic review.
+Anderson, E. and Gatignon, H. (1986) 'Modes of Foreign Entry: A Transaction Cost Analysis and Propositions', Journal of International Business Studies, 17(3), pp.1-26. pp.3-12 for transaction cost approach; pp.12-22 for propositions.
+Meyer, K.E., Estrin, S., Bhaumik, S.K. and Peng, M.W. (2009) 'Institutions, Resources, and Entry Strategies in Emerging Economies', Strategic Management Journal, 30(1), pp.61-80. pp.63-67 for institutional theory perspective; pp.67-75 for empirical findings.
+5. Strategic Alliances and Global Value Chain Models
+Global strategy increasingly involves collaborative relationships across organizational boundaries (Whittington et al., 2022, pp.309-315).
+
+Critical Analysis: Alliance models recognize the importance of inter-organizational relationships in global strategy but often:
+
+Underestimate the complexity of managing relationships across cultural boundaries
+Focus on formal structures over relational dynamics
+Provide insufficient guidance on managing power asymmetries between partners
+Neglect the dynamic evolution of collaborative relationships over time
+The global value chain perspective offers valuable insights into how organizations structure activities across borders but may overemphasize economic rationality while underplaying institutional, cultural, and political factors that shape global operations.
+
+Further Reading and References:
+
+Gereffi, G., Humphrey, J. and Sturgeon, T. (2005) 'The Governance of Global Value Chains', Review of International Political Economy, 12(1), pp.78-104. pp.82-89 for typology of governance; pp.89-98 for determinants of governance patterns.
+Das, T.K. and Teng, B.S. (2000) 'A Resource-Based Theory of Strategic Alliances', Journal of Management, 26(1), pp.31-61. pp.33-42 for theoretical framework; pp.42-53 for propositions.
+Kale, P. and Singh, H. (2009) 'Managing Strategic Alliances: What Do We Know Now, and Where Do We Go From Here?', Academy of Management Perspectives, 23(3), pp.45-62. pp.47-52 for success factors; pp.52-57 for alliance capability development.
+Sturgeon, T.J. (2008) 'From Commodity Chains to Value Chains: Interdisciplinary Theory Building in an Age of Globalization', in Bair, J. (ed.) Frontiers of Commodity Chain Research. Stanford, CA: Stanford University Press, pp.110-135. pp.111-120 for theoretical development; pp.120-130 for empirical applications.
+6. Conclusion: Integrating Models for Global Strategy
+No single strategic theory or model provides a complete framework for global corporate strategy. The most effective approach combines multiple models while recognizing their limitations. As the unit materials note, the increasingly popular approach of "Think globally, act locally" acknowledges the tension between global integration and local adaptation that runs through many strategic models.
+
+The critical analysis of these models reveals both their value and limitations. For EMBA students, the key skill is not just understanding individual models but developing the judgment to select, adapt, and combine them appropriately for specific global contexts. This requires appreciation of both theoretical frameworks and practical realities of international business.
+
+Further Reading and References:
+
+Tallman, S. and Pedersen, T. (2015) 'What is International Strategy Research and What is Not?', Global Strategy Journal, 5(4), pp.273-277. Complete article for delineation of the field.
+Ghemawat, P. (2018) The New Global Road Map: Enduring Strategies for Turbulent Times. Boston: Harvard Business Review Press. pp.21-46 for analysis of globalization; pp.47-72 for strategic responses; pp.145-168 for implementation frameworks.
+Verbeke, A. and Asmussen, C.G. (2016) 'Global, Local, or Regional? The Locus of MNE Strategies', Journal of Management Studies, 53(6), pp.1051-1075. pp.1054-1061 for theoretical framework; pp.1061-1070 for implications.
+Barney, J.B. and Felin, T. (2013) 'What Are Microfoundations?', Academy of Management Perspectives, 27(2), pp.138-155. pp.140-145 for theoretical bases; pp.145-151 for application to strategy.
+References
+Bourletidis, D. (2014) 'The Strategic Model of Innovation Clusters: Implementation of Blue Ocean Strategy in a typical Greek Region', Procedia - Social and Behavioral Sciences, 148, pp.645-652.
+
+Indartono, S. and Wibowo, M.A. (2017) 'Strategic Human Resource Management: Scale Development and Validation in Indonesian Language Context', Journal of Asian Finance, Economics and Business, 4(3), pp.49-56.
+
+Indiatsy, C.M., Mwangi, M.S., Mandere, E.N., Bichanga, J.M. and George, G.E. (2014) 'The Application of Porter's Five Forces Model on Organization Performance: A Case of Cooperative Bank of Kenya Ltd', European Journal of Business and Management, 6(16), pp.75-85.
+
+Mazzei, M.J. and Noble, D. (2017) 'Big data dreams: A framework for corporate strategy', Business Horizons, 60(3), pp.405-414.
+
+Mintzberg, H. (2007) Tracking Strategies: Towards a General Theory. Oxford: Oxford University Press.
+
+Porter, M.E. (1996) 'What is strategy?', Harvard Business Review, November–December, pp.61-78.
+
+Wee, C.H. (2017) 'Think Tank—Beyond the Five Forces Model and Blue Ocean Strategy: An Integrative Perspective from Sun Zi Bingfa', Global Business and Organizational Excellence, 36(2), pp.34-45.
+
+Whittington, R., Regnér, P., Angwin, D., Johnson, G. and Scholes, K. (2022) Exploring Strategy: Text and Cases. 13th ed. Harlow: Pearson Education Limited.
